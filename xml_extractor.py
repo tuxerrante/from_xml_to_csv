@@ -31,6 +31,7 @@ for dirpath, dirnames, filenames in os.walk(xml_dir):
         xml_file = os.path.join(dirpath, filename)
         print(xml_file)
 
+        ### CHECK FOR VOID FILES
         with open(xml_file, encoding="utf8") as input_file:
             lines = len(input_file.readlines())
             if lines <= 1:
@@ -54,8 +55,9 @@ for dirpath, dirnames, filenames in os.walk(xml_dir):
             s = entry.getElementsByTagName('s')
             sentence_list = []
             for s_node in s:
-                sentence_list += [ s_node.getElementsByTagName('text')[0].firstChild.nodeValue ]
-
+                riskFactorValue = s_node.attributes['riskFactorValue'].value
+                sentence_list += [ riskFactorValue +" - "+ s_node.getElementsByTagName('text')[0].firstChild.nodeValue ]
+            
             SENTENCE  = "-----".join(map(str, sentence_list ))
             SENTENCE  = "\"" + SENTENCE + "\""
 
