@@ -54,9 +54,14 @@ for dirpath, dirnames, filenames in os.walk(xml_dir):
             # sentence_list = entry.getElementsByTagName('sentences')[0]
             s = entry.getElementsByTagName('s')
             sentence_list = []
+            riskFactorValue = ""
+
             for s_node in s:
-                riskFactorValue = s_node.attributes['riskFactorValue'].value
-                sentence_list += [ riskFactorValue +" - "+ s_node.getElementsByTagName('text')[0].firstChild.nodeValue ]
+                if s_node.hasAttribute('riskFactorValue'):
+                    riskFactorValue = s_node.attributes['riskFactorValue'].value
+                    sentence_list += [ riskFactorValue +" - "+ s_node.getElementsByTagName('text')[0].firstChild.nodeValue ]
+                else:
+                    print(" > Entry {} has no sentence".format(RF))
             
             SENTENCE  = "-----".join(map(str, sentence_list ))
             SENTENCE  = "\"" + SENTENCE + "\""
