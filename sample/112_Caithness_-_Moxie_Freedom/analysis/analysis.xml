@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><riskFactorAnalysis><text>Property Information Report
+Caithness Energy, LLC
+Caithness Moxie Freedom Generating Station
+237 Mingle Inn Road
+Berwick, PA 18603
+41006’46”N - 76009’34”W 876 feet AMSL
+Survey Team: Tim Prenger – Alliant Insurance Services
+Ian Cowen – AEGIS Insurance Services
+Site Participants: Tom Copus, Director of Operations – Caithness Energy
+Christopher Ferrell, Facility Manager – Ethos Energy
+Bill Lewis, Operations Manager – Ethos Energy
+Survey Date: October 23, 2019
+Property Information Report
+Caithness Energy, LLC – Moxie Freedom Generating Station October 2019
+CONTENTS
+EXECUTIVE SUMMARY ........................................................................................................................................... 3
+Contingent Exposures ............................................................................................................................................... 3
+Risk Reduction Recommendation Summary ............................................................................................................. 3
+PURPOSE...................................................................................................................................................................... 3
+PLANT DESCRIPTION ............................................................................................................................................... 4
+OPERATION SUMMARY ........................................................................................................................................... 4
+CRITICAL EQUIPMENT AND HAZARDS ............................................................................................................... 5
+Combustion Turbines ................................................................................................................................................ 5
+Steam Turbines .......................................................................................................................................................... 6
+Generators ................................................................................................................................................................. 7
+Heat Recovery Steam Generators .............................................................................................................................. 8
+Transformers and Electrical System .......................................................................................................................... 9
+Auxiliary Boiler ...................................................................................................................................................... 10
+Air Cooled Condenser ............................................................................................................................................. 10
+Fuel Supply ............................................................................................................................................................. 10
+Water System .......................................................................................................................................................... 10
+Battery Systems ....................................................................................................................................................... 11
+Control System ........................................................................................................................................................ 11
+MANAGEMENT PROGRAMS ................................................................................................................................. 11
+Preventive and Predictive Maintenance .................................................................................................................. 11
+Property Conservation Programs ............................................................................................................................. 14
+CONSTRUCTION SUMMARY ................................................................................................................................. 15
+OCCUPANCY SUMMARY ....................................................................................................................................... 15
+FIRE PROTECTION ................................................................................................................................................... 15
+PROPERTY EXPOSURE ........................................................................................................................................... 17
+Natural Hazards ....................................................................................................................................................... 18
+INSURANCE RECOMMENDATION STATUS ....................................................................................................... 20
+PLANT LOSS HISTORY ........................................................................................................................................... 20
+PLANT LOSS ESTIMATES ....................................................................................................................................... 21
+APPENDICES ............................................................................................................................................................. 23
+Appendix 1 – Site Location ..................................................................................................................................... 24
+Appendix 2 – Electrical One Line Diagram ............................................................................................................ 25
+Appendix 3 – GE TIL Summary ............................................................................................................................. 26
+2 of 26
+Property Information Report
+Caithness Energy, LLC – Moxie Freedom Generating Station October 2019
+EXECUTIVE SUMMARY
+The Caithness Moxie Freedom Generating Station is a 1050 MW power plant comprised of two
+1x1 single shaft combined cycle power blocks each with a single common generator. Each train consists of a GE Model 7HA.02 Combustion Turbine (CT), a GE Model A651 Steam Turbine
+(ST), each driving opposite ends of the common GE Model H84 Generator, one supplemental fired triple-pressure CMI Group Heat Recovery Steam Generator, and an air-cooled condenser.
+The CTs are provide with evaporative inlet cooling. The plant is fueled with natural gas only.
+The facility is located near the borough of Shickshinny, PA and began commercial operation is
+July 2018. The plant operates as a baseload facility, occasionally operating at minimum load, and provides energy into the PJM day-ahead market. Ethos Energy is the operations and maintenance contractor for the facility.
+The plant is interconnected with the PPL 500 kV high voltage Susquehanna-Lackawanna transmission system at the newly constructed Shickshinny Switchyard adjacent to the site. The facility is not black-start capable.
+Natural gas fuel is provided through an interconnection with a Transcontinental Gas Pipeline
+Company main that runs adjacent to the property. The pipeline operates at 900 - 1000 psig.
+The plant water supply is from on-site wells.
+Contingent Exposures
+? Fuel Supply: Transco Gas Pipeline Company main adjacent to the site
+? Electric Sales: Merchant day-ahead into PJM system
+? Steam Sales: N/A
+? Water Supply: Site well water
+Risk Reduction Recommendation Summary
+? REC-01: Advisory - Develop a GSU Transformer replacement contingency plan.
+PURPOSE
+The purpose of this survey was to conduct property, risk engineering, and common equipment breakdown assessments. Managerial programs, protection, safety, and exposures for the facility were reviewed and verified through observation and discussion with facility management. The assessment and resulting report is intended to provide technical content and information for risk exposure assessment.
+Caithness operations and Ethos provided a detailed overview of the facility which was followed by office-based discussions with management personnel and a site tour.
+3 of 26
+Property Information Report
+Caithness Energy, LLC – Moxie Freedom Generating Station October 2019
+PLANT DESCRIPTION
+The facility is a nominal 1,050 MW (980 MW summer,
+1080 MW winter) combined cycle power plant comprised of two 1x1 single shaft combined cycle power blocks, referred to as Unit 11 and Unit 21, each with a single common generator. Each unit consists of a GE Model
+7HA.02 Combustion Turbine, a GE Model A651 Steam
+Turbine, each driving opposite ends of the common GE
+Model H84 Generator, an SSS clutch located between the steam turbine and generator, one triple-pressure CMI
+Group Heat Recovery Steam Generator with supplemental firing, and an air-cooled condenser. The CTs are provided with evaporative inlet cooling, no fogging, and are not peak fired. The plant is natural gas fueled.
+The plant operates as a baseload facility, occasionally operating at minimum load, and provides energy into the PJM day-ahead market. The plant is interconnected with the PPL 500 kV high voltage Susquehanna-Lackawanna transmission system at the newly constructed Shickshinny
+Switchyard adjacent to the site via 950-foot overhead transmission line. The facility is not black- start capable.
+Natural gas fuel is provided through an interconnection with a Transcontinental Gas Pipeline
+Company main that runs adjacent to the facility. The pipeline operates at 900 - 1000 psig.
+The facility water supply is from wells located on-site.
+OPERATION SUMMARY
+Lifetime Operating Statistics Unit 11 Unit 21
+In-Service Date Q3 2018 Q3 2018
+Fired Hours 10,215 8,826
+Fired Starts 78 91
+Trips 22 42
+YTD August 2019 Combined Cycle Operating Statistics
+EAF EFORd
+Units 11 &amp; 21 81.71 1.67
+Net Capacity Factor (NCF) is the ratio of actual net generation to the normal claimed operating hours per year. Equivalent Availability Factor
+(EAF) is an indication of the ability of a unit to generate electricity regardless of dispatch status. Equivalent Forced Outage Rate demand
+(EFORd) is an indication of the degree to which the unit was limited during operation by forced outages and de-ratings.
+The SSS clutch located between the ST and generator on each unit had high vibration during commissioning and early operation which accounts for a significant number of the unit trips from commissioning to date. Both clutches were modified by GE and the OEM under warranty and returned to service with acceptable vibration levels. The Unit 21 clutch has been more problematic and failed on 9/30/19 prior to the fall outage. The clutch was replaced under
+4 of 26
+Property Information Report
+Caithness Energy, LLC – Moxie Freedom Generating Station October 2019 warranty during the outage. The RCA for the failure has not been completed, but temperature dependent clutch “stick/slip” intermittent high vibrations, and auto–drain issues are suspect.
+CRITICAL EQUIPMENT AND HAZARDS
+Combustion Turbines
+Longitudinal Section
+The GE 7HA.02 Units 11 and 21 have over 10,200 and 8,800 fired hours, respectively. There are
+13 other 7HA.02 units with 8,000+ fired hours with the fleet leader at 18,300+ fired hours. A
+7HA.02 unit had a compressor Gen-1 Stage 1 Bucket (S1B) liberation due to shank distress at
+9,300 hours which resulted in a fleet-wide replacement of these buckets with a Gen-2 S1B in accordance with GE TIL-2097. The Gen 2 SIB is based on an earlier proven Gen-X SIB design.
+Thirty-four of forty 7HA.02 units in commercial operation have completed the Gen-2 S1B replacement, including these units (Unit 11 at 6,346 hours and Unit 21 at 5,429 hours) in April
+2019. All fleet units are expected to complete the Gen-2 S1B replacement by Q1 2020. No Gen-2
+S1B shank distress has been observed to date.
+GE released 12 modifications from validation testing, all of which were completed for both Units
+11 and 21 prior to first fire. The combustor hula seals replacement modification was also completed for both units prior to first fire.
+COMBUSTION TURBINE SPECIFICATIONS
+Manufacturer GE
+Model 7HA.02
+Rated Power 338,993 kW
+Speed 3600 rpm
+Compressor Stages 14 (variable stator vanes first 3 stages)
+Combustors 12 cans, annular, DLN 2.6+
+Turbine Stages 4 (forced air convection cooling stages 1,2,3)
+Fuel Natural Gas
+Starting Method Load Commutating Inverter (LCI)
+Control System GE Mark VIe
+5 of 26
+Property Information Report
+Caithness Energy, LLC – Moxie Freedom Generating Station October 2019
+Steam Turbines
+HP Steam Turbine
+Combined IP/LP Steam Turbine
+6 of 26
+Property Information Report
+Caithness Energy, LLC – Moxie Freedom Generating Station October 2019
+The A651 Steam Turbine is comprised of a single flow HP cylinder and combined single flow
+IP/LP cylinder. This series of ST is provided with the HP and IP/LP cylinder preassembled. It is widely used in combined cycle applications, extensively with the GE F-Class Combustion
+Turbine fleet, and is considered mature technology.
+STEAM TURBINE DETAILS
+Manufacturer GE
+Model A651
+Rated Power 178,726 kW
+Speed 3600 rpm
+Casings HP + Combined IP/LP, Horizontal Split
+Stages 22 HP, 12 IP, 5 LP
+HP Inlet Pressure 2360 psia
+HP Inlet Temperature 1051 o F
+LP Exhaust Flow/Pressure Single Axial/5.81 inHG
+LP Last Stage Blade Length (LSB) 40 inches
+Generators
+Generator Longitudinal Section
+The H84 Generator is driven on one end by the CT and by the ST with a self-synchronizing
+(SSS) clutch on the opposite end.
+Unit 11 Generator
+7 of 26
+Property Information Report
+Caithness Energy, LLC – Moxie Freedom Generating Station October 2019
+GENERATOR DETAILS
+Manufacturer/Year GE/2016
+Model H84, double end drive CT/ST
+Rating 595 MVA
+Power Factor 0.9 lagging/0.95 leading
+Speed 3600
+Phases 3
+Frequency 60
+Stator Voltage 23.5 kV
+Cooling Hydrogen
+Heat Recovery Steam Generators
+The CMI Group HRSGs are a triple-pressure, natural circulation, supplemental fired (30
+MW/unit), horizontal drum type with gas flow horizontal and perpendicular to vertical water evaporator tubes. A stack damper, SCR catalyst, and CO catalyst are provided. This type of
+HRSG is considered proven technology.
+Unit 21 HRSG and Aux. Boiler
+HRSG SPECIFICATIONS (UNIT 11 &amp; 21)
+Manufacturer CMI Energy, LLC
+Reheat IP LP
+Section HP IP LP
+Economizer Economizer
+MAWP (psig) 2,818 750 126 709 1501 637
+Capacity (lbs/hr.) 950,000 150,000 195,000 1,123,000 23,898 221,852
+Heating Surface (sq. ft.) 1,765,471 296,985 340,549 136,172 71,712 916,349
+Duct Firing / Fuel 30 MW per unit/natural gas
+Year 2017
+Origin USA
+8 of 26
+Property Information Report
+Caithness Energy, LLC – Moxie Freedom Generating Station October 2019
+Low and high level water trips in addition to superheater high temperature run-backs and trips, over-pressure protection, and low feedwater pressure alarms are provided.
+A selective catalytic reduction (SCR) system for
+NOx control is provided. A 19% solution of aqueous ammonia is stored for both units in a ~40,000 gallon tank with spill containment.
+Transformers and Electrical System
+The Unit 11 and 21 GSU transformers step up generated voltage from 23.5 kV to 500 kV for interconnection with the PPL transmission system at the Shickshinny Switchyard via a facility maintained 950-foot 500kV overhead transmission line.
+TRANSFORMER DETAILS (UNIT 11 &amp; 21)
+GSU AUX
+Manufacturer Siemens Siemens
+Rating 357/476/595 MVA 17.3/23/28.8 MVA
+Cooling Class ONAN/ONAF/ONAF ONAN/ONAF/ONAF
+Low Voltage 23.5 kV ? 4.160/2.402 kV Y
+High Voltage 525 kV Y 23.5 kV ?
+Temperature Rise 65 0C 65 0C
+Phase 3 3
+Frequency 60 HZ 60 HZ
+Gas Analyzers On-line On-line
+Preservation Conservator Conservator
+Oil Type/Gallons Mineral/25,766 Mineral/2,562
+GSU Transformer protection includes:
+Sudden Pressure Relays Differential Relay
+Pressure Relief Device Winding Temperature Relays
+Oil Level Indictors/Alarms Oil Temperature Indicators/Alarms
+On-line Gas Monitoring Breaker Failure
+9 of 26
+Property Information Report
+Caithness Energy, LLC – Moxie Freedom Generating Station October 2019
+The Unit Aux Transformers (2) step down voltage from 23.5kV to 4.16kV for plant auxiliary loads. The Station Service Transformers (7/unit) step down voltage from 4.16kV to 480V for LV plant loads. A standby diesel generator provides emergency 480V power. The facility is not black-start capable.
+An Excitation Transformer and an Isolation Transformer are provided for each CT starting system.
+Auxiliary Boiler
+A natural gas, front burner, water tube boiler is provided for winter heating and sparging functions. This boiler also provides steam for certain other plant components during outage or emergency shut down conditions. Combustion safequards include flame sensor, combustion air flow switch, manual shut-off valve, double safety shut-off valves and vent, low/high gas pressure switch, purge timer, and combustion safeguard unit.
+Air Cooled Condenser
+An Evapco air cooler condenser (ACC) is provided. The ACC is a conventional ‘A’ frame condenser design arranged in three rows with six 36-foot diameter fans.
+Fuel Supply
+Natural gas is provided from two Transco pipelines adjacent to the site at 600-1000 psig, adequate for CT operation with no gas compression required. A remotely operated emergency isolation valve (EIV) in the incoming gas line upstream of the compressors can be closed and automatically vented. The EIV is arranged for fail-safe operation. All CTs have standard OEM fuel conditioning, and block and vent gas valve arrangements.
+Water System
+Water is provide from two site potable water wells to a 800,000 gallon raw water tank with
+365,000 gallons reserved for fire protection. HRSG water is treated by Reverse Osmosis (RO), amine, and ammonia control. Wastewater is held in a 40,000 wastewater tank and hauled off-site.
+10 of 26
+Property Information Report
+Caithness Energy, LLC – Moxie Freedom Generating Station October 2019
+Battery Systems
+Each unit has a Vented Lead Acid (VLA) CT battery and a BOP Valve Regulated Lead Acid
+(VRLA). There is a facility VRLA UPS battery.
+All batteries were satisfactorily inspected and tested (ohms, specific gravity, voltage)
+December 2018.
+Control System
+A GE Mark VIe control system is provided for the plant. CT and ST overspeed protection is electronically simulated during unit shutdown.
+MANAGEMENT PROGRAMS
+A Mainsaver computerized maintenance management system (CMMS) is used for Preventive
+(PM) and Predictive (PdM) scheduling and maintenance work. A twenty-year GE Contractual
+Service Agreement (CSA) is in-place for the CTGs, STs, and HRSGs expiring in 2038. Other major maintenance and inspections are competitively bid by contractors and vendors.
+Preventive and Predictive Maintenance
+OEM recommendations, TILs, and service bulletins are followed for CTG, ST, HRSG and other major equipment maintenance and inspections. Applicable TILs are implemented as practicable.
+TIL status for each unit is shown in the Appendices.
+CTGs
+? Borescope – annual; compressor and combustion inspection completed spring 2019
+? Hot Gas Path Inspection – 32,000-hour hardware provided; inspection completed spring
+2019
+? Generator Inspection – completed spring 2019
+DC lube oil pumps are tested during startup procedures.
+STs
+OEM inspection and maintenance intervals (minor 32,000-hours, major 64,000-hours) have not occurred. ST valves are cycled during start-ups and shutdowns and can be tested for freedom of movement through the DCS. DC lube oil pumps are tested during startup procedures. Water induction protection design is ASME TDP-1 compliant.
+11 of 26
+Property Information Report
+Caithness Energy, LLC – Moxie Freedom Generating Station October 2019
+HRSGs
+All boilers and pressure vessels are registered with the State of PA and inspections are performed in accordance with jurisdictional requirements. Repairs are performed by contractors with a
+National Board (NB) “R” stamp. HRSG inspections are scheduled annually in spring or fall.
+HRSG inspections were completed spring 2019. High energy pipe and FAC programs will be initiated in spring 2020.
+Unit 11 and 21 Spring 2019 Outages
+The original compressor S1Bs for both units were removed and replaced with Gen 2 S1Bs. S1N seals were replaced with upgraded slotted seals. Combustion unibodies were removed and sent to
+Greenville, NC for AFS bellows modification. The first-year compressor borescope inspection was completed and the fuel gas performance heater was re-certified for both units.
+The Unit 11 SSS clutch oil regulating valve was relocated from inside the front standard to the outside. A continued effort to troubleshoot the Unit 21 clutch vibrations was the largest scope of the Unit 21 steam turbine work. Readings were taken to confirm the alignment between clutch and generator. The couplings were found in the same position as left from the October 2018 outage. A new Unit 21 clutch was installed. Other minor steam turbine inspections and checks were completed for both units, including the inspection and replacement of the shaft grounding brushes, key clearance checks, and L-0 inspection.
+First-year generator visual inspections were completed. Generator bearings were modified by installing new design floating seal rings on outer ends of both TE and CE bearings to reduce any oil leakage. A shaker test was performed to understand the effects of a titan pad fixator versus a standard equipment rubber fixator pad.
+A visual inspection of the HRSGs was completed. The waterside was inspected through the drums and the gas path through the casing doors. No major findings were observed.
+Ninety warranty, punch list, and TILs were addressed during the outage.
+Transformers and Electrical Components
+Weekly inspections of the transformers are made for desiccant, oil temperature, winding temperature, oil level, leak corrosion, and general overall integrity. DGA is performed annually and on-line Hydran monitoring is provided. DGA of all Unit 11 and 21 transformers was performed April and May 2019 with acceptable results. Corrosive sulfur testing was performed and confirmed non-corrosive. Transformer alarms/trips are confirmed during unit startup.
+Thermography and ultrasonic inspections of the plant switchyard, transformers, control cabinets,
+MCCs, and equipment disconnects were completed in February 2019 and are performed annually or condition-based.
+12 of 26
+Property Information Report
+Caithness Energy, LLC – Moxie Freedom Generating Station October 2019
+PREVENTIVE &amp; PREDICTIVE MAINTENANCE PROGRAMS
+COMBUSTION TURBINES
+Borescope Inspection Frequency annual
+Combustion Inspection Frequency OEM condition-based
+Hot Gas Path Inspection Frequency OEM condition based, 32k hardware installed
+Major Inspection Frequency OEM condition-based
+Overspeed Testing electronic simulation during shutdown
+Vibration &amp; Combustion Dynamic Monitoring continuous &amp; GE remote monitored
+Alarm Trip Tests every start-up
+STEAM TURBINE
+Stop, Control, Non-Return Valve Inspections annual and outages
+Vibration Monitoring continuous &amp; GE remote monitored
+Overspeed Testing electronic simulation during shutdown
+Alarm Trip Tests every start-up
+HEAT RECOVERY STEAM GENERATORS
+Outage Frequency annual, spring or fall
+FAC Inspection Frequency condition-based
+Safety Valve Inspection Frequency jurisdictional-based
+Safety Valve Rebuild Frequency 4 years
+High Energy Piping Analysis Frequency condition-based
+Jurisdictional Object Inspections annual
+GENERATORS
+Minor Visual &amp; Robotic Inspection Frequency OEM 32k hours; condition-based
+Major Inspection Frequency OEM 64k hours; condition-based
+Rotor – Dismantle Frequency OEM condition-base
+Retaining Ring – Inspection Frequency annual outages
+Stator – Inspection Frequency OEM condition-based
+Relay Testing Frequency NERC required frequency
+Breaker Testing Frequency NERC required frequency
+TRANSFORMERS
+Doble Power Factor (windings &amp; bushings) 2 years
+Winding Resistance 2 years
+Turns Ratio 2 years
+Insulation Resistance 2 years
+Arrestor Watts-Loss Testing 2 years
+Polarization Index 2 years
+Dissolved Gas-in-Oil Analysis (DGA) annual, Hydran on-line monitoring
+Property Screen Test annual
+Furan Analysis verified acceptable
+Corrosive Sulfur verified non-corrosive
+Alarm Trip Tests every start-up
+BALANCE OF PLANT
+Thermography Testing Frequency annual &amp; condition-based
+Unit, BOP, UPS Batteries – Voltage, Specific Gravity, Low Discharge Voltage, Change Current monthly, quarterly, annual PM Deviation, Ohm Values, Float Test,
+Unit, BOP, UPS Batteries – Load/Capacity Test 5 years or NERC requirement
+13 of 26
+Property Information Report
+Caithness Energy, LLC – Moxie Freedom Generating Station October 2019
+FIRE PROTECTION SYSTEM MAINTENANCE
+Protection System/Device Inspection/Test
+Fire Pumps weekly/weekly churn and annual
+Fire Hydrants / Monitor(s) monthly/annual
+Control Valve Alarms monthly/annual
+Water Flow Alarms monthly
+Water and Deluge Systems monthly/annual
+Heat Detectors monthly/annual
+Smoke Detectors monthly/annual
+Portable Fire Extinguishers monthly
+Manual Pull Stations monthly
+Property Conservation Programs
+The following customary property conservation programs are being implemented;
+? Work Permit
+? Job Hazard Analysis
+? Hot Work Permit
+? Safety Interlock, Bypass, Jumper Procedures
+? Confined Space Program
+? Lock-Out-Tag-Out Program
+? Ignition Source Control
+? Management of Change
+? Fire Protection/Detection System Impairment Handling Procedure
+? Fire Protection/Detection Self-Inspection Program
+? Operation and Maintenance Procedures
+? Training and Safety Program
+? Plant Emergency Organization and Evacuation
+There are 24 employees including a Plant Manager, Operations Manager, Maintenance Manager,
+Plant Engineer, EH&amp;S Supervisor, Plant Administrator, 13 operators, and 5 technicians.
+14 of 26
+Property Information Report
+Caithness Energy, LLC – Moxie Freedom Generating Station October 2019
+CONSTRUCTION SUMMARY
+Major buildings are the Unit 11 and 21 Generation, Administration, Warehouse, Unit 11 and 21
+Feed Pump, and Water Treatment Buildings. Construction is metal siding attached to structural steel framing with metal roof and concrete floors.
+Building Construction Type ~Area (sq. ft.) Building Height (ft.) Story Count
+@@@ &gt; Building
+Unit 11 Generation
+$$$
+
+@@@ &gt; Construction Type
+Noncombustible
+$$$
+
+@@@ &gt; ~Area (sq. ft.)
+26,400
+$$$
+
+@@@ &gt; Building Height (ft.)
+65
+$$$
+
+@@@ &gt; Story Count
+multiple
+$$$
+
+@@@ &gt; Building
+Unit 21 Generation
+$$$
+
+@@@ &gt; Construction Type
+Noncombustible
+$$$
+
+@@@ &gt; ~Area (sq. ft.)
+26,400
+$$$
+
+@@@ &gt; Building Height (ft.)
+65
+$$$
+
+@@@ &gt; Story Count
+multiple
+$$$
+
+@@@ &gt; Building
+Administration
+$$$
+
+@@@ &gt; Construction Type
+Noncombustible
+$$$
+
+@@@ &gt; ~Area (sq. ft.)
+11,200
+$$$
+
+@@@ &gt; Building Height (ft.)
+15
+$$$
+
+@@@ &gt; Story Count
+1
+$$$
+
+@@@ &gt; Building
+Warehouse
+$$$
+
+@@@ &gt; Construction Type
+Noncombustible
+$$$
+
+@@@ &gt; ~Area (sq. ft.)
+8,000
+$$$
+
+@@@ &gt; Building Height (ft.)
+20
+$$$
+
+@@@ &gt; Story Count
+1
+$$$
+
+@@@ &gt; Building
+Unit 11 Boiler Feed Pump
+$$$
+
+@@@ &gt; Construction Type
+Noncombustible
+$$$
+
+@@@ &gt; ~Area (sq. ft.)
+4,500
+$$$
+
+@@@ &gt; Building Height (ft.)
+20
+$$$
+
+@@@ &gt; Story Count
+1
+$$$
+
+@@@ &gt; Building
+Unit 21 Boiler Feed Pump
+$$$
+
+@@@ &gt; Construction Type
+Noncombustible
+$$$
+
+@@@ &gt; ~Area (sq. ft.)
+4,500
+$$$
+
+@@@ &gt; Building Height (ft.)
+20
+$$$
+
+@@@ &gt; Story Count
+1
+$$$
+
+@@@ &gt; Building
+Water Treatment
+$$$
+
+@@@ &gt; Construction Type
+Noncombustible
+$$$
+
+@@@ &gt; ~Area (sq. ft.)
+7,500
+$$$
+
+@@@ &gt; Building Height (ft.)
+20
+$$$
+
+@@@ &gt; Story Count
+1
+$$$
+
+OCCUPANCY SUMMARY
+@@@ &gt; Building
+Building
+$$$
+
+@@@ &gt; ~Area (sq. ft.)
+Description
+$$$
+
+@@@ &gt; Building
+Unit 11 &amp; 21 Generation
+$$$
+
+@@@ &gt; ~Area (sq. ft.)
+CTGs, ST, auxiliary equipment, overhead crane
+$$$
+
+@@@ &gt; Building
+Administration
+$$$
+
+@@@ &gt; ~Area (sq. ft.)
+Offices, Control Room, electrical equipment rooms
+$$$
+
+@@@ &gt; Building
+Warehouse
+$$$
+
+@@@ &gt; ~Area (sq. ft.)
+Equipment spares, consumable ($50M )
+$$$
+
+@@@ &gt; Building
+Units 11 &amp; 21 Boiler Feed Pump
+$$$
+
+@@@ &gt; ~Area (sq. ft.)
+BF pumps, electrical equipment
+$$$
+
+@@@ &gt; Building
+Water Treatment
+$$$
+
+@@@ &gt; ~Area (sq. ft.)
+Mechanical, electrical equipment
+$$$
+
+FIRE PROTECTION
+An underground fire loop is provided with isolation points and adequate hydrant locations. The loop is arranged to supply specific fixed protection systems throughout the site. A packaged enclosed fire pump house system that includes both diesel engine and motor driven pumps with an automatic jockey pump to maintain pressure is provided. Water is drawn from the raw water tank with a volume dedicated to fire water supply. The tank has a total capacity of 800,000 gallons with 365,000 gallons dedicated to firewater supply.
+Motor Driven Fire Pump Diesel Driven Fire Pump
+15 of 26
+Property Information Report
+Caithness Energy, LLC – Moxie Freedom Generating Station October 2019
+FIRE PUMP RATINGS
+Driver/Pump Flow Rated Pressure HP Listing (gpm) (psig)
+Electric (Marathon)/Peerless 3,000 140 300 UL
+Diesel (Clarke)/Peerless 3,000 140 300 UL
+Fire Protection and Detection Systems
+? Fire pump house – diesel pump room wet pipe sprinkler system, electric pump room fire detection.
+? Generation Buildings – building-wide under roof wet pipe sprinkler system.
+? Administration, Warehouse Buildings – wet pipe sprinkler system.
+? Control and electrical rooms – pre-action sprinkler system with heat detection.
+? CTG enclosures – fixed water mist suppression system.
+? STG bearings – pre-action sprinkler system with heat detectors.
+? STG lube and seal oil skids – deluge sprinkler system with heat detectors.
+? STG underfloor and lube oil piping areas – wet pipe sprinkler system.
+? GSU and Auxiliary Transformers – deluge sprinkler system with heat detectors.
+A fire alarm system with automatic detection in all buildings, primary equipment enclosures, and control/electrical rooms is provided. The fire protection design basis document prepared by the engineer of record, Power Engineers, confirms that the facility complies with applicable NFPA standards/recommendations and local requirements.
+16 of 26
+Property Information Report
+Caithness Energy, LLC – Moxie Freedom Generating Station October 2019
+PROPERTY EXPOSURE
+The site is located 24 miles southwest of Wilkes-Barre, PA. A location map is provided in the
+Appendices.
+Aircraft / Falling Objects: The site is located approximately 32 miles southwest of Wilke-
+Barre/Scranton International Airport. The site is not considered exposed to aircraft taking off or landing.
+Flood: The facility is located outside the 500-year floodplain within unshaded Zone X per
+FEMA FIRM Panel number 42079C0457E dated November 2, 2012.
+17 of 26
+Property Information Report
+Caithness Energy, LLC – Moxie Freedom Generating Station October 2019
+Natural Hazards
+Swiss RE NatCat Risk Assessment identified hazards are as follows;
+18 of 26
+Property Information Report
+Caithness Energy, LLC – Moxie Freedom Generating Station October 2019
+19 of 26
+Property Information Report
+Caithness Energy, LLC – Moxie Freedom Generating Station October 2019
+INSURANCE RECOMMENDATION STATUS
+Recommendation Description Status
+REC-01 Develop a GSU Transformer replacement contingency plan. Advisory Target Date: June 2020
+PLANT LOSS HISTORY
+There have been no losses to date.
+20 of 26
+Property Information Report
+Caithness Energy, LLC – Moxie Freedom Generating Station October 2019
+PLANT LOSS ESTIMATES
+Total Real &amp; Personal Property Business Interruption Limit (12 month) Total
+@@@ &gt; Normal Loss Expectancy Note 1
+$630,000,000
+$$$
+
+@@@ &gt; Probable Maximum Loss Note 2
+$232,282,000
+$$$
+
+@@@ &gt; Maximum Foreseeable Loss Note 3
+$862,282,000
+$$$
+
+Plant loss estimates prior to an actual event are based upon common loss estimation techniques.
+@@@ &gt; Equipment
+Equipment
+$$$
+
+@@@ &gt; Normal Loss Expectancy Note 1
+Normal Loss Expectancy Note 1
+$$$
+
+@@@ &gt; Probable Maximum Loss Note 2
+Probable Maximum Loss Note 2
+$$$
+
+@@@ &gt; Maximum Foreseeable Loss Note 3
+Maximum Foreseeable Loss Note 3
+$$$
+
+@@@ &gt; Equipment
+Combustion Turbine and Common Generator
+$$$
+
+@@@ &gt; Normal Loss Expectancy Note 1
+Fire: CT lube oil fire is protected with active fire protection systems. Estimated 2 months downtime for CT lube oil system repair. PD: $4,000,000 BI: 2 months Equipment Breakdown: An event requiring internal inspection of the CT. Estimated 2 months for inspection and repair. PD:$6,500,000 BI: 2 months
+$$$
+
+@@@ &gt; Probable Maximum Loss Note 2
+Fire: CT lube oil fire with impaired fire protection systems. Fire spreads to adjacent generator and ST. Estimated 9 month downtime for equipment replacement and repair. PD: $65,000,000 BI: 9 months Equipment Breakdown: Internal component rubbing or blade failure/liberation, ultimately causing CT rotor/casing damage. Estimated 6 months for rotor event RCA, repair and rotor replacement or spare rotor exchange. PD: $43,000,000 BI: 6 months
+$$$
+
+@@@ &gt; Maximum Foreseeable Loss Note 3
+Fire: CT lube oil fire with failed fire protection systems. Fire spreads to adjacent generator and ST. CT and generator are considered a complete loss and ST is significantly damaged. Estimated 18 month downtime for CT, generator replacement and equipment/structure repair. PD: $118,000,000 BI: 18 months Equipment Breakdown: Overspeed event causing catastrophic CT and generator damage. Estimated 12 months for CT event RCA, repairs and replacement. PD: $86,000,000 BI: 12 months
+$$$
+
+21 of 26
+Property Information Report
+Caithness Energy, LLC – Moxie Freedom Generating Station October 2019
+Equipment Normal Loss Expectancy Note 1 Probable Maximum Loss Note 2 Maximum Foreseeable Loss Note 3
+@@@ &gt; Equipment
+Steam Turbine and Common Generator
+$$$
+
+@@@ &gt; Normal Loss Expectancy Note 1
+Fire: ST lube oil fire is protected with fire protection systems. Minimal BI anticipated. PD: $3,500,000 BI: 1 month Equipment Breakdown: An event requires internal inspection of ST and casing removal. Estimated 2 month (BI) for internal inspection and repair for any of the ST sections. PD: $5,000,000 BI: 2 months
+$$$
+
+@@@ &gt; Probable Maximum Loss Note 2
+Fire: ST lube oil tank fire with impaired fire protection. Significant damage to adjacent equipment and structures exposed to fire. Estimated 4 months for lube oil system replacement and auxiliary equipment and structures repair. PD: $28,000,000 BI: 4 months Equipment Breakdown: Internal component rubbing or blade failure/liberation, ultimately causing rotor/casing damage to the ST. Estimated 8 months for event RCA and ST repairs/rotor replacement. PD: $25,000,000 BI: 8 months
+$$$
+
+@@@ &gt; Maximum Foreseeable Loss Note 3
+Fire: ST lube oil fire with failed fire protection systems exposing all areas above and below the ST operating deck. ST and generator significantly damaged. Estimated 12 months for repair and replacement of equipment and structures damaged. PD: $80,000,000 BI: 12 months Equipment Breakdown: Overspeed event causing catastrophic ST rotor and casing damage and generator damage. Estimated 18 months for event RCA, ST and generator replacement and repair. PD: $105,000,000 BI: 18 months
+$$$
+
+@@@ &gt; Equipment
+Transformers
+$$$
+
+@@@ &gt; Normal Loss Expectancy Note 1
+Equipment Breakdown: Transformer bushing damage to GSU with ensuing fire which does not penetrate the transformer core. Estimated 1 month downtime for repair and replacement. PD: $1,500,000 BI: 1 month
+$$$
+
+@@@ &gt; Probable Maximum Loss Note 2
+Equipment Breakdown: Electrical coil damage to GSU requiring rewinding. Estimated 6 month downtime for equipment rewinding and repair. PD: $ 3,000,000 BI: 6 months
+$$$
+
+@@@ &gt; Maximum Foreseeable Loss Note 3
+Equipment Breakdown: Catastrophic damage causing total loss of one GSU. Estimated 18 month downtime for GSU removal, manufacture and replacement. PD: $ 6,000,000 BI: 18 months
+$$$
+
+Note 1: A normal loss estimate (NLE) for fire is based on a reasonable fire scenario with appropriate feature for loss mitigation operating as designed. An NLE for equipment breakdown anticipates the failure of critical component with operating safeguards and monitoring features.
+Note 2: A probable maximum loss (PML) for fire is based on a reasonable fire scenario with the appropriate features for loss mitigation operating as designed, except for the primary area or equipment contained within the initial fire event. A PML for equipment breakdown anticipates the failure of critical components with offline or inoperable safeguards and monitoring features.
+Note 3: A maximum foreseeable loss (MFL) for fire is based on the most adverse conditions involving a severe fire scenario where all features designed for loss mitigation fail. The only limiting feature is the lack of continuity of combustibles and/or spatial separation. A MFL for equipment breakdown anticipates the most adverse conditions for continuing operations.
+22 of 26
+Property Information Report
+Caithness Energy, LLC – Moxie Freedom Generating Station October 2019
+APPENDICES
+Appendix 1 - Site Location
+Appendix 3 - Electrical One Line Diagram
+Appendix 4 – GE TIL Summary
+23 of 26
+Property Information Report
+Caithness Energy, LLC – Moxie Freedom Generating Station October 2019
+Appendix 1 – Site Location
+24 of 26
+Property Information Report
+Caithness Energy, LLC – Moxie Freedom Generating Station October 2019
+Appendix 2 – Electrical One Line Diagram
+25 of 26
+Property Information Report
+Caithness Energy, LLC – Moxie Freedom Generating Station October 2019
+Appendix 3 – GE TIL Summary
+26 of 26</text><riskFactors><entry><key>RF001</key><value name="RF001" value="G"><sentences><s riskFactorValue="X" begin="7592" end="7668"><text>? REC-01: Advisory - Develop a GSU Transformer replacement contingency plan.</text><operands><op begin="7613" end="7620"><text>Develop</text></op><op begin="7627" end="7638"><text>Transformer</text></op></operands></s><s riskFactorValue="E" begin="21911" end="21979"><text>DGA is performed annually and on-line Hydran monitoring is provided.</text><operands><op begin="21911" end="21914"><text>DGA</text></op><op begin="21918" end="21927"><text>performed</text></op><op begin="21928" end="21936"><text>annually</text></op></operands></s><s riskFactorValue="G" begin="23777" end="23824"><text>Relay Testing Frequency NERC required frequency</text><operands><op begin="23777" end="23782"><text>Relay</text></op><op begin="23783" end="23790"><text>Testing</text></op><op begin="23806" end="23814"><text>required</text></op></operands></s><s riskFactorValue="E" begin="24077" end="24146"><text>Dissolved Gas-in-Oil Analysis (DGA) annual, Hydran on-line monitoring</text><operands><op begin="24077" end="24090"><text>Dissolved Gas</text></op><op begin="24098" end="24106"><text>Analysis</text></op><op begin="24113" end="24119"><text>annual</text></op></operands></s><s riskFactorValue="E" begin="24299" end="24354"><text>Thermography Testing Frequency annual &amp; condition-based</text><operands><op begin="24299" end="24311"><text>Thermography</text></op><op begin="24312" end="24319"><text>Testing</text></op><op begin="24330" end="24336"><text>annual</text></op></operands></s><s riskFactorValue="X" begin="31068" end="31130"><text>REC-01 Develop a GSU Transformer replacement contingency plan.</text><operands><op begin="31075" end="31082"><text>Develop</text></op><op begin="31089" end="31100"><text>Transformer</text></op></operands></s></sentences></value></entry><entry><key>RF002</key><value name="RF002" value="U"><sentences/></value></entry><entry><key>RF003</key><value name="RF003" value="E"><sentences><s riskFactorValue="G" begin="10910" end="11068"><text>The RCA for the failure has not been completed, but temperature dependent clutch “stick/slip” intermittent high vibrations, and auto–drain issues are suspect.</text><operands><op begin="11043" end="11048"><text>drain</text></op></operands></s><s riskFactorValue="G" begin="14996" end="15103"><text>A 19% solution of aqueous ammonia is stored for both units in a ~40,000 gallon tank with spill containment.</text><operands><op begin="15085" end="15102"><text>spill containment</text></op></operands></s><s riskFactorValue="E" begin="17140" end="17289"><text>Natural gas is provided from two Transco pipelines adjacent to the site at 600-1000 psig, adequate for CT operation with no gas compression required.</text><operands><op begin="17261" end="17263"><text>no</text></op><op begin="17264" end="17267"><text>gas</text></op></operands></s><s riskFactorValue="E" begin="21200" end="21345"><text>Generator bearings were modified by installing new design floating seal rings on outer ends of both TE and CE bearings to reduce any oil leakage.</text><operands><op begin="21329" end="21332"><text>any</text></op><op begin="21333" end="21336"><text>oil</text></op><op begin="21337" end="21344"><text>leakage</text></op></operands></s></sentences></value></entry><entry><key>RF004</key><value name="RF004" value="G"><sentences><s riskFactorValue="G" begin="19017" end="19097"><text>? Borescope – annual; compressor and combustion inspection completed spring 2019</text><operands><op begin="19031" end="19037"><text>annual</text></op><op begin="19065" end="19075"><text>inspection</text></op></operands></s><s riskFactorValue="G" begin="19959" end="20017"><text>HRSG inspections are scheduled annually in spring or fall.</text><operands><op begin="19964" end="19975"><text>inspections</text></op><op begin="19990" end="19998"><text>annually</text></op></operands></s><s riskFactorValue="G" begin="21752" end="21910"><text>Weekly inspections of the transformers are made for desiccant, oil temperature, winding temperature, oil level, leak corrosion, and general overall integrity.</text><operands><op begin="21752" end="21758"><text>Weekly</text></op><op begin="21759" end="21770"><text>inspections</text></op></operands></s><s riskFactorValue="G" begin="22585" end="22622"><text>Borescope Inspection Frequency annual</text><operands><op begin="22595" end="22605"><text>Inspection</text></op><op begin="22616" end="22622"><text>annual</text></op></operands></s><s riskFactorValue="G" begin="22977" end="23039"><text>Stop, Control, Non-Return Valve Inspections annual and outages</text><operands><op begin="23003" end="23008"><text>Valve</text></op><op begin="23009" end="23020"><text>Inspections</text></op><op begin="23021" end="23027"><text>annual</text></op></operands></s><s riskFactorValue="G" begin="23442" end="23482"><text>Jurisdictional Object Inspections annual</text><operands><op begin="23464" end="23475"><text>Inspections</text></op><op begin="23476" end="23482"><text>annual</text></op></operands></s><s riskFactorValue="G" begin="23674" end="23726"><text>Retaining Ring – Inspection Frequency annual outages</text><operands><op begin="23691" end="23701"><text>Inspection</text></op><op begin="23712" end="23718"><text>annual</text></op></operands></s></sentences></value></entry><entry><key>RF005</key><value name="RF005" value="G"><sentences><s riskFactorValue="E" begin="3700" end="3852"><text>Preventive and Predictive Maintenance ..................................................................................................................</text><operands><op begin="3715" end="3737"><text>Predictive Maintenance</text></op></operands></s><s riskFactorValue="G" begin="3700" end="3852"><text>Preventive and Predictive Maintenance ..................................................................................................................</text><operands><op begin="3700" end="3710"><text>Preventive</text></op></operands></s><s riskFactorValue="F" begin="6838" end="6913"><text>Ethos Energy is the operations and maintenance contractor for the facility.</text><operands><op begin="6873" end="6895"><text>maintenance contractor</text></op></operands></s><s riskFactorValue="E" begin="18392" end="18476"><text>A Mainsaver computerized maintenance management system (CMMS) is used for Preventive</text><operands><op begin="18404" end="18446"><text>computerized maintenance management system</text></op></operands></s><s riskFactorValue="E" begin="18477" end="18535"><text>(PM) and Predictive (PdM) scheduling and maintenance work.</text><operands><op begin="18486" end="18496"><text>Predictive</text></op><op begin="18498" end="18501"><text>PdM</text></op><op begin="18518" end="18529"><text>maintenance</text></op></operands></s><s riskFactorValue="G" begin="18477" end="18535"><text>(PM) and Predictive (PdM) scheduling and maintenance work.</text><operands><op begin="18478" end="18480"><text>PM</text></op><op begin="18503" end="18513"><text>scheduling</text></op><op begin="18518" end="18529"><text>maintenance</text></op></operands></s><s riskFactorValue="E" begin="18738" end="18775"><text>Preventive and Predictive Maintenance</text><operands><op begin="18753" end="18775"><text>Predictive Maintenance</text></op></operands></s><s riskFactorValue="G" begin="18738" end="18775"><text>Preventive and Predictive Maintenance</text><operands><op begin="18738" end="18748"><text>Preventive</text></op></operands></s><s riskFactorValue="G" begin="19297" end="19397"><text>OEM inspection and maintenance intervals (minor 32,000-hours, major 64,000-hours) have not occurred.</text><operands><op begin="19301" end="19311"><text>inspection</text></op><op begin="19316" end="19327"><text>maintenance</text></op><op begin="19328" end="19337"><text>intervals</text></op></operands></s><s riskFactorValue="F" begin="19884" end="19927"><text>Repairs are performed by contractors with a</text><operands><op begin="19884" end="19891"><text>Repairs</text></op><op begin="19896" end="19905"><text>performed</text></op><op begin="19909" end="19920"><text>contractors</text></op></operands></s><s riskFactorValue="G" begin="19959" end="20017"><text>HRSG inspections are scheduled annually in spring or fall.</text><operands><op begin="19964" end="19975"><text>inspections</text></op><op begin="19980" end="19989"><text>scheduled</text></op><op begin="19990" end="19998"><text>annually</text></op></operands></s><s riskFactorValue="G" begin="22520" end="22564"><text>PREVENTIVE &amp; PREDICTIVE MAINTENANCE PROGRAMS</text><operands><op begin="22520" end="22530"><text>PREVENTIVE</text></op><op begin="22520" end="22530"><text>PREVENTIVE</text></op><op begin="22544" end="22555"><text>MAINTENANCE</text></op></operands></s><s riskFactorValue="G" begin="22623" end="22674"><text>Combustion Inspection Frequency OEM condition-based</text><operands><op begin="22634" end="22644"><text>Inspection</text></op><op begin="22655" end="22658"><text>OEM</text></op></operands></s></sentences></value></entry><entry><key>RF006</key><value name="RF006" value="U"><sentences/></value></entry><entry><key>RF007</key><value name="RF007" value="G"><sentences><s riskFactorValue="X" begin="7592" end="7668"><text>? REC-01: Advisory - Develop a GSU Transformer replacement contingency plan.</text><operands><op begin="7613" end="7620"><text>Develop</text></op><op begin="7651" end="7667"><text>contingency plan</text></op></operands></s><s riskFactorValue="E" begin="16624" end="16739"><text>This boiler also provides steam for certain other plant components during outage or emergency shut down conditions.</text><operands><op begin="16708" end="16717"><text>emergency</text></op><op begin="16718" end="16727"><text>shut down</text></op></operands></s><s riskFactorValue="X" begin="31068" end="31130"><text>REC-01 Develop a GSU Transformer replacement contingency plan.</text><operands><op begin="31075" end="31082"><text>Develop</text></op><op begin="31113" end="31129"><text>contingency plan</text></op></operands></s></sentences></value></entry><entry><key>RF008</key><value name="RF008" value="G"><sentences><s riskFactorValue="G" begin="30449" end="30538"><text>Flood: The facility is located outside the 500-year floodplain within unshaded Zone X per</text><operands><op begin="30449" end="30454"><text>Flood</text></op><op begin="30480" end="30487"><text>outside</text></op><op begin="30492" end="30500"><text>500-year</text></op><op begin="30501" end="30511"><text>floodplain</text></op></operands></s></sentences></value></entry><entry><key>RF009</key><value name="RF009" value="E"><sentences><s riskFactorValue="E" begin="29682" end="29816"><text>A fire alarm system with automatic detection in all buildings, primary equipment enclosures, and control/electrical rooms is provided.</text><operands><op begin="29684" end="29694"><text>fire alarm</text></op><op begin="29730" end="29733"><text>all</text></op><op begin="29734" end="29743"><text>buildings</text></op><op begin="29807" end="29815"><text>provided</text></op></operands></s></sentences></value></entry><entry><key>RF010</key><value name="RF010" value="U"><sentences/></value></entry><entry><key>RF011</key><value name="RF011" value="U"><sentences/></value></entry><entry><key>RF012</key><value name="RF012" value="U"><sentences/></value></entry></riskFactors><parameters/><attributes><a name="CITY" begin="113" end="124"><text>Berwick</text></a><a name="ZIP_CODE" begin="125" end="130"><text>18603</text></a><a name="INSURED_NAME" begin="28" end="49"><text>Caithness Energy, Llc</text></a><a name="STREET" begin="93" end="112"><text>237 Mingle Inn Road</text></a><a name="SURVEY_DATE_WEAK" begin="444" end="460"><text>20191023</text></a><a name="SURVEY_DATE" begin="444" end="460"><text>20191023</text></a><a name="AS_Presence" begin="0" end="1"><text>No</text></a></attributes></riskFactorAnalysis>

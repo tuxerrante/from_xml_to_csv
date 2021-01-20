@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><riskFactorAnalysis><text>Elk Hills Power Plant
+Tupman, California, United States (USA)
+Risk Engineering Report
+Risk Engineering Services
+Risk Engineering Report
+Client
+California Resource Corp. (spin off) Occidental Petroleum
+Location
+Elk Hills Power Plant
+Tupman, CA
+Coordinates
+Latitude: 35.280045
+Longitude: -119.469599
+Date of visit
+21 October 2015
+Date of report
+16-Dec-2015
+Job Number
+2015-4502
+Author
+Dwight Hyche
+This risk report was prepared for the sole purpose of evaluating this company/enterprise for insurance and/or reinsurance underwriting by Swiss
+Re.
+Swiss Re may at its sole discretion permit third parties (including insurers or reinsurers) to have access to this report, for information purposes only. Third parties may not place any reliance on this report nor pass a copy of this report or any part of this report or a summary of its contents to any other party without the prior written permission of Swiss Re. Swiss Re specifically disclaims any liability for the contents of this report.
+This report is based on conditions and practices observed at the company’s site and/or information provided by officials responsible for the operation of the company.
+This report is not a safety review. It is not exhaustive, and other hazards may exist at this site, or within this company/enterprise. This report does not constitute an undertaking by Swiss Re to determine or warrant that the practices of the company/enterprise are safe or appropriate or in compliance with any law, rule or regulation.
+This report may include recommendations which may assist the company/enterprise in making its decisions to reduce potential risk. The company/enterprise holds sole responsibility, however, for any potential risks as well as for compliance with all applicable laws, rules and regulations. Swiss Re assumes no liability for correction or monitoring of any conditions at or practices of the company / enterprise.
+Risk Engineering Services - Risk Report
+Elk Hills Power Plant
+Job Number 2015-4502
+2
+Table of contents
+1 General information 4
+1.1 Purpose of the visit 4
+1.2 Participants 4
+1.3 Supporting documents 4
+1.4 Additional information 4
+2 Executive summary 5
+2.1 Assessment overview 5
+2.2 Strengths 6
+2.3 Weaknesses 6
+2.4 Natural Perils 7
+3 Values and loss estimates 8
+3.1 Sum Insured (SI) 8
+3.2 Maximum Possible Loss (MPL) 8
+4 Plant specific information 10
+4.1 Site description 10
+4.2 Loss history 10
+5 Detailed risk assessment 11
+5.1 Exposure elements 11
+5.2 Protection elements 15
+6 Risk improvement opportunities 26
+6.1 Summary 26
+6.2 Recommendations 26
+Appendix A: Images and Attachments 29
+Appendix B: Recommendation Priority Guides 31
+Risk Engineering Services - Risk Report
+Elk Hills Power Plant
+Job Number 2015-4502
+3
+1 General information
+1.1 Purpose of the visit
+A site visit to California Resource Corporation's Elk Hills Combined Cycle Power Plant was made on
+October 20 and 21, 2015
+1.2 Participants
+CALIFORNIA RESOURCES CORPORATION
+John Hegeman - Field Operations Manager
+Bob Bond, Team Leader - Elk Hills Power
+Mark Ralls, Field Operations Safety Compliance Lead
+Gabriel Guimte, Risk Engineer
+Greg Hodgson, Director - Risk Management
+WILLIS GROUP
+Samuel Toren - Property Risk Control Manager - Western Region
+SWISS RE
+Dwight Hyche, Risk Engineer
+David Heidinger, Risk Engineer
+Massimo Giachino, Risk Engineer
+1.3 Supporting documents
+This assessment is based on our visit to the Elk Hills Power Plant and information supplied by California
+Resources Corporation - Elk Hills.
+1.4 Additional information
+The Elk Hills Power Plant (EHPP) is in Kern County, approximately 25 miles west of Bakersfield, California.
+The project site is situated near the intersection of Elk Hills Road and Skyline Road. The elevation of the site is 1,330 feet above mean sea level.
+A 9-mile bundled 230 kV double circuit overhead transmission line has been built to interconnect either to the east at a new substation near Tupman, California, or north to the Midway substation near
+Buttonwillow, California.
+Risk Engineering Services - Risk Report
+Elk Hills Power Plant
+Job Number 2015-4502
+4
+2 Executive summary
+2.1 Assessment overview
+The Elk Hills Power Plant (EHPP) is a 550 MW (nameplate) combined-cycle power plant providing both steam and power to the adjacent Elk Hills Gas Plants with excess power dispatching into the day-ahead market. EHPP is fired exclusively on natural-gas. The station declared commercial operation on July 24,
+2003 as a 50-50 joint venture between Sempra Generation and Occidental Energy. Occidental Energy took over 100% of the power plant on December 15, 2010. In 2015, Occidental Energy spun off this asset to California Resources Corporation.
+The EHPP is configured with two General Electric (GE) Frame 7F.03 (PG7241) gas turbine generators which exhaust into a pair of Heat Recovery Steam Generators (HRSGs) which produce steam to power a single GE D11 steam turbine generator. Approximately 10% of the high pressure steam generated in the two HRSGs is exported through a pressure reducing station to supply the adjacent gas plant operations with process steam. The older Gas Plant Co-Gen operation now serves as a back-up supply of steam and power to the three gas plants.
+This power plant was surveyed by Swiss Re in October 2015. The survey is focused strictly on the Elk Hills
+Power Plant. A separate survey report is provided for the gas plants and the Gas Plant Co-Gen station.
+This is the second Swiss Re insurance survey completed at the site since 2011. At the time of our visit, the
+EHPP was producing 453.5 MW which is very close to the average plant production rate reported to be approximately 460 MW. CT 1 was operating at 149.2 MW (with 37.3 MVAR) while CT 2 was producing
+148.7 MW (with 37.0 MVAR). The Steam Turbine Generator was operating at 155.6 MW (with 32,2
+MVAR). Vibration levels and bearing temperature readings were all observed to be within the normal range and well below alarm settings.
+ASSESSMENT
+The man-made hazards (inherent risks) have been rated "Medium", i.e. the site has hazards/exposures that are typical for its respective industry peer group. The GE 7F.03 (flared compressor) fleet is subject to numerous compressor issues which continue to haunt owner/operators. Due to these operational issues,
+Swiss Re generally considers combined cycle operations utilizing the 7F.03 combustion turbine technology platform to be slightly higher risks relative to other power generation technologies and configurations. These risks at EHPP are mitigated by the relatively low technical age of the plant and its key components as well as its excellent capacity factor, availability and forced outage history achieved in recent years. The plant is located outside of any 500-year flood zone and is not subject to significant windstorm exposures. However, seismic risks to plant operations are high.
+The protection level (PL) factors are rated excellent, i.e. the station has implemented many industry best practices in terms of fixed and manual fire protection systems and protective devices. Routine maintenance for electrical and mechanical systems is very good and major maintenance planning for the turbine generators is overseen under the terms of a long term service agreement with the OEM. A triple- major outage is planned for February 2016 during which both combustion turbines, the steam turbine and all three generators will be given full dismantle inspections. This outage which is broad in scope, will include Compressor Enhanced Package 3 upgrades on the two combustion turbine generators.
+LAYOUT
+The gas and steam turbine generators are in individual enclosures configured in parallel and separated by a minimum of 130 ft. This separation distance is more than adequate to assure that an uncontrolled lube oil fire occurring on any one unit will be confined to that unit only. The GSU transformers are similarly separated and surrounded on three sides with concrete barrier walls.
+OUTAGE PLANNING and MAJOR MAINTENANCE
+The maintenance regime and outage intervals for the turbine generators are scheduled according to the manufacturer's guidelines. EHPP benefits from the Long Term Service Agreement (LTSA) in place with GE.
+The LTSA includes remote monitoring by GE and a full time GE Contract Performance Manager.
+Risk Engineering Services - Risk Report
+Elk Hills Power Plant
+Job Number 2015-4502
+5
+FIRE PROTECTION SYSTEMS
+Fixed and manual fire protection over generating and balance of plant areas is considered to be very good. The EHPP water supply is in itself, ample and fully reliable. Further, the EHPP fire water supply is tied into the gas plant fire water supply providing complete redundancy and additional capacity. This arrangement is considered to be excellent.
+BUSINESS INTERRUPTION
+Business interruption values were not presented however, the Loss Estimates section of this survey will identify the percentage of operations affected and the expected downtime for each postulated loss scenario.
+2.2 Strengths
+? The plant operates in base-load service with high plant reliability, availability and low equivalent forced outage rates.
+? There is good separation between units.
+? An excellent, fully reliable fire water supply is provided. No deficiencies in fixed fire protection systems for generating assets and excellent manual fire-fighting facilities.
+? Excellent electrical and major maintenance practices are demonstrated. The steam and combustion turbine generators are maintained under the terms of the long term service agreement with the OEM, General Electric. Technical Information letters (TILs) issued by GE are in implementation or will be addressed at the February 2016 triple-major outage.
+? Strong financial commitment to maintaining key generation assets is evidenced by the broad scope of the 2016 triple-major outage.
+? The GE Mark V turbine control system will be upgraded to the Mark VIe turbine control system at the February 2016 outage. Combustion dynamics, blade health monitoring systems and combustion dynamics monitoring with remote tuning capabilities for the combustion turbines are to be included in the Mark VIe controls upgrade.
+? Excellent housekeeping was observed throughout.
+? Excellent recommendation compliance is justifiable based on the completion of all recommendations offered at the previous Swiss Re survey from 2011.
+2.3 Weaknesses
+? There are ongoing operational problems with GE 7F.03 combustion turbine technology fleet- wide.
+? On-site Emergency Response Team activities are limited to defensive fire response. Offensive firefighting is dependent upon fully staffed Kern County Fire Department stations in Buttonwillow,
+Fellows, McKittrick, and Taft, with a 20 minute response time..
+Risk Engineering Services - Risk Report
+Elk Hills Power Plant
+Job Number 2015-4502
+6
+2.4 Natural Perils
+Special Hazards Score
+Earthquake Med-High
+As Elk Hills is situated on a section of the White Wolf Fault, the site is subject to seismic activity from this and other regional faults. The facilities have been built based on the seismic group requirements for Site
+Class C, Design Category D for all structures.
+Risk Engineering Services - Risk Report
+Elk Hills Power Plant
+Job Number 2015-4502
+7
+3 Values and loss estimates
+3.1 Sum Insured (SI)
+Values in US Dollar Total Site Value
+Property Damage 404,400,000
+Business Interruption 0
+Totals 404,400,000
+The Total Sum Insured value shown was submitted by the broker for 2014. While no BI values were submitted in time for this report, downtime for the various loss scenarios discussed here is reported.
+3.2 Maximum Possible Loss (MPL)
+Values in US Dollar Percentage Total Site MPL
+Property Damage 19% 76,000,000
+Business Interruption % 0
+Totals 19% 76,000,000
+MPL Definition
+Swiss Re applies the MPL definition according to the European Insurance Association (European
+Insurance Committee, CEA), which is approved by the federation of European insurance companies. MPL definition according to the European Insurance Committee (CEA) is as follows:
+The "Maximum Possible Loss" (MPL) is that which may occur when the most unfavorable circumstances being more or less exceptionally combined, the fire is only stopped by impassable obstacles or lack of substance.
+An “impassable obstacle” is considered to be any space between buildings and/or any obstacle which makes all propagation of fire (or the shock wave) impossible.
+The above mentioned definition of MPL applies to perils such as fire and explosion. It does not apply to terrorist attacks or arson. In terms of perils such as natural catastrophes, insurers must include in their estimation the concept of accumulated risks.
+MPL Scenarios:
+This is a nominal 550 MW combined cycle power plant utilizing two GE 7F.03 combustion turbines rated at 165 MW each and a GE D-11 Steam Turbine rated at 225 MW. The typical production rate for this power plant is approximately 480 MW. For combined cycle power plants in this configuration with no BI coverage in place, the Maximum Potential Loss (MPL) scenario is normally taken as a gas turbine fire/explosion, with all fire suppression systems impaired. The result is an uncontrolled lube oil fire causing substantial damage to the affected unit, requiring complete replacement. Separation between units is adequate to prevent adjacent unit damage. The extent of the damage is detailed as follows:
+Damage $ Millions
+Turbine set 70
+Auxiliaries &amp; BoP 1
+Adjacent Equipment 0
+Civil &amp; Structure 1
+Extras 8
+Total MPL BI 0
+Total MPL PD $80 Million
+Risk Engineering Services - Risk Report
+Elk Hills Power Plant
+Job Number 2015-4502
+8
+BI coverage is not currently provided, but in the above scenario, the affected combustion turbine unit would likely be unavailable for up to 18 months. As the sister combustion turbine and the steam turbine would remain in operation, power production losses of approximately 170 MW for the entire period of restoration would be incurred.
+If BI coverage is put in place, the MPL focus shifts away from the combustion turbines to the steam turbine generator. In this case, an uncontrolled steam turbine lube oil fire results in the complete destruction of the steam turbine generator. As there are no HRSG by-pass stacks in place, the loss of power production from the plant in this scenario is expected to be 100%. The extent of the damage for an uncontrolled steam turbine generator is detailed as follows:
+Damage $ Millions
+Turbine set 50
+Auxiliaries &amp; BoP 6
+Adjacent Equipment 0
+Civil &amp; Structure 1
+Extras 8
+Total MPL BI
+Total MPL PD $65 Million
+In the above scenario the loss of the steam turbine also forces the combustion turbine generators down as there are no turbine exhaust bypass stacks in place to divert the combustion turbine exhaust away from the HRSGs. The steam turbine generator replacement would likely take 18 months and as the plant would be entirely down, power production losses of approximately 480 MW would be incurred for the entire period of restoration.
+Risk Engineering Services - Risk Report
+Elk Hills Power Plant
+Job Number 2015-4502
+9
+4 Plant specific information
+4.1 Site description
+The Elk Hills Power Plant is a combined-cycle plant utilizing General Electric (GE) 7FA.03 combustion turbine technology in a two-on-one configuration. The power station is located on 12 acres immediately adjacent to the Elk Hills Gas Plant Co-Gen operation, roughly in the center of the 74 square mile Elk Hills
+Oil and Gas Field operated by California Resources Corporation (formerly Occidental Energy Corporation).
+4.2 Loss history a) 2008: Surge Arrestor (SA)
+In November of 2008, a surge arrestor failed to ground on the STG GSU transformer, resulting in a unit trip followed by a complete power failure on the plant. During the power failure, the Unit 1 CTG's emergency lube oil system failed to operate properly causing the unit to coast down without any lube oil.
+The damage to the CT 1 rotor was extensive and required replacement. A new rotor for this unit was obtained and installed in 2009.
+GT#1 was out of service for approximately two and a half (2.5) months. The BOP (balance of plant) was returned to operating in approximately 10 days, and was able to operate without GT#1while it was repaired.
+To expedite the plant's return to service all three surge arrestors from GT#1 were used to replace those on the STG GSU transformer after ensuring compatibility.
+Since this loss the plant has changed how they monitor SA surge counter readings, and increased power factor testing (currently once per year).
+Risk Engineering Services - Risk Report
+Elk Hills Power Plant
+Job Number 2015-4502
+10
+5 Detailed risk assessment
+5.1 Exposure elements
+5.1.1 Natural and allied perils
+The Elk Hills facilities are located approximately 125 miles north east of Los Angeles, approximately 25 miles west of Bakersfield, California, eight miles north of Taft, and adjacent to Tupman, California. Major roadways leading to Elk Hills are: State Highway 119 from Bakersfield and Taft, and Elk Hills Road, a county roadway which intersects the site terminating at Highway 119 south of Elk. Hills, and the California
+Aqueduct on the north. Elk Hills is bounded on the south by the Naval Petroleum Reserve, No.2 and by privately owned land on the north, east, and west.
+The Elk Hill terrain is rugged and consists of rocky hills with vegetation limited to grasses, tumbleweeds, and small trees.
+The facilities are located on the area 35 R The site elevation is about 620 m above sea level. The general climate in Kern County is hot and arid. Summer temperatures range from 85 to 105 °F. with moderate humidity and scarce precipitation. Winters are mild with temperatures rarely falling below 36 °F. Tule fog which can cause visibility restriction of less than 100 feet, is a recurring phenomenon in the winter months. Kern County experiences moderate electrical storms during summer months that occasionally ignite grass fires on Elk Hill. Prevailing winds are north to south and dust storms are common occurrences throughout the area.
+a) Flood
+Swiss Re's Catnet database indicates that the Elk Hills Power Plant is outside the 500 year-flood zone.
+Flood exposure is minimal.
+b) Earthquake
+Swiss Re's Catnet database lists the Seismic Hazard at this site as High. Pseudo Spectral Acceleration is reported at 0.77g with a period of 0.3 seconds. This is the equivalent of a Modified Mercalli Intensity
+(MMI) of VIII+.
+c) Wind
+Swiss Re's Catnet database indicates wind storm hazards are rated Very Low. Local 50-year peak gusts not exceeding 19 m/s suggest there is little exposure to windstorm. There are no observations of tornados in the region.
+d) Extreme weather conditions
+The outdoor ambient temperature is in the range (design) of 25 to 115 °F. The ambient temperature range was used for systems and system component design. The relative humidity is in the range (design) of 30 to 60%. The annual average rainfall is approximately 5.7 inches. The relative humidity is in the range
+(design) of 30 to 60%..
+Wildfire threatens operations as the climate is quite arid, but vegetation is limited to small shrubs and tumbleweeds. The plant reports approximately six brushfires are handled by the fire brigade annually.
+The area is not subject to hazards posed by heavy snowfall or ice.
+Risk Engineering Services - Risk Report
+Elk Hills Power Plant
+Job Number 2015-4502
+11 e) Tsunami /avalanche / landslide / volcano
+Not applicable.
+f) External perils
+There is good separation between the EHPP and the Elk Hills gas plant production units. Nearly 600 meters separate the EHPP plant from the LTS1 plant and nearly 700 meters separate it from the CGP1 plant. There is no threat to EHPP operations posed by VCE or fire from these plants. The EHPP is located more than 100 meters from the Co-Gen plant and thus these two plants do not expose each other.
+The area surrounding the Elk Hills complex is sparsely populated. There are no airports in the vicinity of the site.
+5.1.2 Process hazards a) Activity
+This plant is a natural gas fired combined cycle power plant rated at 550 MW (megawatts). Combined cycle power plants are considered to be medium-high activity risks.
+The power block consists of two combustion turbines, two heat recovery steam generators (HRSGs) and one steam turbine generator.
+Natural gas fuels each GE 7F.03 combustion turbine. Each combustion turbine generator is rated at 165
+MW.
+Steam produced from the two HRSGs is directed to a single GE steam turbine generator (D-11). The GE steam turbine generator is rated at 225 MW and is cooled by hydrogen gas.
+b) Technical age
+The station declared commercial operation on July 24, 2003. Since their commissioning, the turbine generators have received inspections and overhauls on a schedule in-line with OEM recommendations under the terms of their long term service agreement.
+The following cumulative starts and equivalent operating hours (EOH) for these two units are current as of
+September 2015:
+Starts EOH
+Unit 1 349 95,059*
+Unit 2 438 90,506
+*The rotor on the Unit 1 Combustion Turbine was replaced in 2009 and thus there are only about 54,000
+EOH on this rotor.
+c) Method of operation
+Normally the plant operates in base-load service. This is evident in the recent operating statistics presented below:
+Service Net Capacity
+2014 GADS Hours Factor EAF EFOR
+CT Unit# 1 8501 91.1% 96.5% 0.76%
+CT Unit# 2 8616 92.9% 98.1% 0.48%
+ST 8745 68.8% 99.8% 0.18%
+Service Net Capacity
+2015 (Q1) GADS Hours Factor EAF EFOR
+CT Unit# 1 2159 -- 100% 0.00%
+CT Unit# 2 2159 -- 100% 0.00%
+ST 2138 -- 99.0% 0.99%
+Risk Engineering Services - Risk Report
+Elk Hills Power Plant
+Job Number 2015-4502
+12
+Approximately 10% of the HP steam produced in the two HRSGs is exported to the gas plants to be used for process heating and is thus, not available for power production. The normal plant load with all units in service fluctuates between 420 MW and 480 MW d) Design / technology
+The plant is configured as a two-on-one combined cycle station utilizing two GE 7F.03 (PG7241) combustion turbines supplying one HRSG each, both supplying steam to a single GE D-11 steam turbine generator.
+Combustion Turbines
+The gas turbines are GE type Frame 7F.03 (PG7241) provided with evaporative cooling which is utilized when ambient temperatures exceed 60 °F. Steam injection for power augmentation is provided but seldom used. The gas turbines fire natural gas only, and control the formation of NOx using a dry, low-
+NOx combustion system - DLN 2.6.
+Starting of the GTs is provided by a single LCI 2000 (Load Commutated Inverter).
+Compressor Section
+The GE 7F.03 combustion turbine fleet has a number of operational issues associated with its compressor section. The R-0 compressors blades on the Elk Hills units are the standard design blades. These will be replaced with GE's enhanced blade design in conjunction with the Package 3 compressor upgrade projects planned for the spring of 2016. To-date, no significant shim migration has been observed in either unit's compressor, nor are there any observations of blade rock in the mid-compressor stationary blades. In addition, no evidence of blade clashing issues have been observed on either unit. No cracking in R-17 or R-17 rotor dovetail slots has been observed.
+These compressors are flared "snow flake" and all required TILs (technical information letters) for compressor inspections are being implemented. Compressor water washing is performed off-line.
+Generators
+All generators are 18 kV, 2-pole, 3-phase, 60 Hz, constructed to meet ANSI and NEMA standards for turbine-driven synchronous generators. The generators are hydrogen-cooled and are equipped with a
+GCM-X Generator Condition Monitor, a real-time device that detects indication of overheating in hydrogen cooled generators by using an Ionization Chamber Detector to sense thermal decomposition of small amounts of insulating materials in the hydrogen atmosphere. All of the generator fields have 18Mn-18Cr retaining rings. These rings are less susceptible to stress corrosion cracking.
+GT generator nameplate ratings: 234 MVA, power factor 0.85, design code 7FH2 (LU)/
+- ST generator nameplate rating: 250 MVA, power factor 0.90, design code 7FH2 (LD)
+Steam Turbine
+The tandem compound steam turbine is a GE type D11, multi-stage, reheat, and straight condensing unit.
+The steam turbine receives main, reheat, and low-pressure induction steam from the two HRSGs. The steam turbine generator is provided complete with stop and throttle valves, hydraulic control oil system including cooling provisions, lube oil systems including cooling provisions, exhaust hood spray system, gland seal system including condenser with exhausters and turning gear.
+Transformers
+Each gas turbine generator is connected via iso-phase bus to a dedicated three-phase GSU transformer, which steps up the voltage from 18 kV to 230 kV. A Unit Auxiliary Transformer is connected between the generator and the GSU transformer.
+The steam turbine generator is served by its own three phase GSU transformer, which steps up the voltage from 18 kV to 230 kV.
+Risk Engineering Services - Risk Report
+Elk Hills Power Plant
+Job Number 2015-4502
+13
+All transformers are manufactured by Hyundai and are equipped with a continuous dissolved gas analyzers.
+HRSGs
+Both HRSGs are three-pressure units with reheat and an integral deaerator. These units are top supported and equipped with natural gas duct burners to boost steam production. Each HRSG is manufactured by
+Ishikawajima-Harima Heavy Industries Ltd. (IHI) The HRSGs are located outdoors and set on a concrete foundation.
+The HP (High Pressure) steam circuit is rated for a capacity of 418,500 lbs./hr. at 1,340 psi and 1,055 °F.
+IP (Intermediate Pressure) steam is produced at 345 psi and 1,055 °F. The LP (Low Pressure) steam circuit is rated for a capacity of 44,100 lbs./hr. at 62 psi and 580 °F. Approximately 10% of HP steam is exported to the gas plants for process uses.
+Boiler Feed Water Pumps
+Each HRSG has two 100% pumps installed. BFWP protection includes a LP drum level trip, pump or motor bearing temperature high trip, low suction head pressure trip and vibration alarm.
+Condenser
+The condenser receives and condenses the steam turbine exhaust steam, bypass steam, and other reclaimable steam. In addition, the system serves as a collection point for cycle drains which are reclaimable as condensate. The system provides a flow path for condensate from the condenser hot well to the HRSG integral deaerators and through the HRSG low-pressure economizers to the LP steam drum.
+The condensate control valves will maintain the level in the LP drum. The system includes three 50% condensate pumps.
+Condenser cooling is provided by a 6-cell, counter flow cooling tower constructed completely with fiberglass structural members and PVC fill materials. Each cooling tower fan is approximately 33 ft. in diameter and driven by a dual speed motor an gearbox. The fans will trip on high vibration.
+5.1.3 Business interruption
+The failure of a combustion turbine generator or its GSU transformer would cause a major power production impact. Failure of the steam turbine generator, its GSU transformer or a loss of the cooling tower would create a 100% loss of power production until repairs/replacements could be located.
+a) Plant utilization/reliability
+The equivalent availability factor (EAF) and equivalent forced outage rate (EFOR) reported for 2014 and the first quarter of 2015 is much better than industry averages. Plant reliability has been excellent.
+b) Utilities/service interruption
+Fuel Gas
+Natural gas for the power plant is obtained from two sources: 1) Residue Gas from the adjacent Elk Hills
+CGP and LTS processing plants and 2) Purchased gas from the Kern-Mojave pipeline. Normally, the Kern-
+Mojave Pipeline is supplying 50% of the EHPP demand. There are no gas compressors installed.
+Electric Power
+Power from the three GSU transformers are connected to the adjacent 230 kV switchyard. EHPP owns the switchyard located at the plant. A 9-mile bundled 230 kV double circuit overhead transmission line has been built to interconnect either to the east at a new substation near Tupman, California, or north to the Midway substation near Buttonwillow, California.
+Each combustion turbine has a GCB (Generator Circuit Breaker) between the generator and its’ GSU transformer. This breaker is necessary as it also an integral part of the LCI starting system. There is no circuit breaker between the ST generator and its GSU transformer.
+Risk Engineering Services - Risk Report
+Elk Hills Power Plant
+Job Number 2015-4502
+14
+Black Start
+The EHPP currently cannot perform a "black start". While it may be possible to establish a black-start procedure utilizing power from the Co-Gen plant, there are no current plans to develop this capability.
+Process Water
+Process water is groundwater provided by the West Kern Water District (WKWD) and conveyed to the project site by a proposed a 9.8-mile, 16-inch supply pipeline. This pipeline originates east of the power plant site at WKWD's water storage site located southwest of the intersection of the California Aqueduct and State Highway 119.
+Waste Water
+Wastewater is disposed of in disposal wells located 4 miles south of the power plant and conveyed by a pipeline.
+c) Alternative production capabilities
+Presently, the EHPP provide all of the steam and all of the power needed for operation of the Elk Hills gas plants.
+The adjacent Co-Gen plant is capable of supplying all of the process steam and some of the power needs of the Elk Hills gas plants should the EHPP be lost. The electric power produced at the Co-Gen plant could be supplemented by purchased power to maintain gas plant operations but at greater expense.
+Should one of the EHPP CTs be forced out of service, gas plant operations could be maintained as normal although there would be reduced revenue from outside power sales. Loss of the steam turbine generator however would result in a 100% loss of steam and power production from the EHPP as there are no HRSG by-pass stacks in place.
+5.2 Protection elements
+5.2.1 Natural and allied perils a) Flood
+It was reported during the survey that the site has no flooding issues.
+b) Earthquake
+An emergency plan exists for the site and includes natural hazards. The emergency plan consists primarily of alerting the site organization. A check list approach is used to verify possible post-earthquake damages.
+Earthquake Loads
+The earthquake design code for the plant is in accordance with CALIFORNIA BUILDING CODE (CBC) from
+1998, Section 1630. All allowable stresses and soil load-bearing values are permitted to be increased one-third in the alternate basic load combinations including wind or earthquake loads.
+c) Wind
+From Design Documentation:
+All piping exterior to the generating building or other enclosed structures shall be subject to wind loading.
+This includes piping on structural bridges and adjacent or above the HRSG. Wind pressure is applied to the exposed piping in the X and Z directions. Calculated values required to determine basic wind speed of
+70 mph.
+Risk Engineering Services - Risk Report
+Elk Hills Power Plant
+Job Number 2015-4502
+15 d) Extreme weather conditions
+The substation design, installation and testing will be done by the subcontractor, in accordance with
+PG&amp;E’s design requirements as well as per applicable codes and standards.
+Lightning Protection Code
+Lightning protection will be provided where necessary in accordance with NFPA 78, UL 96, UL 96A, and
+Lightning Protection Institute Standards 175, 176 and 177 and per manufacturers recommendations. Air terminal, conductors and other related accessories will be UL listed and labeled.
+High Voltage Lightning Arresters
+Lightning protection will be provided by the six 192 kV station lightning arresters, and shield wires installed between terminal structures and lightning masts.
+Bus supports, and all outdoor equipment, such as the circuit breakers, MODs, potential transformers, and lightning arresters, will be supported by galvanized steel structures set on concrete foundations.
+GSU Transformers
+The equipment lightning protection shall consist of station type lightning arresters at each GSU and line terminals. In addition, shield wires will be installed between terminal structures, according to the "rolling sphere method".
+Freeze Protection
+Plant operators make weekly rounds on freeze protection systems beginning in November and continuing through March each year.
+e) External perils
+A site vulnerability study was carried out in 2007 by an external contractor. A security assessment was completed in 2011.
+CRC has a dedicated security department supported by external contractors providing patrol and general security service 24/7.
+The Elk Hills field is spread out on 75 mile2, respective 120 mile2 including buffer zone. 27 mile2 are fenced. The facilities are equipped with a total of 120 CCTVs, however the main scope is the remote monitoring of the facilities.
+Fencing is provided around the perimeter of the entire power plant. The switchyard is fenced separately.
+5.2.2 Layout and construction
+The turbine units including the corresponding auxiliaries and the majority of the balance of plant equipment is located outdoors. Pipe and service bridges are provided between the CTGs, HRSGs, and the
+STG. Access roads are provided between the units and around the plant perimeter to facilitate maintenance by mobile cranes. The control and electrical buildings are located south of the steam turbine.
+The maintenance, administration and water treatment buildings are located at the south end of the plant.
+a) Spacing between units/buildings/structures
+The separation distances between each of the turbine generators is as follows:
+- ST and GT#1: Center-to-center distance is 130 feet.
+- GT#1 and GT#2: Center-to-center distance is 150 feet.
+This separation distance assures that damage would be limited to only one unit even for the most catastrophic turbine fire scenario.
+Risk Engineering Services - Risk Report
+Elk Hills Power Plant
+Job Number 2015-4502
+16 b) Within unit/building/structure layout and compartmentation
+All gas turbine enclosures are configured in an outdoor arrangement. The structure within the unit is standard and according to the manufacturers' design. Transformers are separated one from another by approximately 90 ft. They are surrounded on three sides by concrete blast barriers.
+c) Construction materials of supporting structures and walls
+The turbine units including the corresponding auxiliaries and the majority of the BOP (balance of plant) equipment is located in individual enclosures outdoors.
+Electrical control enclosures for the combustion turbine generators are non-combustible metal panel walls with metal panel roof and floors.
+The Administration/Control Building, the Warehouse/Maintenance Building and the Water Treatment building are all separate single-story structures of non-combustible construction, consisting of steel frame and steel roof supports with metal panel walls and roof, with concrete floors.
+The fire pump house building is a single story, non-combustible structure with metal panel walls and roof and concrete floors.
+d) Drainage, curbing and spill control
+There is good containment for the turbine generator lube oil reservoirs and also for the GSU transformers.
+These containments are drained to an oil/water separator.
+The Wastewater Collection and Treatment System collects plant wastewater within sumps and/or waste tanks. This wastewater is either reclaimed for other plant use, or discharged to injection wells.
+The system also contains transformer oil spill, accumulated oil from an oil water separator, and chemical spills from potentially hazardous areas for controlled disposal off-site by a tank truck.
+e) Electrical installations, lighting fixtures and cabling
+Appropriate grounding and bonding systems are installed where needed. Electrical fixtures in the battery room have been upgraded to fixtures classified for the potential presence of hydrogen gas.
+5.2.3 Fire protection a) Fire water supply
+The EHPP fire water supply is comprised of two independent, fully reliable water supply sources, each capable of meeting the maximum demand &amp; duration for both sprinklers and hoses.
+A dedicated underground pipe line from the West Kern Water District supplies the plant with water. It is a
+16" diameter, cement lined, ductile iron pipe and is 10 miles long. This raw water is stored into a 1 million gallon capacity, aboveground steel tank. The tank levels are automatically filled from the municipal water system. The raw water tank is designated as the primary fire pump source and 60% of the capacity is dedicated for fire protection water.
+Two automatic fire pumps take suction from the tank and deliver water to the underground system.
+Pump ratings are as follows:
+- one electrically driven fire-fighting pump; 2 000 gpm - 125 psi
+- one diesel-driven fire-fighting pump; 2 000 gpm - 125 psi
+- one jockey pump
+Each pump has an Underwriter’s Laboratories (UL) listed/Factory Mutual (FM) approved fire pump controller. The automatic sprinkler protection for the fire pump house is designed on an extra hazard pipe schedule, using 175 °F rated, half inch sprinkler heads.
+Risk Engineering Services - Risk Report
+Elk Hills Power Plant
+Job Number 2015-4502
+17
+Each fire pump has a 10-inch discharge line into a 10-inch looped underground main. The loop has a single cross connection, dividing it into two sections. There are four sectional control valves, allowing isolation of a break in the line. There are 12 fire hydrants located strategically around the loop with no hydrants separated by more than 300 feet. Hydrants are provided with water monitor nozzles.
+In addition, a tie-in with the CGP1 gas plant fire water system has recently been installed allowing the gas plant fire water supply to contribute to the EHPP system if needed.
+b) Fire brigade and public fire department
+The EHPP shares the fire-fighting resources under the control of the Elk Hills Gas Complex.
+There are currently 10 active emergency response team (ERT) members, with additional persons available on call as technical advisors. There are 2 responders during night shifts. Emergency response is coordinated from the Communications Operating Center (COC) which is staffed 24/7. ERT members are expected to fight incipient fire only. Members train to NFPA 1081; currently four individuals are complete on training. All operators on site do receive incipient firefighting training, including the use of monitor nozzles.
+Intervention time for the ERT members on site is estimated to be seven minutes. There is an automated cell phone call out system for offsite members with an estimated response time of 30 minutes. External support would be made available from the paid Kern County Fire Department; and the intervention time of the closest is 20 minutes. The last common fire drill at the Elk Hills complex was conducted in 2007. A drill was conducted in 2015 at EHPP with the on-site ERT and the Kern County Fire Department.
+There are no formal mutual aid agreements with the other oil operators in the area.
+Fire-fighting pre-plans have been developed for selected fire scenarios.
+The complex has a 1995 Pierce Arrow fire truck rated for 1,500 gpm that carries 500 gallons of water and 150 gallons of foam. The ERT also has a F350 with a monitor nozzle and hose reel that carries 300 gallons of water and 40 gallons of foam. An additional 3,000 gallons of foam is kept on site. Additional foam stocks could be requested from neighboring agencies and industry.
+c) Special protection measures
+The combustion turbine enclosures and lube oil compartments are protected by a low pressure total flooding CO2 extinguishing system.
+d) Manual fire-fighting measures
+A 10-in underground fire main loops around the main power block with branches out to the switchyard and cooling tower.
+The EHPP station has a total of twelve hydrants around the site.
+As mentioned earlier, the Elk Hills ERT operates a 1995 Pierce Arrow fire truck rated for 1,500 gpm that carries 500 gallons of water and 150 gallons of foam. The ERT also has a F350 with a monitor nozzle and hose reel that carries 300 gallons of water and 40 gallons of foam.
+The station has adequate number of hand-held CO2 and dry-powder-type extinguishers located around the site.
+Risk Engineering Services - Risk Report
+Elk Hills Power Plant
+Job Number 2015-4502
+18 e) Fire and smoke detection measures
+There is a proprietary alarm system installed. All alarms go through a central alarm panel in the main control room, include the following signals:
+- Sprinkler water flow
+- Valve tamper
+- Fire pump running
+- Fire pump controller failure
+- Battery failure for the diesel fire pump
+- Power not available
+- Phase reversal for the electric fire pump
+- Smoke detection
+- Heat detection
+- Special suppression systems (CO2, FM 200 and dry chemical systems)
+- Supervision of system devices and wiring (system trouble) f) Fixed protection generation areas
+As mentioned earlier, CO2 protection is provided for the combustion turbine generators. Fixed sprinkler protection is provided for the steam turbine generator bearings and under turbine areas with deluge systems protecting the lube oil and seal oil reservoirs.
+g) Fixed protection BoP
+The GSU transformers are well separated and surrounded on three sides by concrete barrier walls.
+Therefore, sprinkler protection for these units would not be expected.
+Automatic sprinklers are provided in the EHPP Control/Administration building and in the Maintenance
+Warehouse building.
+The six-cell cooling tower is constructed of FRP and is not sprinklered. The fill material was recently replaced with Brentwood Industries' rigid PVC material products designated CF1900ma and OF21ma.
+These fill materials achieved a Flame Spread Index of 5 (using ASTM E-84 test methodology). The drift eliminators are constructed of Brentwood's rigid PVC product CF80MAx which achieved a flame spread index of 25 in similar testing. While these flame spread index scores suggest that the cooling tower is much less susceptible to fire than traditional wood cooling towers, they cannot be considered to be non- combustible.
+5.2.4 Process control a) Emergency shutdown (ESD), interlocks and alarms
+DCS process control of all vital process parameters in place, for example turbine temperatures and pressures. All main parameters are linked to the protection controller and if the defined limit is exceeded the controller will shut-down the turbine automatically - usually a 2 out of 3 logic.
+There is a Bently Nevada 3500 system for turbine vibration monitoring in place and vibration limits are linked to the protection controller. High radial vibration will trip the combustion turbine generators as well as the steam turbine generator.
+Combustion Turbine Start Permissives include:
+From DCS -
+- HRSG HP, IP and LP Drum Levels Not Low
+- HRSG HP and IP Economizer Bleed Override Closed
+- (1) Circulating Water Pump Running
+- (1) CCCW Pump Running
+- Fuel Gas Temperature Not High
+- (1) Scanner Air Blower On
+Risk Engineering Services - Risk Report
+Elk Hills Power Plant
+Job Number 2015-4502
+19
+From Mark V-
+- Buss Under-voltage Alarm
+- Compressor Inlet TC's Disagree
+- Gas Fuel Or IGV Control Valve Fault
+- Customer Permissive From DCS
+- Lube Oil Temp High
+- Flame Detector Trouble
+- Hydraulic Protective Trouble
+- Generator Breaker Open
+- LCI Ready
+- Exciter Ready
+- Compressor Bleed or IGV Position Lockout
+- Loss of Master Protective
+- Master Protective Startup Trip
+- Hydrogen Start Check
+- Static Starter Fault/Trip
+- Inlet Bleed Heat Comp. Operating Limit Start Check
+- Off-Line Diagnostics Running
+- Vibration Start Inhibit
+- Loss Of CDP Bias
+- HP Speed &gt; Minimum Firing Speed
+The Steam Turbine Start Permissives include:
+From Mark V -
+- Inlet Steam Pressure
+- Inlet Steam Temperature
+- Inlet Steam Temperature/Metal Differential
+- Reheat Steam Temperature/Metal Differential
+- Lube Oil Temperature
+- Turbine Speed
+- DCS Permissive To Roll Steamer
+- Eccentricity &lt;4 Mils
+- No Differential Expansion
+- All Drain Valves Open And Healthy
+- Seal Steam Header Temperature
+- All Control Start Thermocouples Healthy
+- Turbine Reset
+The Combustion Turbines Trips include:
+From DCS -
+- HRSG HP, IP or LP Drum Level Low
+- HRSG Inlet Flue Gas Temperature High
+The Steam Turbine Trips include:
+From DCS -
+- HRSG HP, IP or LP Drum Level High
+- High and Low Hotwell Level b) Process control and monitoring
+EHPP is controlled from a central control room located on the power plant premises. The combustion turbine control system in use currently is the GE Mark V system. An upgrade to the GE Mark VIe system is planned for the spring 2016 outage.
+An ABB DCS system provides control, and data acquisition for balance of plant systems along with a PI historian. The DCS also interfaces with the GE Mark V gas turbine controller as well as with the HMI steam turbine control system.
+Risk Engineering Services - Risk Report
+Elk Hills Power Plant
+Job Number 2015-4502
+20
+Combustion dynamics, blade health monitoring systems and remote tuning capabilities for the combustion turbines are to be included in the Mark VIe controls upgrade planned for spring 2016.
+c) Combustible gas and dust control (explosive)
+It is assumed that the Combustion Turbine enclosures are equipped with gas detection however, there was no detail obtained as to the number of analyzers or their alarm/trip settings.
+5.2.5 Operations, procedures and regulations a) Permit to work
+EHPP participates in the Elk Hills site-wide work permit process. The Elk Hills complex work permits cover general work, hot work, confined entry and excavation work, all of which are supplemented by an equipment lock-out/isolation certificate. All expected safety precautions are identified on the permits, including the need for fire watches, blocking of sewers during hot work, regular gas testing, etc.
+Authorized members of the shift teams are responsible for issuing work permits and specifying safety precautions, equipment to be worn and flammable gas testing. Continuous gas monitoring is used for hot work. A JSA (job safety analysis) is carried out for all jobs and included in a dedicated section on the work permit. All permits are comprised of two copies, which are posted at the job site and in the process plant control room. A formal communication related to the work in progress is sent to the central control room. The information is entered in the process unit journal. The permits are only authorized for one shift.
+On completion of work, all permits are returned to the control room and closed-out following handover of responsibility for the work area back from Maintenance to the Operations department. All permits are sent to the Safety department and filed for auditing (10%). Work permits reviewed during the survey had all been completed properly.
+b) Safe work practices
+Bypass of non-safety critical alarms can be done by the lead operator. Bypass of safety critical instrumentation such as emergency shutdown systems is under the control of engineering. Approval is required from either the supervisor or the operations manager. All bypasses are logged electronically on a dedicated register. In addition, a paper Critical Instrumentation Bypass logbook is maintained in the CCF that notes the date and time the instrument was bypassed, when it was returned to normal state, and the name of the operator making the entry. Any bypass that extends beyond a shift must be reported to the
+Operations Coordinator; any bypass that extends past a second shift will be submitted to site management for review as to whether continued operation is acceptable. Bypasses that exceed 14 days require a MOC review. Temporary MOCs and bypasses are formally reviewed on a quarterly basis.
+Time is set aside for shift handover, which includes a joint review of the daily operations and bypass logs.
+Operators are using an electronic log to record activities.
+A good lock-out and process isolation procedure is in place. All isolations are first noted on a Master Card following which the equipment is isolated at the MCC room by locking the out the power supply with a master operations lock. Isolation plans are maintained for larger equipment, but all equipment isolations still go through the same analysis process each time. Double block and bleed is the standard if possible for the isolated equipment. Any open piping going past a shift is blinded.
+Smoking is prohibited throughout all company buildings and vehicles. Smoking is only allowed outside in designated areas on-site.
+c) Manning, training and experience
+A well-structured and formally assessed initial and re-fresher training program is in place for all operations personnel. The program requires all new operators to have completed a formal 90 days training program based on-the-job training and class room lessons. Full personnel training records are maintained.
+Risk Engineering Services - Risk Report
+Elk Hills Power Plant
+Job Number 2015-4502
+21
+EHPP is presently developing a training matrix with qualification records for all employees which included on the job training, and written signatures of approval for successfully passing each milestone or system.
+Additional training plans include GE’s Trip Avoidance Seminar and training programs by General Physics
+Corporation, and training by the water treatment chemical supply technician.
+In summary, the operations group has a good level of experience and training backed by good procedures and document control. The permit system and the LOTO system are to both a good standard.
+Overall, we consider operations to rate good.
+d) Fire protection impairment system
+EHPP reports Impairments of the Fire Protection System to COC, as well as logging these events and tracking them to closure promptly. If necessary, added equipment or measures are taken to provide adequate system resources to maintain plant safety and integrity during an Impairment e) Operation, emergency operating procedures and PIDs
+Detailed operating procedures have been developed. The operating procedures are reviewed on a regular basis for accuracy. On review the procedures provide a good level of detail and cover all expected aspects including start-up, normal and emergency shutdown and abnormal operating conditions. The procedures are available in hard copy near the main control room and are networked on the site’s computer system.
+The up to date P&amp;IDs are also located near the main control room. Overall, the procedures represent good industry standards.
+5.2.6 Risk management a) Risk management philosophy
+Plant personnel are in the process of converting the risk management programs and policies as well as engineering standards in place under former owner, Occidental Energy Corporation and customizing them to reflect the specifics of California Resources Corporation organization.
+A safety/PSM audit is scheduled for 2016 which will include the EHPP. A central database is maintained to track audit recommendations, incident investigations and management of change items.
+b) Emergency plan
+An emergency plan exists for the site, and includes sections on fire, explosion, releases to the environment and natural hazards.
+c) Response to recommendations
+All of the EHPP recommendations offered by Swiss Re at the most recent survey in 2011 have been completed.
+5.2.7 Commitment to safety a) Housekeeping
+Housekeeping at the EHPP was observed to be excellent throughout.
+b) Safety culture
+Safety is promoted at all levels. Regular safety meetings are conducted involving all employees.
+Risk Engineering Services - Risk Report
+Elk Hills Power Plant
+Job Number 2015-4502
+22
+5.2.8 Process and equipment integrity a) Inspection and maintenance of fire-fighting equipment
+Fire pump performance tests were completed on both the electric and diesel driven fire pumps at the
+EHPP on January 13, 2015 by the contractor, Hagemeyer Technical Services. Both pumps performed well with no deficiencies noted.
+Jorgensen &amp; Co. is contracted to perform annual and semi-annual inspections and maintenance on the
+CO2 systems protecting the CT enclosures. Door fan tests for these enclosures are overdue and a recommendation to perform these tests following the 2016 major inspections has been offered.
+b) Inspection electrical (routine)
+An electrical system short circuit and relay co-ordination study was completed in 2015.
+The GSU transformers have been equipped with Calisto on-line continuous dissolved gas-in-oil analysis.
+Power factor (Doble) testing is completed on a five-year frequency. Manual sampling of transformer oil is completed annually.
+Annual generator inspections are completed by outside contractors which include infrared inspections and visual inspections for oil leaks as well as stator and bearing RTDs among other areas. The combustion turbine generators are equipped with IRIS partial discharge analyzers. Generator liquid level alarms are tested on a monthly basis.
+Generator outage inspections were completed using GE's "MAGIC" robotic technology on all three generators in 2012. Various electrical tests were completed in conjunction with these outages. Rotor-out inspections are planned for spring 2015.
+About 75% of plant relays have been upgraded to digital. The calibration frequency for relays is kept at 5- year intervals.
+All new switchgear has been equipped with IR inspection windows to permit thermographic inspection of contacts from outside their cabinets.
+c) Inspection mechanical (routine)
+The plant utilizes Maximo as its computerized maintenance management system. Work orders within
+Maximo are prioritized into seven levels of importance.
+All maintenance crafts-persons are employed by outside contractors. Maintenance planning and coordinating tasks are handled by CRC employees
+The steam turbine generator's main steam and reheat steam stop valves are exercised on a daily basis.
+The cold reheat non-return valve is exercised on a weekly basis. A recommendation has been offered to calling for the establishment of a program for routinely testing the auto-start function of emergency lube oil pumps on a three turbine generators.
+Predictive maintenance activities on the turbine generators includes quarterly vibration analysis and monthly lube oil. analysis.
+Risk Engineering Services - Risk Report
+Elk Hills Power Plant
+Job Number 2015-4502
+23 d) Maintenance major
+Combustion turbine and generator maintenance activities and intervals are governed by the service agreement in place with General Electric. The scope and targeted frequency of inspections are as follows:
+CT Borescope Annual
+Combustion Inspection Waived
+Hot Gas Path: 24,000 hours
+Generator Minor: 24,000 hours
+Major Inspection: 48,000 hours
+Generator Major: 48,000 hours
+A summary of relevant outage data is presented in the table below:
+CT Unit ID Total EOH* EOH at Last Major Inspection Date of Last Major Inspection EOH at Last HGP Inspection Date of Last HGP Inspection EOH at Last Generator Major Date at Last Generator Major Next CT Inspection Scope/Date Next Generator Major Planned
+@@@ &gt; CT Unit ID
+CT 1 SN297666
+$$$
+
+@@@ &gt; Total EOH*
+95,059
+$$$
+
+@@@ &gt; EOH at Last Major Inspection
+41,331
+$$$
+
+@@@ &gt; Date of Last Major Inspection
+Apr-2008
+$$$
+
+@@@ &gt; EOH at Last HGP Inspection
+66,178
+$$$
+
+@@@ &gt; Date of Last HGP Inspection
+Mar-2012
+$$$
+
+@@@ &gt; EOH at Last Generator Major
+66,915 (MAGIC)
+$$$
+
+@@@ &gt; Date at Last Generator Major
+Mar-2012
+$$$
+
+@@@ &gt; Next CT Inspection Scope/Date
+Major Inspection Feb-2016
+$$$
+
+@@@ &gt; Next Generator Major Planned
+Major Inspection Feb-2016
+$$$
+
+@@@ &gt; CT Unit ID
+CT 2 SN297667
+$$$
+
+@@@ &gt; Total EOH*
+90,506
+$$$
+
+@@@ &gt; EOH at Last Major Inspection
+38,706
+$$$
+
+@@@ &gt; Date of Last Major Inspection
+Apr-2006
+$$$
+
+@@@ &gt; EOH at Last HGP Inspection
+66,332
+$$$
+
+@@@ &gt; Date of Last HGP Inspection
+Oct-2012
+$$$
+
+@@@ &gt; EOH at Last Generator Major
+73,412 (MAGIC)
+$$$
+
+@@@ &gt; Date at Last Generator Major
+Oct-2012
+$$$
+
+@@@ &gt; Next CT Inspection Scope/Date
+Major Inspection Feb-2016
+$$$
+
+@@@ &gt; Next Generator Major Planned
+Major Inspection Feb-2016
+$$$
+
+@@@ &gt; CT Unit ID
+
+$$$
+
+@@@ &gt; Total EOH*
+
+$$$
+
+@@@ &gt; EOH at Last Major Inspection
+
+$$$
+
+@@@ &gt; Date of Last Major Inspection
+
+$$$
+
+@@@ &gt; EOH at Last HGP Inspection
+
+$$$
+
+@@@ &gt; Date of Last HGP Inspection
+
+$$$
+
+@@@ &gt; EOH at Last Generator Major
+
+$$$
+
+@@@ &gt; Date at Last Generator Major
+
+$$$
+
+@@@ &gt; Next CT Inspection Scope/Date
+
+$$$
+
+@@@ &gt; Next Generator Major Planned
+
+$$$
+
+@@@ &gt; CT Unit ID
+Unit ID
+$$$
+
+@@@ &gt; Total EOH*
+Total EOH*
+$$$
+
+@@@ &gt; EOH at Last Major Inspection
+EOH at Last Turbine Overhaul
+$$$
+
+@@@ &gt; Date of Last Major Inspection
+Date of Last Turbine Overhaul
+$$$
+
+@@@ &gt; EOH at Last HGP Inspection
+EOH at last Valve Inspection
+$$$
+
+@@@ &gt; Date of Last HGP Inspection
+Date of last Valve Inspection
+$$$
+
+@@@ &gt; EOH at Last Generator Major
+EOH at Last Generator Major
+$$$
+
+@@@ &gt; Date at Last Generator Major
+Date at Last Generator Major
+$$$
+
+@@@ &gt; Next CT Inspection Scope/Date
+Next STG Inspection Scope/Date
+$$$
+
+@@@ &gt; Next Generator Major Planned
+Next Generator Major Planned
+$$$
+
+@@@ &gt; CT Unit ID
+STG SN270T498
+$$$
+
+@@@ &gt; Total EOH*
+100,728
+$$$
+
+@@@ &gt; EOH at Last Major Inspection
+38,706
+$$$
+
+@@@ &gt; Date of Last Major Inspection
+Apr-2009
+$$$
+
+@@@ &gt; EOH at Last HGP Inspection
+75,992
+$$$
+
+@@@ &gt; Date of Last HGP Inspection
+Oct-2012
+$$$
+
+@@@ &gt; EOH at Last Generator Major
+75,992
+$$$
+
+@@@ &gt; Date at Last Generator Major
+Oct-2012
+$$$
+
+@@@ &gt; Next CT Inspection Scope/Date
+Major Insp. Feb-2016
+$$$
+
+@@@ &gt; Next Generator Major Planned
+Major Insp. Feb-2016
+$$$
+
+*As of Sept-2015
+EOH = Equivalent Operating Hours
+HGP = Hot Gas Path
+MAGIC = Miniature Air Gap Inspection Crawler (GE's branded in-situ robotic generator inspection technology)
+Triple major outages (all three units) are planned for spring (February) 2016. This will be the second major inspection in the units' service history. Included in the scope of these major outages is the upgrade of both combustion turbine compressor sections with GE's Upgrade Package 3. In addition, the steam turbine will receive a new steam path (rotor and diaphragms) for the HP/IP section. Other outage tasks planned for 2016 include:
+- GE's Mark V turbine generator control system will be upgraded to the Mark VIe control system. The ABB system controlling the balance of plant systems will also be upgraded.
+- Blade health monitoring and auto-tuning capabilities for the combustion turbines will be added.
+- Condenser tubes will be inspected and examined for leaks using eddy-current technology.
+- A full battery of electrical testing will be performed on the GSU transformers and all transformer alarm and trip systems will be re-wired to improve reliability.
+- The station battery will be replaced and all unit batteries will be load tested.
+- An outside contractor (Tetra) will be hired to perform high energy piping system inspections which will include hanger inspections and adjustment, phased-array weld inspection and flow accelerated corrosion
+(FAC) inspections on feedwater lines.
+In addition to these tasks, many of the Technical Information Letters (TILs) issued by General Electric regarding the combustion turbines, the steam turbine and their generators will be addressed. A summary of the current status of selected TILs is shown below:
+Risk Engineering Services - Risk Report
+Elk Hills Power Plant
+Job Number 2015-4502
+24
+Elk Hills Power Plant Combustion Turbine TIL Summary
+TIL TIL Description Applicability Status of Compliance Number
+BUCKET LOCKWIRE REDESIGN AND DOWEL PIN 1214-R5 ASSEMBLY AND INSPECTION PROCEDURES YES INCOMPLETE
+INSPECTION OF F-CLASS TURBINE WHEEL 1280-2R1 YES ONGOING RETAINING RING TABS
+COMPRESSOR S-17 INNER BARREL COUNTER 1315-2R1 YES COMPLETED BORE PLUGS
+ISOLATING INNER ON-LINE WATER WASH SYSTEM 1323-3R1 NO NO ACTION REQUIRD NOZZLE MANIFOLD FOR F-CLASS UNITS
+1327 TURBINE ROTOR INSPECTION NO NO ACTION REQUIRED
+GT EVAPORATIVE COOLER INSPECTIONS AND 1399-1 YES PLANNED MAINTENANCE
+1420-2R1 LUBE OIL LOGIC ENHANCEMENT YES COMPLETE
+1432 COMPRESSOR MONITORING AND PROTECTION NO NO ACTION REQUIRED
+1434 TURBINE ROTOR INSPECTION NO NO ACTION REQUIRED
+1469-2R1 DC EMERGENCY PUMP RECOMMENDATIONS YES COMPLETE GT2, PLANNED GT1
+7FA+e S17 BLADE REPLACEMENT 1472-2 YES COMPLETE RECOMMENDATIONS
+1478 COMPRESSOR S-17 CONTROL MODIFICATION NO NO ACTION REQUIRED
+1502-2R1 7F AND 9F AFT END COMPRESSOR RUBS YES ONGOING
+F-CLASS FRONT END (R0, S0 AND R1) 1509-R3 YES ONGOING COMPRESSOR INSPECTIONS
+MAINTENANCE AND INSPECTION REQUIREMENTS 1518-2 YES ONGOING FOR GAS TURBINE AIR INLET SYSTEM
+1532 CREEP OF CARBON STEEL FABRICATED CDC NO NO ACTION REQUIRED
+F-CLASS TURBINE ROTOR INSPECTION AND 1539-R1 YES ONGOING MAINTENANCE RECOMMENDATIONS
+F-CLASS TURBINE ROTOR INSPECTION AND 1540 NO NO ACTION REQUIRED MAINTENANCE RECOMMENDATIONS
+TURBINE ROTOR SUPPLEMENTAL 1543 NO NO ACTION REQUIRED RECOMMENDATIONS
+1562-R1 HEAVY DUTY SHIM MIGRATION AND LOSS YES COMPLETE
+HAZARDOUS GAS DETECTION SYSTEM 1566-R1 YES COMPLETE RECOMMENDATIONS
+TURBINE COMPARTMENT WATER SYSTEMS 1579-R1 YES ONGOING MAINTENANCE RECOMMENDATIONS
+R0 EROSION AND WATER INGESTION 1603 YES ONGOING RECOMMENDATIONS
+1638-R1 F-CLASS R0/R1 PLATFORM ULTRASONIC TESTING YES INCOMPLETE
+1769 F-CLASS AFT STATOR ROCKING INSPECTION YES ONGOING
+1792 MODEL FH-2GENERATOR DRY TIE ISSUE NO NO ACTION REQUIRED
+7FA.03 STAGE TWO BUCKET INSPECTION 1859 YES COMPLETED RECOMMENDATIONS
+1907 ROTOR FORWARD SHAFT DOVETAIL CRACKING YES INCOMPLETE
+Risk Engineering Services - Risk Report
+Elk Hills Power Plant
+Job Number 2015-4502
+25
+6 Risk improvement opportunities
+The following recommendations make no claim to completeness and they are not an identification of all the hazards and deficiencies that may exist. They are suggestions for risk improvement and for minimizing potential losses that are based on brief general observations and discussions at the site. They are not the result of detailed engineering studies. The Insured remains fully responsible for compliance with all applicable laws and regulations.
+Should the Insured or its advisors have alternative views on these recommendations, Swiss Re would welcome the opportunity of further discussion.
+6.1 Summary
+Number Status Priority
+2011-02 Replace the ordinary electrical equipment in the battery room with Completed Low
+Class 1 Div. 1 equipment
+2011-04 Steam turbine bearing T1 fire protection Completed Medium
+2011-05 STG cold reheat non-return valve Completed High
+2011-06 Remove combustible and personnel locker from the MCC and Completed Low battery room
+2011-07 Increase DGA analysis on GSU transformers Completed Medium
+2015-01 Verify the integrity of CT enclosures following the 2016 major New / Under Review Medium overhauls on CT1 and CT2.
+2015-02 Establish a routine on-line function test protocol for the CT and ST Agree: Progress High emergency lube oil pump operation. Pending
+2015-03 Monitor the dew point of hydrogen in the CT Generator cooling New / Under Review Medium systems.
+6.2 Recommendations
+2011-02 Replace the ordinary electrical equipment in the battery room with Class 1,
+Division 1 equipment
+Status: Completed
+Priority: Low
+Observation:
+A number of electrical junction boxes in the battery room (with Class 1 Div 1 equipment) did not meet the safety requirements, i.e. Ex-proof design. This invalidates the electrical classification and exposes the battery room to a source of ignition.
+Detail:
+We recommend ensuring that electrical classification integrity in the battery room is maintained.
+Plant Response: The inappropriate electrical fixtures were replaced as recommended.
+2011-04 Steam turbine bearing T1 fire protection
+Status: Completed
+Priority: Medium
+Observation:
+We observed that the sprinkler head was installed in the HP/IP turbine section next to the steam turbine bearing T1 compartment.
+Risk Engineering Services - Risk Report
+Elk Hills Power Plant
+Job Number 2015-4502
+26
+Detail:
+We would recommend re-routing the sprinkler piping from the HP/IP turbine section to the steam turbine
+T1 bearing compartment.
+Plant Response: The sprinkler routing was modified per the recommendation as of May 27, 2011.
+2011-05 STG cold reheat non-return valve
+Status: Completed
+Priority: High
+Observation:
+We observed that there was no exercising capability or internal inspection program in operation for the
+STG cold reheat non-return valve.
+Detail:
+We would recommend establishing exercising capability and an internal inspection type and schedule for the STG cold reheat non-return valve.
+Plant Response: Inspections were added to the operator's weekly routines.
+2011-06 Remove combustible and personnel locker from the MCC and battery room
+Status: Completed
+Priority: Low
+Observation:
+Some cardboard boxes were being stored in the battery room. Also, personnel lockers were installed in the MCC (motor control cabinet) room.
+Detail:
+To prevent fast fire propagation we would recommend storing these boxes in a dedicated place. Electrical rooms should be kept free of any storage, especially combustible goods. Moreover, we would recommend removing the personnel lockers from the MCC room.
+Plant Response: The cardboard boxes and personnel lockers were relocated per the recommendation.
+2011-07 Increase DGA analysis on GSU transformers
+Status: Completed
+Priority: Medium
+Observation:
+The GSU (generator step-up) transformers are operated without a continuous monitoring system and the power plant performs a DGA (dissolved gas analysis) once a year.
+Detail:
+The loss of a step-up transformer could trigger a large BI loss. Due to the fact that a spare transformer is not on site/in stock, we recommend performing a DGA (dissolved gas analysis) of the strategic transformers twice a year.
+Plant Response: A semi-annual DGA testing protocol has been established as recommended. In addition,
+Calisto continuous dissolved gas monitors have been installed on all three GSU transformers.
+2015-01 Verify the integrity of CT enclosures following the 2016 major overhauls on
+CT1 and CT2.
+Status: New / Under Review
+Priority: Medium
+Risk Engineering Services - Risk Report
+Elk Hills Power Plant
+Job Number 2015-4502
+27
+Observation:
+The combustion turbine enclosures utilize total flooding CO2 fire protection systems. For these systems to be effective, the enclosures have to be free of leakage such that the concentration of CO2 inside is maintained long enough for the risk of re-ignition to be minimized. During major maintenance outages, these enclosures are routinely dismantled and reassembled such that their leak tightness may be compromised. NFPA 850 (Recommended Practice for Fire Protection for Electric Generating Plants) recommends enclosure integrity be confirmed after every enclosure dismantle or modification, or at five year intervals.
+Detail:
+Verify the integrity of CT enclosures as well as the proper function of ventilation interlocks following the major overhauls on the combustion turbines currently scheduled for the spring of 2016.
+2015-02 Establish a routine on-line function test protocol for the CT and ST emergency lube oil pump operation.
+Status: Agree: Progress Pending
+Priority: High
+Observation:
+Each combustion turbine generator and the steam turbine generator is equipped with two normal lube oil pumps powered off of the plant's auxiliary power distribution system. They are also provided with a d.c.
+powered emergency bearing oil pump such that in the event of a power failure, lube oil can continue to circulate through the bearings while the units coast down. These emergency lube oil pumps are powered by individual battery sets and are started automatically when low lube oil pressure is signaled by a lube oil pressure switch. Other than at start-ups and shut downs, these emergency systems are almost never called on to operate. As such, these important back-up systems often fail to operate properly when needed resulting in severe damage to turbine generators. These system failures can arise from numerous sources including faulty or inoperative pressure switches, bad batteries or faults in the d.c. distribution system. Therefore, it is important to establish a routine test of the entire emergency bearing oil supply system to assure that any potential problem with the system is detected and addressed as quickly as possible.
+Detail:
+Establish a procedure for routinely testing the emergency lube oil supply system for each of the turbine generators while the units are in operation. The turbine manufacturer should be consulted to assure that the test procedure is adequate to test the entire emergency lube oil supply system without threatening generation or risking damage to the units. Once established, implement routine testing of this system on a weekly basis.
+Plant Response: GE is currently developing test procedures.
+2015-03 Monitor the dew point of hydrogen in the CT Generator cooling systems.
+Status: New / Under Review
+Priority: Medium
+Observation:
+The steam turbine generator is equipped with a hydrogen dryer which continuously monitors dew point in the gas. The CT generators, while also hydrogen cooled, are not equipped with hydrogen dryers or dew point monitors.
+Detail:
+Monitor dew points in the hydrogen cooling systems for the two combustion turbine generators. If dew points are found to be consistently high, consider installing dryers on these units.
+Risk Engineering Services - Risk Report
+Elk Hills Power Plant
+Job Number 2015-4502
+28
+Appendix A: Images and Attachments
+Steam Turbine Generator Lube Oil Reservoir
+Risk Engineering Services - Risk Report
+Elk Hills Power Plant
+Job Number 2015-4502
+29
+GSU Transformer Arrangement
+Risk Engineering Services - Risk Report
+Elk Hills Power Plant
+Job Number 2015-4502
+30
+Appendix B: Recommendation Priority Guides
+Priority Definition
+High These are high priority recommendations that present a large property loss potential or major business interruption exposure in the event of a loss incident.
+Medium These are recommendations that should be completed as they can result in a loss to property and/or business interruption
+Low These are recommendations identifying areas of sound loss prevention that can be completed on a programmed basis. Improvements are recognized as an enhancement to the overall quality of loss prevention at the facility.
+©2015
+Swiss Re
+Risk Engineering Services
+,
+Job number
+2015-4502
+Author(s)
+Dwight Hyche
+Reviewer
+Miodrag Comagic
+Underwriter
+Brendan Rau
+Email Dwight_Hyche@swissre.com
+Telephone +1 (601) 485-1322 www.swissre.com
+ARADB-UK-A4-SVMR-1.0.0
+14-Dec-2015
+31</text><riskFactors><entry><key>RF001</key><value name="RF001" value="G"><sentences><s riskFactorValue="E" begin="9338" end="9410"><text>? Excellent electrical and major maintenance practices are demonstrated.</text><operands><op begin="9340" end="9349"><text>Excellent</text></op><op begin="9350" end="9360"><text>electrical</text></op></operands></s><s riskFactorValue="E" begin="16379" end="16522"><text>Since this loss the plant has changed how they monitor SA surge counter readings, and increased power factor testing (currently once per year).</text><operands><op begin="16475" end="16487"><text>power factor</text></op><op begin="16488" end="16495"><text>testing</text></op><op begin="16516" end="16520"><text>year</text></op></operands></s><s riskFactorValue="F" begin="17813" end="17934"><text>Kern County experiences moderate electrical storms during summer months that occasionally ignite grass fires on Elk Hill.</text><operands><op begin="17837" end="17845"><text>moderate</text></op><op begin="17846" end="17856"><text>electrical</text></op></operands></s><s riskFactorValue="E" begin="52649" end="52716"><text>Power factor (Doble) testing is completed on a five-year frequency.</text><operands><op begin="52649" end="52661"><text>Power factor</text></op><op begin="52670" end="52677"><text>testing</text></op><op begin="52701" end="52705"><text>year</text></op></operands></s><s riskFactorValue="E" begin="52717" end="52774"><text>Manual sampling of transformer oil is completed annually.</text><operands><op begin="52736" end="52747"><text>transformer</text></op><op begin="52755" end="52764"><text>completed</text></op><op begin="52765" end="52773"><text>annually</text></op></operands></s><s riskFactorValue="E" begin="52775" end="52966"><text>Annual generator inspections are completed by outside contractors which include infrared inspections and visual inspections for oil leaks as well as stator and bearing RTDs among other areas.</text><operands><op begin="52775" end="52781"><text>Annual</text></op><op begin="52782" end="52791"><text>generator</text></op><op begin="52792" end="52803"><text>inspections</text></op></operands></s><s riskFactorValue="E" begin="53053" end="53113"><text>Generator liquid level alarms are tested on a monthly basis.</text><operands><op begin="53053" end="53062"><text>Generator</text></op><op begin="53087" end="53093"><text>tested</text></op><op begin="53099" end="53106"><text>monthly</text></op></operands></s><s riskFactorValue="G" begin="53114" end="53228"><text>Generator outage inspections were completed using GE's "MAGIC" robotic technology on all three generators in 2012.</text><operands><op begin="53114" end="53123"><text>Generator</text></op><op begin="53131" end="53142"><text>inspections</text></op><op begin="53148" end="53157"><text>completed</text></op><op begin="53158" end="53163"><text>using</text></op></operands></s><s riskFactorValue="G" begin="53479" end="53618"><text>All new switchgear has been equipped with IR inspection windows to permit thermographic inspection of contacts from outside their cabinets.</text><operands><op begin="53507" end="53515"><text>equipped</text></op><op begin="53521" end="53523"><text>IR</text></op><op begin="53524" end="53534"><text>inspection</text></op><op begin="53546" end="53552"><text>permit</text></op><op begin="53553" end="53566"><text>thermographic</text></op><op begin="53567" end="53577"><text>inspection</text></op></operands></s><s riskFactorValue="G" begin="58559" end="58648"><text>- Condenser tubes will be inspected and examined for leaks using eddy-current technology.</text><operands><op begin="58561" end="58570"><text>Condenser</text></op><op begin="58585" end="58594"><text>inspected</text></op><op begin="58599" end="58607"><text>examined</text></op><op begin="58618" end="58623"><text>using</text></op></operands></s><s riskFactorValue="X" begin="63094" end="63177"><text>2011-02 Replace the ordinary electrical equipment in the battery room with Class 1,</text><operands><op begin="63102" end="63109"><text>Replace</text></op><op begin="63123" end="63133"><text>electrical</text></op></operands></s><s riskFactorValue="X" begin="63502" end="63599"><text>We recommend ensuring that electrical classification integrity in the battery room is maintained.</text><operands><op begin="63502" end="63504"><text>We</text></op><op begin="63502" end="63514"><text>We recommend</text></op><op begin="63505" end="63514"><text>recommend</text></op><op begin="63529" end="63539"><text>electrical</text></op></operands></s><s riskFactorValue="P" begin="63600" end="63683"><text>Plant Response: The inappropriate electrical fixtures were replaced as recommended.</text><operands><op begin="63620" end="63633"><text>inappropriate</text></op><op begin="63634" end="63644"><text>electrical</text></op></operands></s><s riskFactorValue="E" begin="65395" end="65560"><text>The GSU (generator step-up) transformers are operated without a continuous monitoring system and the power plant performs a DGA (dissolved gas analysis) once a year.</text><operands><op begin="65519" end="65522"><text>DGA</text></op><op begin="65524" end="65537"><text>dissolved gas</text></op><op begin="65538" end="65546"><text>analysis</text></op><op begin="65555" end="65559"><text>year</text></op></operands></s><s riskFactorValue="X" begin="65634" end="65798"><text>Due to the fact that a spare transformer is not on site/in stock, we recommend performing a DGA (dissolved gas analysis) of the strategic transformers twice a year.</text><operands><op begin="65663" end="65674"><text>transformer</text></op><op begin="65700" end="65712"><text>we recommend</text></op><op begin="65772" end="65784"><text>transformers</text></op></operands></s></sentences></value></entry><entry><key>RF002</key><value name="RF002" value="E"><sentences><s riskFactorValue="E" begin="48588" end="48656"><text>Smoking is prohibited throughout all company buildings and vehicles.</text><operands><op begin="48588" end="48595"><text>Smoking</text></op><op begin="48599" end="48609"><text>prohibited</text></op></operands></s><s riskFactorValue="G" begin="48657" end="48717"><text>Smoking is only allowed outside in designated areas on-site.</text><operands><op begin="48657" end="48664"><text>Smoking</text></op><op begin="48668" end="48672"><text>only</text></op><op begin="48673" end="48680"><text>allowed</text></op><op begin="48692" end="48702"><text>designated</text></op><op begin="48703" end="48708"><text>areas</text></op></operands></s></sentences></value></entry><entry><key>RF003</key><value name="RF003" value="F"><sentences><s riskFactorValue="E" begin="10145" end="10194"><text>? Excellent housekeeping was observed throughout.</text><operands><op begin="10147" end="10156"><text>Excellent</text></op><op begin="10157" end="10169"><text>housekeeping</text></op></operands></s><s riskFactorValue="E" begin="27843" end="27882"><text>There are no gas compressors installed.</text><operands><op begin="27853" end="27855"><text>no</text></op><op begin="27856" end="27859"><text>gas</text></op></operands></s><s riskFactorValue="G" begin="35238" end="35276"><text>d) Drainage, curbing and spill control</text><operands><op begin="35241" end="35249"><text>Drainage</text></op><op begin="35251" end="35258"><text>curbing</text></op></operands></s><s riskFactorValue="G" begin="35277" end="35383"><text>There is good containment for the turbine generator lube oil reservoirs and also for the GSU transformers.</text><operands><op begin="35283" end="35285"><text>is</text></op><op begin="35291" end="35302"><text>containment</text></op></operands></s><s riskFactorValue="G" begin="35384" end="35441"><text>These containments are drained to an oil/water separator.</text><operands><op begin="35403" end="35406"><text>are</text></op><op begin="35407" end="35414"><text>drained</text></op><op begin="35421" end="35424"><text>oil</text></op></operands></s><s riskFactorValue="F" begin="35639" end="35834"><text>The system also contains transformer oil spill, accumulated oil from an oil water separator, and chemical spills from potentially hazardous areas for controlled disposal off-site by a tank truck.</text><operands><op begin="35676" end="35679"><text>oil</text></op><op begin="35680" end="35685"><text>spill</text></op><op begin="35736" end="35744"><text>chemical</text></op><op begin="35745" end="35751"><text>spills</text></op></operands></s><s riskFactorValue="G" begin="39703" end="39835"><text>The combustion turbine enclosures and lube oil compartments are protected by a low pressure total flooding CO2 extinguishing system.</text><operands><op begin="39741" end="39749"><text>lube oil</text></op><op begin="39763" end="39766"><text>are</text></op><op begin="39767" end="39776"><text>protected</text></op></operands></s><s riskFactorValue="G" begin="44185" end="44220"><text>- All Drain Valves Open And Healthy</text><operands><op begin="44191" end="44196"><text>Drain</text></op></operands></s><s riskFactorValue="E" begin="45326" end="45373"><text>c) Combustible gas and dust control (explosive)</text><operands><op begin="45349" end="45353"><text>dust</text></op><op begin="45354" end="45361"><text>control</text></op></operands></s><s riskFactorValue="F" begin="52775" end="52966"><text>Annual generator inspections are completed by outside contractors which include infrared inspections and visual inspections for oil leaks as well as stator and bearing RTDs among other areas.</text><operands><op begin="52903" end="52906"><text>oil</text></op><op begin="52907" end="52912"><text>leaks</text></op></operands></s><s riskFactorValue="X" begin="54114" end="54298"><text>A recommendation has been offered to calling for the establishment of a program for routinely testing the auto-start function of emergency lube oil pumps on a three turbine generators.</text><operands><op begin="54114" end="54130"><text>A recommendation</text></op><op begin="54253" end="54261"><text>lube oil</text></op><op begin="54258" end="54261"><text>oil</text></op></operands></s><s riskFactorValue="X" begin="62828" end="62960"><text>2015-02 Establish a routine on-line function test protocol for the CT and ST Agree: Progress High emergency lube oil pump operation.</text><operands><op begin="62836" end="62845"><text>Establish</text></op><op begin="62905" end="62910"><text>Agree</text></op><op begin="62936" end="62944"><text>lube oil</text></op><op begin="62941" end="62944"><text>oil</text></op></operands></s><s riskFactorValue="X" begin="64673" end="64750"><text>2011-06 Remove combustible and personnel locker from the MCC and battery room</text><operands><op begin="64681" end="64687"><text>Remove</text></op><op begin="64688" end="64699"><text>combustible</text></op></operands></s><s riskFactorValue="X" begin="65038" end="65120"><text>Electrical rooms should be kept free of any storage, especially combustible goods.</text><operands><op begin="65055" end="65064"><text>should be</text></op><op begin="65082" end="65089"><text>storage</text></op></operands></s><s riskFactorValue="X" begin="65634" end="65798"><text>Due to the fact that a spare transformer is not on site/in stock, we recommend performing a DGA (dissolved gas analysis) of the strategic transformers twice a year.</text><operands><op begin="65700" end="65712"><text>we recommend</text></op><op begin="65741" end="65744"><text>gas</text></op></operands></s><s riskFactorValue="X" begin="67059" end="67170"><text>2015-02 Establish a routine on-line function test protocol for the CT and ST emergency lube oil pump operation.</text><operands><op begin="67067" end="67076"><text>Establish</text></op><op begin="67146" end="67154"><text>lube oil</text></op><op begin="67151" end="67154"><text>oil</text></op></operands></s><s riskFactorValue="X" begin="68386" end="68535"><text>Establish a procedure for routinely testing the emergency lube oil supply system for each of the turbine generators while the units are in operation.</text><operands><op begin="68386" end="68395"><text>Establish</text></op><op begin="68444" end="68452"><text>lube oil</text></op><op begin="68449" end="68452"><text>oil</text></op></operands></s><s riskFactorValue="X" begin="68536" end="68741"><text>The turbine manufacturer should be consulted to assure that the test procedure is adequate to test the entire emergency lube oil supply system without threatening generation or risking damage to the units.</text><operands><op begin="68561" end="68570"><text>should be</text></op><op begin="68656" end="68664"><text>lube oil</text></op><op begin="68661" end="68664"><text>oil</text></op></operands></s></sentences></value></entry><entry><key>RF004</key><value name="RF004" value="G"><sentences><s riskFactorValue="G" begin="52135" end="52233"><text>Jorgensen &amp; Co. is contracted to perform annual and semi-annual inspections and maintenance on the</text><operands><op begin="52176" end="52182"><text>annual</text></op><op begin="52192" end="52198"><text>annual</text></op><op begin="52199" end="52210"><text>inspections</text></op></operands></s><s riskFactorValue="G" begin="52775" end="52966"><text>Annual generator inspections are completed by outside contractors which include infrared inspections and visual inspections for oil leaks as well as stator and bearing RTDs among other areas.</text><operands><op begin="52775" end="52781"><text>Annual</text></op><op begin="52792" end="52803"><text>inspections</text></op></operands></s></sentences></value></entry><entry><key>RF005</key><value name="RF005" value="E"><sentences><s riskFactorValue="G" begin="16379" end="16522"><text>Since this loss the plant has changed how they monitor SA surge counter readings, and increased power factor testing (currently once per year).</text><operands><op begin="16488" end="16495"><text>testing</text></op><op begin="16512" end="16520"><text>per year</text></op></operands></s><s riskFactorValue="E" begin="53654" end="53730"><text>The plant utilizes Maximo as its computerized maintenance management system.</text><operands><op begin="53687" end="53729"><text>computerized maintenance management system</text></op></operands></s><s riskFactorValue="G" begin="53654" end="53730"><text>The plant utilizes Maximo as its computerized maintenance management system.</text><operands><op begin="53687" end="53699"><text>computerized</text></op><op begin="53700" end="53711"><text>maintenance</text></op></operands></s><s riskFactorValue="G" begin="60818" end="60909"><text>F-CLASS TURBINE ROTOR INSPECTION AND 1540 NO NO ACTION REQUIRED MAINTENANCE RECOMMENDATIONS</text><operands><op begin="60863" end="60865"><text>NO</text></op><op begin="60882" end="60893"><text>MAINTENANCE</text></op><op begin="60894" end="60909"><text>RECOMMENDATIONS</text></op></operands></s></sentences></value></entry><entry><key>RF006</key><value name="RF006" value="F"><sentences><s riskFactorValue="G" begin="9220" end="9337"><text>No deficiencies in fixed fire protection systems for generating assets and excellent manual fire-fighting facilities.</text><operands><op begin="9220" end="9235"><text>No deficiencies</text></op><op begin="9239" end="9260"><text>fixed fire protection</text></op><op begin="9295" end="9304"><text>excellent</text></op></operands></s><s riskFactorValue="G" begin="36133" end="36314"><text>The EHPP fire water supply is comprised of two independent, fully reliable water supply sources, each capable of meeting the maximum demand &amp; duration for both sprinklers and hoses.</text><operands><op begin="36199" end="36207"><text>reliable</text></op><op begin="36293" end="36303"><text>sprinklers</text></op></operands></s><s riskFactorValue="G" begin="37153" end="37304"><text>The automatic sprinkler protection for the fire pump house is designed on an extra hazard pipe schedule, using 175 °F rated, half inch sprinkler heads.</text><operands><op begin="37167" end="37176"><text>sprinkler</text></op><op begin="37258" end="37263"><text>using</text></op></operands></s><s riskFactorValue="G" begin="41196" end="41368"><text>Fixed sprinkler protection is provided for the steam turbine generator bearings and under turbine areas with deluge systems protecting the lube oil and seal oil reservoirs.</text><operands><op begin="41202" end="41211"><text>sprinkler</text></op><op begin="41226" end="41234"><text>provided</text></op></operands></s><s riskFactorValue="X" begin="41682" end="41754"><text>The six-cell cooling tower is constructed of FRP and is not sprinklered.</text><operands><op begin="41735" end="41741"><text>is not</text></op><op begin="41742" end="41753"><text>sprinklered</text></op></operands></s><s riskFactorValue="G" begin="63781" end="63909"><text>We observed that the sprinkler head was installed in the HP/IP turbine section next to the steam turbine bearing T1 compartment.</text><operands><op begin="63802" end="63811"><text>sprinkler</text></op><op begin="63821" end="63830"><text>installed</text></op></operands></s><s riskFactorValue="X" begin="64004" end="64106"><text>We would recommend re-routing the sprinkler piping from the HP/IP turbine section to the steam turbine</text><operands><op begin="64004" end="64006"><text>We</text></op><op begin="64013" end="64022"><text>recommend</text></op><op begin="64038" end="64047"><text>sprinkler</text></op></operands></s></sentences></value></entry><entry><key>RF007</key><value name="RF007" value="G"><sentences><s riskFactorValue="G" begin="10459" end="10716"><text>? On-site Emergency Response Team activities are limited to defensive fire response. Offensive firefighting is dependent upon fully staffed Kern County Fire Department stations in Buttonwillow,
+Fellows, McKittrick, and Taft, with a 20 minute response time..</text><operands><op begin="10611" end="10626"><text>Fire Department</text></op><op begin="10684" end="10688"><text>with</text></op><op begin="10691" end="10693"><text>20</text></op><op begin="10694" end="10700"><text>minute</text></op><op begin="10701" end="10709"><text>response</text></op></operands></s><s riskFactorValue="G" begin="10459" end="10543"><text>? On-site Emergency Response Team activities are limited to defensive fire response.</text><operands><op begin="10469" end="10492"><text>Emergency Response Team</text></op><op begin="10504" end="10507"><text>are</text></op></operands></s><s riskFactorValue="G" begin="38107" end="38240"><text>There are currently 10 active emergency response team (ERT) members, with additional persons available on call as technical advisors.</text><operands><op begin="38113" end="38116"><text>are</text></op><op begin="38137" end="38160"><text>emergency response team</text></op><op begin="38162" end="38165"><text>ERT</text></op><op begin="38167" end="38174"><text>members</text></op><op begin="38192" end="38199"><text>persons</text></op></operands></s><s riskFactorValue="E" begin="38525" end="38628"><text>All operators on site do receive incipient firefighting training, including the use of monitor nozzles.</text><operands><op begin="38568" end="38580"><text>firefighting</text></op><op begin="38581" end="38589"><text>training</text></op></operands></s><s riskFactorValue="G" begin="38825" end="38964"><text>External support would be made available from the paid Kern County Fire Department; and the intervention time of the closest is 20 minutes.</text><operands><op begin="38892" end="38907"><text>Fire Department</text></op><op begin="38917" end="38929"><text>intervention</text></op><op begin="38930" end="38934"><text>time</text></op><op begin="38930" end="38934"><text>time</text></op><op begin="38950" end="38952"><text>is</text></op><op begin="38953" end="38955"><text>20</text></op><op begin="38953" end="38955"><text>20</text></op><op begin="38956" end="38963"><text>minutes</text></op><op begin="38956" end="38963"><text>minutes</text></op></operands></s><s riskFactorValue="G" begin="39040" end="39135"><text>A drill was conducted in 2015 at EHPP with the on-site ERT and the Kern County Fire Department.</text><operands><op begin="39052" end="39061"><text>conducted</text></op><op begin="39095" end="39098"><text>ERT</text></op></operands></s><s riskFactorValue="E" begin="42305" end="42377"><text>5.2.4 Process control a) Emergency shutdown (ESD), interlocks and alarms</text><operands><op begin="42330" end="42339"><text>Emergency</text></op><op begin="42340" end="42348"><text>shutdown</text></op></operands></s><s riskFactorValue="E" begin="47090" end="47203"><text>Bypass of safety critical instrumentation such as emergency shutdown systems is under the control of engineering.</text><operands><op begin="47140" end="47149"><text>emergency</text></op><op begin="47150" end="47158"><text>shutdown</text></op></operands></s><s riskFactorValue="E" begin="50279" end="50450"><text>On review the procedures provide a good level of detail and cover all expected aspects including start-up, normal and emergency shutdown and abnormal operating conditions.</text><operands><op begin="50397" end="50406"><text>emergency</text></op><op begin="50407" end="50415"><text>shutdown</text></op></operands></s><s riskFactorValue="X" begin="54114" end="54298"><text>A recommendation has been offered to calling for the establishment of a program for routinely testing the auto-start function of emergency lube oil pumps on a three turbine generators.</text><operands><op begin="54114" end="54130"><text>A recommendation</text></op><op begin="54186" end="54193"><text>program</text></op><op begin="54243" end="54252"><text>emergency</text></op></operands></s><s riskFactorValue="X" begin="62828" end="62960"><text>2015-02 Establish a routine on-line function test protocol for the CT and ST Agree: Progress High emergency lube oil pump operation.</text><operands><op begin="62836" end="62845"><text>Establish</text></op><op begin="62905" end="62910"><text>Agree</text></op><op begin="62926" end="62935"><text>emergency</text></op></operands></s><s riskFactorValue="X" begin="64673" end="64750"><text>2011-06 Remove combustible and personnel locker from the MCC and battery room</text><operands><op begin="64681" end="64687"><text>Remove</text></op><op begin="64704" end="64713"><text>personnel</text></op></operands></s><s riskFactorValue="X" begin="67059" end="67170"><text>2015-02 Establish a routine on-line function test protocol for the CT and ST emergency lube oil pump operation.</text><operands><op begin="67067" end="67076"><text>Establish</text></op><op begin="67136" end="67145"><text>emergency</text></op></operands></s><s riskFactorValue="X" begin="68386" end="68535"><text>Establish a procedure for routinely testing the emergency lube oil supply system for each of the turbine generators while the units are in operation.</text><operands><op begin="68386" end="68395"><text>Establish</text></op><op begin="68398" end="68407"><text>procedure</text></op><op begin="68434" end="68443"><text>emergency</text></op></operands></s><s riskFactorValue="X" begin="68536" end="68741"><text>The turbine manufacturer should be consulted to assure that the test procedure is adequate to test the entire emergency lube oil supply system without threatening generation or risking damage to the units.</text><operands><op begin="68561" end="68570"><text>should be</text></op><op begin="68561" end="68570"><text>should be</text></op><op begin="68605" end="68614"><text>procedure</text></op><op begin="68646" end="68655"><text>emergency</text></op><op begin="68646" end="68655"><text>emergency</text></op></operands></s></sentences></value></entry><entry><key>RF008</key><value name="RF008" value="G"><sentences><s riskFactorValue="G" begin="6687" end="6797"><text>The plant is located outside of any 500-year flood zone and is not subject to significant windstorm exposures.</text><operands><op begin="6708" end="6715"><text>outside</text></op><op begin="6723" end="6731"><text>500-year</text></op><op begin="6732" end="6737"><text>flood</text></op><op begin="6750" end="6753"><text>not</text></op><op begin="6754" end="6764"><text>subject to</text></op><op begin="6765" end="6776"><text>significant</text></op><op begin="6777" end="6786"><text>windstorm</text></op><op begin="6787" end="6796"><text>exposures</text></op></operands></s><s riskFactorValue="P" begin="6798" end="6850"><text>However, seismic risks to plant operations are high.</text><operands><op begin="6807" end="6814"><text>seismic</text></op><op begin="6815" end="6820"><text>risks</text></op><op begin="6845" end="6849"><text>high</text></op></operands></s><s riskFactorValue="F" begin="10863" end="11002"><text>As Elk Hills is situated on a section of the White Wolf Fault, the site is subject to seismic activity from this and other regional faults.</text><operands><op begin="10938" end="10948"><text>subject to</text></op><op begin="10949" end="10956"><text>seismic</text></op></operands></s><s riskFactorValue="G" begin="18040" end="18143"><text>Swiss Re's Catnet database indicates that the Elk Hills Power Plant is outside the 500 year-flood zone.</text><operands><op begin="18111" end="18118"><text>outside</text></op><op begin="18123" end="18131"><text>500 year</text></op><op begin="18132" end="18137"><text>flood</text></op></operands></s><s riskFactorValue="G" begin="18144" end="18170"><text>Flood exposure is minimal.</text><operands><op begin="18144" end="18149"><text>Flood</text></op><op begin="18150" end="18158"><text>exposure</text></op><op begin="18162" end="18169"><text>minimal</text></op></operands></s><s riskFactorValue="G" begin="18419" end="18494"><text>Swiss Re's Catnet database indicates wind storm hazards are rated Very Low.</text><operands><op begin="18456" end="18460"><text>wind</text></op><op begin="18461" end="18466"><text>storm</text></op><op begin="18467" end="18474"><text>hazards</text></op><op begin="18490" end="18493"><text>Low</text></op></operands></s><s riskFactorValue="F" begin="18495" end="18587"><text>Local 50-year peak gusts not exceeding 19 m/s suggest there is little exposure to windstorm.</text><operands><op begin="18565" end="18573"><text>exposure</text></op><op begin="18577" end="18586"><text>windstorm</text></op></operands></s><s riskFactorValue="F" begin="30385" end="30458"><text>A check list approach is used to verify possible post-earthquake damages.</text><operands><op begin="30425" end="30433"><text>possible</text></op><op begin="30439" end="30449"><text>earthquake</text></op></operands></s><s riskFactorValue="F" begin="30799" end="30908"><text>All piping exterior to the generating building or other enclosed structures shall be subject to wind loading.</text><operands><op begin="30884" end="30894"><text>subject to</text></op><op begin="30895" end="30899"><text>wind</text></op></operands></s><s riskFactorValue="G" begin="31418" end="31443"><text>Lightning Protection Code</text><operands><op begin="31418" end="31427"><text>Lightning</text></op><op begin="31428" end="31438"><text>Protection</text></op></operands></s><s riskFactorValue="G" begin="31444" end="31544"><text>Lightning protection will be provided where necessary in accordance with NFPA 78, UL 96, UL 96A, and</text><operands><op begin="31444" end="31453"><text>Lightning</text></op><op begin="31454" end="31464"><text>protection</text></op></operands></s><s riskFactorValue="G" begin="31761" end="31921"><text>Lightning protection will be provided by the six 192 kV station lightning arresters, and shield wires installed between terminal structures and lightning masts.</text><operands><op begin="31761" end="31770"><text>Lightning</text></op><op begin="31771" end="31781"><text>protection</text></op></operands></s><s riskFactorValue="G" begin="32143" end="32259"><text>The equipment lightning protection shall consist of station type lightning arresters at each GSU and line terminals.</text><operands><op begin="32157" end="32166"><text>lightning</text></op><op begin="32167" end="32177"><text>protection</text></op></operands></s></sentences></value></entry><entry><key>RF009</key><value name="RF009" value="U"><sentences/></value></entry><entry><key>RF010</key><value name="RF010" value="E"><sentences><s riskFactorValue="G" begin="32661" end="32786"><text>CRC has a dedicated security department supported by external contractors providing patrol and general security service 24/7.</text><operands><op begin="32735" end="32744"><text>providing</text></op><op begin="32745" end="32751"><text>patrol</text></op><op begin="32764" end="32780"><text>security service</text></op><op begin="32781" end="32785"><text>24/7</text></op></operands></s><s riskFactorValue="E" begin="32878" end="32898"><text>27 mile2 are fenced.</text><operands><op begin="32887" end="32890"><text>are</text></op><op begin="32891" end="32897"><text>fenced</text></op></operands></s><s riskFactorValue="G" begin="32878" end="32898"><text>27 mile2 are fenced.</text><operands><op begin="32887" end="32890"><text>are</text></op><op begin="32891" end="32897"><text>fenced</text></op></operands></s><s riskFactorValue="G" begin="33021" end="33088"><text>Fencing is provided around the perimeter of the entire power plant.</text><operands><op begin="33021" end="33028"><text>Fencing</text></op><op begin="33032" end="33040"><text>provided</text></op></operands></s><s riskFactorValue="E" begin="33089" end="33125"><text>The switchyard is fenced separately.</text><operands><op begin="33104" end="33106"><text>is</text></op><op begin="33107" end="33113"><text>fenced</text></op></operands></s><s riskFactorValue="G" begin="33089" end="33125"><text>The switchyard is fenced separately.</text><operands><op begin="33104" end="33106"><text>is</text></op><op begin="33107" end="33113"><text>fenced</text></op></operands></s><s riskFactorValue="E" begin="40561" end="40607"><text>There is a proprietary alarm system installed.</text><operands><op begin="40567" end="40569"><text>is</text></op><op begin="40584" end="40596"><text>alarm system</text></op></operands></s><s riskFactorValue="G" begin="40561" end="40607"><text>There is a proprietary alarm system installed.</text><operands><op begin="40561" end="40569"><text>There is</text></op><op begin="40584" end="40596"><text>alarm system</text></op></operands></s></sentences></value></entry><entry><key>RF011</key><value name="RF011" value="U"><sentences/></value></entry><entry><key>RF012</key><value name="RF012" value="G"><sentences><s riskFactorValue="G" begin="7563" end="7843"><text>The gas and steam turbine generators are in individual enclosures configured in parallel and separated by a minimum of 130 ft. This separation distance is more than adequate to assure that an uncontrolled lube oil fire occurring on any one unit will be confined to that unit only.</text><operands><op begin="7656" end="7665"><text>separated</text></op><op begin="7682" end="7685"><text>130</text></op><op begin="7686" end="7689"><text>ft.</text></op><op begin="7695" end="7705"><text>separation</text></op></operands></s><s riskFactorValue="G" begin="19533" end="19649"><text>Nearly 600 meters separate the EHPP plant from the LTS1 plant and nearly 700 meters separate it from the CGP1 plant.</text><operands><op begin="19540" end="19543"><text>600</text></op><op begin="19544" end="19550"><text>meters</text></op><op begin="19551" end="19559"><text>separate</text></op><op begin="19606" end="19609"><text>700</text></op><op begin="19610" end="19616"><text>meters</text></op><op begin="19617" end="19625"><text>separate</text></op></operands></s></sentences></value></entry></riskFactors><parameters/><attributes><a name="COUNTRY" begin="42" end="55"><text>United States of America</text></a><a name="COUNTRY" begin="57" end="60"><text>United States of America</text></a><a name="LATITUDE" begin="265" end="274"><text>35.280045</text></a><a name="LONGITUDE" begin="286" end="297"><text>-119.469599</text></a><a name="SURVEY_DATE_WEAK" begin="312" end="327"><text>20151021</text></a><a name="AS_Presence" begin="0" end="1"><text>No</text></a></attributes></riskFactorAnalysis>

@@ -1,0 +1,1069 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><riskFactorAnalysis><text>Property Information Report
+Caithness Energy, LLC – Caithness Long Island Energy Center November 2019
+Property Information Report
+Caithness Energy, LLC
+Caithness Long Island Energy Center
+50 Zorn Blvd
+Yaphank, NY
+40048’51”N - 72056’26”W 99 feet AMSL
+Survey Team: Monty Williamson – Alliant Insurance Services
+Site Participants: Bill Wareham, Plant Manager; Tom Copus, Caithness Director of Operations –
+Caithness Energy
+Survey Date: November 7, 2019
+Property Information Report
+Caithness Energy, LLC – Caithness Long Island Energy Center November 2019
+CONTENTS
+EXECUTIVE SUMMARY .................................................................................................. 4
+Contingent Exposures .................................................................................................................. 4
+Summary of Risk Reductions offered .......................................................................................... 4
+PURPOSE ............................................................................................................................. 5
+PROJECT SUMMARY ........................................................................................................ 5
+OPERATION SUMMARY .................................................................................................. 5
+PLANT DESCRIPTION ....................................................................................................... 6
+PROJECT HAZARDS SUMMARY .................................................................................... 8
+Combustion Turbine ...................................................................................................................... 8
+Steam Turbine ............................................................................................................................. 11
+Generators ................................................................................................................................... 13
+Heat Recovery Steam Generator ................................................................................................. 14
+Transformers ............................................................................................................................... 15
+Electrical ...................................................................................................................................... 17
+Auxiliary Boiler ............................................................................................................................. 17
+Fuel Supply .................................................................................................................................. 18
+Air Cooled Condenser .................................................................................................................. 19
+Compressed Air ........................................................................................................................... 19
+Station Batteries .......................................................................................................................... 20
+Control System-Control Room .................................................................................................... 20
+MANAGEMENT PROGRAMS ......................................................................................... 20
+Preventive Maintenance ............................................................................................................. 20
+Property Conservation Programs ................................................................................................ 23
+CONSTRUCTION SUMMARY ........................................................................................ 24
+FIRE PROTECTION .......................................................................................................... 25
+Sprinkler Protection ..................................................................................................................... 26
+Fuel Oil Protection ....................................................................................................................... 27
+Combustion Turbine Protection .................................................................................................. 27
+Fire Detection and Suppression Systems .................................................................................... 28
+Supervision, Fire Response and Security ..................................................................................... 28
+PROPERTY EXPOSURE .................................................................................................. 29
+INSURANCE RECOMMENDATION STATUS .............................................................. 32
+2 of 35
+Property Information Report
+Caithness Energy, LLC – Caithness Long Island Energy Center November 2019
+PLANT LOSS HISTORY................................................................................................... 32
+PLANT LOSS ESTIMATES .............................................................................................. 32
+APPENDICES .................................................................................................................... 35
+3 of 35
+Property Information Report
+Caithness Energy, LLC – Caithness Long Island Energy Center November 2019
+EXECUTIVE SUMMARY
+The Caithness Long Island Energy Center (Project) is a 350 MW combined cycle power plant comprised of one Siemens 501-FD3 (SGT6-5000F) combustion turbine generator with evaporative inlet cooling, one duct-fired Nooter/Eriksen heat recovery steam generator, one Siemens steam turbine generator and an air-cooled condenser. The plant is primarily fueled by natural gas and, alternatively, low-sulfur fuel oil when natural gas supply is curtailed. Typically, there are only test starts on liquid fuel.
+The plant is located in Yaphank, NY on Long Island 65 miles east of New York City and began commercial operation in August 12, 2009. The plant is one of the most efficient power generation facilities on Long Island and can supply power to the grid more economically than older, less efficient plants, creating a high demand for operation.
+The plant operates in base-load condition providing capacity and energy to Long Island
+Power Authority (LIPA) in accordance with a long-term power sales agreement. Siemens
+Energy, Inc. (Siemens) is the operations and maintenance contractor for Caithness Energy
+(Caithness) and has full care, custody and control of operation &amp; maintenance. An LTSA is in place for the CT and ST Units. The LTSA for the STG does not include a provision for parts.
+Natural gas fuel is provided by LIPA/National Grid through an interconnection with the gas main adjacent to the property. The pipeline operates at 300 psig and gas is compressed on site to plant operating pressure of approximately 480 psig.
+Contingent Exposures
+? Fuel Supply: Gas provided by LIPA/National Grid through an interconnection with the gas main adjacent to the property. There are three gas compressors on site.
+Alternate fuel is Ultra-Low Sulfur Diesel (ULSD). Gas is interruptible. There is a separate agreement with Con-Ed Energy for the 50 MW of duct burner capacity.
+? Electric Sales: There is a 20 year PPA in place with the Long Island Power
+Authority (LIPA) that ends August 2029. Con-Ed Energy bids the duct burner capacity into the day ahead NYISO market. Power from the site connects through a 138kV transmission line into the LIPA system.
+? Steam Sales: N/A
+? Water Supply: Caithness LI Energy Center utilizes water from the Suffolk County
+Water Authority for potable, cooling, and process water.
+Summary of Risk Reductions offered
+None.
+4 of 35
+Property Information Report
+Caithness Energy, LLC – Caithness Long Island Energy Center November 2019
+PURPOSE
+The purpose of this visit was to conduct property, risk engineering, and common equipment breakdown assessments. Managerial programs, protection, safety, and exposures for the project were reviewed and verified through observation and discussion with project management. The assessment and resulting report is intended to provide technical content and information for risk exposure assessment.
+Siemens provided a detailed overview of the project which was followed by office-based discussions with project management personnel and a site tour.
+PROJECT SUMMARY
+The project is on a 20-acre site located in Yaphank, NY, on Long Island 65 miles east of
+New York City, NY. It is a 350 MW combined cycle power plant comprised of one
+Siemens 501-FD3 (SGT6-5000F) combustion turbine generator (CTG) with evaporative inlet cooling, one duct-fired Nooter/Eriksen heat recovery steam generator (HRSG), one
+Siemens steam turbine generator (STG) and an air-cooled condenser.
+The plant is primarily fueled by natural gas and, alternatively, low-sulfur fuel oil when natural gas supply is curtailed. Natural gas fuel is provided by LIPA/National Grid through an interconnection with the gas main adjacent to the property. The main line is split into a 12” line for the compressors and a 6” line for the duct burners. The pipelines operate at 300 psig and gas is compressed on site to plant operating pressure of approximately 480 psig.
+The project began commercial operation in August 2009. The plant operates in base-load condition providing capacity and energy to LIPA in accordance with a long-term power sales agreement. The plant is interconnected to the LIPA 138 kV transmission system through a LIPA switchyard located approximately 1500 feet from the site. Siemens
+Energy, Inc. (Siemens) is the operations and maintenance contractor for Caithness and has full care, custody and control of operation &amp; maintenance.
+Water is provided from a municipal supply and waste water is held in storage on-site and hauled by truck to a regional wastewater facility for disposal.
+OPERATION SUMMARY
+The plant is base-loaded and can be non-duct fired dispatched by LIPA from 75 to 100% of the capability of the combustion turbine (CT). Incremental duct fired output is sold as merchant energy and/or ancillary services in the NY ISO market. The HRSG duct fired output capacity is 50MW.
+Lifetime Operating Statistics CT ST
+Unit Serial Number 37A8096-1 B02570
+Year of Manufacture 2008 2008
+Total Fired Hours (EBH) 11-1-19 81,496 79,844
+5 of 35
+Property Information Report
+Caithness Energy, LLC – Caithness Long Island Energy Center November 2019
+Total Equivalent Starts 575 211
+YTD September 2019 Operating Statistics
+Unit Total Fired Hours (EOH) Starts NCF EAF EFOR
+CT 5,996 9 - - -
+ST 5,996 9 - - -
+Plant 5,996 9 78.13 92.67 1.49
+2018 Operating Statistics
+Unit Total Fired Hours (EOH) Starts NCF EAF EFOR
+CT 8,215 5 - - -
+ST ~ 8,215 5 - - -
+Plant ~8,215 5 80.58 93.61 0.150
+2017 Operating Statistics
+Unit Total Fired Hours (EOH) Starts NCF EAF EFOR
+CT 8,047 11 - - -
+ST ~ 8,047 -11 - - -
+Plant ~8,047 -11 78.77 97.93 2.22
+PLANT DESCRIPTION
+Process
+The 215 MW rated CT is fueled by natural gas or fuel oil. Exhaust gas from the CT is directed to the HRSG where high, intermediate and low pressure steam is generated and directed to the 153
+MW rated ST. The CT exhaust gas passes through the HRSG selective catalytic reduction (SCR) system for reduction of NOx and a second catalyst for reduction of CO prior to exiting the HRSG stack. A natural gas duct burner in the reheat section of the HRSG provides 50 MW of supplemental power from the ST. The CT generator step-up (GSU) transformer increases the CTG voltage from 16.1 kV to 138 kV for interconnection with the LIPA regional transmission system. The STG GSU transformer similarly increases the STG voltage from 15.6 kV to 138 kV for transmission interconnection.
+Electrical Systems
+The CTG and STG GSU transformers supplied by Fortune Electric Co. connect to the plant switchyard which interconnects with the LIPA switchyard via a 1500 foot single circuit 138 kV interconnection line. One auxiliary transformer provides station power.
+The electrical one-line diagram is shown in the Appendices.
+Steam, Cooling, and Water Systems
+Steam generated in the HRSG is sent to the ST where it is expanded through high, intermediate and low pressure sections. The ST generator is water/air cooled and power is
+6 of 35
+Property Information Report
+Caithness Energy, LLC – Caithness Long Island Energy Center November 2019 routed through isolated-phase bus to a dedicated GSU transformer. Exhaust steam from the turbine is routed to a surface condenser with cooling provided by a GEA Air Cooled
+Condenser (ACC). The ACC is a conventional ‘A’ frame design with each condenser having 18 fans arranged in 3 rows of 6 make-up water and raw water are supplied from a municipal source. A 750,000 gallon raw water tank is filled from this connection and a reverse osmosis/mixed bed polishing demineralization system and 500,000 gallon storage tank are provided.
+Fuel Supply
+Natural gas fuel is provided by LIPA/National Grid through an interconnection with the gas main adjacent to the property. The main line is split into a 12” line for the compressors and a 6” line for the duct burners. The pipeline operates at 300 psig and gas is compressed to plant operating pressure of approximately 480 psig by two of three on site compressors. The gas compressors are provided with a vibration monitoring system.
+The plant gas yard provides metering, filtration, conditioning, pressure regulation and gas heating.
+Transformers
+CT and ST GSU transformers with on-line gas analyzers and an auxiliary transformer for station power are provided. Oil spill containment basins are provided for each transformer.
+Buildings and Enclosures
+A turbine building with overhead crane, an administration/control building, and a combined maintenance and warehouse building are provided. Local enclosures are provided for specific electrical control and equipment. Electrical heat trace is installed as necessary on all systems that are exposed and subject to freezing. Site layout is adequate for maintenance activities.
+Control System
+A Siemens T3000 DCS and central control room located in the administration/control building are provided.
+7 of 35
+Property Information Report
+Caithness Energy, LLC – Caithness Long Island Energy Center November 2019
+PROJECT HAZARDS SUMMARY
+Combustion Turbine
+The CT is a Siemens 501-FD3 (SGT6 - 5000F).
+Longitudinal Section
+COMBUSTION TURBINE SPECIFICATIONS
+Manufacturer Siemens
+Model Number (original) 501-FD2* (SGT6-5000F)
+Serial Number 37A8096-1
+Rating (kW) 215,000
+Compressor 16 Stage
+Combustor 16 Chamber Can Type
+Turbine 4-Stage
+Drive End Cold
+Speed (RPM) 3600
+Fuel Source Natural Gas or Liquid Fuel
+Inlet Cooling Evaporative Cooler
+NOx Control ULN
+Dynamic Monitoring Yes
+Year Built 2008
+Origin USA
+*Upgraded to an FD3 equivalent
+8 of 35
+Property Information Report
+Caithness Energy, LLC – Caithness Long Island Energy Center November 2019
+The CT was originally a 501 FD2 and was subsequently upgraded to an FD3 equivalent machine through combustion hardware improvements provided by Siemens service bulletins. Siemens improvements are given consideration at each annual plant outage and are selected based upon a cost-benefit analysis which focuses on plant reliability and performance. Siemens service bulletins and product bulletins which are applicable to this
+CTG are tracked and implemented as applicable. As of the last outages, they were up to date. They are being reviewed again for the HGP which will take place November 2019.
+The CT is fired primarily on natural gas and can also be fired on ULSD fuel. The CT is started with a torque/motor converter.
+The DCS is equipped with a PI performance monitoring system. The system captures operational data on a continuous basis. The CT is equipped with a continuous combustion dynamic monitoring system with alarm warning when a combustion dynamic level is exceeded. The system is used to perform on-line combustion tuning to assist with emission controls. CT operating conditions are also monitored remotely by the Siemens
+Power Diagnostic Group in Orlando, Florida. Critical conditions are reported to the plant immediately and a report is issued once per month.
+The CTG is equipped with a standard OEM protection package that includes, but is not limited to the following trip alarms:
+Thrust Bearing Temperature High Failure to Reach Ignition Speed
+Lube Oil Pressure Low High Exhaust Pressure
+Lube Oil Temperature High Shaft Vibration
+Maximum MW Trip Bleed Valve Position
+Normal Stop Prior to Sync Overspeed
+Pilot Fuel Differential Under speed
+Starting Sequence Trip Stage Gas Valve Position
+Loss of Flame Lube Oil Reservoir Low
+Blade Path Temperature High Load Dump
+PS&amp;G Panel Trip General Cold Gas Temperature High
+Gas Supply Temperature Failure Start Device Trip
+Acceleration Deviation High BOP Trip
+Pilot Gas Valve Position Comb Shell Pressure Bad Quality
+Operator Trip from Screen Ignition Failure
+Blade Path Spread &gt; 150°F General Bearing Temperature High
+Blade Path ?T High Control Room Trip
+Starter Torque Convert Trouble Fire System
+Simadyn HW Trip Speed Sensor Bad
+Stage Fuel Differential Over-Frequency
+A Bentley Nevada CT vibration monitoring system is provided. The DCS will shut down or trip the CT on high vibration. Run back and shutdown limits are provided.
+9 of 35
+Property Information Report
+Caithness Energy, LLC – Caithness Long Island Energy Center November 2019
+The CTG is equipped with electronic overspeed trip systems containing 2 of 3 voting logic with redundant power supplies. A mechanical overspeed trip device is not utilized. The electronic overspeed system is tested at every start for both CT and ST. Overspeed testing is functionally completed annually.
+The CT combustion system for NOx emissions control was upgraded from dry-low NOx
+(DLN) to ultra-low NOx (ULN) as part of the CTG upgrade in October 2015.
+CT inlet air evaporative cooling for power augmentation and a manual online and offline water wash system for optimizing compressor performance is provided. Compressor icing monitors identify icing conditions on the inlet to the compressor, which can be common during low operating load and temperature conditions under 40°F. A CT inlet heating system is provided.
+The lube oil and electro-hydraulic control (EHC) systems use an 8,000 gallon combined oil storage tank and filtering system. This oil storage tank is located within a dedicated external enclosure. The lube oil system operates at approximately 20 psi. The EHC system operates at approximately 850psi. Oil samples are completed monthly. The last sample reviewed was from 9/20/19 and was satisfactory. There was a slight upward trend of varnish and is being monitored. Generally, there have been no varnish issues on this site.
+Recent Maintenance
+A HGP is scheduled to start November 17, 2019.
+In October 2017, a modified HGP inspection was completed. This included row 2 vane replacement.
+A CT Major was completed October 12-December 21, 2015. During this outage, the starting motor was overhauled. There is no spare on site but this motor does not see much use as the plant is typically base loaded with very few starts per year.
+The 2015 CT Major scope was expanded to include the following.
+? Bearing bore drop measurements
+? Hook fit repairs
+? Balance access tube repairs
+? Blending of compressor blades
+? Replacement of row 1 compressor blades
+? Row 2 compressor diaphragm repairs
+? IGV maintenance
+? CT to Generator alignment
+? Top hat machining
+? Drilling dowel holes in pilot fuel gas flange
+? Replacement of outlet guide vanes
+10 of 35
+Property Information Report
+Caithness Energy, LLC – Caithness Long Island Energy Center November 2019
+Steam Turbine
+The ST is a Siemens SST-700 nominally rated for 153 MW. The ST is designed for variable pressure operation. The generator is driven from the HP turbine with a gear box and from the IP/LP turbine on the opposite end.
+STEAM TURBINE SPECIFICATIONS
+Manufacturer Siemens
+Model Number SST 700
+Serial Number B02570
+Rating (kW) 152,694
+HP Stages 10
+IP Stages 8
+LP Stages 4
+Drive Ends HP and IP/LP
+Speed (RPM) 3600
+Year Built 2008
+Where Built (Country) Finspong, Sweden
+The ST OEM alarms and trips provided include the following:
+Thrust Position Lube Oil Pressure Low
+11 of 35
+Property Information Report
+Caithness Energy, LLC – Caithness Long Island Energy Center November 2019
+Bearing Vibration High Overspeed
+Condenser Vacuum Low LP Casing Temperature High
+EHC Oil Pressure Low Extraction Steam Pressure High
+The ST is located on the turbine pedestal within the Generation Building. Auxiliary equipment is situated on the ground level beneath the turbine generator. The lube oil and
+EHC systems have a 5,810 gallon combined oil storage tank and filtering system. This oil storage tank is located on the ground level, beside the STG. The lube oil system operates at approximately 30 psi. Oil samples are completed monthly. The last sample reviewed was from 9/20/19 and was satisfactory.
+Recent Maintenance
+There was a five day outage in April 2019 due to a collector ring failure. The site has very experienced staff and was able to make repairs. There were minor indications on the shaft and site personnel was able to strap this off. The Plant Manager noted the root cause was still under investigation. The staff is doing more frequent inspections on this system and working with the Carbex Company to study putting continuous brush monitoring in place.
+During the normal spring outage 2019, the steam turbine gearbox gears were changed out.
+This was based on a recommendation from the overhaul in 2015. The old set of gears has been refurbished and will be kept as ready spares.
+In November 2017, an inspection was completed on the ST. This included the lube oil and control oil systems, trip block and trip block valves, inlet steam valves, gland steam, temperature, vibration monitoring, axial thrust position and speed systems. All trips are tested and the vacuum breaker inspected. During this outage, the hydraulic motor to the coast down lube oil system was replaced and the system was commissioned again.
+In 2015, a ST Major was completed. The outage was from October 19-December 23,
+2015. Siemens Energy and Siemens Demag Delaval did the work. The overhaul included repairs on diaphragms and carriers 1-9 and 10 respectively. Valve work included overhauls on the upper and lower HP stop valves, upper and lower control valves and exhaust non-return valves #1 and #2. Repairs completed that had a significant impact on the outage included:
+? Lower casing crack removal
+? Lower steam inlet bores
+? Lower steam inlet drains
+? Lower cooling steam inlet bore
+? Volute key area
+12 of 35
+Property Information Report
+Caithness Energy, LLC – Caithness Long Island Energy Center November 2019
+Generators
+GENERATOR SPECIFICATIONS
+Unit CT ST
+Manufacturer Siemens Siemens
+SGen6-1000A SGen6-100A-2P Model Number / Type S2R2 Aeropac II TLRI
+Serial Number 11530 12008087
+Rating (kVA) 196,200 169,660
+Speed (RPM) 3600 3600
+Stator Cooling TEWAC TEWAC
+Rotor Cooling TEWAC TEWAC
+Power Factor 0.90 0.90
+Stator Volts 16,500 15,750
+Stator Amps 7,628 6,219
+Frequency (Hertz) 60 60
+Phases 3 3
+Year Built 2007 2008
+Origin USA Germany
+The CT generator is a Siemens SGen6-1000A. The generator is a totally-enclosed-water- air cooled (TEWAC) unit. The generator is provided with stator coil temperature and continuous partial discharge monitoring systems by Iris. The generator is equipped with flux probes.
+The generator utilizes Beckwith generator protection, microprocessor based, multifunctional electronic relays for phase differential, voltage, over-current, reverse power, auto synch, loss of field, frequency, negative sequence, ground differential, and breaker failure.
+The ST generator is a Siemens SGen6-100A. The generator is a totally-enclosed-water-air cooled (TEWAC) unit.
+Recent Maintenance
+During the CT Major in 2015, both the CT and ST generator rotors were pulled and standard testing completed. This included a Siemens FSP-370 maintenance inspection.
+Major repairs included resin application on dusting and cracking indications and neutral leads machining and silver plating. A bearing was replaced on the CT generator. Exciter cleaning was completed on both and a diode module was replaced on the CT generator.
+Both generators have Iris PD monitoring systems and flux probes.
+13 of 35
+Property Information Report
+Caithness Energy, LLC – Caithness Long Island Energy Center November 2019
+Heat Recovery Steam Generator
+HRSG SPECIFICATIONS
+HP Section IP Section LP Section
+Manufacturer Nooter/Eriksen Nooter/Eriksen Nooter/Eriksen
+National Board 1076 1078 1080 Number
+New York Vessel NY035002H NY035002H NY035002H Number
+Year Built 2009 2009 2009
+Serial Number 053200 053200 053200
+MAWP (psig) 2,650 490 230
+Temperature (°F) 685 475 405
+Capacity (lbs. / hr.) 753,040 120,210 66,560
+Heating Surface (sq. 1,300,385 257,934 273,538 ft.)
+Duct Firing / Fuel Yes / Natural Gas
+Origin USA
+The HRSG, manufactured by Nooter Eriksen, is a triple-pressure, natural circulation, supplemental fired, horizontal drum type with gas flow horizontal and perpendicular to vertical water evaporator tubes manufactured by Nooter Erickson in 2008. A stack damper used during plant shutdown is provided. This type of HRSG is considered proven technology.
+Steam is generated at three pressure levels; superheated high pressure (HP), reheated medium pressure (IP), and superheated low pressure (LP). The HRSG is constructed to
+ASME Code Section I and is registered with the National Board. Low and high level trips in addition to super heater high temperature run-backs and trips, among other alarms and trips are provided.
+The HRSG is equipped with two 100% capacity (at full duct firing), boiler feed water pumps. Each pump is driven by a 4,500 hp electric motor.
+A selective catalytic reduction system for NOx control is provided. A 19% solution of aqueous ammonia is stored in a 20,000 gallon tanks and injected into the HRSG exhaust to reduce NOx emissions to comply with current NYS DEC emissions requirements for this plant. A catalyst is also provided to reduce CO emissions to within regulatory emission requirements. A Continuous Emissions Monitoring System (CEMS) is provided for environmental monitoring of stack emissions as required for EPA compliance reporting.
+14 of 35
+Property Information Report
+Caithness Energy, LLC – Caithness Long Island Energy Center November 2019
+Transformers
+This plant has a CT and a ST generator step-up (GSU) transformer each manufactured by
+Fortune Electric Co., one Fortune Electric Co. auxiliary (AUX) transformer, and four station transformers.
+CT GSU Transformer ST GSU Transformer
+The CT GSU transformer steps up generated power from 16.1 kV to 138 kV for interconnection with the LIPA transmission system. Similarly, the ST GSU steps up generated power from 15.6 kV to 138 kV for transmission interconnection.
+Transformers are located approximately 100 feet from most adjacent structures.
+Reinforced concrete fire walls provide blast-fire-impact resistance to adjacent structures where separation distance is less than 50 feet. Transformers are located in concrete curb containment designed to contain potential oil leaks.
+The AUX transformer steps down CTG generated power from 16.5 kV to 4.16 kV for plant auxiliary loads. Four dry type station transformers step down the plant 4.16 kV power to 480V for additional plant loads. Two of the station transformers are dedicated to the air cooled condenser.
+Transformer alarms are monitored through a microprocessor based relay system in the control room. The following transformer condition alarms are also provided in the control room:
+Loss of Cooling Fans Loss of AC Power
+Sudden Pressure Relay Pressure Relief Device Operated
+Rapid Flow (Buchholz) Gas Accumulation (Buchholz)
+Hydran Fault Monitor Air Cell Signal Relay
+Low Oil Level High Oil Level
+Winding Temp Alarm (Low Voltage) Winding Temp Alarm (High Voltage)
+Oil Temperature
+Transformer protection is provided through electronic relays, which includes, but is not limited to, breaker failure, differential, ground fault and unit differential.
+15 of 35
+Property Information Report
+Caithness Energy, LLC – Caithness Long Island Energy Center November 2019
+The GSU transformers utilize Hydran M2 Transformer Incipient Fault Monitors. See picture below. The Hydran units continuously monitor the insulating oil for moisture and the following gases:
+Hydrogen Ethane
+Methane Carbon Monoxide
+Acetylene Carbon Dioxide
+Ethylene Total Dissolved Combustible Gases
+These transformers are not provided with online bushing diagnostics, sweep frequency response analysis or acoustic emission monitoring. They do have Hydran gas monitors.
+DGA testing is completed semi-annually and includes furan analysis. The last test reviewed was from 9/17/19 and was found to be satisfactory. Corrosive sulfur testing was completed in 2012 and was non-corrosive (1b). A brief discussion was held on the importance of doing corrosive sulfur testing again and then if no issues, doing every other year going forward. This will give the site a good base line and if any issues are found, enough time to passivate.
+Based on the age of the plant, PCB contamination has not been found in any transformers, capacitor banks or on the site.
+Recent Maintenance
+Transformer electrical testing was completed during an outage in April 2019 by American
+Electrical Testing Company. This included bushing power factor testing. The HO bushing on the ST (bank 1) was replaced due to a failed test.
+TRANSFORMER SPECIFICATIONS
+Unit Type CT GSU ST GSU Auxiliary
+11 BBT 01 Unit Name 11 BAT 01 (CT) 10 BAT 01 (ST) (Aux)
+Manufacturer Fortune Fortune Fortune
+Serial No. 05055 06012 06013
+Rating (MVA) 230 / 184 / 138 190 / 152 / 114 25 / 20 / 15
+16 of 35
+Property Information Report
+Caithness Energy, LLC – Caithness Long Island Energy Center November 2019
+Cooling (Class) ONAN / ONAF ONAN / ONAF ONAN / ONAF
+@@@ &gt; Cooling (Class)
+Temperature Rise (°C)
+$$$
+
+@@@ &gt; ONAN / ONAF
+65
+$$$
+
+@@@ &gt; ONAN / ONAF
+65
+$$$
+
+@@@ &gt; ONAN / ONAF
+65
+$$$
+
+@@@ &gt; Cooling (Class)
+Low Voltage (kV)
+$$$
+
+@@@ &gt; ONAN / ONAF
+16.5
+$$$
+
+@@@ &gt; ONAN / ONAF
+15.75
+$$$
+
+@@@ &gt; ONAN / ONAF
+4.16
+$$$
+
+@@@ &gt; Cooling (Class)
+High Voltage (kV)
+$$$
+
+@@@ &gt; ONAN / ONAF
+138
+$$$
+
+@@@ &gt; ONAN / ONAF
+138
+$$$
+
+@@@ &gt; ONAN / ONAF
+16.5
+$$$
+
+@@@ &gt; Cooling (Class)
+Phase
+$$$
+
+@@@ &gt; ONAN / ONAF
+3
+$$$
+
+@@@ &gt; ONAN / ONAF
+3
+$$$
+
+@@@ &gt; ONAN / ONAF
+3
+$$$
+
+@@@ &gt; Cooling (Class)
+Windings
+$$$
+
+@@@ &gt; ONAN / ONAF
+2
+$$$
+
+@@@ &gt; ONAN / ONAF
+2
+$$$
+
+@@@ &gt; ONAN / ONAF
+2
+$$$
+
+@@@ &gt; Cooling (Class)
+Frequency (Hertz)
+$$$
+
+@@@ &gt; ONAN / ONAF
+60
+$$$
+
+@@@ &gt; ONAN / ONAF
+60
+$$$
+
+@@@ &gt; ONAN / ONAF
+60
+$$$
+
+@@@ &gt; Cooling (Class)
+BIL (kV)
+$$$
+
+@@@ &gt; ONAN / ONAF
+550 / 150 / 150
+$$$
+
+@@@ &gt; ONAN / ONAF
+550 / 150 / 150
+$$$
+
+@@@ &gt; ONAN / ONAF
+150 / 95 / 95
+$$$
+
+@@@ &gt; Cooling (Class)
+Impedance (%)
+$$$
+
+@@@ &gt; ONAN / ONAF
+8.97
+$$$
+
+@@@ &gt; ONAN / ONAF
+8.92
+$$$
+
+@@@ &gt; ONAN / ONAF
+6.77
+$$$
+
+@@@ &gt; Cooling (Class)
+Form (Shell v. Core)
+$$$
+
+@@@ &gt; ONAN / ONAF
+Core
+$$$
+
+@@@ &gt; ONAN / ONAF
+Core
+$$$
+
+@@@ &gt; ONAN / ONAF
+Core
+$$$
+
+@@@ &gt; Cooling (Class)
+Tap Changer Type
+$$$
+
+@@@ &gt; ONAN / ONAF
+OLTC
+$$$
+
+@@@ &gt; ONAN / ONAF
+OLTC
+$$$
+
+@@@ &gt; ONAN / ONAF
+OLTC
+$$$
+
+@@@ &gt; Cooling (Class)
+Preservation Method
+$$$
+
+@@@ &gt; ONAN / ONAF
+Conservator
+$$$
+
+@@@ &gt; ONAN / ONAF
+Conservator
+$$$
+
+@@@ &gt; ONAN / ONAF
+Conservator
+$$$
+
+@@@ &gt; Cooling (Class)
+Oil Type
+$$$
+
+@@@ &gt; ONAN / ONAF
+Mineral
+$$$
+
+@@@ &gt; ONAN / ONAF
+Mineral
+$$$
+
+@@@ &gt; ONAN / ONAF
+Mineral
+$$$
+
+@@@ &gt; Cooling (Class)
+Oil Capacity (Gallons)
+$$$
+
+@@@ &gt; ONAN / ONAF
+9,625
+$$$
+
+@@@ &gt; ONAN / ONAF
+8,524
+$$$
+
+@@@ &gt; ONAN / ONAF
+1,964
+$$$
+
+@@@ &gt; Cooling (Class)
+Year Built
+$$$
+
+@@@ &gt; ONAN / ONAF
+2007
+$$$
+
+@@@ &gt; ONAN / ONAF
+2007
+$$$
+
+@@@ &gt; ONAN / ONAF
+2007
+$$$
+
+@@@ &gt; Cooling (Class)
+Origin
+$$$
+
+@@@ &gt; ONAN / ONAF
+Taiwan
+$$$
+
+@@@ &gt; ONAN / ONAF
+Taiwan
+$$$
+
+@@@ &gt; ONAN / ONAF
+Taiwan
+$$$
+
+Electrical
+Relays are calibrated every four years on this site. The next calibration cycle is 2020. Arc flash studies were last done in 2012. The site has arc flash signage posted and dress to the appropriate levels required.
+In August 2019, the plant lost auxiliary power in the substation which caused half of the plant to go black. One of the resulting issues was the steam turbine locked up and the plant was in outage four days. The cause of the outage was moisture in a temperature sensor for the #1 auxiliary transformer (4,160/480V) that caused the trip. This has been an issue in the past and the site is looking to improve the protection to this device and possibly move the sensor inside the electrical module associated with the transformer.
+Auxiliary Boiler
+@@@ &gt; ONAN / ONAF
+A Cleaver Brooks natural gas, front burner, water tube boiler is provided for winter heating
+$$$
+
+@@@ &gt; ONAN / ONAF
+and sparging functions. This boiler also supplies minimum steam pressure for specific plant
+$$$
+
+@@@ &gt; ONAN / ONAF
+components during outage or emergency shut down conditions. Two 100% capacity boiler
+$$$
+
+@@@ &gt; ONAN / ONAF
+feed pumps are provided for this boiler.
+$$$
+
+@@@ &gt; ONAN / ONAF
+Combustion safe guards include flame sensor, combustion air flow switch, manual shut-off
+$$$
+
+@@@ &gt; ONAN / ONAF
+valve, double safety shut-off valves and vent, low/high gas pressure switch, purge timer,
+$$$
+
+@@@ &gt; ONAN / ONAF
+and combustion safeguard unit.
+$$$
+
+17 of 35
+Property Information Report
+Caithness Energy, LLC – Caithness Long Island Energy Center November 2019
+AUXILIARY BOILER SPECIFICATIONS
+Manufacturer Cleaver Brooks
+National Board Number 15186
+New York Vessel Number NY035003H
+Year Built 2007
+Serial Number OL104660
+MAWP (psi) 200
+Temperature (°F) 718
+Capacity (lbs. / hr.) 24,425
+Heating Surface (sq. ft.) 3,500
+Origin USA
+Fuel Supply
+Natural Gas System
+Natural gas for firing the combustion turbine, HRSG duct burners and auxiliary boiler is provided through underground pipelines on site. The 12-inch diameter main pipeline, supplied by LIPA/National Grid, serve as the natural gas source for the CT. A 6-inch diameter pipeline, supplied by LIPA/National Grid, serves as the natural gas source for the
+HRSG duct burners and auxiliary boiler.
+Fuel is provided to the plant at approximately 300 psi. This fuel is metered then compressed, coalesced, filtered and preheated prior to use by the CT. Natural gas compression is accomplished within 2 of 3 reciprocating compressors. Each compressor is designed to provide 50% of the natural gas a full capacity. This
+CT requires natural gas at approximately 480 psi.
+The natural gas compressors are provided with a vibration monitoring system for high vibration shutdown protection.
+18 of 35
+Property Information Report
+Caithness Energy, LLC – Caithness Long Island Energy Center November 2019
+Fuel Oil System
+Ultra-low sulfur No. 2 fuel oil is used as a back-up fuel. A 750,000 gallon fuel oil storage tank is provided on site. The two-truck bay fuel transfer station has a 12,000 gallon per hour capacity. The plant is permitted to burn a maximum of 720 hours of fuel oil during full production in any rolling 12-month time period.
+Air Cooled Condenser
+The GEA ACC is a conventional ‘A’ frame design with 18 fans arranged in 3 rows of 6 fans. Each 9 blade fan is 34 feet in diameter and is driven by a 250 hp electric motor at 93 rpm. All 18 fans are needed in the hotter months of summer and less in the winter. The original hub design had six blades which had issues with vibrations and cracking/breaking off. The final design modifications were for a nine blade design. There are two spare gearboxes on site. There have been no major issues with the blades since the new design was put in place.
+Compressed Air
+Compressed air is provided from two rotary type positive displacement compressors. Air is used for pneumatic controls, transmitters, instruments, and valve operators. Each compressor can sustain 100% of the plant demand.
+19 of 35
+Property Information Report
+Caithness Energy, LLC – Caithness Long Island Energy Center November 2019
+Station Batteries
+ST batteries and charger/inverter
+Flooded lead acid batteries are utilized for the CTG unit battery bank. Valve regulated lead acid (VRLA) batteries are utilized for the STG unit battery bank, for the BOP battery bank (located in the PCC) and for the switchyard. Batteries are load tested every five years and last done spring 2017. All battery systems are original batteries.
+Control System-Control Room
+The control system in place is the Siemens T3000, version 4.6. This is being upgraded to version 8.2 during the fall outage. The staff is comprised of ten Operators, three
+Mechanics, one Maintenance Supervisor, Plant Manager, O&amp;M Supervisor, Plant
+Engineer and one Administrative Assistant. Caithness has an Asset Manager that splits time between multiple plants and is base out of Pennsylvania.
+MANAGEMENT PROGRAMS
+The Mainsaver Asset Management Software program is the computerized maintenance management system (CMMS) used for Preventive (PM) and Predictive (PdM) scheduling and maintenance work. A Long Term Service Agreement (LTSA) with the Siemens OEM for the CTG and STG is in-place and ends at 150,000 equivalent operating hours. The
+LTSA for the STG does not include a provision for parts. It covers “open and close.”
+Preventive Maintenance
+The plant staff coordinates with Siemens representatives and third party advisors to develop annual outage work schedules. PI performance analysis is utilized within this process.
+CTG OEM inspection intervals are based upon Siemens guidelines:
+? Borescope inspection annually
+? Combustion Inspection was at 400 starts or 12,500 fired hours-eliminated after
+2015 upgrades-now incorporated with HGP every 33,200 fired hours
+20 of 35
+Property Information Report
+Caithness Energy, LLC – Caithness Long Island Energy Center November 2019
+? Hot Gas Path inspection at 800 starts or 33,200 fired hours
+? Major Inspection at 1,600 starts or 66,400 fired hours
+The plant is base loaded, therefore, inspections are based on fired hours.
+Similarly, STG OEM inspections are based on the following guidelines:
+? Minor Inspection at 25,000 operating hours
+? Major Inspection at 50,000 operating hours
+Minor inspections include inspection of stop, throttle, reheat, non-return and intercept valves while the cycling the steam turbine to insure proper functional operation of the turbine valves.
+A CTG upgrade and STG major outage was completed in November 2015. The next CTG
+Hot Gas Path is scheduled for November 2019. Routine BOP equipment maintenance, CT borescope, and STG safety inspections are scheduled every April and October. The last
+CT borescope reviewed was from April 2019 by Siemens. This included the non- destructive examination mitigation inspection, IGV angle validation and 4-way leak/seal work scope. This inspection was to extend the interval of the HGP to November 2019.
+The inspection showed the Unit to be satisfactory for the hours/starts attained to this point.
+The combustor rope seal was replaced during the outage.
+OEM SERVICE BULLETINS
+A detailed spreadsheet of technical service and product bulletins which are applicable to these units is maintained. Specific OEM inspections and modifications related to the 501F technology include the following:
+? Compressor Diaphragm Hook Wear Pin Inspection
+? Turbine Row 1 Ring Segment Wear Inspection
+? Turbine Row 1 Static Seal Inspection (FD2 and FD3)
+? Turbine Row 1 Blade Seal Pin Clogging (seal pin slot modification)
+? Turbine Row 2 Blade (blade undercut modification)
+? Belly Band Wear Inspection
+? Turbine Row 3 Blade Modification (applicable to units manufactured prior to
+11/2002)
+? Turbine Row 4 Blade (scalloped blade modification)
+? Exhaust Cracking (expansion joint full penetration weld repair)
+? Generator Spark Erosion (applicable to Aeropac I and Westac Generators)
+? Generator Rotor Pole Crossover (applicable to Aeropac I and Westac
+Generators)
+OEM CTG and STG service and product bulletins for inspections and modifications are implemented as applicable.
+21 of 35
+Property Information Report
+Caithness Energy, LLC – Caithness Long Island Energy Center November 2019
+Turbine control valve overhauls are normally completed during the hot gas path inspections or major inspections of the gas turbines. Turbine control valves are overhauled based on operating hours and performance of the steam turbine. The DC lube pumps associated with the combustion and steam turbines are tested as part of the startup procedure.
+All boilers and pressure vessels are registered with the State of New York, which requires annual, internal inspections. Any repair work is performed by contractors with a local
+National Board (NB) “R” stamp.
+Weekly inspections of the transformers are made for desiccant, oil temperature, winding temperature, oil level, leak corrosion, and general overall integrity. Oil samples are tested at least every 6 months to determine combustibles gases. Transformer insulation oil has been tested for the presence of corrosive sulfur.
+PREVENTIVE &amp; PREDICTIVE MAINTENANCE PROGRAMS
+COMBUSTION TURBINES
+Bore-Scope Inspection Frequency Annual
+Combustion Inspection Frequency Since 2015 upgrade, Done with HGP
+Hot Gas Path Inspection Frequency 800 Starts or 33,200 Fired Hours
+1,600 Starts or 66,400 Fired Hours Major Dismantle Inspection Frequency
+Electrical: Annual Over-speed Trip Test Frequency
+Vibration Monitoring Continuous
+Oil Analysis / Screening Every 6 Months
+Alarm Trip Tests Every Start Up
+STEAM TURBINES
+Minor Inspection Frequency 25,000 Operating Hours
+50,000 Operating Hours Minor Inspection Frequency
+Planned Outage Frequency Annual
+Vibration Monitoring Continuous
+Oil Analysis / Screening Continuous
+Over-speed Trip Test Frequency Electrical: Annual
+Alarm Trip Tests Every Start Up
+HEAT RECOVERY STEAM GENERATORS
+Outage Frequency Annual
+FAC Inspection Frequency Annual
+Safety Valve Inspection Frequency Annual
+Safety Valve Rebuild Frequency 5 Years
+High Energy Piping Analysis Frequency None
+Hanger Inspection Frequency As Needed
+Jurisdictional Object Inspections Annual
+GENERATORS
+Minor Visual &amp; Robotic Inspection Freq. 800 starts or 25,000 hours (Fast Gen or Magic Junior)
+1,600 starts or 50,000 hours Major Inspection Frequency
+Rotor – Dismantle Frequency 1,600 starts or 50,000 hours
+Retaining Ring – Inspection Frequency At Turbine Major Inspection
+22 of 35
+Property Information Report
+Caithness Energy, LLC – Caithness Long Island Energy Center November 2019
+Stator – Inspection Frequency 1,600 starts or 50,000 hours
+Batteries – Voltage, Low Discharge Voltage, Change Current Deviation, Ohm Values Monthly / Annual
+Batteries – Load Test Frequency VRLA – 5 Years Lead Acid – 5 Years
+Oil Analysis / Screening 6 Months
+Relay Testing Frequency 3 Years
+Breaker Testing Frequency 3 Years
+Partial Discharge Monitoring 6 Months (IRIS)
+Core Condition Monitoring Continuous
+TRANSFORMERS
+Doble Power Factor (windings &amp; bushings) 3 Years
+Winding Resistance 3 Years
+Turns Ratio 3 Years
+Insulation Resistance 3 Years
+Arrestor Watts-Loss Testing 3 Years
+Polarization Index 3 Years
+Dissolved Gas-in-Oil Analysis (DGA) 6 Months
+Property Screen Test 6 Months
+Furan Analysis 6 Months
+Corrosive Sulfur Test Verified Negative
+Alarm Trip Tests Every Start Up
+BALANCE OF PLANT
+Infrared Testing Frequency Internal Scans – As Needed Annual
+BOP Batteries – Voltage, Low Discharge Voltage, Change Current Deviation, Ohm Values Monthly / Annual
+BOP Batteries – Load Test Frequency (Last) VRLA – Every 2 Years Lead Acid – Every 5 Years
+Grounding System Test Frequency (Last) 5 Years
+Cathodic Protection System Test Frequency (Last) 5 Years
+Emergency Generator Operation Test Frequency Load – Annual No Load – Monthly
+Property Conservation Programs
+The following customary property conservation programs are being implemented;
+? Work Permit
+? Job Hazard Analysis
+? Hot Work Permit
+? Safety Interlock, Bypass, Jumper Procedures
+? Confined Space Program
+? Lock-Out-Tag-Out Program
+? Ignition Source Control
+? Management of Change
+? Fire Protection/Detection System Impairment Handling Procedure
+? Fire Protection/Detection Self-Inspection Program
+? Operation and Maintenance Procedures
+? Training and Safety Program
+? Plant Emergency Organization and Evacuation
+23 of 35
+Property Information Report
+Caithness Energy, LLC – Caithness Long Island Energy Center November 2019
+FIRE PROTECTION SYSTEM TESTING
+Protection Visual Physical Device / System Inspections Inspections
+5 Year Water Tank(s) Weekly Internal
+Weekly Churn Test Electric Fire Pump Weekly Annual Performance Test
+Weekly Churn Test Diesel Fire Pump Weekly Annual Performance Test
+Annual Flush Test Fire Hydrants / Monitor(s) Monthly Annual Loop Test
+Quarterly Control Valve Alarms Monthly Annual
+Quarterly Water Flow Alarms Monthly Annual
+6 months – Partial Trip Deluge Valves / Systems Monthly Annual – Coverage Test
+6 months – Partial Trip Pre-Action Systems Monthly 3 Year – Full Trip Test
+6 Months – Weighed Annual Clean Agent (FM200) Systems Monthly Enclosure Integrity Test 5 Year – Integrity Test
+6 Months - Weighed Dry Chemical Systems Monthly 6 Year Integrity Test
+6 Months – Weighed Carbon Dioxide Systems Monthly 12 Year – Integrity Test
+Heat Detectors Monthly Annual
+Smoke Detectors Monthly Annual
+Annual Portable Fire Extinguishers Monthly Weighed &amp; Serviced
+Manual Pull Stations Monthly Annual
+CONSTRUCTION SUMMARY
+Major buildings and enclosures consist of the Administration and Control Room Building,
+Maintenance and Warehouse Building, Generation Building, Switchyard Control
+Building, and Fire Pump, Fuel Gas Compressor and Power Control Center enclosures.
+Construction is metal siding attached to structural steel framing with metal roofs. The control room is separated from the office areas by a fire partition. The GSU transformers are located on the north side of the CTG and STG and are separated by reinforced concrete fire barriers.
+Area Building Story Building Name Construction Type (sq. ft.) Height (ft.) Count
+Administration &amp; Control Room Noncombustible 4,000 30 1 Building
+Maintenance &amp; Warehouse Building Noncombustible 3,600 50 2
+Generation Building – High Bay Noncombustible 8,460 60 3
+Generation Building – Low Bay Noncombustible 5,235 40 2
+24 of 35
+Property Information Report
+Caithness Energy, LLC – Caithness Long Island Energy Center November 2019
+Switchyard Control Building Noncombustible 800 20 1
+Plant Total 23,175
+OCCUPANCY SUMMARY
+Building Name Occupancy Description
+Administration &amp; Control Room Bldg. Control Room, Administration Offices
+Maintenance &amp; Warehouse Bldg. Shop, Spare Part Storage
+Generation Building Combustion Turbine Generator, Steam Turbine Generator,
+Support Equipment
+Switchyard Control Building Switchgear, Battery Bank
+FIRE PROTECTION
+Fire protection, detection, and suppression systems are provided throughout the plant.
+Protection system design follows the applicable NFPA Standards, local requirements, and
+FM Data Sheet recommendations where practicable. Fire system testing was last completed November 2019. Testing included all fire systems and panels, fire hydrant flow testing, foam testing and sprinklers. Testing was completed by ABCO Peerless Fire
+Suppression Corporation. Fire pump flow testing was included and satisfactory.
+A looped underground fire water distribution system is provided and is shown in the
+Appendices. The primary fire loop surrounds the turbine-generator sets and transformers.
+This underground fire loop consists of 12-inch diameter water mains. There are adequate hydrants and shut-off valves for isolating and enabling sections of the fire loop as required. The fire main system surrounds the power block inside the fence with hydrants spaced approximately every 250 to 350 feet. Six (6) private fire hydrants are fed from individual 6-inch feed mains taken from the 12-inch underground fire ring.
+A 750,000 gallon raw water storage tank is provided with 300,000 gallons within this tank dedicated to fire protection. The fire protection system water supply system is also connected to the municipal water distribution system. This connection is through a 12- inch diameter water main. The municipal water supply is normally shut off from the plant fire protection system water supply system.
+25 of 35
+Property Information Report
+Caithness Energy, LLC – Caithness Long Island Energy Center November 2019
+Diesel engine and electric driven fire pumps and jockey pump are provided to boost and maintain water pressure provided by the raw water storage tank. The electric driven pump is considered the primary response pump with the diesel engine pump considered backup.
+The fire pumps are located in an enclosure adjacent to the raw water storage tank.
+Electric Fire Pump Rating Specifications
+Orientation: Horizontal Manufacturer: Allis Model/Type: 10-8-20F-L Chalmers
+Rated Flow: 2500 GPM Rated Pressure: 130 PSI Rated Speed: 1785 RPM
+Driver Type: Electric Manufacturer: Emerson Rated Speed: 1780 RPM
+Controller: Electric Manufacturer: Firetrol Activation ON: 125 PSI Settings OFF:145 PSI
+Diesel Fire Pump Rating Specifications
+Orientation: Horizontal Manufacturer: Allis Model/Type: 10-8-20F-L Chalmers
+Rated Flow: 2500 GPM Rated Pressure: 130 PSI Rated Speed: 1785 RPM
+Driver Type: Diesel Manufacturer: John Deere Rated Speed: 1785 RPM
+Controller: Electric Manufacturer: Firetrol Activation ON: 90 PSI Settings OFF: 145 PSI
+Electric Driven Fire Pump Diesel Driven Fire Pump
+Sprinkler Protection
+AUTOMATIC SPRINKLER PROTECTION
+Sprinkler Protection Hydraulic Demand at Area or Building System Type Design Base of Riser
+Administration Building 0.10 gpm/ft² 752 gpm @ 102 psi Wet Office Areas over 1,500 ft² (Small Hose Included)
+Maintenance/Warehouse 0.20 gpm/ft² 643 gpm @ 54 psi Wet Building over 1,500 ft² (Small Hose Included)
+26 of 35
+Property Information Report
+Caithness Energy, LLC – Caithness Long Island Energy Center November 2019
+Generation Building High &amp; Low Bay Ceiling Pre-Action 0.30 gpm/ft² over 1,500 ft² 2,261 gpm @ 108 psi (Small Hose Included)
+@@@ &gt; Generation Building High &amp; Low Bay Ceiling
+Generation Building ST Bearings
+$$$
+
+@@@ &gt; Pre-Action
+Deluge
+$$$
+
+@@@ &gt; 0.30 gpm/ft² over 1,500 ft²
+0.30 gpm/ft² over Bearings
+$$$
+
+@@@ &gt; 2,261 gpm @ 108 psi (Small Hose Included)
+1,065 gpm @ 93.5 psi (Small Hose Included)
+$$$
+
+@@@ &gt; Generation Building High &amp; Low Bay Ceiling
+Generation Building STG Lube Oil Tank
+$$$
+
+@@@ &gt; Pre-Action
+Pre-Action
+$$$
+
+@@@ &gt; 0.30 gpm/ft² over 1,500 ft²
+0.30 gpm/ft² over Entire Area
+$$$
+
+@@@ &gt; 2,261 gpm @ 108 psi (Small Hose Included)
+Protection Provided from Ceiling Level System
+$$$
+
+@@@ &gt; Generation Building High &amp; Low Bay Ceiling
+Generation Building: Mezzanine &amp; Ground Floor Below STG Operation Deck
+$$$
+
+@@@ &gt; Pre-Action
+Wet
+$$$
+
+@@@ &gt; 0.30 gpm/ft² over 1,500 ft²
+0.18 gpm/ft² over 2,500 ft²
+$$$
+
+@@@ &gt; 2,261 gpm @ 108 psi (Small Hose Included)
+1,052 gpm @ 90 psi (Small Hose Included)
+$$$
+
+Sample of bearing heat detection and sprinklers
+Fuel Oil Protection
+A fixed foam protection system is provided for the fuel oil storage tank.
+Combustion Turbine Protection
+Automatic FM200 extinguishing systems are installed inside each of the operating modules of the combustion turbine, except for the combustion turbine load and generator compartments.
+Agent distribution lines are routed from the FM200 tank to the suppression nozzles in each fire zone. Following fire detection in a zone, audible signals will alert personnel of a fire and fire protection control panel timer will provide a 30 second pause (set point is adjustable) before initiating the zone’s fire suppression. The fire protection can be manually operated from the fire protection control panel.
+27 of 35
+Property Information Report
+Caithness Energy, LLC – Caithness Long Island Energy Center November 2019
+Fire Detection and Suppression Systems
+FIRE DETECTION &amp; SUPPRESSION SYSTEMS
+Equipment or Area Type
+Natural Gas Compressor Enclosures Carbon Dioxide Suppression Gas Detectors Heat Detection
+Control Room FM 200 Suppression Smoke Detectors
+Combustion Turbine (CT) Enclosures FM 200 Suppression Gas Detectors Heat Detection
+CT Lube Oil / Fuel Gas Enclosures FM 200 Suppression Gas Detectors Heat Detection
+CT Tunnel Dry Chemical Suppression
+Battery Compartments Ventilation
+Power Control Center Smoke Detection
+Motor Control Center Smoke Detection
+HRSG Duct Burners Gas Detection
+HRSG CEMS Buildings Smoke Detection
+Supervision, Fire Response and Security
+Plant fire alarms are monitored in the control room which is constantly attended by at least one control room operator. An off-site UL Listed Central Station Service (Alarm Tech) also monitors the plant fire alarms.
+The Yaphank VFD station is located within 1 mile of the plant. The North Bellport VFD station is located 5 miles from the plant. Operating personnel provide incipient firefighting including monitoring fire pump operations and securing equipment affected by a fire.
+There is no security guard service. Plant operators conduct hourly rounds of the facility.
+The site is enclosed by chain link fence with a remote control gate at the main entrance.
+One security camera is provided as an observation point at the plant entrance. The site is always manned by operations personnel.
+28 of 35
+Property Information Report
+Caithness Energy, LLC – Caithness Long Island Energy Center November 2019
+PROPERTY EXPOSURE
+The site is located in Yaphank, NY located 65 miles east of New York City on Long Island. A location map is provided in the Appendices.
+Aircraft / Falling Objects: The site is located approximately 49 miles east of La Guardia
+International Airport and 9 miles east of Long Island MacArthur Airport. The site is not considered exposed to aircraft taking off or landing.
+Flood: The project is located outside the 500-year floodplain within Zone X per FEMA FIRM
+Panel number 36103C0705H dated September 25, 2009.
+Natural Hazards: Swiss RE Risk Assessment identified hazards are as follows;
+29 of 35
+Property Information Report
+Caithness Energy, LLC – Caithness Long Island Energy Center November 2019
+30 of 35
+Property Information Report
+Caithness Energy, LLC – Caithness Long Island Energy Center November 2019
+31 of 35
+Property Information Report
+Caithness Energy, LLC – Caithness Long Island Energy Center November 2019
+INSURANCE RECOMMENDATION STATUS
+None.
+PLANT LOSS HISTORY
+There have been no losses to date.
+PLANT LOSS ESTIMATES
+The following table provides the plant reported values for the current policy period.
+Total Real &amp; Personal Property Business Interruption Limit (12 month) Total Reported Values
+@@@ &gt; Equipment
+$350,000,000
+$$$
+
+@@@ &gt; Normal Loss Expectancy Note 1
+ $66,912,050
+$$$
+
+@@@ &gt; Probable Maximum Loss Note 2
+$416,912,050
+$$$
+
+Plant loss estimates prior to an actual event are based upon engineering experience and common loss estimation techniques.
+@@@ &gt; Equipment
+Equipment
+$$$
+
+@@@ &gt; Normal Loss Expectancy Note 1
+Normal Loss Expectancy Note 1
+$$$
+
+@@@ &gt; Probable Maximum Loss Note 2
+Probable Maximum Loss Note 2
+$$$
+
+@@@ &gt; Maximum Foreseeable Loss Note 3
+Maximum Foreseeable Loss Note 3
+$$$
+
+@@@ &gt; Equipment
+Combustion Turbine Generator
+$$$
+
+@@@ &gt; Normal Loss Expectancy Note 1
+Fire: CT lube oil fire is protected with active fire protection systems. Damage to CT enclosure, lube oil piping and adjacent support equipment. Estimate 2 months downtime for CT lube oil system replacement and repair to CT enclosure and support equipment PD: $3,000,000 BI: 2 months Equipment Breakdown: Event requires internal inspection of the CT resulting
+$$$
+
+@@@ &gt; Probable Maximum Loss Note 2
+Fire: CT lube oil fire with impaired fire protection systems. Fire spreads to adjacent ST enclosure and ST auxiliary equipment during ST shutdown. Damage to CT components, enclosures and auxiliary equipment, and adjacent ST auxiliary equipment. Estimate 12 month downtime for CT equipment replacement and repair and 3 months for repairs to adjacent ST and auxiliary equipment. PD: $40,000,000 BI: 12 months Equipment Breakdown: Internal component rubbing or blade failure/liberation,
+$$$
+
+@@@ &gt; Maximum Foreseeable Loss Note 3
+Fire: CT lube oil fire with impaired fire protection systems. Fire spreads to adjacent ST enclosure and auxiliary equipment during ST shut-down. CTG is considered a complete loss and ST is marginally damaged. Critical damage to CTG components, enclosures and auxiliary equipment, and adjacent ST auxiliary equipment. Estimate 18 month downtime for CTG equipment replacement and repair and 12 months for repairs to adjacent ST and auxiliary equipment PD: $60,000,000 BI: 18 months Equipment Breakdown: Over speed event causing
+$$$
+
+32 of 35
+Property Information Report
+Caithness Energy, LLC – Caithness Long Island Energy Center November 2019 in discovery of damage requiring immediate shut down and repair. Estimate 2 months (BI) for internal inspection and repair of CT sections. PD:$5,000,000 BI: 2 months ultimately causing rotor/casing damage to CT. Estimate 12 months for rotor event RCA, repair and rotor replacement or spare rotor exchange. PD: $30,000,000 BI: 12 months catastrophic rotor, casing and generator damage to CTG. Estimate 18 months for CTG event RCA, repair and replacement. PD: $50,000,000 BI: 18 months
+@@@ &gt; Equipment
+Equipment
+$$$
+
+@@@ &gt; Normal Loss Expectancy Note 1
+Normal Loss Expectancy Note 1
+$$$
+
+@@@ &gt; Probable Maximum Loss Note 2
+Probable Maximum Loss Note 2
+$$$
+
+@@@ &gt; Maximum Foreseeable Loss Note 3
+Maximum Foreseeable Loss Note 3
+$$$
+
+@@@ &gt; Equipment
+Steam Turbine Generator
+$$$
+
+@@@ &gt; Normal Loss Expectancy Note 1
+Fire: Lube oil system piping failure. Minimal BI anticipated. PD: $2,000,000 BI: 1 month Equipment Breakdown: Event requires internal inspection of STG. Anticipates cover removal. Estimate 2 month (BI) for internal inspection and repair of any ST sections. PD: $5,000,000 BI: 2 months
+$$$
+
+@@@ &gt; Probable Maximum Loss Note 2
+Fire: Lube oil tank fire with impaired fire protection. Significant damage to adjacent auxiliary equipment and structures exposed to fire. Estimate 4 months (BI) for lube oil system replacement and auxiliary equipment and structures repair. PD: $20,000,000 BI: 4 months Equipment Breakdown: Internal component rubbing or blade failure/liberation, ultimately causing rotor/casing damage to the STG. Estimate 12 months for rotor event RCA and rotor repair/replacement. PD: $20,000,000 BI: 12 months
+$$$
+
+@@@ &gt; Maximum Foreseeable Loss Note 3
+Fire: Lube oil system exposed to ignition source from an overheating turbine. System fails, exposing oil to all areas above and below the turbine operating deck. Turbine support equipment has significant damage below the STG operating deck. Estimate 18 months (BI) for repair and replacement of equipment and structures damaged by lube oil system fire. PD: $65,000,000 BI: 18 months Equipment Breakdown: Over speed event causing catastrophic STG rotor, casing and generator damage. Estimate 24 months for STG event RCA, repair and replacement. PD: $75,000,000 BI: 24 months
+$$$
+
+@@@ &gt; Equipment
+Transformers
+$$$
+
+@@@ &gt; Normal Loss Expectancy Note 1
+Equipment Breakdown: 230 MVA Transformer bushing damage to any GSU with ensuing fire which does not penetrate the transformer core. Estimate 1 month downtime for repair and replacement. PD: $1,000,000
+$$$
+
+@@@ &gt; Probable Maximum Loss Note 2
+Equipment Breakdown: Electrical core damage to 230 MVA GSU, requiring rewinding. Anticipate GSU will have to be opened and repaired. Estimate 6 month downtime for equipment rewinding and repair. PD: $2,369,250
+$$$
+
+@@@ &gt; Maximum Foreseeable Loss Note 3
+Equipment Breakdown: Catastrophic damage causing total loss of 230 MVA GSU. Estimate 18 month downtime for GSU transform removal, manufacture and replacement. PD: $ 4,159,000
+$$$
+
+33 of 35
+Property Information Report
+Caithness Energy, LLC – Caithness Long Island Energy Center November 2019
+BI: 1 month BI: 6 months BI: 18 months
+Note 1: A normal loss estimate (NLE) for fire is based on a reasonable fire scenario with appropriate feature for loss mitigation operating as designed. An NLE for equipment breakdown anticipates the failure of critical component with operating safeguards and monitoring features.
+Note 2: A probable maximum loss (PML) for fire is based on a reasonable fire scenario with the appropriate features for loss mitigation operating as designed, except for the primary area or equipment contained within the initial fire event. A PML for equipment breakdown anticipates the failure of critical components with offline or inoperable safeguards and monitoring features.
+Note 3: A maximum foreseeable loss (MFL) for fire is based on the most adverse conditions involving a severe fire scenario where all features designed for loss mitigation fail. The only limiting feature is the lack of continuity of combustibles and/or spatial separation. A MFL for equipment breakdown anticipates the most adverse conditions for continuing operations.
+34 of 35
+Property Information Report
+Caithness Energy, LLC – Caithness Long Island Energy Center November 2019
+APPENDICES
+Appendix 1 - Site Location and General Arrangement
+Long Island, NY
+Caithness LIEC
+35 of 35</text><riskFactors><entry><key>RF001</key><value name="RF001" value="E"><sentences><s riskFactorValue="G" begin="23884" end="23992"><text>During the CT Major in 2015, both the CT and ST generator rotors were pulled and standard testing completed.</text><operands><op begin="23932" end="23941"><text>generator</text></op><op begin="23949" end="23953"><text>were</text></op><op begin="23974" end="23981"><text>testing</text></op></operands></s><s riskFactorValue="G" begin="27349" end="27453"><text>Four dry type station transformers step down the plant 4.16 kV power to 480V for additional plant loads.</text><operands><op begin="27354" end="27357"><text>dry</text></op><op begin="27371" end="27383"><text>transformers</text></op></operands></s><s riskFactorValue="E" begin="28754" end="28821"><text>DGA testing is completed semi-annually and includes furan analysis.</text><operands><op begin="28754" end="28757"><text>DGA</text></op><op begin="28758" end="28765"><text>testing</text></op><op begin="28769" end="28778"><text>completed</text></op><op begin="28784" end="28792"><text>annually</text></op></operands></s><s riskFactorValue="G" begin="29354" end="29441"><text>Transformer electrical testing was completed during an outage in April 2019 by American</text><operands><op begin="29354" end="29365"><text>Transformer</text></op><op begin="29377" end="29384"><text>testing</text></op><op begin="29389" end="29398"><text>completed</text></op></operands></s><s riskFactorValue="E" begin="31923" end="31975"><text>Relays are calibrated every four years on this site.</text><operands><op begin="31923" end="31929"><text>Relays</text></op><op begin="31934" end="31944"><text>calibrated</text></op><op begin="31956" end="31961"><text>years</text></op></operands></s><s riskFactorValue="G" begin="40925" end="41005"><text>Transformer insulation oil has been tested for the presence of corrosive sulfur.</text><operands><op begin="40925" end="40936"><text>Transformer</text></op><op begin="40952" end="40960"><text>has been</text></op><op begin="40961" end="40967"><text>tested</text></op></operands></s><s riskFactorValue="E" begin="41315" end="41364"><text>Electrical: Annual Over-speed Trip Test Frequency</text><operands><op begin="41315" end="41325"><text>Electrical</text></op><op begin="41327" end="41333"><text>Annual</text></op><op begin="41350" end="41354"><text>Test</text></op></operands></s><s riskFactorValue="E" begin="41684" end="41733"><text>Over-speed Trip Test Frequency Electrical: Annual</text><operands><op begin="41695" end="41699"><text>Trip</text></op><op begin="41700" end="41704"><text>Test</text></op><op begin="41700" end="41704"><text>Test</text></op><op begin="41715" end="41725"><text>Electrical</text></op><op begin="41727" end="41733"><text>Annual</text></op><op begin="41727" end="41733"><text>Annual</text></op></operands></s><s riskFactorValue="E" begin="42708" end="42739"><text>Relay Testing Frequency 3 Years</text><operands><op begin="42708" end="42713"><text>Relay</text></op><op begin="42714" end="42721"><text>Testing</text></op><op begin="42734" end="42739"><text>Years</text></op></operands></s><s riskFactorValue="E" begin="43246" end="43306"><text>Infrared Testing Frequency Internal Scans – As Needed Annual</text><operands><op begin="43246" end="43254"><text>Infrared</text></op><op begin="43255" end="43262"><text>Testing</text></op><op begin="43282" end="43287"><text>Scans</text></op><op begin="43293" end="43299"><text>Needed</text></op><op begin="43300" end="43306"><text>Annual</text></op></operands></s><s riskFactorValue="E" begin="43499" end="43545"><text>Grounding System Test Frequency (Last) 5 Years</text><operands><op begin="43499" end="43508"><text>Grounding</text></op><op begin="43516" end="43520"><text>Test</text></op><op begin="43540" end="43545"><text>Years</text></op></operands></s><s riskFactorValue="E" begin="43603" end="43679"><text>Emergency Generator Operation Test Frequency Load – Annual No Load – Monthly</text><operands><op begin="43613" end="43622"><text>Generator</text></op><op begin="43633" end="43637"><text>Test</text></op><op begin="43655" end="43661"><text>Annual</text></op></operands></s><s riskFactorValue="E" begin="44468" end="44535"><text>Weekly Churn Test Electric Fire Pump Weekly Annual Performance Test</text><operands><op begin="44481" end="44485"><text>Test</text></op><op begin="44486" end="44494"><text>Electric</text></op><op begin="44512" end="44518"><text>Annual</text></op></operands></s><s riskFactorValue="E" begin="44840" end="44914"><text>6 months – Partial Trip Pre-Action Systems Monthly 3 Year – Full Trip Test</text><operands><op begin="44893" end="44897"><text>Year</text></op><op begin="44905" end="44909"><text>Trip</text></op><op begin="44910" end="44914"><text>Test</text></op></operands></s></sentences></value></entry><entry><key>RF002</key><value name="RF002" value="U"><sentences/></value></entry><entry><key>RF003</key><value name="RF003" value="G"><sentences><s riskFactorValue="G" begin="7088" end="7137"><text>Alternate fuel is Ultra-Low Sulfur Diesel (ULSD).</text><operands><op begin="7098" end="7102"><text>fuel</text></op><op begin="7098" end="7102"><text>fuel</text></op><op begin="7103" end="7105"><text>is</text></op><op begin="7112" end="7115"><text>Low</text></op><op begin="7112" end="7115"><text>Low</text></op></operands></s><s riskFactorValue="G" begin="13592" end="13655"><text>Oil spill containment basins are provided for each transformer.</text><operands><op begin="13596" end="13613"><text>spill containment</text></op><op begin="13602" end="13613"><text>containment</text></op><op begin="13621" end="13624"><text>are</text></op><op begin="13625" end="13633"><text>provided</text></op></operands></s><s riskFactorValue="G" begin="16626" end="16662"><text>Loss of Flame Lube Oil Reservoir Low</text><operands><op begin="16640" end="16648"><text>Lube Oil</text></op><op begin="16659" end="16662"><text>Low</text></op></operands></s><s riskFactorValue="F" begin="18242" end="18366"><text>The lube oil and electro-hydraulic control (EHC) systems use an 8,000 gallon combined oil storage tank and filtering system.</text><operands><op begin="18312" end="18318"><text>gallon</text></op><op begin="18328" end="18331"><text>oil</text></op></operands></s><s riskFactorValue="G" begin="18367" end="18438"><text>This oil storage tank is located within a dedicated external enclosure.</text><operands><op begin="18372" end="18375"><text>oil</text></op><op begin="18376" end="18383"><text>storage</text></op><op begin="18392" end="18399"><text>located</text></op><op begin="18409" end="18418"><text>dedicated</text></op></operands></s><s riskFactorValue="F" begin="20678" end="20757"><text>EHC systems have a 5,810 gallon combined oil storage tank and filtering system.</text><operands><op begin="20703" end="20709"><text>gallon</text></op><op begin="20719" end="20722"><text>oil</text></op></operands></s><s riskFactorValue="G" begin="22600" end="22626"><text>? Lower steam inlet drains</text><operands><op begin="22620" end="22626"><text>drains</text></op></operands></s><s riskFactorValue="G" begin="27152" end="27246"><text>Transformers are located in concrete curb containment designed to contain potential oil leaks.</text><operands><op begin="27189" end="27193"><text>curb</text></op></operands></s><s riskFactorValue="F" begin="27152" end="27246"><text>Transformers are located in concrete curb containment designed to contain potential oil leaks.</text><operands><op begin="27236" end="27239"><text>oil</text></op><op begin="27240" end="27245"><text>leaks</text></op></operands></s><s riskFactorValue="F" begin="31551" end="31573"><text>Oil Capacity (Gallons)</text><operands><op begin="31551" end="31554"><text>Oil</text></op><op begin="31555" end="31563"><text>Capacity</text></op></operands></s><s riskFactorValue="F" begin="34834" end="34893"><text>A 750,000 gallon fuel oil storage tank is provided on site.</text><operands><op begin="34844" end="34850"><text>gallon</text></op><op begin="34851" end="34859"><text>fuel oil</text></op><op begin="34856" end="34859"><text>oil</text></op></operands></s></sentences></value></entry><entry><key>RF004</key><value name="RF004" value="G"><sentences><s riskFactorValue="G" begin="21300" end="21450"><text>The staff is doing more frequent inspections on this system and working with the Carbex Company to study putting continuous brush monitoring in place.</text><operands><op begin="21324" end="21332"><text>frequent</text></op><op begin="21333" end="21344"><text>inspections</text></op></operands></s><s riskFactorValue="G" begin="37530" end="37561"><text>? Borescope inspection annually</text><operands><op begin="37542" end="37552"><text>inspection</text></op><op begin="37553" end="37561"><text>annually</text></op></operands></s><s riskFactorValue="G" begin="38792" end="38863"><text>This inspection was to extend the interval of the HGP to November 2019.</text><operands><op begin="38797" end="38807"><text>inspection</text></op><op begin="38826" end="38834"><text>interval</text></op></operands></s><s riskFactorValue="G" begin="40477" end="40597"><text>All boilers and pressure vessels are registered with the State of New York, which requires annual, internal inspections.</text><operands><op begin="40568" end="40574"><text>annual</text></op><op begin="40585" end="40596"><text>inspections</text></op></operands></s><s riskFactorValue="G" begin="40686" end="40844"><text>Weekly inspections of the transformers are made for desiccant, oil temperature, winding temperature, oil level, leak corrosion, and general overall integrity.</text><operands><op begin="40686" end="40692"><text>Weekly</text></op><op begin="40693" end="40704"><text>inspections</text></op></operands></s><s riskFactorValue="G" begin="41853" end="41893"><text>Safety Valve Inspection Frequency Annual</text><operands><op begin="41860" end="41865"><text>Valve</text></op><op begin="41866" end="41876"><text>Inspection</text></op><op begin="41887" end="41893"><text>Annual</text></op></operands></s><s riskFactorValue="G" begin="42014" end="42054"><text>Jurisdictional Object Inspections Annual</text><operands><op begin="42036" end="42047"><text>Inspections</text></op><op begin="42048" end="42054"><text>Annual</text></op></operands></s><s riskFactorValue="G" begin="44468" end="44535"><text>Weekly Churn Test Electric Fire Pump Weekly Annual Performance Test</text><operands><op begin="44468" end="44474"><text>Weekly</text></op><op begin="44481" end="44485"><text>Test</text></op><op begin="44495" end="44504"><text>Fire Pump</text></op><op begin="44505" end="44511"><text>Weekly</text></op><op begin="44512" end="44518"><text>Annual</text></op><op begin="44531" end="44535"><text>Test</text></op></operands></s><s riskFactorValue="G" begin="44536" end="44601"><text>Weekly Churn Test Diesel Fire Pump Weekly Annual Performance Test</text><operands><op begin="44536" end="44542"><text>Weekly</text></op><op begin="44549" end="44553"><text>Test</text></op><op begin="44561" end="44570"><text>Fire Pump</text></op><op begin="44571" end="44577"><text>Weekly</text></op><op begin="44578" end="44584"><text>Annual</text></op><op begin="44597" end="44601"><text>Test</text></op></operands></s><s riskFactorValue="G" begin="45232" end="45293"><text>Annual Portable Fire Extinguishers Monthly Weighed &amp; Serviced</text><operands><op begin="45232" end="45238"><text>Annual</text></op><op begin="45253" end="45266"><text>Extinguishers</text></op><op begin="45285" end="45293"><text>Serviced</text></op></operands></s><s riskFactorValue="G" begin="47173" end="47226"><text>Fire pump flow testing was included and satisfactory.</text><operands><op begin="47173" end="47182"><text>Fire pump</text></op><op begin="47188" end="47195"><text>testing</text></op><op begin="47213" end="47225"><text>satisfactory</text></op></operands></s></sentences></value></entry><entry><key>RF005</key><value name="RF005" value="G"><sentences><s riskFactorValue="G" begin="3374" end="3506"><text>Preventive Maintenance .............................................................................................................</text><operands><op begin="3374" end="3396"><text>Preventive Maintenance</text></op></operands></s><s riskFactorValue="F" begin="6390" end="6478"><text>Energy, Inc. (Siemens) is the operations and maintenance contractor for Caithness Energy</text><operands><op begin="6435" end="6457"><text>maintenance contractor</text></op></operands></s><s riskFactorValue="F" begin="9602" end="9750"><text>Energy, Inc. (Siemens) is the operations and maintenance contractor for Caithness and has full care, custody and control of operation &amp; maintenance.</text><operands><op begin="9647" end="9669"><text>maintenance contractor</text></op></operands></s><s riskFactorValue="G" begin="14003" end="14054"><text>Site layout is adequate for maintenance activities.</text><operands><op begin="14018" end="14026"><text>adequate</text></op><op begin="14031" end="14042"><text>maintenance</text></op></operands></s><s riskFactorValue="F" begin="18833" end="18890"><text>In October 2017, a modified HGP inspection was completed.</text><operands><op begin="18852" end="18860"><text>modified</text></op><op begin="18865" end="18875"><text>inspection</text></op></operands></s><s riskFactorValue="E" begin="36852" end="37035"><text>The Mainsaver Asset Management Software program is the computerized maintenance management system (CMMS) used for Preventive (PM) and Predictive (PdM) scheduling and maintenance work.</text><operands><op begin="36907" end="36949"><text>computerized maintenance management system</text></op><op begin="36986" end="36996"><text>Predictive</text></op><op begin="36998" end="37001"><text>PdM</text></op><op begin="37018" end="37029"><text>maintenance</text></op></operands></s><s riskFactorValue="G" begin="36852" end="37035"><text>The Mainsaver Asset Management Software program is the computerized maintenance management system (CMMS) used for Preventive (PM) and Predictive (PdM) scheduling and maintenance work.</text><operands><op begin="36966" end="36976"><text>Preventive</text></op><op begin="36978" end="36980"><text>PM</text></op><op begin="37003" end="37013"><text>scheduling</text></op><op begin="37018" end="37029"><text>maintenance</text></op></operands></s><s riskFactorValue="G" begin="37263" end="37285"><text>Preventive Maintenance</text><operands><op begin="37263" end="37285"><text>Preventive Maintenance</text></op></operands></s><s riskFactorValue="G" begin="37466" end="37529"><text>CTG OEM inspection intervals are based upon Siemens guidelines:</text><operands><op begin="37474" end="37484"><text>inspection</text></op><op begin="37485" end="37494"><text>intervals</text></op></operands></s><s riskFactorValue="G" begin="38491" end="38605"><text>Routine BOP equipment maintenance, CT borescope, and STG safety inspections are scheduled every April and October.</text><operands><op begin="38555" end="38566"><text>inspections</text></op><op begin="38571" end="38580"><text>scheduled</text></op></operands></s><s riskFactorValue="F" begin="40598" end="40654"><text>Any repair work is performed by contractors with a local</text><operands><op begin="40602" end="40608"><text>repair</text></op><op begin="40617" end="40626"><text>performed</text></op><op begin="40630" end="40641"><text>contractors</text></op></operands></s><s riskFactorValue="G" begin="41006" end="41050"><text>PREVENTIVE &amp; PREDICTIVE MAINTENANCE PROGRAMS</text><operands><op begin="41006" end="41016"><text>PREVENTIVE</text></op><op begin="41006" end="41016"><text>PREVENTIVE</text></op><op begin="41030" end="41041"><text>MAINTENANCE</text></op></operands></s><s riskFactorValue="P" begin="46026" end="46084"><text>Maintenance &amp; Warehouse Building Noncombustible 3,600 50 2</text><operands><op begin="46026" end="46037"><text>Maintenance</text></op><op begin="46083" end="46084"><text>2</text></op></operands></s></sentences></value></entry><entry><key>RF006</key><value name="RF006" value="G"><sentences><s riskFactorValue="G" begin="47002" end="47103"><text>Testing included all fire systems and panels, fire hydrant flow testing, foam testing and sprinklers.</text><operands><op begin="47010" end="47018"><text>included</text></op><op begin="47092" end="47102"><text>sprinklers</text></op></operands></s></sentences></value></entry><entry><key>RF007</key><value name="RF007" value="E"><sentences><s riskFactorValue="E" begin="32932" end="32991"><text>components during outage or emergency shut down conditions.</text><operands><op begin="32960" end="32969"><text>emergency</text></op><op begin="32970" end="32979"><text>shut down</text></op></operands></s><s riskFactorValue="G" begin="34532" end="34647"><text>The natural gas compressors are provided with a vibration monitoring system for high vibration shutdown protection.</text><operands><op begin="34627" end="34635"><text>shutdown</text></op><op begin="34636" end="34646"><text>protection</text></op></operands></s><s riskFactorValue="G" begin="48480" end="48591"><text>The electric driven pump is considered the primary response pump with the diesel engine pump considered backup.</text><operands><op begin="48531" end="48539"><text>response</text></op><op begin="48584" end="48590"><text>backup</text></op></operands></s></sentences></value></entry><entry><key>RF008</key><value name="RF008" value="G"><sentences><s riskFactorValue="G" begin="53693" end="53782"><text>Flood: The project is located outside the 500-year floodplain within Zone X per FEMA FIRM</text><operands><op begin="53693" end="53698"><text>Flood</text></op><op begin="53723" end="53730"><text>outside</text></op><op begin="53735" end="53743"><text>500-year</text></op><op begin="53744" end="53754"><text>floodplain</text></op></operands></s></sentences></value></entry><entry><key>RF009</key><value name="RF009" value="G"><sentences><s riskFactorValue="G" begin="51328" end="51554"><text>Following fire detection in a zone, audible signals will alert personnel of a fire and fire protection control panel timer will provide a 30 second pause (set point is adjustable) before initiating the zone’s fire suppression.</text><operands><op begin="51338" end="51352"><text>fire detection</text></op><op begin="51493" end="51495"><text>is</text></op></operands></s><s riskFactorValue="F" begin="52403" end="52522"><text>Plant fire alarms are monitored in the control room which is constantly attended by at least one control room operator.</text><operands><op begin="52409" end="52420"><text>fire alarms</text></op><op begin="52496" end="52499"><text>one</text></op></operands></s><s riskFactorValue="G" begin="52523" end="52618"><text>An off-site UL Listed Central Station Service (Alarm Tech) also monitors the plant fire alarms.</text><operands><op begin="52587" end="52595"><text>monitors</text></op><op begin="52606" end="52617"><text>fire alarms</text></op></operands></s></sentences></value></entry><entry><key>RF010</key><value name="RF010" value="G"><sentences><s riskFactorValue="G" begin="52975" end="53064"><text>The site is enclosed by chain link fence with a remote control gate at the main entrance.</text><operands><op begin="52979" end="52983"><text>site</text></op><op begin="52984" end="52986"><text>is</text></op><op begin="53010" end="53015"><text>fence</text></op></operands></s></sentences></value></entry><entry><key>RF011</key><value name="RF011" value="U"><sentences/></value></entry><entry><key>RF012</key><value name="RF012" value="G"><sentences><s riskFactorValue="G" begin="27013" end="27151"><text>Reinforced concrete fire walls provide blast-fire-impact resistance to adjacent structures where separation distance is less than 50 feet.</text><operands><op begin="27110" end="27120"><text>separation</text></op><op begin="27143" end="27145"><text>50</text></op><op begin="27146" end="27150"><text>feet</text></op></operands></s></sentences></value></entry></riskFactors><parameters/><attributes><a name="CITY" begin="8493" end="8510"><text>New York</text></a><a name="INSURED_NAME" begin="130" end="151"><text>Caithness Energy, Llc</text></a><a name="STREET" begin="188" end="200"><text>50 Zorn Blvd</text></a><a name="SURVEY_DATE_WEAK" begin="88" end="101"><text>20191101</text></a><a name="SURVEY_DATE" begin="433" end="449"><text>20191107</text></a><a name="AS_Presence" begin="0" end="1"><text>No</text></a></attributes></riskFactorAnalysis>

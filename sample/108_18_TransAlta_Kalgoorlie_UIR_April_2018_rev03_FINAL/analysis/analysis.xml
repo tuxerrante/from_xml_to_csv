@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><riskFactorAnalysis><text>JLT RISK CONTROL
+UNDERWRITING INFORMATION
+REPORT
+TRANSALTA CORPORATION
+KALGOORLIE POWER PLANT
+Kalgoorlie, Western Australia
+Australia
+Date of Survey: April 18, 2018
+Report version: 03
+TABLE OF
+CONTENTS
+JLT RISK CONTROL 4
+1.0 GENERAL 4
+1.1 Quick Facts / Executive Summary 4
+2.0 OPERATIONS 4
+2.1 Location 4
+2.2 History of Operations 4
+2.3 Production 4
+2.4 Staffing 6
+2.5 Process Description 6
+3.0 POWER PLANT EQUIPMENT 7
+3.1 Gas Turbine 7
+3.2 Generator 7
+3.3 Transformers 8
+3.4 Control Systems 8
+3.5 Feed Water 8
+4.0 CONSTRUCTION 9
+4.1 Description of Buildings 9
+4.1 Fire Divisions 9
+4.2 Exposures 10
+5.0 COMMON HAZARDS 10
+5.1 Emergency Power 10
+5.2 Air Systems 10
+5.3 Plant Water System 11
+6.0 SPECIAL HAZARDS 11
+6.1 Fuel Supply – Natural Gas 11
+6.2 Fuel Supply – Diesel Fuel 11
+7.0 PROTECTION 11
+7.1 Fire Response 11
+7.2 Water Supplies 11
+7.3 Sprinkler Protection 11
+7.4 Gas Turbine Generator Fire Detection/Suppression Systems 11
+7.5 Portable Fire Extinguishers 14
+7.6 Emergency Shut Down (ESD) System 14
+7.7 Fire Protection System Inspection Testing and Maintenance 14
+JLT CANADA – RISK CONTROL | JLT 2 | P A G E
+7.8 Attendance and Security 14
+7.9 Fire Protection Impairments 14
+8.0 SAFETY AND LOSS CONTROL 14
+8.1 Housekeeping 15
+8.2 Safety Management 15
+8.3 Operational Integrity Program 15
+8.4 Hot Work 15
+8.5 Management of Change 15
+8.6 Alarm By-Pass Management 15
+8.7 Smoking 16
+9.0 Preventive Maintenance 16
+9.1 Electrical Thermography 16
+10.0 MISCELLANEOUS PERILS 16
+10.1 Flood 17
+10.2 Swiss Re “CatNet” 17
+10.3 Lighting Frequency 18
+11.0 LOSS ESTIMATES 18
+11.1 Property EML: 18
+11.2 Property PML: 19
+11.3 Property NLE: 19
+11.4 Spares and Contingencies 20
+12.0 APPENDIX 2 – Site Plan/Diagram 21
+13.0 APPENDIX 3 – Simplified Process Flow Diagram 22
+RISK CONTROL CONTACT 23
+Revision Author Date Comments
+01
+@@@ &gt; Author
+T. Van der Linden
+$$$
+
+@@@ &gt; Date
+May 2018
+$$$
+ Update to our 2013 UIR
+02
+@@@ &gt; Author
+K. Adams
+$$$
+
+@@@ &gt; Date
+June 5, 2018
+$$$
+ Document Review/Edits
+03
+@@@ &gt; Author
+T. Van der Linden
+$$$
+
+@@@ &gt; Date
+June 12, 2018
+$$$
+ Review of edits.
+JLT CANADA – RISK CONTROL | JLT 3 | P A G E
+JLT RISK CONTROL
+UNDERWRITING INFORMATION
+REPORT
+1.0 GENERAL
+1.1 Quick Facts / Executive Summary
+KALGOORLIE POWER GENERATION STATION
+? One 40 MW GE LM6000 PA Simple Cycle Gas Turbine Generator.
+? Natural gas fired only (no dual fuel).
+? Power purchase agreement expires in 2023.
+? GE support for the LM6000 PA expires in 2019.
+? This site is controlled from the Regional Control Centre (RCC) in Parkeston (Kalgoorlie, WA) manned 24/7 with two control room operators
+? This site presently has one client with a demand of 33-34 MW
+? Unmanned site after hours with service response from Parkeston.
+? Power line grid connection to the South West Interconnected System (SWIS) and TransAlta’s power stations at Parkeston and Kambalda.
+2.0 OPERATIONS
+2.1 Location
+The Kalgoorlie Power Station facility is located in Western Australia, 14 kilometers south of Kalgoorlie, which is 600 kilometers northeast of Perth. It is located at BHP’s Nickel West Nickel Smelter Operation.
+This is a standalone site.
+GPS coordinates:
+? 300 52’ South
+? 1210 28’ East
+? Elevation 1200 feet
+2.2 History of Operations
+Gas turbine power plant with one gas fired LM6000 PA turbine generator unit located in the BHP’s Nickel
+West Nickel West Smelter site.
+Small office / control room and warehouse.
+There are no permanent staff onsite. Operators are based at the Parkeston Power Station, Maintenance staff visit the site daily to complete rounds and preventative maintenance activities. Maintenance activities are scheduled weekly 21 days in advance. Maintenance is generally scheduled for a Monday to Friday work week with site rounds being completed on Saturdays and Sundays.
+2.3 Production
+The main equipment consists of a simple cycle 40 MW IHI LM6000PA gas turbine / generator unit. The facility generates 38 MW gross. Client demand is around 33-34 MW.
+JLT CANADA – RISK CONTROL | JLT 4 | P A G E
+The Kalgoorlie plant is connected to the SWIS and is dispatched in accordance with client demand and
+AEMO market requirements.
+? Plant demand averages around 29 MW
+? Town demand is around 2 MW and can be supplied from the grid (Parkeston or Kambalda)
+Exhaust waste heat from the GT is piped to the BHP smelter for use in Nickel Smelter processing. Upon start up, the combustion cycle for the GT runs a purge cycle to remove any incomplete combustion from turbine start up. Downstream the client operates a duct fired boiler for additional heat (if needed). This is not TransAlta owned or operated.
+This plant supplies the BHP Nickel West processing plants at the Kalgoorlie Nickel Smelter as well as the
+Kambalda Nickel Operations. Nickel West also has third party supply contracts with other mining companies that are interconnected to the TransAlta transmission infrastructure. The Kalgoorlie and
+Kambalda stations are also connected to the SWIS and are deemed to be market participants. Operational procedures are in place to ensure compliance with AEMO regulation and operating procedures.
+The SWIS is a source of back up supply to the Nickel West operations and TransAlta has contracted
+23MWs of standby supply through the AEMO.
+Start to sync for the LM6000 is reported to be around 20 minutes.
+The main equipment consists of one 40 MW GE (Stewart &amp; Stevenson) LM6000PA gas turbine generator.
+The plant produces power to an 11 kV bus, from which power is supplied to the host KNS mining operations and nearby areas. Excess power is directed to two 11/132 kV step-up transformers and then through the 132 kV transmission line (along with wheeled excess power from Kambalda) to nine customers
+(including the Kwinana Nickel Refinery) via the Western Power Corporation grid.
+WESTERN
+POWER
+CORP
+132 Kva
+GRID
+KALGOORLIE (KNS)
+(Kalgoorlie Nickle Smelter)
+Simplfied SLE
+27 MVA 27 MVA
+11kV HOST
+Gas
+NonOwned LM6000
+Steam NonOwned 32 MW
+10MW Steam
+10 MW
+Figure 1: Simplified Single Line Electrical Drawing of site.
+JLT CANADA – RISK CONTROL | JLT 5 | P A G E
+2.4 Staffing
+This site is unmanned. Main staffing comes from Parkston where there are a total of 23 staff, including 7 office staff, 6 maintenance personnel, and 10 operators. There are 2 operators present 24 hours per day, 7 days per week. Operators are on rotating after hours call out if needed.
+High Voltage (transmission and distribution) staffing is maintained out of Parkeston and complete line inspection and service.
+TransAlta operators also maintain the Western Australia TransAlta owned and operated assets below. A separate Fly in Fly out Operations and Maintenance team service the Northern System.
+South Systems:
+? Parkeston,
+? Kalgoorlie, and
+? Kambalda
+North Systems:
+? Mt Keith, and
+? Leinster. and Kambalda
+2.5 Process Description
+The Kalgoorlie Nickel Smelter and Kambalda power stations are operated and maintained under a PPA that expires in 2023.
+PARKESTON
+(Generating
+Site)
+HOST HOST HOST
+LOADS LOADS LOADS
+KALGOORLIE
+(KNS)
+(Kalgoorlie 33 kV
+KAMBALDA Nickle
+(KNO) Smelter) 90 MVA
+(Kambalda SWIS
+Nickel 132 Kva 132 Kva 132 Kva
+Operations)
+JAN7 132 Kva 27 MVA 27 MVA 27 MVA
+Substation
+(2 x 27 MVA Transformers)
+Gas Gas Gas
+BHP and
+GOLDFIEILDS G01 G02 G03
+27 MVA 27 MVA LM6000 LM6000 LM6000 32 MW 32 MW 32 MW
+11kV
+HOST 27 MVA 27 MVA
+Gas 11kV HOST
+LM6000
+32 MW Gas
+NonOwned LM6000
+Steam
+10MW NonOwned 32 MW Steam
+10 MW
+SOUTHERN CROSS POWER SYSTEM
+Figure 2: Simple System Network Diagram
+There are a total of approximately 500 kilometers of transmission lines owned and operated by TransAlta
+Australia. The 132 kV lines are inspected once every two to three months, the 66 kV lines every two weeks, and the 33kV lines once per month. A contractor is also routinely used (on retainer for preferential service). Helicopter patrols and thermography surveys are also conducted approximately once every five years. The poles for the 132 kV lines are all metal and the poles for the 66 kV lines are wooden. A PM program is in place to replace wooden cross arms with steel wishbones to help reduce leakage.
+JLT CANADA – RISK CONTROL | JLT 6 | P A G E
+3.0 POWER PLANT EQUIPMENT
+3.1 Gas Turbine
+Gas Turbines:
+? Number of units: One
+? Manufacturer: GE LM 6000 PA
+? Natural gas fired (not set-up for dual fuel) unit.
+? Lube oil systems are equipped with main electrical pump and a DC back up pump. The
+DC pump is tested monthly through the control systems logic. Two run down tanks also assist in shut down of the lube oil supply during routine and emergency shutdown scenarios
+? Electronic over speed devices (4) on turbine. PLC logic testing carried out on a PM.
+? Production limit to 38 MW: due to LP5 Blade issue (GE TIL).
+? The gas turbines consists of: o COMPRESSOR SECTION:
+? A five-stage Low Pressure Compressor (LPC) driven by a five-stage Low
+Pressure Turbine (LPT),
+? 14-stage High Pressure Compressor (HPC), o COMBUSTOR:
+? An annular combustor fitted with thirty, externally-mounted fuel nozzles,
+? Associated fuel and manifold shipping brackets, o TURBINE:
+? Two-stage High Pressure Turbine (HPT),
+? Five stage Low Pressure Turbine Section (LPT) o Accessory drive gearbox - variable geometry pumps and servo valving, o Air cooling, o Exhaust Temp: 440 deg C.
+o A mechanical lubrication oil pump and delivery system
+LM 6000
+3.2 Generator
+? Number: One
+? Manufacturer: Brush
+? Rating: 40 MW each
+? RPM: 3000
+? Power Factor: 0.80
+? Insulation Class: F
+? 50 Hz
+JLT CANADA – RISK CONTROL | JLT 7 | P A G E
+3.3 Transformers
+Unit No. Make Year HV LV Rating (MVA) Hz Oil Capacity (Gallons)
+TRX1
+@@@ &gt; Make
+Alsthom
+$$$
+
+@@@ &gt; Year
+1995
+$$$
+
+@@@ &gt; HV
+11
+$$$
+
+@@@ &gt; LV
+132
+$$$
+
+@@@ &gt; Rating (MVA)
+27
+$$$
+
+@@@ &gt; Hz
+50
+$$$
+ 15,800
+TRX2
+@@@ &gt; Make
+Westralian
+$$$
+
+@@@ &gt; Year
+1983
+$$$
+
+@@@ &gt; HV
+11
+$$$
+
+@@@ &gt; LV
+132
+$$$
+
+@@@ &gt; Rating (MVA)
+27
+$$$
+
+@@@ &gt; Hz
+50
+$$$
+ 21,000
+Station
+@@@ &gt; Make
+
+$$$
+
+@@@ &gt; Year
+
+$$$
+
+@@@ &gt; HV
+
+$$$
+
+@@@ &gt; LV
+
+$$$
+
+@@@ &gt; Rating (MVA)
+
+$$$
+
+@@@ &gt; Hz
+
+$$$
+
+Auxiliary
+@@@ &gt; Make
+
+$$$
+
+@@@ &gt; Year
+
+$$$
+
+@@@ &gt; HV
+
+$$$
+
+@@@ &gt; LV
+
+$$$
+
+@@@ &gt; Rating (MVA)
+
+$$$
+
+@@@ &gt; Hz
+
+$$$
+
+The transformer substation is located about 500 meters from the GT site itself. The 11kV cables to the substation are located below ground and run through cable vaults and some sections are direct buried.
+Within the substation, the transformers are approximately 20 feet apart (between containment areas) and
+30 feet between transformers. Substation is fenced.
+Station and auxiliary transformers are located in an open front by the GT site in a HCB walled and concrete roof structure located adjacent to the control room (see diagram). The transformer enclosures are equipped with grated floor and concrete containment.
+There are no spare major transformers in the system; there are some various spares for units rated at 1
+MVA and less.
+Generator transformer – note deluge sprinkler protection on this unit (TRX3) as well as containment.
+3.4 Control Systems
+Bentley Nevada 3500 fixed vibration monitoring systems are provided on the GTG units.
+The vibration monitoring is monitored at the Regional Control Center at the Parkeston Power Station.
+Bentley Nevada also monitors:
+? Low Pressure – Turbine
+? High pressure – Compressor Reference
+? High Pressure – Compressor Discharge Temperature
+? Low Pressure – Turbine Reference
+3.5 Feed Water
+A reverse osmosis water treatment plant on site supplies water for turbine cleaning. RO water is used for:
+JLT CANADA – RISK CONTROL | JLT 8 | P A G E
+? Evaporative cooler water make-up
+? Turbine water wash
+? Closed circuit turbine lube oil cooling
+4.0 CONSTRUCTION
+4.1 Description of Buildings
+There are three primary buildings on site:
+THE CONTROL /HV ROOM
+This building is of HCB construction with concrete grade floor and roof. Interior finish is non-combustible. Cable runs are below the floor.
+SITE OFFICE/ WAREHOUSE
+This building is a one story wood frame metal clad building, with a wood floor and roof. Occupied as small parts storage and office.
+This building is in good to fair condition.
+.
+SUBSTATION No Photo
+MCC room (not accessed at time of this survey). This building is a one story, brick veneer building – concrete floor.
+4.1 Fire Divisions
+This site is considered to be in two fire divisions:
+? GT site
+JLT CANADA – RISK CONTROL | JLT 9 | P A G E
+? Substation
+Separation between these two sites is about 500 meters and is located within the smelter site.
+4.2 Exposures
+This power station is located within the confines of BHP’s Nickel West smelter operations, which are considered a light to moderate exposure to the operations.
+There is also a large BHP owned fuel oil storage tank (5,200,000 litre – Tank C1) located just north of the
+GTG Package and the High Voltage/Control Room building, which is considered a potentially moderate to severe exposure to the operations. Separation from the GTG is about 60 feet.
+Google Earth® Image
+Nickel West Smelter Site:
+Power Plant:
+5.0 COMMON HAZARDS
+5.1 Emergency Power
+In the substation switchyard building the battery room is separated from the protection and communications cabinets by a brick wall, and is equipped with automatic ventilation. There are three UPS systems in the substation switchyard building; two 110V DC and one 50V DC.
+In the GT control room and 11kv switchroom there are six UPS systems, four 110V DC and two 24V DC.
+Batteries are Absolyte maintenance free type. A full discharge test is conducted on all batteries (serviced by Western Power) once every two years.
+A 600 kW 750 kVa diesel emergency generator provides emergency power in the event of a plant outage
+(black start) with monthly run tests. This unit is equipped with a day tank which is filled from the BHP diesel fuel tank – to be disconnected in the near future. Fuel will be hauled in as needed.
+Substations are equipped with lightning protection. Grounding grids are inspected/tested (part of the PM system).
+5.2 Air Systems
+There are two 100% Ingersoll Rand air compressors per unit (on a common header) supplying instrument air.
+JLT CANADA – RISK CONTROL | JLT 10 | P A G E
+Two 100% cooling towers provide cooling for the turbine lube oil while aerial fans are used to cool the generator gearbox lube oil.
+5.3 Plant Water System
+Plant water is supplied from BHP and feeds to the RO plant for process water( water for turbine cleaning and cooling systems).
+6.0 SPECIAL HAZARDS
+6.1 Fuel Supply – Natural Gas
+Fuel supply comes from the North West shelf offshore gas fields into a third party gas plant. It is then piped into a single pipeline connecting the fuel supply to the Nickel Smelter facility. Loss expectancy for the natural gas pipeline would be 1 week.
+Fuel gas is delivered to the facility at 4.2 MPa. Should the pressure reducer fail (i.e. if the pressure of the gas entering the combustor reach 4.7 MPa) then the fuel gas inlet ESD (emergency shutdown valve) is closed. There are two ESD buttons (one for HP gas and one for all gas) located in the control room for manual shutdown. The ESD valves are located in the APA gas yard remote from the gas turbine facility.
+The gas turbine is operated on natural gas only. The gas turbine is not equipped to burn alternate fuel (fuel oil); accordingly, there is no fuel oil storage at this facility.
+The fuel gas to the combustor is pre-heated to 30°C using APA water bath heaters located in the APA gas yard..
+6.2 Fuel Supply – Diesel Fuel
+No diesel on site as this unit is not diesel fired.
+7.0 PROTECTION
+7.1 Fire Response
+Primary response is from BHP’s Nickel Smelter emergency response team. An emergency services agreement has been signed with BHP, whereby BHP will provide first response to the power plant in the event of an emergency. EMS from BHP KNS includes two fire trucks and one ambulance. Estimated response time is 9 minutes. Fire drills are completed every 6 months.
+External fire protection for the facility is provided by the paid, full-time Kalgoorlie Fire Department
+(response time approx. 20 minutes).
+Response time of TransAlta operators from Parkeston is approximately 15 minutes.
+7.2 Water Supplies
+Fire hose station is located near the generator as well as the transformer yard. Fire water is supplied by
+BHP from their fire water system. BHP operates and maintains these systems. Fire water flow data is not available but is reported to be “as required by Australian Standards”.
+7.3 Sprinkler Protection
+No sprinkler protection installed at this site.
+7.4 Gas Turbine Generator Fire Detection/Suppression Systems
+The LM 6000s are equipped with the following (as part of the package unit):
+JLT CANADA – RISK CONTROL | JLT 11 | P A G E
+? Two LEL gas detectors in the gas control panel and two LEL gas detectors in the gas turbine enclosure; 25% LEL results in an alarm and 50% LEL in shut down.
+? TURBINE ENCLOSURES: o UV detection o Heat detection o CO2 fire suppression. This system consists of two banks of CO2. After firing the first bank and upon re-detection, the second bank is discharged (or can be manually discharged).
+? GENERATOR ENCLOSURE: o UV detection o Heat detection o CO2 fire suppression. This system consists of two banks of CO2. After firing the first bank and upon re-detection, the second bank is discharged (or can be manually discharged).
+? HIGH VOLTAGE ROOM: o Smoke/heat detection o VESDA (air sampling) system in the main control room area and in the control cabinets; one in the HVC and one in the LV room and the sub floor areas.
+o FM200 fire suppression systems (one in each room) operated by at least two detectors.
+Each system is designed for two discharges.
+? 415 VOLT CONTROL ROOMS: o Smoke/heat detection o VESDA (air sampling) system in the main control room area and in the control cabinets; one in the HVC and one in the LV room and the sub floor areas.
+The above fire detection/suppression systems are tied into the control systems which will shut down the unit upon activation.
+OUTSIDE THE GT ENCLOSURE:
+CO2 system for gas turbine enclosure.
+JLT CANADA – RISK CONTROL | JLT 12 | P A G E
+HV ROOM:
+NOTE: The red downward piping is part of the VESDA system which monitors in the MCC cabniets
+Red piping along the far wall and overhead, FM200 system.
+Under floor cabling – heat detectors installed at ceiling.
+High voltage relay room.
+JLT CANADA – RISK CONTROL | JLT 13 | P A G E
+FM 200 system (HV room only)
+7.5 Portable Fire Extinguishers
+Portable fire extinguishers are located throughout the plant.
+7.6 Emergency Shut Down (ESD) System
+ESDs are installed as part of each unit control system. These systems are under a PM for annual inspection and testing.
+All fire alarms at this site sound in the site control room, including the RCC in Parkeston.
+7.7 Fire Protection System Inspection Testing and Maintenance
+As part of the TransAlta Fire Protection System, Inspection Testing and Maintenance Standard:
+? Alarm systems are verified annually.
+? CO2 and FM200 systems are serviced annually.
+? Gas and fire detectors are calibrated once every four months.
+? Smoke detectors (including the VESDA smoke detection systems) are checked once every four months.
+? Fire extinguishers are hydrostatically tested once every five years.
+? Fire extinguishers are visually checked once per week and a comprehensive inspection is conducted once every six months.
+? Emergency lighting is checked as part of a monthly safety PM program.
+7.8 Attendance and Security
+The control room in Parkeston is occupied 24/7 with daily plant visits to the site. This site is located in the
+BHP Nickel Smelter and is security guard protected at the gate.
+7.9 Fire Protection Impairments
+Fire protection impairments are tracked and documented through the TransAlta insurance department. JLT
+Risk Control also reviews all impairment notices.
+Fire protection system impairments are also reported to BHP.
+8.0 SAFETY AND LOSS CONTROL
+JLT CANADA – RISK CONTROL | JLT 14 | P A G E
+8.1 Housekeeping
+Acceptable and in good order.
+This site struggles with the dusty conditions from the smelter site. At time of last site visit, housekeeping was good.
+8.2 Safety Management
+TransAlta has two full time Health and Safety employees to monitor, maintain and control health and safety standards. These standards are both TransAlta corporate and Australian standards.
+Highlights of the safety management programs include:
+? Site orientations (visitors, contractors and employees)
+? Safe work permits
+? Working from heights
+? Working in heat
+? Working alone
+? Chemical controls (MSDS)
+? Personal protective equipment
+? Standard operating procedures
+? Safety meetings
+? Lock out, tag out (electrical)
+? Confined space entry
+? Etc.
+8.3 Operational Integrity Program
+An Operational Integrity Program has been established using a bow-tie analysis for the power plant critical systems. These are systems that are either common to more than one unit or could affect the overall safety and integrity of the plant. This process also considers business loss exposures and mitigation controls to reduce loss probability.
+8.4 Hot Work
+TransAlta wide hot work permit is in use at this facility. The Hot Work Procedure requires the preparation of a Hot Work Certificate (similar to a Permit) in addition to the Work Permit and LOTO (Lock-Out Tag-Out).
+The Hot Work permit documents the assessment of possible fuels, safety measures, and responsibility for safety measures.
+A fire watch is specified with duration and scope appropriate to the job.
+8.5 Management of Change
+MOC is a TransAlta corporate procedure which has been fully implemented in the Australian operations.
+Corporate TSMS Element 5 and Corporate Standard TAC.03.0035 govern the requirements for MOC. The
+MOC process is electronic and incorporates a database including the status of all changes. Program administrator is the in-house engineering department.
+Management of Change audits are completed quarterly.
+8.6 Alarm By-Pass Management
+This site does not operate with critical systems by-passed, forced or jumped.
+This program is run through the Management of Change (MOC) program for documentation and control. In discussions with Control Room Operators, they do not run with critical bypasses. Operator Training
+An operator training program has been implemented through Standard Operating Procedures and
+Policy/Procedure Manuals. The operator competency is tested through reviewing and testing of training
+JLT CANADA – RISK CONTROL | JLT 15 | P A G E modules including running though scenarios. New operators are paired with experienced operators.
+Turnover is reported to be low with control room operator experience between 1 and 16 years.
+8.7 Smoking
+Not permitted in the plant. Signs posted and policy is enforced.
+9.0 Preventive Maintenance
+A long term service agreement is in place for this site for LM6000 major maintenance cycles only. All work
+(service and maintenance ) is coordinated by TransAlta staff . Four four Level 4 accredited service providers available; GE Houston, TransCanada Turbines Calgary, MTU Berlin and IHI Australia for major maintenance.
+TURBINES: The gas turbine generator unit is shut down every 1,500 hours for maintenance. During the shut down, the HP compressor and HP turbine are borescoped.
+For major outages, the engine is shipped back to the GE shop in Houston. For hot section work, a crew from GE comes on-site. Some spares are stored on-site for routine maintenance. For hot gas path work
+GE brings the parts with them.
+GE service bulletins are 90+% compliant. Outstanding bulletins would be of the “optional” category, the lowest priority of the three levels of bulletins issued by GE, or those that are completed when the unit is returned to the factory for repair or major overhaul,
+There is a ten year rolling major maintenance plan for all units.
+Majors are conducted approximately every 60,000 hours based on condition and borescope results.
+Hot sections are replaced approximately every 30,000 hours based on condition and borescope results.
+Water washes and borescope inspections are scheduled every 1,500 hours. Offline water washes are completed every 1,500 hours, taking about 3.5 hours to complete.
+GENERATOR: Generator major overhauls are conducted every 12 years (OEM Brush).
+OIL ANALYSIS: An extensive lube oil analysis program is in place for most fixed and rotating equipment including filter debris analysis. An extensive GTG lube oil analysis is conducted bi-monthly and semi- annually for auxiliary equipment associated with the GTG. Filter oil samples are conducted every 6 months on the GT scavenger and generator oil filters.
+TRANSFORMERS: Dissolved gas analysis (DGA) of transformer oil (including Furan analysis) is conducted semi-annually.
+RELAYS: A PM is in place for the routine inspection and testing of mechanical relays. This generally works out to aservice schedule every 1-3 years.
+BACK-UP POWER SYSTEMS: The diesel generators are run monthly.
+Battery back-up systems are load tested every year and cells or batteries are replaced as identified through the testing.
+PREVENTIVE MAINTENANCE PLANNING: SAP is used for purchasing, maintenance, and work order control. A separate database exists for each power plant. Minimum and maximum numbers of parts are assigned, and the system automatically issues a purchase order when the levels reach the minimum.
+9.1 Electrical Thermography
+An annual infrared scan is conducted on all switchyard equipment, MCCs, switchgear, and transformers
+(all high voltage equipment).
+10.0 MISCELLANEOUS PERILS
+JLT CANADA – RISK CONTROL | JLT 16 | P A G E
+10.1 Flood
+No unusual risks observed. The plant is well entrenched in the Nickel West Smelter operation/site.
+10.2 Swiss Re “CatNet”
+SWISS RE: NatCat Risk Assessment ? Drill down Values
+RIVER FLOOD TSUNAMI
+@@@ &gt; STORM SURGE
+Hazard Zone Code Outside
+$$$
+
+@@@ &gt; WIND STORM
+Tsunami  Outside
+$$$
+
+@@@ &gt; STORM SURGE
+Intensity Value 0.25
+$$$
+
+@@@ &gt; WIND STORM
+Intensity Value 0.25
+$$$
+
+@@@ &gt; F2?F5 Tornados/Year 0
+TORNADO
+$$$
+ VOLCANO
+@@@ &gt; F2?F5 Tornados/Year 0
+Tornado Hazard No Observation Volcano
+$$$
+
+@@@ &gt; 0
+Low (2)
+$$$
+
+@@@ &gt; STORM SURGE
+STORM SURGE
+$$$
+
+@@@ &gt; WIND STORM
+WIND STORM
+$$$
+
+@@@ &gt; F2?F5 Tornados/Year 0
+F2?F5 Tornados/Year 0
+$$$
+ Ash in Thickness (cm)
+@@@ &gt; 0
+0
+$$$
+
+@@@ &gt; STORM SURGE
+Storm Surge Outside
+$$$
+
+@@@ &gt; WIND STORM
+Storm Hazard Low (2)
+$$$
+
+@@@ &gt; F2?F5 Tornados/Year 0
+Range 0.1?0.2
+$$$
+ Intensity Value
+@@@ &gt; 0
+0.25
+$$$
+
+@@@ &gt; STORM SURGE
+Intensity Value 0.25
+$$$
+
+@@@ &gt; WIND STORM
+50 Year Peak gust (m 24
+$$$
+
+@@@ &gt; F2?F5 Tornados/Year 0
+Intensity Value 1
+$$$
+
+@@@ &gt; WIND STORM
+50 Year Peak Range ( 20?25
+$$$
+ LIGHTNING
+@@@ &gt; STORM SURGE
+SEISMIC HAZARD
+$$$
+
+@@@ &gt; WIND STORM
+Intensity Value 1
+$$$
+
+@@@ &gt; F2?F5 Tornados/Year 0
+WILD FIRE
+$$$
+ Lighning Hazard
+@@@ &gt; 0
+Moderate
+$$$
+
+@@@ &gt; STORM SURGE
+Seismic Hazard Moderate
+$$$
+
+@@@ &gt; F2?F5 Tornados/Year 0
+Wild Fire Very Low (1)
+$$$
+ Flash per km2
+@@@ &gt; 0
+4
+$$$
+
+@@@ &gt; STORM SURGE
+Pseudo Special Acc (g) 0.19
+$$$
+
+@@@ &gt; WIND STORM
+HAIL STORM
+$$$
+
+@@@ &gt; F2?F5 Tornados/Year 0
+Range 1
+$$$
+ Flash per km2/Range
+@@@ &gt; 0
+4?6
+$$$
+
+@@@ &gt; STORM SURGE
+PAS Range (g) 1.82?20
+$$$
+
+@@@ &gt; WIND STORM
+Hail Risk Low
+$$$
+
+@@@ &gt; F2?F5 Tornados/Year 0
+Intensity Value 1
+$$$
+ Intensity Value
+@@@ &gt; 0
+4.19
+$$$
+
+@@@ &gt; STORM SURGE
+Intensity Value 3.5
+$$$
+
+@@@ &gt; WIND STORM
+Hail days per 50 km &gt;1.0
+$$$
+
+@@@ &gt; WIND STORM
+Intensity Value 1
+$$$
+
+JLT CANADA – RISK CONTROL | JLT 17 | P A G E
+10.3 Lighting Frequency
+Australia Average
+Thunder/lightning Days.
+Source: http://www.bom.gov.au/jsp/ncc/cli mate_averages/thunder- lightning/index.jsp
+Plant Site:
+11.0 LOSS ESTIMATES
+There are varying degrees of loss estimates. The EML (Estimated Maximum Loss) examines a worst-case scenario. The EML is a high severity/low frequency event (i.e. catastrophic). Catastrophic events are the traditional domain of insurance.
+The next level of loss estimate referred to as the PML (Probable Maximum Loss) is a moderate severity/moderate frequency event. This type of event may be insured or retained depending on the appetite for risk that a corporation may have.
+The last level is referred to as a NLE (Normal Loss Expectancy). Also known as a maintenance loss, it is a low severity/high frequency event.
+EML and PML loss estimates are developed for property and machinery lines of business.
+11.1 Property EML:
+E M L (Estimated Maximum Loss): The largest monetary loss (property damage plus business interruption) within one (fire) division that may be expected to result from a single fire when this is the governing factor, or other insured peril, with fire protection impaired and the control of the fire is mainly dependent on physical barriers or separations, and delayed manual firefighting by public and/or private fire brigades.
+SCENARIO: Lube oil fire in a turbine enclosure where the fire suppression system fails. The fire spreads to the gear box with damage to the generator. Loss of the turbine/generator/gear box as well as damage to control rooms (HV and LV) and exhaust stacks.
+EML PD: $15,000,000
+EML BI: 12-16 months to rebuild.
+o Note 1: with the present demand for this site and the capability to supply power from the SWIS and Kambalda, the BI loss would be reduced to zero.
+o Note 2: It is not known if total loss of this unit would be replaced with like kind (LM6000 PA) as these units will not be supported by GE after 2019.
+JLT CANADA – RISK CONTROL | JLT 18 | P A G E
+11.2 Property PML:
+P M L (Probable Maximum Loss): The largest monetary loss (property damage plus business interruption) within one fire division caused by an insured peril, with private and public protection systems in service and manual firefighting unimpaired.
+SCENARIO: Lube oil fire in the turbine. A significant fire loss in the turbine where significant damage would result in replacement of the entire turbine unit. Minimal damage to the gear box and generator.
+PML PD: $7,500,000
+PML BI: 1 month as replacement turbine is on hand.
+o Note 1: with the present demand for this site and the capability to supply power from the SWIS and Kambalda, the BI loss would be reduced to zero.
+11.3 Property NLE:
+NLE (Normal Loss Expectancy): A typical loss scenario with all protection systems in place and active but does reflect a worst probable loss estimate.
+SCENARIO: Loss of a turbine.
+NLE PD: $4,500,000
+NLE BI: 30 days o Note 1: with the present demand for this site and the capability to supply power from the SWIS and Kambalda, the BI loss would be reduced to zero.
+The loss estimate is based upon several assumptions and cost estimates as detailed in this summary report; however it is not intended to presume that all potential catastrophic loss events have been analyzed. Please refer to the EML, PML and NLE “Loss
+Definitions” for the scenarios that have been considered.
+JLT CANADA – RISK CONTROL | JLT 19 | P A G E
+11.4 Spares and Contingencies
+Note: the following is not intended to be a full list of spare parts/equipment within the TransAlta fleet,but does offer an overview:
+? Two spare gas turbine engines (owned by TransAlta) are stored at the Parkeston site. These units rotate through the other TransAlta Australia facilities (Kalgoorlie, Kambalda, Leinster, Mount Keith) when required.
+? Spare critical breakers and relays
+? Spare instrument control cards
+? One spare gear box
+? Spare high voltage cable and power poles (TransAlta owns the truck for install and service)
+? Spare turbine parts; o Lube oil pumps o Hydraulic controls
+? Major and minor parts for the GTS and Control Systems are presently available for the entire unit on the open market.
+At this site, there is a long run of high voltage xable from the generation site to the transformers – about
+500 meters. There are no spare cables for this and estimated replacement time could be up to 30 days, but most likely the cable would be spliced/repaired.
+JLT CANADA – RISK CONTROL | JLT 20 | P A G E
+12.0 APPENDIX 2 – Site Plan/Diagram
+Site Office
+Warehouse
+(1-MC-P)
+SeaCan
+SeaCan
+RO
+Plant
+Natural
+Gas Cooling Towers S E N
+I
+L
+L
+I
+A
+0 R
+C02 0
+Bottles 0
+6
+M
+L Control Room
+HV Relay Room
+(1-HCB-Conc)
+S
+N
+O
+I
+T
+A
+R E
+E T t e Trx Trx P A
+O G S
+R n e
+E
+T G
+L
+E
+M
+S
+Bulk Fuel
+Storage Tank
+(Exposure)
+(Smeter Owned)
+Drawn by: T. Van der Linden
+Date Drawn/Modified: June 2018 File Name: TransAlta_Kalgoorlie Site.CZD
+TRANSALTA CORPORATION
+KALGOORLIE POWER PLANT
+AUSTRALIA
+Scale: NTS
+JLT CANADA – RISK CONTROL | JLT 21 | P A G E
+13.0 APPENDIX 3 – Simplified Process Flow Diagram
+JLT CANADA – RISK CONTROL | JLT 22 | P A G E
+RISK CONTROL CONTACT
+Tony Van der Linden, CRM
+SVP Risk Control t: 403-770-1421 | c: 403-690-3018 tvanderlinden@jltcanada.com
+The information provided within this risk engineering report is based on information provided during the site visit of the subject facility, which included interviews with site management personnel.
+In compiling this report JLT Canada Inc. have relied in good faith on the information provided for its accuracy and completeness in forming our opinion of the risk.
+This report gives the opinion of JLT Canada Inc. in respect of certain potential risk exposures to the operating company, including
+Property Damage and Machinery Breakdown.
+This report does not guarantee, assume or warrant in any way that the current owners/operators are in compliance with any laws or regulations applying to the facilities. This report does not purport to set forth all hazards or to indicate that hazards other than those mentioned in the report do not exist. No representation is made that compliance with any of the recommendations contained in this report will result in the fulfilment of any legal obligations or render the facilities free from loss. The recommendations detailed within this report are purely advisory and are for the purpose of assisting the insured in loss control and safety procedures. Save in respect of proven foreseeable and fully mitigated damage or loss arising directly from its breach of contract or negligence, JLT Canada Inc.
+does not accept liability of any description (including liability for negligence or breach of contract) for consequential loss, or loss of business, revenue, profits, use or opportunity howsoever arising in connection with this report. Any changes or recommendations proposed in the report should be thoroughly reviewed and formally approved before implementation to ensure it is safe and appropriate to do so. This report may only be relied upon by the person or persons to whom it is addressed and only to the limited extent set out above.
+To the extent permitted by applicable laws, regulations or rules any liability we may incur to you arising out of or in connection with our services, whether in contract, tort (including but not limited to negligence), under the law of trusts or otherwise shall be limited: (i) to reflect only that part of any loss or damage to you which we caused, taking into account any contribution which other people may also have had in causing that loss or damage; and in any event (ii) in aggregate to a maximum of $10 million. You agree that, given the level of our remuneration for the services we provide to you and the level of risk accepted by us, it is fair and reasonable for us to limit our liability in accordance with these provisions.
+Whilst all reasonable care has been taken in the preparation of this presentation no liability is accepted under any circumstances by
+Jardine Lloyd Thompson for any loss or damage occurring as a result of reliance on any statement, opinion, or any error or omission contained herein. Any statement or opinion unless otherwise states should not be construed as independent research and reflects our understanding of current or proposed legislation and regulation which may change without notice. The content of this document should not be regarded as specific advice in relation to the matters addressed.
+JLT Canada Inc is a member of the Jardine Lloyd Thompson Group. Registered office: The St Botolph Building, 138 Houndsditch,
+London EC3A 7AW. Registered in England No. 02240496. VAT No. 244 2321 96.
+JLT CANADA – RISK CONTROL | JLT 23 | P A G E</text><riskFactors><entry><key>RF001</key><value name="RF001" value="E"><sentences><s riskFactorValue="E" begin="7763" end="7862"><text>Helicopter patrols and thermography surveys are also conducted approximately once every five years.</text><operands><op begin="7786" end="7798"><text>thermography</text></op><op begin="7799" end="7806"><text>surveys</text></op><op begin="7856" end="7861"><text>years</text></op></operands></s><s riskFactorValue="G" begin="7763" end="7862"><text>Helicopter patrols and thermography surveys are also conducted approximately once every five years.</text><operands><op begin="7786" end="7798"><text>thermography</text></op><op begin="7799" end="7806"><text>surveys</text></op><op begin="7816" end="7825"><text>conducted</text></op><op begin="7845" end="7850"><text>every</text></op><op begin="7854" end="7855"><text>e</text></op><op begin="7856" end="7861"><text>years</text></op></operands></s><s riskFactorValue="G" begin="13780" end="13841"><text>Grounding grids are inspected/tested (part of the PM system).</text><operands><op begin="13780" end="13789"><text>Grounding</text></op><op begin="13800" end="13809"><text>inspected</text></op><op begin="13810" end="13816"><text>tested</text></op></operands></s><s riskFactorValue="E" begin="24020" end="24098"><text>GENERATOR: Generator major overhauls are conducted every 12 years (OEM Brush).</text><operands><op begin="24020" end="24029"><text>GENERATOR</text></op><op begin="24031" end="24040"><text>Generator</text></op><op begin="24061" end="24070"><text>conducted</text></op><op begin="24080" end="24085"><text>years</text></op></operands></s><s riskFactorValue="E" begin="24458" end="24574"><text>TRANSFORMERS: Dissolved gas analysis (DGA) of transformer oil (including Furan analysis) is conducted semi-annually.</text><operands><op begin="24504" end="24515"><text>transformer</text></op><op begin="24537" end="24545"><text>analysis</text></op><op begin="24565" end="24573"><text>annually</text></op></operands></s><s riskFactorValue="E" begin="25222" end="25322"><text>An annual infrared scan is conducted on all switchyard equipment, MCCs, switchgear, and transformers</text><operands><op begin="25225" end="25231"><text>annual</text></op><op begin="25232" end="25240"><text>infrared</text></op><op begin="25241" end="25245"><text>scan</text></op></operands></s></sentences></value></entry><entry><key>RF002</key><value name="RF002" value="G"><sentences><s riskFactorValue="G" begin="20992" end="21147"><text>The Hot Work Procedure requires the preparation of a Hot Work Certificate (similar to a Permit) in addition to the Work Permit and LOTO (Lock-Out Tag-Out).</text><operands><op begin="20996" end="21004"><text>Hot Work</text></op><op begin="21015" end="21023"><text>requires</text></op><op begin="21045" end="21053"><text>Hot Work</text></op><op begin="21054" end="21065"><text>Certificate</text></op></operands></s></sentences></value></entry><entry><key>RF003</key><value name="RF003" value="G"><sentences><s riskFactorValue="E" begin="2302" end="2342"><text>? Natural gas fired only (no dual fuel).</text><operands><op begin="2328" end="2330"><text>no</text></op><op begin="2336" end="2340"><text>fuel</text></op></operands></s><s riskFactorValue="F" begin="9473" end="9536"><text>Unit No. Make Year HV LV Rating (MVA) Hz Oil Capacity (Gallons)</text><operands><op begin="9514" end="9517"><text>Oil</text></op><op begin="9518" end="9526"><text>Capacity</text></op></operands></s><s riskFactorValue="P" begin="12527" end="12634"><text>There is also a large BHP owned fuel oil storage tank (5,200,000 litre – Tank C1) located just north of the</text><operands><op begin="12543" end="12548"><text>large</text></op><op begin="12559" end="12567"><text>fuel oil</text></op><op begin="12568" end="12580"><text>storage tank</text></op></operands></s><s riskFactorValue="G" begin="19916" end="19966"><text>At time of last site visit, housekeeping was good.</text><operands><op begin="19944" end="19956"><text>housekeeping</text></op><op begin="19961" end="19965"><text>good</text></op></operands></s></sentences></value></entry><entry><key>RF004</key><value name="RF004" value="G"><sentences><s riskFactorValue="G" begin="18448" end="18511"><text>These systems are under a PM for annual inspection and testing.</text><operands><op begin="18481" end="18487"><text>annual</text></op><op begin="18488" end="18498"><text>inspection</text></op></operands></s><s riskFactorValue="G" begin="24575" end="24660"><text>RELAYS: A PM is in place for the routine inspection and testing of mechanical relays.</text><operands><op begin="24608" end="24615"><text>routine</text></op><op begin="24616" end="24626"><text>inspection</text></op></operands></s></sentences></value></entry><entry><key>RF005</key><value name="RF005" value="E"><sentences><s riskFactorValue="G" begin="1385" end="1414"><text>9.0 Preventive Maintenance 16</text><operands><op begin="1389" end="1411"><text>Preventive Maintenance</text></op></operands></s><s riskFactorValue="E" begin="3415" end="3565"><text>Operators are based at the Parkeston Power Station, Maintenance staff visit the site daily to complete rounds and preventative maintenance activities.</text><operands><op begin="3467" end="3478"><text>Maintenance</text></op><op begin="3479" end="3484"><text>staff</text></op></operands></s><s riskFactorValue="G" begin="3415" end="3565"><text>Operators are based at the Parkeston Power Station, Maintenance staff visit the site daily to complete rounds and preventative maintenance activities.</text><operands><op begin="3529" end="3553"><text>preventative maintenance</text></op></operands></s><s riskFactorValue="G" begin="3566" end="3629"><text>Maintenance activities are scheduled weekly 21 days in advance.</text><operands><op begin="3566" end="3577"><text>Maintenance</text></op><op begin="3593" end="3602"><text>scheduled</text></op><op begin="3603" end="3609"><text>weekly</text></op></operands></s><s riskFactorValue="G" begin="3630" end="3756"><text>Maintenance is generally scheduled for a Monday to Friday work week with site rounds being completed on Saturdays and Sundays.</text><operands><op begin="3630" end="3641"><text>Maintenance</text></op><op begin="3655" end="3664"><text>scheduled</text></op></operands></s><s riskFactorValue="E" begin="6071" end="6210"><text>Main staffing comes from Parkston where there are a total of 23 staff, including 7 office staff, 6 maintenance personnel, and 10 operators.</text><operands><op begin="6170" end="6181"><text>maintenance</text></op><op begin="6182" end="6191"><text>personnel</text></op></operands></s><s riskFactorValue="E" begin="6560" end="6646"><text>A separate Fly in Fly out Operations and Maintenance team service the Northern System.</text><operands><op begin="6601" end="6612"><text>Maintenance</text></op><op begin="6613" end="6617"><text>team</text></op></operands></s><s riskFactorValue="G" begin="7954" end="8052"><text>A PM program is in place to replace wooden cross arms with steel wishbones to help reduce leakage.</text><operands><op begin="7956" end="7958"><text>PM</text></op></operands></s><s riskFactorValue="G" begin="18448" end="18511"><text>These systems are under a PM for annual inspection and testing.</text><operands><op begin="18474" end="18476"><text>PM</text></op></operands></s><s riskFactorValue="G" begin="18800" end="18846"><text>? CO2 and FM200 systems are serviced annually.</text><operands><op begin="18828" end="18836"><text>serviced</text></op><op begin="18837" end="18845"><text>annually</text></op></operands></s><s riskFactorValue="G" begin="22586" end="22612"><text>9.0 Preventive Maintenance</text><operands><op begin="22590" end="22612"><text>Preventive Maintenance</text></op></operands></s><s riskFactorValue="E" begin="23220" end="23275"><text>Some spares are stored on-site for routine maintenance.</text><operands><op begin="23243" end="23250"><text>on-site</text></op><op begin="23263" end="23274"><text>maintenance</text></op></operands></s><s riskFactorValue="G" begin="23858" end="23929"><text>Water washes and borescope inspections are scheduled every 1,500 hours.</text><operands><op begin="23885" end="23896"><text>inspections</text></op><op begin="23901" end="23910"><text>scheduled</text></op></operands></s><s riskFactorValue="G" begin="24908" end="25005"><text>PREVENTIVE MAINTENANCE PLANNING: SAP is used for purchasing, maintenance, and work order control.</text><operands><op begin="24908" end="24930"><text>PREVENTIVE MAINTENANCE</text></op></operands></s></sentences></value></entry><entry><key>RF006</key><value name="RF006" value="P"><sentences><s riskFactorValue="P" begin="16321" end="16368"><text>No sprinkler protection installed at this site.</text><operands><op begin="16321" end="16323"><text>No</text></op><op begin="16324" end="16333"><text>sprinkler</text></op><op begin="16324" end="16344"><text>sprinkler protection</text></op><op begin="16363" end="16367"><text>site</text></op></operands></s><s riskFactorValue="X" begin="16321" end="16368"><text>No sprinkler protection installed at this site.</text><operands><op begin="16321" end="16323"><text>No</text></op><op begin="16324" end="16333"><text>sprinkler</text></op></operands></s></sentences></value></entry><entry><key>RF007</key><value name="RF007" value="E"><sentences><s riskFactorValue="E" begin="621" end="643"><text>5.1 Emergency Power 10</text><operands><op begin="625" end="634"><text>Emergency</text></op><op begin="641" end="643"><text>10</text></op></operands></s><s riskFactorValue="E" begin="966" end="1005"><text>7.6 Emergency Shut Down (ESD) System 14</text><operands><op begin="970" end="979"><text>Emergency</text></op><op begin="980" end="989"><text>Shut Down</text></op></operands></s><s riskFactorValue="E" begin="8405" end="8519"><text>Two run down tanks also assist in shut down of the lube oil supply during routine and emergency shutdown scenarios</text><operands><op begin="8491" end="8500"><text>emergency</text></op><op begin="8501" end="8509"><text>shutdown</text></op></operands></s><s riskFactorValue="E" begin="14646" end="14815"><text>Should the pressure reducer fail (i.e. if the pressure of the gas entering the combustor reach 4.7 MPa) then the fuel gas inlet ESD (emergency shutdown valve) is closed.</text><operands><op begin="14779" end="14788"><text>emergency</text></op><op begin="14789" end="14797"><text>shutdown</text></op></operands></s><s riskFactorValue="G" begin="15415" end="15485"><text>Primary response is from BHP’s Nickel Smelter emergency response team.</text><operands><op begin="15432" end="15434"><text>is</text></op><op begin="15461" end="15484"><text>emergency response team</text></op></operands></s><s riskFactorValue="E" begin="15694" end="15877"><text>Estimated response time is 9 minutes. Fire drills are completed every 6 months.
+External fire protection for the facility is provided by the paid, full-time Kalgoorlie Fire Department</text><operands><op begin="15704" end="15712"><text>response</text></op><op begin="15721" end="15722"><text>9</text></op><op begin="15723" end="15730"><text>minutes</text></op><op begin="15862" end="15877"><text>Fire Department</text></op></operands></s><s riskFactorValue="E" begin="15694" end="15731"><text>Estimated response time is 9 minutes.</text><operands><op begin="15704" end="15712"><text>response</text></op><op begin="15713" end="15717"><text>time</text></op><op begin="15721" end="15722"><text>9</text></op><op begin="15723" end="15730"><text>minutes</text></op></operands></s><s riskFactorValue="G" begin="15732" end="15913"><text>Fire drills are completed every 6 months.
+External fire protection for the facility is provided by the paid, full-time Kalgoorlie Fire Department
+(response time approx. 20 minutes).</text><operands><op begin="15862" end="15877"><text>Fire Department</text></op><op begin="15879" end="15887"><text>response</text></op><op begin="15901" end="15903"><text>20</text></op><op begin="15904" end="15911"><text>minutes</text></op></operands></s><s riskFactorValue="G" begin="15878" end="15913"><text>(response time approx. 20 minutes).</text><operands><op begin="15879" end="15887"><text>response</text></op><op begin="15888" end="15892"><text>time</text></op><op begin="15901" end="15903"><text>20</text></op><op begin="15904" end="15911"><text>minutes</text></op></operands></s><s riskFactorValue="E" begin="18355" end="18391"><text>7.6 Emergency Shut Down (ESD) System</text><operands><op begin="18359" end="18368"><text>Emergency</text></op><op begin="18369" end="18378"><text>Shut Down</text></op></operands></s></sentences></value></entry><entry><key>RF008</key><value name="RF008" value="G"><sentences><s riskFactorValue="G" begin="13728" end="13779"><text>Substations are equipped with lightning protection.</text><operands><op begin="13758" end="13767"><text>lightning</text></op><op begin="13768" end="13778"><text>protection</text></op></operands></s><s riskFactorValue="G" begin="25881" end="25918"><text>Tornado Hazard No Observation Volcano</text><operands><op begin="25881" end="25888"><text>Tornado</text></op><op begin="25889" end="25895"><text>Hazard</text></op><op begin="25896" end="25898"><text>No</text></op></operands></s><s riskFactorValue="G" begin="26165" end="26185"><text>Storm Hazard Low (2)</text><operands><op begin="26165" end="26170"><text>Storm</text></op><op begin="26171" end="26177"><text>Hazard</text></op><op begin="26178" end="26181"><text>Low</text></op></operands></s><s riskFactorValue="F" begin="26649" end="26672"><text>Seismic Hazard Moderate</text><operands><op begin="26649" end="26656"><text>Seismic</text></op><op begin="26657" end="26663"><text>Hazard</text></op><op begin="26664" end="26672"><text>Moderate</text></op></operands></s><s riskFactorValue="G" begin="26987" end="27000"><text>Hail Risk Low</text><operands><op begin="26987" end="26991"><text>Hail</text></op><op begin="26992" end="26996"><text>Risk</text></op><op begin="26997" end="27000"><text>Low</text></op></operands></s></sentences></value></entry><entry><key>RF009</key><value name="RF009" value="F"><sentences><s riskFactorValue="F" begin="17179" end="17374"><text>? HIGH VOLTAGE ROOM: o Smoke/heat detection o VESDA (air sampling) system in the main control room area and in the control cabinets; one in the HVC and one in the LV room and the sub floor areas.</text><operands><op begin="17202" end="17222"><text>Smoke/heat detection</text></op><op begin="17312" end="17315"><text>one</text></op></operands></s><s riskFactorValue="F" begin="17507" end="17707"><text>? 415 VOLT CONTROL ROOMS: o Smoke/heat detection o VESDA (air sampling) system in the main control room area and in the control cabinets; one in the HVC and one in the LV room and the sub floor areas.</text><operands><op begin="17535" end="17555"><text>Smoke/heat detection</text></op><op begin="17645" end="17648"><text>one</text></op></operands></s><s riskFactorValue="G" begin="17952" end="18044"><text>NOTE: The red downward piping is part of the VESDA system which monitors in the MCC cabniets</text><operands><op begin="17982" end="17984"><text>is</text></op><op begin="17997" end="18002"><text>VESDA</text></op><op begin="18016" end="18024"><text>monitors</text></op></operands></s></sentences></value></entry><entry><key>RF010</key><value name="RF010" value="E"><sentences><s riskFactorValue="E" begin="6211" end="6275"><text>There are 2 operators present 24 hours per day, 7 days per week.</text><operands><op begin="6217" end="6220"><text>are</text></op><op begin="6241" end="6257"><text>24 hours per day</text></op></operands></s><s riskFactorValue="G" begin="6211" end="6275"><text>There are 2 operators present 24 hours per day, 7 days per week.</text><operands><op begin="6211" end="6220"><text>There are</text></op><op begin="6233" end="6240"><text>present</text></op><op begin="6241" end="6257"><text>24 hours per day</text></op></operands></s><s riskFactorValue="E" begin="10377" end="10398"><text>Substation is fenced.</text><operands><op begin="10388" end="10390"><text>is</text></op><op begin="10391" end="10397"><text>fenced</text></op></operands></s><s riskFactorValue="G" begin="10377" end="10398"><text>Substation is fenced.</text><operands><op begin="10388" end="10390"><text>is</text></op><op begin="10391" end="10397"><text>fenced</text></op></operands></s><s riskFactorValue="E" begin="19417" end="19480"><text>BHP Nickel Smelter and is security guard protected at the gate.</text><operands><op begin="19440" end="19442"><text>is</text></op><op begin="19475" end="19479"><text>gate</text></op></operands></s></sentences></value></entry><entry><key>RF011</key><value name="RF011" value="U"><sentences/></value></entry><entry><key>RF012</key><value name="RF012" value="U"><sentences/></value></entry></riskFactors><parameters/><attributes><a name="INSURED_NAME" begin="49" end="70"><text>Transalta Corporation</text></a><a name="COUNTRY" begin="124" end="133"><text>Australia</text></a><a name="CITY" begin="71" end="81"><text>Kalgoorlie-Boulder</text></a><a name="CITY" begin="94" end="123"><text>Kalgoorlie-Boulder</text></a><a name="SURVEY_DATE_WEAK" begin="150" end="164"><text>20180418</text></a><a name="SURVEY_DATE" begin="150" end="164"><text>20180418</text></a><a name="AS_Presence" begin="0" end="1"><text>No</text></a></attributes></riskFactorAnalysis>

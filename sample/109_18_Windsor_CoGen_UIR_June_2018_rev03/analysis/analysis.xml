@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><riskFactorAnalysis><text>JLT RISK CONTROL
+UNDERWRITING INFORMATION
+REPORT
+TRANSALTA CORPORATION
+Windsor Co Generation Station
+2600 Temple Drive
+Windsor, Ontario, Canada
+Date of Survey: June 22, 2018
+Report version: 03
+TABLE OF
+CONTENTS
+JLT RISK CONTROL 4
+GENERAL 4
+1.1 Quick Facts / Executive Summary 4
+OPERATIONS 4
+2.1 Location 4
+2.2 Occupancy 5
+2.3 Process Description 5
+2.4 Process Description 6
+2.5 Gas Turbine (GT) 6
+2.6 Gas Turbine Generator (GTG) 7
+2.7 Heat Recovery Steam Generator (HRSG) 8
+2.8 Steam Turbine and Generator (ST and STG) 9
+2.9 Auxiliary Boiler (on site) 10
+2.10 Transformers 10
+2.11 Steam Export 11
+2.12 Chilled Water System 11
+2.13 Plant Control System 12
+2.14 Chrysler Equipment 12
+CONSTRUCTION 12
+3.1 Fire Divisions 13
+3.2 Exposures 13
+COMMON HAZARDS 13
+4.1 Water Supply 13
+4.2 Natural Gas Fuel Supply 14
+4.3 Natural Gas Fuel Compressors 14
+4.4 Emergency Power 14
+4.5 Compressed Air Supply 14
+4.6 Uninterrupted Power Supply Systems 14
+SPECIAL HAZARDS 15
+5.1 Work Permits 15
+5.2 Smoking 15
+5.3 Lube Oil Pumps 15
+PROTECTION 15
+6.1 Public Fire Protection 15
+6.2 Water Supplies 15
+JLT CANADA – RISK CONTROL | JLT 2 | P A G E
+6.3 Automatic Water Spray Systems 16
+6.4 Sprinkler Design Curves 17
+6.5 Standpipe and Hose 17
+6.6 Portable Fire Extinguishers 17
+6.7 Fire Detection 17
+6.8 GT Fixed Extinguishing System 18
+6.9 Control Room Fixed Extinguishing System 18
+6.10 Fire Prevention 18
+6.11 Emergency Shut Down (ESD) System 18
+6.12 Fire Protection System Impairments 18
+6.13 Fire Protection System Inspection Testing and Maintenance 19
+6.14 Attendance and Security 19
+SAFETY AND LOSS CONTROL 19
+7.1 Safety Management 19
+7.2 Management of Change 19
+7.3 Alarm Bypass Management 19
+7.4 Preventive Maintenance 19
+7.5 Electrical Thermography 20
+7.6 Reliability Analysis 20
+7.7 Manufacturer Service Bulletins 20
+MISCELLANEOUS PERILS 21
+8.1 Geological Survey of Canada – Seismic Hazard Map 21
+8.2 Flood 22
+8.3 Swiss Re “CatNet” 23
+8.4 Munich Re “World of Natural Hazards” 23
+8.5 Lightning Frequency 23
+8.6 Wind - Tornado Frequency 24
+8.7 Lightning Exposure 25
+8.8 Burglary/Theft/Vandalism 25
+LOSS ESTIMATES 25
+9.1 Property EML: 25
+9.2 Property PML: 26
+APPENDIX 2 – Site Plan/Diagram 27
+APPENDIX 2: Single Line Diagram 28
+APPENDIX 3 – Additional Photos 29
+Revision Author Date Comments
+01
+@@@ &gt; Author
+T. Van der Linden
+$$$
+
+@@@ &gt; Date
+June 25, 3028
+$$$
+ Update to our 2015 UIR
+02
+@@@ &gt; Author
+A. Christensen
+$$$
+
+@@@ &gt; Date
+October 9, 2018
+$$$
+ Edits from Jeff S. Campbell
+03
+@@@ &gt; Author
+T. Van der Linden
+$$$
+
+@@@ &gt; Date
+Sept 10, 2018
+$$$
+ Review of edits and updates
+JLT CANADA – RISK CONTROL | JLT 3 | P A G E
+JLT RISK CONTROL
+UNDERWRITING INFORMATION
+REPORT
+GENERAL
+1.1 Quick Facts / Executive Summary
+In regards to the operation of this client, note the following quick facts:
+• Peaking power plant as of December 2016.
+• PPA in place until Dec 2031.
+• Combined Cycle Generation Plant with: o One LM6000 PD gas turbine/generator (48 MW) connected to a Nooter Eriksen HRSG o One Mitsubishi Steam Turbine (31 MW) with WSAC
+• Can run simple cycle if needed with steam vent to atmosphere.
+• Export Steam sales to Chrysler. Present on site auxiliary boiler is a back up to the Chrysler plant
+Boilers.
+• Generation Capacity is 79 MW - name plate
+• TransAlta operates and maintains two boilers and several chillers at the Chrysler plant.
+• GE LTSA includes a replacement unit in 72 hours.
+• Maintenance completed on: o Gas Turbine (GT) Major in June 2017 o Gas Turbine Generator (GTG) Major in April 2017 o Steam Turbine (ST) major in Jan of 2017 included L0 blade replacement o Steam Turbine Generator (STG) Minor in 2017
+OPERATIONS
+2.1 Location
+2600 Temple Drive, Windsor, Ontario, Canada. Located in a mixed light industrial area.
+GPS: Longitude: 820 58.49 West
+Latitude: 420 17.15 North
+JLT CANADA – RISK CONTROL | JLT 4 | P A G E
+2.2 Occupancy
+POWER: The Windsor cogeneration plant is designed to produce a maximum of 79 MW (maximum output
+– name plate data) of electrical power on a day before 24 hour bid basis or on dispatch from the IESO
+(Independent Electrical System Operator).
+STEAM: When required, steam is exported from this site to the Chrysler manufacturing plant and is provided from the Auxiliary Boiler. This is back up to the boilers at Chrysler Plant.
+OPERATORS: TransAlta operates 2 boilers (non owned) at the Chrysler Powerhouse
+The site is approximately 115 m x 175 - 250 m (380 ft. x 575 - 820 ft.) in size.
+The cogeneration plant operates continuously with an operator complement of three per shift comprising of a Shift Engineer at Chrysler, a Shift Engineer at the cogeneration plant, and an intermediate plant operator who roams between both sites.
+Total TransAlta staff consists of 21 personnel (14 operators, 2 millwrights, 2 instrument electricians, 1
+Operations Manager, 1 Plant Manager and 1 administrator.). The shift rotation consists of continental 12 hours while plant maintenance is carried out on days. Plant maintenance staff will handle routine and preventive maintenance. Major maintenance, such as turnarounds, is contracted out along with plant maintenance staff.
+2.3 Process Description
+This site is a cycling or peaking plant and is expected to operate about 750 to 1,000 hours a year.
+Lower steam demands to the Chrysler Plant are expected in the future due to production line efficiencies.
+JLT CANADA – RISK CONTROL | JLT 5 | P A G E
+2.4 Process Description
+2.5 Gas Turbine (GT)
+GT Manufacturer GE
+GT Type LM 6000 PD
+The General Electric LM6000 PD machine gas turbine-generator set generates 48 MW of electrical power at 13.8 KV.
+This LM-6000 unit is an aero derivative machine consisting of a 5 stage low pressure compressor, a 14 stage high pressure compressor section, an annular Dry Low Nox Emission (DLE) combustion section, a 2 stage High Pressure and 5 stage Low Pressure turbine.
+Thirty nozzles feed fuel into the LM6000 annular combustor, providing a uniform heat profile to the High
+Pressure Turbine (HPT). A “Sprint Kit” was installed in Aug 2009 during the PB to PD engine upgrade which injects water into the HP and LP combustion chambers of the turbine and increases production by up to 4.5 MW.
+The gas turbine-generator is housed in a separate environmental/acoustical enclosure outside the main building. The lube oil consoles and electric/hydraulic start system is housed inside the cogeneration plant, adjacent to the turbine-generator enclosure.
+JLT CANADA – RISK CONTROL | JLT 6 | P A G E
+The turbine inlet air is passed through two sets of filters prior to entering the turbine compressor. Heating and cooling coils are provided for the inlet air to avoid freezing and to maintain the turbine inlet air at a temperature of 8.9º C (47º F), which provides optimum efficiency and power output.
+A “Micronet” control, monitoring, alarm and trip system is provided for the gas turbine-generator. A Bently-
+Nevada dual axis 3500 series vibration monitoring system is fitted to the GTG and gives direct readout of vibration levels with alert and danger indications. All alarm indications, operating parameters and performance data are indicated within the gas turbine control system in the constantly attended plant control room.
+The generator is equipped with electrical protection which includes field ground fault, reverse power, negative sequence, over current, under voltage and over voltage.
+PM 6000 PD unit
+2.6 Gas Turbine Generator (GTG)
+GTG Manufacturer GEC Alsthom
+GTG Model TA SS-40
+RATING 48 MW
+RPM 3600
+DATE OF MFG 1994
+VOLTS 13.8 kVa
+POWER FACTOR 85%
+The GEC Alsthom generator is air cooled and brush excited.
+LUBE OIL SYSTEMS: The lube oil system for the GT and GTG is equipped with both AC (two pumps) and one DC lube oil pumps. The DC pump is exercised at time of every start-up. The GT is also equipped with run down lube oil tanks and a mechanical lube oil pump.
+JLT CANADA – RISK CONTROL | JLT 7 | P A G E
+2.7 Heat Recovery Steam Generator (HRSG)
+Manufacturer Nooter Eriksen
+HP 7300 Kpa
+IP 1000 Kpa
+Condensate Cooling WSAC – Wet Surface Air Cooler
+The exhaust heat from the gas turbines is recovered in a Nooter Eriksen Heat Recovery Steam Generator
+(HRSG). The HRSG is capable of producing 261,700 lb/hr of HP (1325 psi and 1,500°F) steam, 24,100 lb/hr of IP (225 psi) steam, and 15,000 lb/hr of LP (125 psi) steam with the six levels of duct burners operating. The HRSG produces steam to drive the steam turbine-generator, and was originally designed for extraction export to the Chrysler plant located about 1.5 km away.
+Without duct burning the HRSG output is approximately 50%, or 112,000 lb/hr of 902°F HP steam, 10,000 lb/hr of IP steam at 157 psi and 362°F, and 5,000 lb/hr of LP steam at 45 psi and 274°F. The plant DCS control system controls ensures safe operation of the HRSG.
+The steam demand at Chrysler is 50,000 lb/hr of IP (150 psi at 350 °F) steam in the summer and 160,000-
+180,000 lb/hr in the winter. The steam is delivered to Chrysler via a 1.5-kilometer pipeline. Steam is provided by the two boilers operated by TransAlta at the Chrysler Plant and an Auxiliary Boiler located at the Windsor Power Station provides supplementary steam when required..
+The exhaust gases from the turbines are ducted to the HRSG. Natural gas auxiliary burners are located vertically within the duct and are utilized to support merchant MW demands. The auxiliary burners consist of six burners, stacked vertically and controlled by a combustion control and safety system. This system incorporates the following safeguards:
+• Timed purge system
+• Dual flame scanner on each level
+• Low and high fuel gas pressure (alarm and shutdown)
+• Double block and bleed valve on fuel gas train
+• The plant distributed control system (DCS) also provides low duct pressure and high duct temperature trips which are hardwired.
+The HRSG has been upgraded to include a nitrogen purge system to reduce freezing and rust built up between cycles. The nitrogen generator and air receiver is locatedin the main plant. It takes about 2-3 days to dry the HRSG after operation.
+Upgrades have been added to the HRSG to include the installation of three silencers if/when the unit is run in simple cycle, the steam can be vented to atmosphere. The silencers reduce the ambient air noise that occurs during venting.
+Water treatment on site is a Phosphate Water Treatment process. Return condensate form Chrysler is not used in the HRSG (Auxiliary boiler only).
+JLT CANADA – RISK CONTROL | JLT 8 | P A G E
+HRSG – Heat Recovery Steam
+Generator
+(Turbine enclosure to the right
+2.8 Steam Turbine and Generator (ST and STG)
+Turbine Manufacturer Mitsubishi
+Manufacturer: GEC Alstom
+Generator Rating 31.1 MW rated (26 MW operating): Power Factor: 80%
+Turbine Inlet Pressure 1065 psia / 7345 kPaA
+RPM 3600 RPM
+The Mitsubishi steam turbine is a 3,600 rpm, single shaft, 15 stage condensing unit. Extraction and induction of steam are facilitated through two ports located between stages “7 and 8” (IP) and “9 and 10”
+(LP) of the unit. The GEC Alsthom generator is driven directly by the turbine through a coupling located on the HP side of the turbine. The HP and IP stages, totaling nine, are housed in one casing which is flanged to the LP section of the casing, housing the six low pressure stages.
+The steam turbine is directly fed by the HRSG and the exhaust low pressure steam is condensed in the
+Baltimore air coil condensers.
+The lube oil reservoir and pumps and turbine bearings are protected by fixed wet-pipe water spray systems
+– 6 directional closed sprinkler heads. No oil spill containment has been provided in this area. Sprinkler protection has also been installed on the steam turbine bearings – See Protection.
+The STG is equipped with an extensive complement of alarm and shutdown instrumentation.
+Exhaust steam from the turbine is directed to an exterior wet surface area condenser where it is condensed through a six cell WSAC (Wet Surface Air Condenser) provided with four cooling fans (vibration monitors installed) and PVC cooling baffles in a concrete frame. Fan motors are VFD at 50 and 125 HP.
+The steam turbine output is rated to a maximum of 31.3 MW with duct firing and 10.5 MW without duct firing.
+Steam turbine is equipped with electronic over spread sensors that are tested at every start-up and shut down of the unit at a reduced speed (re-set of the speed limits).
+JLT CANADA – RISK CONTROL | JLT 9 | P A G E
+Top of the Steam Turbine
+Steam turbine – Generator bearing sprinkler protection.
+2.9 Auxiliary Boiler (on site)
+Manufacturer: Volcano, Natural Gas
+L/hr: 130,000
+Rating: 250 psi
+This boiler is on standby as it is a back-up to the two boilers at the Chrysler site.. Additional IP steam (up to
+130,000 lb/hr) is provided by the gas-fired auxiliary boiler when required. The aux. boiler is a 178 MMBtu
+Volcano boiler equipped with double block and bleed on the fuel gas line.
+This boiler does not have sufficient pressure/volume to feed the steam turbine.
+2.10 Transformers
+Unit Service Age Primary Secondary Rating Oil Capacity
+No. (kV) (kV) (MVA) (Gallons)
+T1 SGU – Step up Panels 1994 13.8 115 60/80 17940 L
+T2 Station – Square D 1995 13.8 2400 5/6.65 3180 L
+The GTG and the STG can generate a combined total of about 74 MW of power at 13.8 KV. The 13.8 KV power is stepped up to 115 KV in a 60/80 MVA outside oil cooled power transformer:
+JLT CANADA – RISK CONTROL | JLT 10 | P A G E
+The step-up transformer is equipped with temperature, sudden pressure and over current protection, and is protected by an automatic deluge water spray system activated by a pilot sprinkler line with 165F heads.
+Overall average power consumption of the plant is about 2 MW.
+Both transformers are located in a fenced area to the rear of the plant on a gravel base.
+The main transformer (T1) is equipped with on line gas monitor (“Serveron”) connected to the control room for alarm.
+Transformers
+Station service transformer to the left.
+GSU - 80 MVA transformer
+Online oil/gas monitor.
+2.11 Steam Export
+All export steam systems at this site are considered as back up
+Intermediate pressure steam produced in the HRSG or extracted from the steam turbine is exported to the
+Chrysler plant. The steam is utilized primarily for building heat in the Chrysler plant with a small amount used for process heating.
+The steam demand at Chrysler is 40,000 to 50,000 lb/hr of IP (150 psi at 350°F) steam in the summer and
+160,000-180,000 lb/hr in the winter. The annual average steam demand is 93,000 lb/hr and the maximum steam demand is 180,000 lb/hr. The steam is delivered to Chrysler via a 2.3 kilometer underground pipeline.
+Chrysler returns 60% of the steam to TransAlta as condensate which is only used in the Auxiliary Boiler.
+2.12 Chilled Water System
+Chilled water is provided by two 900 ton York chillers. The chillers are utilized in the summer months only to produce chilled water for conditioning the gas turbine inlet air temperature to around 90C (480 F)
+JLT CANADA – RISK CONTROL | JLT 11 | P A G E
+The chiller system incorporates two small roof mounted cooling towers of metal construction.
+2.13 Plant Control System
+The overall plant control system is a Bailey Infi 90 Distributed Control System (DCS), which is accessed from consoles in the control room. The DCS system provides overall plant control, graphics displays, operating parameters, alarm displays and summaries, emergency shutdown, reporting, etc.
+Major equipment is provided with individual control, monitoring and shutdown systems, e.g. the GTG has a
+“Micronet” control system, and fuel gas compressors have an Amot Microguard instrumentation/alarm/shutdown panel.
+Bentley Nevada 3500 vibration monitoring system has been installed on the GT and STG as well as the
+WSAC cooling fan motors.
+2.14 Chrysler Equipment
+In addition to the facilities at the cogeneration plant, TransAlta personnel operate the equipment owned by
+Chrysler, located at the Chrysler plant. This equipment consists of:
+• One 130,000 lb/hr and one 100,000 lb/hr boilers and associated auxiliary equipment
+• Compressed air system, and
+• Chiller plants, consisting of ten chillers (9 x 2000 ton, 1 x 1000)
+CONSTRUCTION
+The Cogen Plant major equipment is located in a single "L" shaped building of lightweight noncombustible construction approximately 2,900 m2 (31,000 sq. ft.) in area. The gas turbine, heat recovery boiler, power transformer and the wet surface condensers are located outside adjacent to the structure.
+The building is of lightweight noncombustible construction with concrete grade floor, concrete and/or steel grate intermediate/mezzanine floors and steel frame insulated metal clad walls. The metal roof decking is supported on exposed steel beams and columns, and is finished with a conventional inverted roof membrane (I.R.M.A.). We were advised that this assembly meets FM Class I criteria in regards to flame spread.
+The building is mainly 1 = 2 and 1 = 3 storeys equaling approximately 7 m and 12-14 m high.
+The outdoor wet surface area condensers are of noncombustible construction, with the exception of the reinforced fiberglass fan shrouding and PVC cooling baffles.
+The GTG and lube oil console are housed in a steel paneled acoustical enclosure, located outside the main building.
+The STG is supported by a reinforced concrete pedestal and floor. The high pressure turbine, gearbox and generator are contained in a steel paneled acoustical enclosure.
+The control room is constructed with gypsum board walls on metal studs, with a large ordinary glass window overlooking the steam turbine floor. The control room and adjacent DCS hardware room have raised computer room type floors.
+The electrical switchgear and fuel gas compressors are separated from the main plant area by full height concrete block walls with steel doors on openings.
+Floor drains are directed to the oil/water separator.
+JLT CANADA – RISK CONTROL | JLT 12 | P A G E
+Front of the plant
+3.1 Fire Divisions
+This plant is considered to be in one fire division.
+3.2 Exposures
+External exposures to the facility are considered light overall.
+There are rail spurs lines to the north and east of the plant – see diagram below.
+Windsor
+Power
+Plant
+COMMON HAZARDS
+4.1 Water Supply
+Domestic water (including firewater) enters the facility at 70 psi via an 8 inch connection to the City of
+Windsor mains. The process water is pumped through filters and a de-ionization system to treated water
+JLT CANADA – RISK CONTROL | JLT 13 | P A G E storage tanks. The treated, de-ionized water is then directed through a condensate/water heat exchanger to the deaerator.
+Steam condensate is returned from the Chrysler plant to the TransAlta site.
+4.2 Natural Gas Fuel Supply
+The fuel for the cogeneration plant is natural gas, which is delivered by the Union Gas main pipeline in the area. The fuel gas is utilized in the gas turbine-generator (GTG) and the duct burners for the HRSG.
+Natural gas enters the facility at 2250 kPa and is directed through a knockout drum in which any solids and water remaining are removed and drained to an underground tank. The fuel gas is then split into two streams. One stream is reduced in pressure (to 900 kPa) to supply the HRSG duct burners; the second stream is compressed in one of the two compressors to supply the gas turbine-generator.
+4.3 Natural Gas Fuel Compressors
+The fuel gas is directed to the suction of two Ariel compressors (one on standby) driven by a 600 hp electric motors. The compressors increase the gas pressure to approximately 625 psi (4300 kPa), which is necessary for proper operation of the gas turbine unit. The compressors are equipped with control systems which provide the following alarm and shutdown protection:
+Alarms Shutdowns
+Compressor Oil Pressure Low Lubricator Flow Low Low
+Compressor Suction Pressure Low Compressor Oil Pressure Low Low
+Discharge Pressure High Compressor Vibration High High
+Cylinder Temperature High Suction Pressure Low Low
+Oil Level Low Discharge Pressure High High
+Oil Temperature High Cylinder Temperature High High
+The fuel gas compressors are housed in a shut-off room of concrete block construction with extra blowout wall panels. The room is protected by combustible gas detection which shuts down the compressor, and isolates the main fuel gas supply valve on gas detection at 40% of Lower Explosive Limit (LEL). Gas detection at 20% of LEL activates an alarm in the plant control room and starts ventilation fans.
+This room is considered to be a class 1 Division 1 hazardous location. All equipment in this room is sealed and any work completed in the room is done so under a safe work permit.
+4.4 Emergency Power
+Emergency power is provided by a 600 V feeder from EnWin Utilities through an automatic transfer switch supplying the UPS system and other critical equipment.
+Two NiCad battery banks (one 19-cell and one 38-cell) supply 24 Volt DC power to two UPS systems.
+4.5 Compressed Air Supply
+Instrument air for the cogeneration plant is supplied by one of 2 Sullair V-120 screw compressors which gives close to 100% redundancy in compressed air generation.
+4.6 Uninterrupted Power Supply Systems
+A UPS (batteries) are provided for control systems. .
+This unit services:
+JLT CANADA – RISK CONTROL | JLT 14 | P A G E
+• Chilled water pumps
+• Boilers only (steam)
+• Plant lights
+• GT Controls
+• DCS system
+• Lube oil pumps
+• Fire Alarm system
+The UPS is load tested annually and inspected monthly.
+SPECIAL HAZARDS
+The nature of the process involved is that of a power generation facility, and the hazards associated are generally considered low.
+Natural gas used to fuel the gas turbine is compressed and can create an indoor explosion hazard if a leak were to occur. The two areas of concern are the natural gas compressor room and the gas turbine generator. The compressors are provided with various alarms that will shut down the units. The room is provided with combustible gas detection and UV/IR fire detection. These systems will shut down the compressors, isolate the main gas valve and start the ventilation fans. Electrical equipment in the room is explosion proof.
+The gas turbine area is provided with combustible gas detection, flame and thermal detection and CO2 flooding.
+5.1 Work Permits
+Permits are required for electrical lockout procedures and welding. Fire watches are provided for all welding that is done in a non-welding area. This program follows the TransAlta corporate standard.
+5.2 Smoking
+Not permitted in the plant. Smoking area provided with policy strictly enforced.
+5.3 Lube Oil Pumps
+The lube oil skid for the steam turbine is located beside the turbine/generator unit. The main tank measures 6’ x 6’ x 12 feet long (estimated 3,231 US gallons). This tank and pumping system is located in a containment pit of concrete construction and is sprinkler protected. Lube oil is standard NFPA class III combustible lube oil.
+The Gas turbine hydraulic skid has one hydraulic starter tank with 50 gallons of oil (Class III combustible liquid) and a lube oil tank with about 150 gallons of lube oil – sprinkler protected.
+PROTECTION
+6.1 Public Fire Protection
+The facility is protected by the paid City of Windsor Fire Department. Access to the site is not restricted other than some rail spurs in area. Estimated response time is 3-5 minutes from time of notification.
+6.2 Water Supplies
+Water supply for fire protection is common with the plant process water supply, and is from an 8 inch line connected to an 8 inch main on Temple Drive. There is no backflow preventer on the inlet firewater line.
+Public hydrants are located on Temple Drive. Flow tests carried out by the sprinkler contractor in
+September, 2012 gave the following results:
+JLT CANADA – RISK CONTROL | JLT 15 | P A G E
+Static Pressure: 57 psi
+Residual Pressure: 54 psi
+Residual Pressure: Flow = 1,065 USgpm
+Three fire hydrants are located on-site.
+6.3 Automatic Water Spray Systems
+Automatic wet-pipe closed head water spray systems protect the bearings of the steam turbine generator
+(STG) as well as the lube oil system for the STG.
+The outside power transformer is protected by an automatic pilot operated deluge (open head) water spray system.
+STG bearing sprinkler protection
+Lube oil skid sprinkler protection
+Diagram of protection installed on the STG Ex STG
+Steam Tubine Sprinkler Protection
+SPRINKLER SYSTEM DESIGN DATA
+JLT CANADA – RISK CONTROL | JLT 16 | P A G E
+Area Type Design Density (USgpm/sq.ft.) Design Area (sq.ft.) Demand (USgpm) Pressure (psi)
+Transformer
+@@@ &gt; Type
+Deluge
+$$$
+
+@@@ &gt; Design Density (USgpm/sq.ft.)
+0.25
+$$$
+
+@@@ &gt; Design Area (sq.ft.)
+1500
+$$$
+
+@@@ &gt; Demand (USgpm)
+884
+$$$
+ 47
+Gas turbine Oil
+@@@ &gt; Design Density (USgpm/sq.ft.)
+0.25
+$$$
+
+@@@ &gt; Demand (USgpm)
+567
+$$$
+ 37 Skid
+@@@ &gt; Type
+Wet
+$$$
+
+@@@ &gt; Design Area (sq.ft.)
+1500
+$$$
+
+Steam turbine
+@@@ &gt; Type
+Wet
+$$$
+
+@@@ &gt; Design Density (USgpm/sq.ft.)
+0.25
+$$$
+
+@@@ &gt; Design Area (sq.ft.)
+1500
+$$$
+
+@@@ &gt; Demand (USgpm)
+774
+$$$
+ 47
+Oil drum stg
+@@@ &gt; Type
+Wet
+$$$
+
+@@@ &gt; Design Density (USgpm/sq.ft.)
+0.4
+$$$
+
+@@@ &gt; Design Area (sq.ft.)
+1500
+$$$
+
+@@@ &gt; Demand (USgpm)
+599
+$$$
+ 43
+6.4 Sprinkler Design Curves
+6.5 Standpipe and Hose
+The plant is protected by standpipe system hose stations, each equipped with 100 feet of 1½ inch hose, nozzle and hose rack.
+6.6 Portable Fire Extinguishers
+Portable fire extinguishers are located throughout the plant.
+6.7 Fire Detection
+Smoke detection is provided in:
+JLT CANADA – RISK CONTROL | JLT 17 | P A G E
+• The storeroom/maintenance area,
+• rack room,
+• electrical switchgear room,
+• computer hardware room,
+• control room, and
+• the MCC area outside of the control room.
+A photo electric beam – smoke detector has been installed in each of the MCC rooms (2). These are tied to the fire alarm system in the building control room
+CO2 fire suppression is provided in the control room subfloor area (2 main cylinders and two reserve cylinders).
+Flame (IR) detectors and combustible gas detectors are installed in the GTG enclosures.
+Thermal heat detectors are installed in the GTG enclosures.
+All detector systems annunciate in the control room; the GTG enclosure detectors indicate on the GTG
+NETCON 5000 control panel, while all other detectors annunciate on the plant DCS system. Water spray systems are electrically supervised with valve tamper, water flow and low pressure (deluge system) indications to the DCS system.
+Combustible gas detection at 40% of LEL, or fire detection, in the compressor room results in closing of the main fuel gas header valve and shutdown of the compressors. At 20% LEL, an audible alarm is sounded.
+All fire detection systems (smoke detectors, heat detectors, fire eyes, and gas detectors) are calibrated and tested once per year.
+6.8 GT Fixed Extinguishing System
+The gas turbine generator (GTG) enclosure is protected by fixed total flooding carbon dioxide (CO2) extinguishing system. The system is activated automatically by optical fire or thermal detectors located in both the turbine and generator enclosure. The system can also be activated manually from several stations outside the enclosure. System activation shuts down the GTG unit and closes vent fan dampers for the enclosures. The CO2 system is supplied by a 600 lb main cylinder bank (6 x 100 lb.) and a 600 lb connected reserve bank (6 x 100 lb) – two system discharge capability.
+6.9 Control Room Fixed Extinguishing System
+A CO2 extinguishing system triggered by smoke detectors is provided for the control room under floor space.
+6.10 Fire Prevention
+There is no internal fire brigade however operators have been trained in fire extinguisher use.
+Fire emergency response is available from the City of Windsor Fire Department.
+6.11 Emergency Shut Down (ESD) System
+The overall plant ESD system is activated only from the control room. The ESD switch opens a 13.8 KV breaker, shuts down the GTG and the STG, and opens steam vent valves plus vacuum breakers. In addition, the main fuel gas valve is closed. This system is tested once a year.
+Operators have trip authority.
+6.12 Fire Protection System Impairments
+A fire protection system impairment notification program is in effect for all TransAlta sites. The policy and procedures are well established with notification to their insurance department who track and monitor fire impairments over 4 hours. The broker is also notified, and depending on the scope of the impairment, will notify insurers.
+JLT CANADA – RISK CONTROL | JLT 18 | P A G E
+6.13 Fire Protection System Inspection Testing and Maintenance
+• Portable fire extinguishers are inspected monthly and serviced annually.
+• Alarm systems are verified annually.
+• Sprinkler system serviced annually.
+• CO2 system serviced annually.
+6.14 Attendance and Security
+The probability of a major theft is considered low due to the type of occupancy. The site is occupied 24 hours per day, 7 days per week. The site is entirely fenced. The plant is well lit at night. Security cameras
+(4) are provided and monitored in the control room.
+This site is NERC compliant.
+SAFETY AND LOSS CONTROL
+7.1 Safety Management
+TransAlta safety management programs have been implemented for this facility.
+These programs include (but are not limited to);
+• Chemical Management
+• MSDS Management
+• Hot Work
+• Safe Work Procedures
+• Employee Training and Orientation
+• Confined Space Code of Practice
+• Fall Protection
+• Electrical Arc Flash Safety and Standards
+• Environmental Aspects, Risk Assessment
+• Fire Response
+• Emergency Preparedness and Response
+7.2 Management of Change
+A management of change procedure has been implemented for all TransAlta sites. The standard documents include engineering reviews, change orders and approvals.
+7.3 Alarm Bypass Management
+All by passes, forces or jumpers are run through the MOC program.
+7.4 Preventive Maintenance
+A plant preventative maintenance (PM) program has been implemented – SAP. The objective for the PM program is to achieve a ratio of at least 70% preventive vs corrective or emergency maintenance.
+Chrysler shuts down every July for two weeks for maintenance. TransAlta pays for the operating and maintenance expenses for the boilers at the Chrysler plant however Chrysler pays for all major capital expenses for their boilers.
+With this plant being a peaking plant, they are reviewing the PMs and considering moving more to equivalent hour of service verses the time based schedule when this was a base load plant. This program and assessment of the program is evolving.
+Highlights of preventive maintenance program:
+• TransAlta has entered into a service agreement for major and minor work with GE. GE is to complete and coordinate all service and repair work for this facility.
+JLT CANADA – RISK CONTROL | JLT 19 | P A G E
+• OEM specified maintenance is done and any outstanding GE Service Bulletin issues are addressed (GE oversees the maintenance).
+• Computer based SAP program – TransAlta standard.
+• A predictive maintenance program (based on OEM guidelines and experience) is coordinated out of TransAlta Calgary.
+• Pit stops are completed quarterly on the GT’s – maintenance stops which take about 20 hours.
+• Oil analysis of gear box and lube oils completed every 6 months. (based on hours)
+• Vibration monitoring is on line however for other rotating equipment, this is completed on a PM every 3-6 months (depending on the criticality of the equipment). Trend analysis being completed.
+• Oil/Gas analysis of the transformers is completed based on hours of operation.
+• Boroscope inspections are completed based on a hours or annually (est.at ever 2000 hours).
+• Off line washes of the GT turbine system is completed every quarter – four times a year.
+• Partial discharge and flux testing of the generator unit is completed annually – third party.
+• Load testing of the UPS is completed annually with a capacity test.
+• High level fixed hour schedule is as follows: o GT: 12,500 hours (Pit stop: High pressure bushing and stage 3-5) o GT: 25,000 hours (Minor: Hot gas inspection) o GT: 50,000 hours (Major: Engine swap/repair) o Generator Major every 5 years (Flux probe and PD testing)
+7.5 Electrical Thermography
+In house thermography is completed yearly with inspection windows installed on 4160V and higher breaker panels.
+7.6 Reliability Analysis
+This plant is connected to the Operation Diagnostic Centre (ODC) in Calgary operating 5 days a week.
+This team has been assembled for reliability analysis and monitoring. The Calgary based ODC reviews and monitors various equipment and processes to not only monitoring operational functionality but also equipment efficiency and reliability. Online monitoring of some equipment goes back to the engineering group in Calgary that can work with the plant in improving overall reliability.
+7.7 Manufacturer Service Bulletins
+Service bulletins are sent to TransAlta for addressing and are part of the planning (outage) and maintenance as required by the OEM. The TIL’s are up to date for this location.
+JLT CANADA – RISK CONTROL | JLT 20 | P A G E
+MISCELLANEOUS PERILS
+8.1 Geological Survey of Canada – Seismic Hazard Map
+2010 National Building Code of
+Canada Seismic Hazard Maps
+Source: Natural Recourses Canada: http://www.earthquakescanada.nrcan.g c.ca/hazard- alea/zoning/NBCC2010maps-eng.php
+Spectral acceleration for a period of 0.2 Spectral acceleration for a period of 0.5 seconds at a probability of 2%/50 years seconds at a probability of 2%/50 years for for firm ground conditions (NBCC soil firm ground conditions (NBCC soil class C).
+class C). Spectral acceleration is Spectral acceleration is contoured in g.
+contoured in g
+Spectral acceleration for a period of 1.0 Spectral acceleration for a period of 2.0 Peak ground acceleration at a probability of seconds at a probability of 2%/50 years seconds at a probability of 2%/50 years 2%/50 years for firm ground conditions for firm ground conditions (NBCC soil for firm ground conditions (NBCC soil (NBCC soil class C). Peak acceleration is class C). Spectral acceleration is contoured in g.
+class C). Spectral acceleration is contoured in g.
+contoured in g.
+JLT CANADA – RISK CONTROL | JLT 21 | P A G E
+Simplified Seismic Hazard Map 2012
+Spectral acceleration for a period of x seconds at a probability of x %/50 years for firm ground conditions Spectral acceleration is contoured in g
+8.2 Flood
+Not in a flood zone.
+*
+2600 Temple Drive
+JLT CANADA – RISK CONTROL | JLT 22 | P A G E
+8.3 Swiss Re “CatNet”
+8.4 Munich Re “World of Natural Hazards”
+Windsor, Ontario 420 18’ North
+830 1’ West
+Earthquake: Low - Zone 1: MM VI
+Volcano None
+Tsunami None
+Tropical Storm None
+Winter Storm None
+Storm Surge High
+Tornado High
+Hail Medium
+Lightning Medium
+8.5 Lightning Frequency
+Global Lightning Frequencies:
+The map shows the average yearly counts of lightning flashes per square kilometer based on data collected by NASA's
+Lightning Imaging Sensor on the
+Tropical Rainfall Measuring
+Mission satellite between 1995 and 2002. Places where less than one flash occurred (on average) each year are gray or light purple.
+The places with the largest number of lightning strikes are deep red, grading to black.
+Source:
+2015http://geology.com/articles/lightni
+JLT CANADA – RISK CONTROL | JLT 23 | P A G E ng-map.shtml
+8.6 Wind - Tornado Frequency
+Environment Canada
+Confirmed and Probable
+Tornados.
+Tornado prone areas in
+Canada as published to the
+National Building Code, 2011, based on research from
+Environment Canada
+Probability of an F2 – F5 tornado is estimated to exceed
+10-5/km2/year. F0 – F1 tornadoes will be more frequent.
+Probability of an F0 – F1 tornado is estimated to exceed
+10-5/km2/year.
+Tornadoes Observed – Rare –
+Tornadoes observed, but probability of a tornado is between 10-5/km2/year and
+10-6/km2/year.
+JLT CANADA – RISK CONTROL | JLT 24 | P A G E
+8.7 Lightning Exposure
+1999-2013 average flash density (flashes per square kilometre per year) for Eastern
+Canada
+Source: http://www.ec.gc.ca/foudre- lightning/default.asp?lang=En&amp;n=42A
+DA306-1
+8.8 Burglary/Theft/Vandalism
+The probability of a major theft is considered low due to the type of occupancy. The site is occupied 24 hours per day, 7 days per week. The site is entirely fenced. The plant is well lit at night. Security cameras are provided and monitored in the control room.
+LOSS ESTIMATES
+There are varying degrees of loss estimates. The EML (Estimated Maximum Loss) examines a worst-case scenario. The EML is a high severity/low frequency event (i.e. catastrophic). Catastrophic events are the traditional domain of insurance.
+The next level of loss estimate referred to as the PML (Probable Maximum Loss) is a moderate severity/moderate frequency event. This type of event may be insured or retained depending on the appetite for risk that a Corporation may have.
+EML and PML loss estimates are developed for property and machinery lines of business.
+9.1 Property EML:
+E M L (Estimated Maximum Loss): The largest monetary loss (property damage plus business interruption) within one (fire) division that may be expected to result from a single fire when this is the governing factor, or other insured peril, with fire protection impaired and the control of the fire is mainly dependent on physical barriers or separations, and delayed manual firefighting by public and/or private fire brigades.
+Property Damage: The EML scenario for this facility consists of a natural gas explosion and resulting fire to the GTG unit, causing the complete loss of the turbine unit with significant damage to the generator.
+This scenario results in a total estimated EML value for this facility of $22,500,000.
+An alternate EML scenario involves a lube oil fire on the steam turbine lubrication oil system. An atomized oil spray leak can ignite, causing a severe blowtorch type of fire. The fire and heat damage would spread to nearby equipment and the steam turbine itself, for a total MFL value of $12,000,000
+Business Interruption: Income is split between power generation and steam export. As a result of this loss, the EML business interruption would be 12 months for that portion of the operation and is estimated at
+$4,310,114
+TOTAL EML: $31,810,114
+JLT CANADA – RISK CONTROL | JLT 25 | P A G E
+9.2 Property PML:
+P M L (Probable Maximum Loss): The largest monetary loss (property damage plus business interruption) within one fire division caused by an insured peril, with private and public protection systems in service and manual firefighting unimpaired.
+Lube oil fire over the steam turbine generator. Although the sprinkler system would activate, significant damage would occur to the unit and repairs could take 3 months. BI would be split between the power generation loss and the steam export (partial loss).
+Property Damage: $8,000,000
+Business Interruption: $ 2,155,057
+TOTAL PML: $10,155,057
+The loss estimate is based upon several assumptions and cost estimates as detailed in this summary report; however it is not intended to presume that all potential catastrophic loss events have been analyzed. Please refer to the EML and PML “Loss
+Definitions” for the scenarios that have been considered.
+JLT CANADA – RISK CONTROL | JLT 26 | P A G E
+APPENDIX 2 – Site Plan/Diagram
+Transformer Sprinkler Protected TRX t i P e STG b u GT L Sprinkler Protection R O S S M G O MCC N E R O ROOM P R M O C CONTROL ROOM Sprinkler Riser P A R K I N G OFFICES 8" P A R K I N G TEMPLE DRIVE JLT CANADA - RISK CONTROL Drawn by: T. Van der Linden Scale: NTS Date Drawn/Modified: May 2012 TRANSALTA -WINDSOR CO-GEN PLANT 2600 TEMPLE DRIVE WINSDOR, ON CANADA NOT TO SCALE
+JLT CANADA – RISK CONTROL | JLT 27 | P A G E
+APPENDIX 2: Single Line Diagram
+JLT CANADA – RISK CONTROL | JLT 28 | P A G E
+APPENDIX 3 – Additional Photos
+Steam Generator
+Sprinkler Riser
+Cooling cells (north of the
+HRSG)
+JLT CANADA – RISK CONTROL | JLT 29 | P A G E
+RISK CONTROL CONTACT
+Tony Van der Linden, CRM
+SVP Risk Control t: 403-770-1421 | c: 403-690-3018 tvanderlinden@jltcanada.com
+The information provided within this risk engineering report is based on information provided during the site visit of the subject facility, which included interviews with site management personnel.
+In compiling this report JLT Canada Inc. have relied in good faith on the information provided for its accuracy and completeness in forming our opinion of the risk.
+This report gives the opinion of JLT Canada Inc. in respect of certain potential risk exposures to the operating company, including
+Property Damage and Machinery Breakdown.
+This report does not guarantee, assume or warrant in any way that the current owners/operators are in compliance with any laws or regulations applying to the facilities. This report does not purport to set forth all hazards or to indicate that hazards other than those mentioned in the report do not exist. No representation is made that compliance with any of the recommendations contained in this report will result in the fulfilment of any legal obligations or render the facilities free from loss. The recommendations detailed within this report are purely advisory and are for the purpose of assisting the insured in loss control and safety procedures. Save in respect of proven foreseeable and fully mitigated damage or loss arising directly from its breach of contract or negligence, JLT Canada Inc.
+does not accept liability of any description (including liability for negligence or breach of contract) for consequential loss, or loss of business, revenue, profits, use or opportunity howsoever arising in connection with this report. Any changes or recommendations proposed in the report should be thoroughly reviewed and formally approved before implementation to ensure it is safe and appropriate to do so. This report may only be relied upon by the person or persons to whom it is addressed and only to the limited extent set out above.
+To the extent permitted by applicable laws, regulations or rules any liability we may incur to you arising out of or in connection with our services, whether in contract, tort (including but not limited to negligence), under the law of trusts or otherwise shall be limited: (i) to reflect only that part of any loss or damage to you which we caused, taking into account any contribution which other people may also have had in causing that loss or damage; and in any event (ii) in aggregate to a maximum of $10 million. You agree that, given the level of our remuneration for the services we provide to you and the level of risk accepted by us, it is fair and reasonable for us to limit our liability in accordance with these provisions.
+Whilst all reasonable care has been taken in the preparation of this presentation no liability is accepted under any circumstances by
+Jardine Lloyd Thompson for any loss or damage occurring as a result of reliance on any statement, opinion, or any error or omission contained herein. Any statement or opinion unless otherwise states should not be construed as independent research and reflects our understanding of current or proposed legislation and regulation which may change without notice. The content of this document should not be regarded as specific advice in relation to the matters addressed.
+JLT Canada Inc is a member of the Jardine Lloyd Thompson Group. Registered office: The St Botolph Building, 138 Houndsditch,
+London EC3A 7AW. Registered in England No. 02240496. VAT No. 244 2321 96.
+JLT CANADA – RISK CONTROL | JLT 30 | P A G E</text><riskFactors><entry><key>RF001</key><value name="RF001" value="U"><sentences/></value></entry><entry><key>RF002</key><value name="RF002" value="G"><sentences><s riskFactorValue="G" begin="22263" end="22340"><text>Fire watches are provided for all welding that is done in a non-welding area.</text><operands><op begin="22280" end="22288"><text>provided</text></op><op begin="22297" end="22304"><text>welding</text></op><op begin="22327" end="22334"><text>welding</text></op><op begin="22335" end="22339"><text>area</text></op></operands></s><s riskFactorValue="G" begin="22436" end="22488"><text>Smoking area provided with policy strictly enforced.</text><operands><op begin="22436" end="22443"><text>Smoking</text></op><op begin="22444" end="22448"><text>area</text></op><op begin="22449" end="22457"><text>provided</text></op></operands></s></sentences></value></entry><entry><key>RF003</key><value name="RF003" value="G"><sentences><s riskFactorValue="G" begin="11369" end="11474"><text>The lube oil reservoir and pumps and turbine bearings are protected by fixed wet-pipe water spray systems</text><operands><op begin="11373" end="11381"><text>lube oil</text></op><op begin="11423" end="11426"><text>are</text></op><op begin="11427" end="11436"><text>protected</text></op></operands></s><s riskFactorValue="F" begin="11515" end="11571"><text>No oil spill containment has been provided in this area.</text><operands><op begin="11515" end="11517"><text>No</text></op><op begin="11522" end="11539"><text>spill containment</text></op><op begin="11528" end="11539"><text>containment</text></op><op begin="11549" end="11557"><text>provided</text></op></operands></s><s riskFactorValue="F" begin="12950" end="13004"><text>Unit Service Age Primary Secondary Rating Oil Capacity</text><operands><op begin="12992" end="12995"><text>Oil</text></op><op begin="12996" end="13004"><text>Capacity</text></op></operands></s><s riskFactorValue="G" begin="17098" end="17213"><text>The GTG and lube oil console are housed in a steel paneled acoustical enclosure, located outside the main building.</text><operands><op begin="17110" end="17118"><text>lube oil</text></op><op begin="17179" end="17186"><text>located</text></op><op begin="17187" end="17194"><text>outside</text></op><op begin="17204" end="17212"><text>building</text></op></operands></s><s riskFactorValue="G" begin="17771" end="17824"><text>Floor drains are directed to the oil/water separator.</text><operands><op begin="17777" end="17783"><text>drains</text></op></operands></s><s riskFactorValue="F" begin="22842" end="23035"><text>The Gas turbine hydraulic skid has one hydraulic starter tank with 50 gallons of oil (Class III combustible liquid) and a lube oil tank with about 150 gallons of lube oil – sprinkler protected.</text><operands><op begin="22912" end="22919"><text>gallons</text></op><op begin="22923" end="22926"><text>oil</text></op><op begin="22993" end="23000"><text>gallons</text></op><op begin="23004" end="23012"><text>lube oil</text></op><op begin="23009" end="23012"><text>oil</text></op></operands></s></sentences></value></entry><entry><key>RF004</key><value name="RF004" value="G"><sentences><s riskFactorValue="G" begin="28477" end="28551"><text>• Portable fire extinguishers are inspected monthly and serviced annually.</text><operands><op begin="28493" end="28506"><text>extinguishers</text></op><op begin="28511" end="28520"><text>inspected</text></op><op begin="28521" end="28528"><text>monthly</text></op><op begin="28542" end="28550"><text>annually</text></op></operands></s><s riskFactorValue="G" begin="28591" end="28628"><text>• Sprinkler system serviced annually.</text><operands><op begin="28593" end="28602"><text>Sprinkler</text></op><op begin="28610" end="28618"><text>serviced</text></op><op begin="28619" end="28627"><text>annually</text></op></operands></s></sentences></value></entry><entry><key>RF005</key><value name="RF005" value="G"><sentences><s riskFactorValue="G" begin="1674" end="1703"><text>7.4 Preventive Maintenance 19</text><operands><op begin="1678" end="1700"><text>Preventive Maintenance</text></op></operands></s><s riskFactorValue="E" begin="4930" end="5001"><text>Plant maintenance staff will handle routine and preventive maintenance.</text><operands><op begin="4936" end="4947"><text>maintenance</text></op><op begin="4948" end="4953"><text>staff</text></op></operands></s><s riskFactorValue="G" begin="4930" end="5001"><text>Plant maintenance staff will handle routine and preventive maintenance.</text><operands><op begin="4978" end="5000"><text>preventive maintenance</text></op></operands></s><s riskFactorValue="E" begin="5002" end="5095"><text>Major maintenance, such as turnarounds, is contracted out along with plant maintenance staff.</text><operands><op begin="5077" end="5088"><text>maintenance</text></op><op begin="5089" end="5094"><text>staff</text></op></operands></s><s riskFactorValue="G" begin="29739" end="29765"><text>7.4 Preventive Maintenance</text><operands><op begin="29743" end="29765"><text>Preventive Maintenance</text></op></operands></s><s riskFactorValue="G" begin="29766" end="29839"><text>A plant preventative maintenance (PM) program has been implemented – SAP.</text><operands><op begin="29774" end="29798"><text>preventative maintenance</text></op><op begin="29800" end="29802"><text>PM</text></op></operands></s><s riskFactorValue="G" begin="29840" end="29961"><text>The objective for the PM program is to achieve a ratio of at least 70% preventive vs corrective or emergency maintenance.</text><operands><op begin="29862" end="29864"><text>PM</text></op><op begin="29911" end="29921"><text>preventive</text></op><op begin="29949" end="29960"><text>maintenance</text></op></operands></s><s riskFactorValue="F" begin="29840" end="29961"><text>The objective for the PM program is to achieve a ratio of at least 70% preventive vs corrective or emergency maintenance.</text><operands><op begin="29925" end="29935"><text>corrective</text></op><op begin="29949" end="29960"><text>maintenance</text></op></operands></s><s riskFactorValue="G" begin="30192" end="30379"><text>With this plant being a peaking plant, they are reviewing the PMs and considering moving more to equivalent hour of service verses the time based schedule when this was a base load plant.</text><operands><op begin="30254" end="30257"><text>PMs</text></op><op begin="30308" end="30315"><text>service</text></op><op begin="30338" end="30346"><text>schedule</text></op></operands></s><s riskFactorValue="G" begin="30436" end="30481"><text>Highlights of preventive maintenance program:</text><operands><op begin="30450" end="30472"><text>preventive maintenance</text></op></operands></s><s riskFactorValue="E" begin="30869" end="30985"><text>• A predictive maintenance program (based on OEM guidelines and experience) is coordinated out of TransAlta Calgary.</text><operands><op begin="30873" end="30895"><text>predictive maintenance</text></op></operands></s><s riskFactorValue="G" begin="30869" end="30985"><text>• A predictive maintenance program (based on OEM guidelines and experience) is coordinated out of TransAlta Calgary.</text><operands><op begin="30884" end="30895"><text>maintenance</text></op><op begin="30914" end="30917"><text>OEM</text></op></operands></s><s riskFactorValue="G" begin="31165" end="31328"><text>• Vibration monitoring is on line however for other rotating equipment, this is completed on a PM every 3-6 months (depending on the criticality of the equipment).</text><operands><op begin="31260" end="31262"><text>PM</text></op></operands></s><s riskFactorValue="G" begin="32748" end="32880"><text>Service bulletins are sent to TransAlta for addressing and are part of the planning (outage) and maintenance as required by the OEM.</text><operands><op begin="32845" end="32856"><text>maintenance</text></op><op begin="32876" end="32879"><text>OEM</text></op></operands></s></sentences></value></entry><entry><key>RF006</key><value name="RF006" value="G"><sentences><s riskFactorValue="G" begin="11369" end="11474"><text>The lube oil reservoir and pumps and turbine bearings are protected by fixed wet-pipe water spray systems</text><operands><op begin="11427" end="11436"><text>protected</text></op><op begin="11455" end="11474"><text>water spray systems</text></op></operands></s><s riskFactorValue="G" begin="11572" end="11664"><text>Sprinkler protection has also been installed on the steam turbine bearings – See Protection.</text><operands><op begin="11572" end="11581"><text>Sprinkler</text></op><op begin="11593" end="11596"><text>has</text></op></operands></s><s riskFactorValue="G" begin="13364" end="13574"><text>The step-up transformer is equipped with temperature, sudden pressure and over current protection, and is protected by an automatic deluge water spray system activated by a pilot sprinkler line with 165F heads.</text><operands><op begin="13391" end="13399"><text>equipped</text></op><op begin="13503" end="13521"><text>water spray system</text></op></operands></s><s riskFactorValue="G" begin="22670" end="22783"><text>This tank and pumping system is located in a containment pit of concrete construction and is sprinkler protected.</text><operands><op begin="22702" end="22709"><text>located</text></op><op begin="22760" end="22762"><text>is</text></op><op begin="22763" end="22772"><text>sprinkler</text></op></operands></s><s riskFactorValue="G" begin="22842" end="23035"><text>The Gas turbine hydraulic skid has one hydraulic starter tank with 50 gallons of oil (Class III combustible liquid) and a lube oil tank with about 150 gallons of lube oil – sprinkler protected.</text><operands><op begin="22873" end="22876"><text>has</text></op><op begin="23015" end="23024"><text>sprinkler</text></op></operands></s><s riskFactorValue="G" begin="23866" end="23968"><text>Automatic wet-pipe closed head water spray systems protect the bearings of the steam turbine generator</text><operands><op begin="23897" end="23916"><text>water spray systems</text></op><op begin="23917" end="23924"><text>protect</text></op></operands></s><s riskFactorValue="G" begin="24019" end="24131"><text>The outside power transformer is protected by an automatic pilot operated deluge (open head) water spray system.</text><operands><op begin="24052" end="24061"><text>protected</text></op><op begin="24112" end="24130"><text>water spray system</text></op></operands></s><s riskFactorValue="F" begin="38449" end="38570"><text>Although the sprinkler system would activate, significant damage would occur to the unit and repairs could take 3 months.</text><operands><op begin="38449" end="38457"><text>Although</text></op><op begin="38462" end="38471"><text>sprinkler</text></op></operands></s></sentences></value></entry><entry><key>RF007</key><value name="RF007" value="E"><sentences><s riskFactorValue="E" begin="1381" end="1421"><text>6.11 Emergency Shut Down (ESD) System 18</text><operands><op begin="1386" end="1395"><text>Emergency</text></op><op begin="1396" end="1405"><text>Shut Down</text></op></operands></s><s riskFactorValue="E" begin="15225" end="15378"><text>The DCS system provides overall plant control, graphics displays, operating parameters, alarm displays and summaries, emergency shutdown, reporting, etc.</text><operands><op begin="15343" end="15352"><text>emergency</text></op><op begin="15353" end="15361"><text>shutdown</text></op></operands></s><s riskFactorValue="G" begin="19557" end="19665"><text>The compressors are equipped with control systems which provide the following alarm and shutdown protection:</text><operands><op begin="19645" end="19653"><text>shutdown</text></op><op begin="19654" end="19664"><text>protection</text></op></operands></s><s riskFactorValue="E" begin="23074" end="23283"><text>The facility is protected by the paid City of Windsor Fire Department. Access to the site is not restricted other than some rail spurs in area. Estimated response time is 3-5 minutes from time of notification.</text><operands><op begin="23128" end="23143"><text>Fire Department</text></op><op begin="23228" end="23236"><text>response</text></op><op begin="23247" end="23248"><text>5</text></op><op begin="23249" end="23256"><text>minutes</text></op><op begin="23257" end="23261"><text>from</text></op></operands></s><s riskFactorValue="E" begin="23218" end="23283"><text>Estimated response time is 3-5 minutes from time of notification.</text><operands><op begin="23228" end="23236"><text>response</text></op><op begin="23237" end="23241"><text>time</text></op><op begin="23247" end="23248"><text>5</text></op><op begin="23249" end="23256"><text>minutes</text></op></operands></s><s riskFactorValue="F" begin="27470" end="27565"><text>There is no internal fire brigade however operators have been trained in fire extinguisher use.</text><operands><op begin="27479" end="27481"><text>no</text></op><op begin="27482" end="27503"><text>internal fire brigade</text></op><op begin="27504" end="27511"><text>however</text></op><op begin="27532" end="27539"><text>trained</text></op></operands></s><s riskFactorValue="G" begin="27566" end="27644"><text>Fire emergency response is available from the City of Windsor Fire Department.</text><operands><op begin="27571" end="27589"><text>emergency response</text></op><op begin="27593" end="27602"><text>available</text></op></operands></s><s riskFactorValue="E" begin="27645" end="27682"><text>6.11 Emergency Shut Down (ESD) System</text><operands><op begin="27650" end="27659"><text>Emergency</text></op><op begin="27660" end="27669"><text>Shut Down</text></op></operands></s></sentences></value></entry><entry><key>RF008</key><value name="RF008" value="G"><sentences><s riskFactorValue="G" begin="34506" end="34518"><text>Volcano None</text><operands><op begin="34506" end="34513"><text>Volcano</text></op><op begin="34514" end="34518"><text>None</text></op></operands></s><s riskFactorValue="G" begin="34519" end="34531"><text>Tsunami None</text><operands><op begin="34519" end="34526"><text>Tsunami</text></op><op begin="34527" end="34531"><text>None</text></op></operands></s><s riskFactorValue="G" begin="34532" end="34551"><text>Tropical Storm None</text><operands><op begin="34541" end="34546"><text>Storm</text></op><op begin="34547" end="34551"><text>None</text></op></operands></s><s riskFactorValue="G" begin="34552" end="34569"><text>Winter Storm None</text><operands><op begin="34559" end="34564"><text>Storm</text></op><op begin="34565" end="34569"><text>None</text></op></operands></s><s riskFactorValue="F" begin="34991" end="35078"><text>The places with the largest number of lightning strikes are deep red, grading to black.</text><operands><op begin="35029" end="35038"><text>lightning</text></op><op begin="35039" end="35046"><text>strikes</text></op></operands></s></sentences></value></entry><entry><key>RF009</key><value name="RF009" value="G"><sentences><s riskFactorValue="G" begin="21831" end="21908"><text>The room is provided with combustible gas detection and UV/IR fire detection.</text><operands><op begin="21843" end="21851"><text>provided</text></op><op begin="21893" end="21907"><text>fire detection</text></op></operands></s><s riskFactorValue="G" begin="25344" end="25375"><text>Smoke detection is provided in:</text><operands><op begin="25344" end="25359"><text>Smoke detection</text></op><op begin="25363" end="25371"><text>provided</text></op></operands></s><s riskFactorValue="G" begin="25588" end="25675"><text>A photo electric beam – smoke detector has been installed in each of the MCC rooms (2).</text><operands><op begin="25612" end="25626"><text>smoke detector</text></op><op begin="25627" end="25630"><text>has</text></op></operands></s><s riskFactorValue="G" begin="27341" end="27448"><text>A CO2 extinguishing system triggered by smoke detectors is provided for the control room under floor space.</text><operands><op begin="27381" end="27396"><text>smoke detectors</text></op><op begin="27400" end="27408"><text>provided</text></op></operands></s></sentences></value></entry><entry><key>RF010</key><value name="RF010" value="E"><sentences><s riskFactorValue="G" begin="13637" end="13726"><text>Both transformers are located in a fenced area to the rear of the plant on a gravel base.</text><operands><op begin="13655" end="13658"><text>are</text></op><op begin="13672" end="13678"><text>fenced</text></op></operands></s><s riskFactorValue="G" begin="28771" end="28826"><text>The site is occupied 24 hours per day, 7 days per week.</text><operands><op begin="28775" end="28779"><text>site</text></op><op begin="28792" end="28808"><text>24 hours per day</text></op></operands></s><s riskFactorValue="E" begin="28827" end="28855"><text>The site is entirely fenced.</text><operands><op begin="28836" end="28838"><text>is</text></op><op begin="28848" end="28854"><text>fenced</text></op></operands></s><s riskFactorValue="G" begin="28827" end="28855"><text>The site is entirely fenced.</text><operands><op begin="28831" end="28835"><text>site</text></op><op begin="28836" end="28838"><text>is</text></op><op begin="28848" end="28854"><text>fenced</text></op></operands></s><s riskFactorValue="G" begin="36043" end="36098"><text>The site is occupied 24 hours per day, 7 days per week.</text><operands><op begin="36047" end="36051"><text>site</text></op><op begin="36064" end="36080"><text>24 hours per day</text></op></operands></s><s riskFactorValue="E" begin="36099" end="36127"><text>The site is entirely fenced.</text><operands><op begin="36108" end="36110"><text>is</text></op><op begin="36120" end="36126"><text>fenced</text></op></operands></s><s riskFactorValue="G" begin="36099" end="36127"><text>The site is entirely fenced.</text><operands><op begin="36103" end="36107"><text>site</text></op><op begin="36108" end="36110"><text>is</text></op><op begin="36120" end="36126"><text>fenced</text></op></operands></s></sentences></value></entry><entry><key>RF011</key><value name="RF011" value="U"><sentences/></value></entry><entry><key>RF012</key><value name="RF012" value="U"><sentences/></value></entry></riskFactors><parameters/><attributes><a name="CITY" begin="71" end="78"><text>Windsor</text></a><a name="CITY" begin="119" end="135"><text>Windsor</text></a><a name="COUNTRY" begin="137" end="143"><text>Canada</text></a><a name="INSURED_NAME" begin="49" end="70"><text>Transalta Corporation</text></a><a name="STREET" begin="101" end="118"><text>2600 Temple Drive</text></a><a name="SURVEY_DATE_WEAK" begin="160" end="173"><text>20180622</text></a><a name="SURVEY_DATE" begin="160" end="173"><text>20180622</text></a><a name="AS_Presence" begin="0" end="1"><text>No</text></a></attributes></riskFactorAnalysis>

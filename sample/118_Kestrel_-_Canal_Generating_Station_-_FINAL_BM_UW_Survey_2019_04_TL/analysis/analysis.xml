@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><riskFactorAnalysis><text>Rev. 1.0
+POWER GENERATION
+MACHINERY UNDERWRITING SURVEY
+Prepared for:
+Stonepeak Kestrel Holdings
+Canal Generating Plant Unit 3
+9 Freezer Road
+Sandwich, MA 02563
+April 25, 2019
+Attention:
+Prepared by:
+Ian Cowen
+Senior Machinery Engineer
+1 Meadowlands Plaza
+East Rutherford, New Jersey 07073
+Email: IanCowen@aegislimited.com
+A-8721
+AEGIS and the AEGIS logo are registered trademarks Solutions for Success of Associated Electric &amp; Gas Insurance Services Limited
+Rev. 1.0
+Mr. Sheldon McCaman
+Underwriting Officer
+Mr. Julian Zizak
+Sr. Account Engineer
+Prepared by:
+Ian Cowen
+Senior Machinery Engineer
+1 Meadowlands Plaza
+East Rutherford, New Jersey 07073
+Email: IanCowen@aegislimited.com
+A-8721
+AEGIS and the AEGIS logo are registered trademarks Solutions for Success of Associated Electric &amp; Gas Insurance Services Limited
+Table of Contents
+Scope 1
+Executive Summary 2
+Risk Reduction Suggestions 3
+General Plant Information 4
+Risk Characteristics Ratings 6
+Major Equipment 7
+Boilers 7
+Steam Turbines 9
+Combustion Turbine 14
+Generators 16
+Transformers 18
+Major Systems 20
+High Energy Piping 20
+Feedwater and Condensate 20
+Water Treatment 20
+Operations 21
+Control Room Review 21
+Operating Procedures 21
+Operator Training 21
+Operational Testing 21
+Maintenance 23
+Maintenance Management 23
+Maintenance Training 23
+Predictive Maintenance (PdM) 23
+Pressure Vessels 23
+Auxiliary Safety Valve Maintenance 23
+Electrical Maintenance 23
+Emergency Battery 23
+Loss History 24
+AEGIS Insurance Services, Inc. 3Stonepeak Kestrel Holdings LLC
+Machinery Underwriting Survey Canal Generating Station
+Loss Estimates 25
+Probable Maximum Loss (PML) 25
+Maximum Foreseeable Loss (MFL) 25
+AEGIS Insurance Services, Inc. 4Stonepeak Kestrel Holdings LLC
+Machinery Underwriting Survey Canal Generating Station
+Scope
+The intent of this Machinery Underwriting Survey is to evaluate the critical plant equipment located at this facility with regard to operations and maintenance. Evaluations are risk-based with emphasis on the human element aspects of the loss control programs.
+It is understood that each facility has its own specific conditions that characterize its design and operating procedures. Generally, national and industry recognized standards are the basis for the evaluation and suggestions. This is not to preclude a professional’s qualified judgment when evaluating the adequacy of existing programs.
+Conferred With
+Mr. Jeffrey Araujo Plant Manager, NAES
+Mr. James Lyon Operations Manager, NAES
+Mr. Kyle Farrell Maintenance Manager, NAES
+Mr. Scott Kerrigan V.P., Controller, Ironclad Energy Partners LLC
+Mr. Martin J. Collins Senior V.P. of Acquisitions &amp; Asset Optimization,
+Ironclad Energy Partners LLC
+THE PURPOSE OF THIS ASSESSMENT IS TO EVALUATE AND DOCUMENT THE CURRENT
+PROPERTY LOSS CONTROL PROGRAM, IDENTIFY RISKS AND SIGNIFICANT EXPOSURES
+AND OFFER SUGGESTIONS ON POTENTIAL RISK REDUCTIONS. ANY OTHER USE OF THIS
+ASSESSMENT, INCLUDING ANY ORAL OR WRITTEN DISCUSSION OR EXPLANATION OF
+SAME, SHALL SIGNIFY THE USER’S ACKNOWLEDGEMENT AND AGREEMENT THAT
+NEITHER ASSOCIATED ELECTRIC &amp; GAS INSURANCE SERVICES LIMITED NOR AEGIS
+INSURANCE SERVICES, INC. HAS MADE ANY REPRESENTATION OR WARRANTY WITH
+RESPECT TO THIS REPORT AND THAT THE USER WAIVES ANY CLAIMS AGAINST AEGIS
+AND/OR AEGIS SERVICES ARISING IN ANY WAY FROM THE USER’S USE OF THE REPORT.
+AEGIS Insurance Services, Inc. 5Stonepeak Kestrel Holdings LLC
+Machinery Underwriting Survey Canal Generating Station
+THE PURPOSE OF THIS ASSESSMENT IS TO EVALUATE AND DOCUMENT THE CURRENT
+PROPERTY LOSS CONTROL PROGRAM, IDENTIFY RISKS AND SIGNIFICANT EXPOSURES
+AND OFFER SUGGESTIONS ON POTENTIAL RISK REDUCTIONS. ANY OTHER USE OF THIS
+ASSESSMENT, INCLUDING ANY ORAL OR WRITTEN DISCUSSION OR EXPLANATION OF
+SAME, SHALL SIGNIFY THE USER’S ACKNOWLEDGEMENT AND AGREEMENT THAT
+NEITHER ASSOCIATED ELECTRIC &amp; GAS INSURANCE SERVICES LIMITED NOR AEGIS
+INSURANCE SERVICES, INC. HAS MADE ANY REPRESENTATION OR WARRANTY WITH
+RESPECT TO THIS REPORT AND THAT THE USER WAIVES ANY CLAIMS AGAINST AEGIS
+AND/OR AEGIS SERVICES ARISING IN ANY WAY FROM THE USER’S USE OF THE REPORT.
+AEGIS Insurance Services, Inc. 6Stonepeak Kestrel Holdings LLC
+Machinery Underwriting Survey Canal Generating Station
+Executive Summary
+A Machinery Underwriting Survey was performed for the Stonepeak Kestrel Holdings LLC, Canal
+Generating Station located at 9 Freezer Road, Sandwich, MA 02563 on April 25, 2019.
+Canal Generating Station is located in Sandwich, MA on Cape Cod. The plant is owned by Ironclad
+Energy Partners LLC, which is majority owned by Stonepeak Infrastructure Fund II. The plant is operated by NAES a large O&amp;M services company operating ~ 150 facilities in the power generation, oil and gas and petrochemical industries.
+A tour of the premises was conducted, including a review of observed risks, protective systems, maintenance practices and procedures, management programs and operator training. Plant personnel were interviewed to determine operating and maintenance practices at the location.
+This visit was conducted as part of an insurance industry site tour. Many of the details reported during a typical AEGIS machinery assessment are therefore not available.
+Significant Changes
+No significant changes were reported.
+Major Equipment – Overall rated Good. The major equipment is in generally good condition.
+Major Systems – Overall rated Good. The major systems have historically been in good condition. A comprehensive HEP program is in place.
+Operations – Overall rated Fair. The saltwater incursion incident revealed a number of shortcomings related to operations. NAES have since taken over the plant operations.
+Maintenance – Overall rated Fair. Recent losses indicate that maintenance may not have been a priority at the plant. NAES have indicated that maintenance spending will be a significant factor of the ongoing budget.
+Risk Reduction Suggestions
+No new risk reduction suggestions were made as a result of this risk assessment.
+Assessment Summary
+AEGIS Insurance Services, Inc. 7Stonepeak Kestrel Holdings LLC
+Machinery Underwriting Survey Canal Generating Station
+With all areas combined, equipment conditions were found to be Good for machinery insurance purposes. Please refer to the Risk Characteristics Ratings section of this report for details.
+AEGIS Insurance Services, Inc. 8Stonepeak Kestrel Holdings LLC
+Machinery Underwriting Survey Canal Generating Station
+Risk Reduction Suggestions
+Risk Reduction Suggestions represent opportunities for continued improvement. The suggestions are risk-based and customized to this facility. The suggestions are made using national and industry recognized standards and recommended practices.
+ProbabilityBased on historic information provided by recognized industry organizations and AEGIS loss experience
+High (H) The probability of a loss is greater than average
+Medium (M) The probability of a loss is average
+Low (L) The probability of a loss is less than average
+Severity Based on insurable values, deductibles and AEGIS loss experience
+Severe (S) The incident may result in significant financial impact to the facility
+Moderate (M) The incident may result in moderate financial impact to the facility
+Low (L) The incident may result in low to moderate financial impact to the facility
+Priority Matrix
+H P3 P2 P1 y t i l i b a b M P4 P3 P2 o r
+P
+L P5 P4 P3
+L M S
+Severity
+P1 – P2 – HIGH P3 – MODERATE P4 ? LOW P5 – SUPPLEMENTAL
+CRITICAL
+AEGIS Insurance Services, Inc. 9Stonepeak Kestrel Holdings LLC
+Machinery Underwriting Survey Canal Generating Station
+No new risk reduction suggestions were made as a result of this risk assessment.
+AEGIS Insurance Services, Inc. 10Stonepeak Kestrel Holdings LLC
+Machinery Underwriting Survey Canal Generating Station
+General Plant Information
+Canal Units 1 and 2
+Canal Unit 3 under construction
+Plant Description
+Canal Generating Station is located in Sandwich, MA on Cape Cod. The plant is managed by Ironclad
+Energy Partners LLC, which is majority owned by Stonepeak Infrastructure Fund II. The plant is operated by NAES a large O&amp;M services company which operates ~ 150 facilities in the power
+AEGIS Insurance Services, Inc. 11Stonepeak Kestrel Holdings LLC
+Machinery Underwriting Survey Canal Generating Station generation, oil and gas and petrochemical industries.
+The plant consists of two fossil fueled steam turbine generators (Units 1 and 2) together with a newly installed simple cycle peaking unit (Unit 3). Unit 1 has a supercritical boiler and 4 casing steam turbine with a hydrogen cooled generator, which is capable of producing 521 MW. Unit 2 has a subcritical boiler with a three casing steam turbine and hydrogen generator, which can produce 560
+MW.
+Unit 3 is a GE Frame 7HA.02 combustion turbine generator which at 337 MW.
+Units 1 and 2 were originally baseload units; they are now operated in peak capacity mode. Canal
+Generating Station supplies 345 kV power via the adjacent Eversource switchyard.
+Unit 1 uses No.6 oil as fuel, Unit 2 utilizes either No.6 oil or natural gas. Once Unit 3 is commercial it will use natural gas as a primary fuel with No.2 fuel oil as a back-up fuel.
+Unit 3 is able to switch between natural gas and liquid fuel whilst online. This feature has been proven during commissioning in both directions at 30% load: natural gas to liquid fuel and liquid fuel to natural gas. Commissioning switchover demonstrations at 50% load have yet to be completed.
+The plant gas supply is insufficient to operate both Units 2 and 3 on natural gas at the same time. It is anticipated that Unit 3 will be prioritized.
+One of the drivers for the installation of Unit 3 was the imminent retirement of the nearby Pilgrim nuclear plant which is planned for May 31, 2019. Unit 3 is scheduled to be commercial by this date.
+Unit Yea Boiler Turbine Generator r Manufacturer Manufacture Manufacture M Servic r r W e
+1 1968 Babcock &amp; Wilcox Westinghouse Westinghouse 521 1969
+2 1976 Babcock &amp; Wilcox Westinghouse Westinghouse 560 1976
+3 2018 - GE GE 384 2019
+Operating Status
+Units 1 and 2 were not operating during the visit. Unit 3 was being commissioned and was shut down for a catalyst outage.
+AEGIS Insurance Services, Inc. 12Stonepeak Kestrel Holdings LLC
+Machinery Underwriting Survey Canal Generating Station
+Risk Characteristics Ratings
+Area Rated Rating Risk Reduction Suggestions/Comments
+Major Equipment
+Boilers G
+Steam Turbines G
+Combustion Turbines G
+Generators G
+Transformers G
+Major Systems
+High Energy Piping G
+Feedwater and Condensate G
+Water Treatment G
+Operations
+Control Room Review G
+Operating Procedures and Training F Poor operations practices contributed to saltwater incursion.
+Operational Testing G
+Maintenance
+Maintenance Management and Training F Two transformer failures.
+Predictive Maintenance (PdM) G
+Pressure Vessels G
+Auxiliary Safety Valve Maintenance G
+Electrical Maintenance G
+Emergency Battery G
+Excellent The facility has taken measures that exceed industry standards and best practices. Loss potential is considered significantly reduced.
+GoodThe facility has taken measures that are consistent with industry standards and best practices. Loss potential is considered to be average.
+FairThe facility has taken some measures that approach industry standards and best practices; however, deficiencies exist.
+Loss potential is considered somewhat increased.
+PoorThe facility has major deficiencies and does not approach industry standards and best practices. Loss potential is considered to be significantly increased.
+AEGIS Insurance Services, Inc. 13Stonepeak Kestrel Holdings LLC
+Machinery Underwriting Survey Canal Generating Station
+Major Equipment
+Boilers
+Uni Yea t r Manufacturer LB/H MAW Primary Secondary P °F Fuel Fuel
+Babcock &amp;
+1 1969 Wilcox 3,720 3825 100 No.6 Fuel Oil -
+Supercritical 0
+2 1976 Babcock &amp; 100 Wilcox 4,002 2500 0 No.6 Fuel Oil Natural Gas
+Additional Nameplate Information
+Unit 1 has a B&amp;W once through supercritical double reheat boiler with 16 oil burner cells on the front wall and 8 on the rear wall. There are a total of 40 burners.
+Unit 2 has a B&amp;W subcritical natural circulation drum type boiler with a balanced draft furnace. The boiler has16 burner cells on 2 levels (8 front wall and 8 rear wall).
+Boiler Draft
+Both boilers are balanced draft.
+Boiler Protection
+Boiler protection includes but is not limited to:
+· Low Water Level Alarm
+· Low/Low Water Level Trip
+· High Water Level Alarm/Trip
+· SH Temperature High/Low Alarm
+· Boiler Feedwater Pressure Low Alarm
+· Feedwater Flow Alarm (UP)/Trip
+· Steam Flow Alarm (UP)/Trip
+Drum Level Indication
+Unable to verify type of indication during this visit.
+AEGIS Insurance Services, Inc. 14Stonepeak Kestrel Holdings LLC
+Machinery Underwriting Survey Canal Generating Station
+Boiler Safety Valves
+Safety valve testing is reportedly based on operating hours. Since the units rarely operate this is unsatisfactory. The last test was performed in 2016. Previously the valves were overhauled on a three year cycle.
+AEGIS Insurance Services, Inc. 15Stonepeak Kestrel Holdings LLC
+Machinery Underwriting Survey Canal Generating Station
+Summary of Major Boiler Modifications and Design Changes
+Unit 1
+· In 1995 Riley installed Low NO burners and steam atomized low pressure burners. This resulted in a reduction of the fuel oil burner tip pressure from approximately 850 psig to a range between 50 and 200 psig.
+· In addition, the burner management system was upgraded to Bailey Infi90 with Fire-eye flame scanners.
+· In 2000 selective catalytic reduction (SCR) was installed.
+Unit 2
+· In 1996 Riley installed Low NO burners and steam atomized low pressure burners.
+· In 2006 selective non-catalytic reduction (SNCR) was installed.
+Summary of Major Boiler Maintenance
+Annual boiler outages are conducted.
+AEGIS Insurance Services, Inc. 16Stonepeak Kestrel Holdings LLC
+Machinery Underwriting Survey Canal Generating Station
+Steam Turbines
+Uni Yea Manufacture M RP Pressur t r r W M e
+1 1968 Westinghouse 521 3600 3825
+2 1976 Westinghouse 560 3600 2500
+Additional Nameplate Information
+Unit 1 nameplate
+Unit 1 is a four casing four exhaust double reheat condensing Westinghouse Building block unit. It has:
+· BB46 VHP/HP casing and rotor Serial 13-A-3001-1
+· BB57 IP casing and rotor Serial 13-A-3002-1
+· 2 x BB73R Ruggedized LP casings and rotors; Serial 13-A-3003-1, 3-A-3004-1
+AEGIS Insurance Services, Inc. 17Stonepeak Kestrel Holdings LLC
+Machinery Underwriting Survey Canal Generating Station
+Unit 1 turbine and generator
+Unit 1 has a shaft driven boiler feed pump, which is coupled to the outboard end of the VHP/HP rotor.
+That can supply 50% of the boiler demand. The remaining 50% is provided by an electric feed pump.
+Unit 1 shaft driven boiler feed pump
+Unit 2 is a three casing 4 exhaust double reheat condensing Westinghouse unit. It has a HP/IP casing and rotor Serial 13-A-4411-1 and 2 x BB73R Ruggedized LP casings and rotors Serial 13-A-4412-1,
+3-A-4413-1.
+Unit 2 has a turbine boiler feed pump that can supply 50% of the boiler demand. The remaining 50% is provided by an electric feed pump.
+AEGIS Insurance Services, Inc. 18Stonepeak Kestrel Holdings LLC
+Machinery Underwriting Survey Canal Generating Station
+Unit 2 Boiler feed pump and BFPT
+Steam Turbine Protection
+Turbine protection includes but is not limited to:
+· Vibration Monitoring: Vibration Monitor – Alarm/Trip
+· Overspeed Trip Protection: Mechanical/Electronic
+· Sequential Trip Protection
+· Low Lube Oil Pressure Alarm/Trip
+· Low Lube Oil Temperature Alarm
+· High Lube Oil Temperature Alarm
+· Lube Oil Reservoir Level High/Low
+· Axial Rotor Position/Thrust Trip
+· High Exhaust Hood Temperature Trip
+· Low Vacuum Alarm/Trip
+· Emergency Oil Pump o Thermal Overloads to Alarm Only o Multiple Pressure Switches o Normally Energized Starting Circuit
+· High Metal Temperature Alarm
+· Low Vacuum Trip
+AEGIS Insurance Services, Inc. 19Stonepeak Kestrel Holdings LLC
+Machinery Underwriting Survey Canal Generating Station
+Shaft Grounding Device
+The units have brush type grounding devices.
+Turbine Water Induction Protection Systems (TWIPS)
+This was not discussed during this visit.
+Summary of Major Turbine Modifications and Design Changes
+Unit 2 control system was upgraded in 2002 to Bailey Infi-90.
+Summary of Major Steam Turbine Maintenance
+The table below shows the limited amount of operation in recent years.
+Because of the limited operation the units are placed on turning gear weekly.
+Unit 2016 2017 2018
+Starts Hours Starts Hours Starts Hours
+1 2 60 2 66 5 205
+AEGIS Insurance Services, Inc. 20Stonepeak Kestrel Holdings LLC
+Machinery Underwriting Survey Canal Generating Station
+Unit 2016 2017 2018
+Starts Hours Starts Hours Starts Hours
+2 3 213 2 157 2 232
+Unit 1
+2015 Throttle Valve Repair
+· Damaged Left side throttle valve repaired.
+2012 LP L-0 Blade Inspection
+· Last row blades inspected by Siemens. A visual and Eddy-Current inspection conducted with no adverse findings.
+2008: HP and IP Turbine Outage
+VHP/HP turbine:
+· Complete replacement of HP rotor and inner shell.
+· All HP stop and governor valves disassembled
+IP turbine:
+· Replacement of Gen End rotor blading
+· Rotor bore examination
+· All IP stop and governor valves disassembled.
+· All IP seals replaced.
+Unit 2
+AEGIS Insurance Services, Inc. 21Stonepeak Kestrel Holdings LLC
+Machinery Underwriting Survey Canal Generating Station
+2015 Saltwater Incursion Outage
+Due to a condenser leak the turbine and boiler were shut down for inspection and cleaning. The cause of the saltwater incursion was determined to be previously plugged tubes where the plugs failed due to freezing of water inside the tubes. The entire turbine was dismantled after the incident. Cleaning and inspections were conducted.
+The LP turbine rotors were determined to be at risk due to SCC following the inspection. Two used rotors were purchased and will be installed in 2019.
+AEGIS Insurance Services, Inc. 22Stonepeak Kestrel Holdings LLC
+Machinery Underwriting Survey Canal Generating Station
+Combustion Turbine
+Unit Year Manufacturer MW Model
+3 2017 General Electric 337 7HA.02
+Additional Nameplate Information
+Serial No. 299551; Unit is simple cycle with DLN and SCR (uses 19% aqueous ammonia).
+Unit 3 has evaporative cooling at the inlet.
+The CT is required to reach full load within ten minutes.
+Combustion Turbine Protection
+Combustion Turbine protection includes but is not limited to:
+· Vibration Monitoring: Alarm &amp; Trip
+· Overspeed Trip Protection: Electronic
+· Axial Rotor Position/Thrust Trip
+· High Lube Oil Temperature Alarm
+· Hot Gas Temperature High Trip
+· High Exhaust Gas Temperature Trip
+· Loss of Flame Trip
+· Low Lube Oil Pressure Trip
+· Low Lube Oil Temperature Alarm
+· High Lube Oil Temperature Alarm
+· Anti-icing Logic/Trip
+· GE Mk Vie Control System
+Summary of Major Combustion Turbine Modifications and Design Changes
+The unit was still being commissioned during the visit – no modifications.
+Summary of OEM Bulletin Compliance
+The unit is subject to a CSA with the OEM.
+· GE Performs all non-remedial maintenance on Gas Turbine (flange to flange) and Mark VI control system
+AEGIS Insurance Services, Inc. 23Stonepeak Kestrel Holdings LLC
+Machinery Underwriting Survey Canal Generating Station
+· GE performs scheduled Combustor, HGP and MI outages at known prices. Extra work at
+T&amp;M rates
+· GE implements all required TILs at its cost
+· GE takes on cost risk of scheduled maintenance events that occur with greater than expected frequencies (i.e. Canal 3 pays for only 1 HGP and MI per 1,800 FFS or 50,000 FFH)
+· GE performs annual (or more frequent) borescopes to ensure events can be planned
+· GE maintains a $5M/$10M deductible to repair collateral damage (per event/year) in the event that such an unplanned event occurs
+· Canal receives stipulated discounts from GE standard rates for additional parts, services and
+T&amp;M rates
+· Coverage thru first Major Inspection
+So far the following TILs are known to have been completed.
+TIL 2097 7HA STAGE ONE BUCKET SHANK DISTRESS – Row 1 blades replaced.
+TIL 2094R1HA AXIAL FUEL STAGING (AFS) COMBUSTION MONITORING
+Summary of Major Combustion Turbine Maintenance
+No data available – unit still being commissioned.
+Unit Type Inspection Intervals
+Combustion Hot Gas Path Major
+Inspection Inspection Inspection
+Frame
+7HA.02 10,000 25,000 50,000
+AEGIS Insurance Services, Inc. 24Stonepeak Kestrel Holdings LLC
+Machinery Underwriting Survey Canal Generating Station
+Generators
+Uni Manufacture MV Voltag t r A Cooling e (kV)
+1 Westinghouse 632 Hydroge n 18.0
+2 Westinghouse 610 Hydroge n 18.0
+3 GE ? Hydroge n ?
+Additional Nameplate Information
+Unit 2 Nameplate
+Unit 1 Serial No. 1S-71P130
+Unit 2 Serial No. 1S-80P370
+Nameplate data for Unit 3 was not available
+Generator Protection
+Generator protection includes but is not limited to:
+· Loss of Excitation/Field (40G)
+· Under/Over Voltage (59G)
+· Back-Up Distance (21G)
+· Over Excitation (24G)
+· Synchronization Check (25)
+AEGIS Insurance Services, Inc. 25Stonepeak Kestrel Holdings LLC
+Machinery Underwriting Survey Canal Generating Station
+· Instantaneous Overcurrent (50)
+· Differential (87G)
+· Under/Over Frequency (81G)
+· Time Overcurrent (51GN)
+· Reverse/Directional Power (32G)
+· Ground Differential (87G)
+· Rotor/Field Ground Detection (64F)
+· Negative Sequence Overcurrent (46G)
+· Volts/Hertz (24)
+· Out-of-Step Protection (78G)
+· Neutral Ground Over Voltage (64G)
+· Stator Winding Temperature Alarm
+Retaining Rings
+All retaining rings are made from 18Cr-18Mn material.
+Hydrogen Conditioning
+All generators have hydrogen dryers with dew point monitoring. Since all generators have water cooled stator windings, a Stator Leakage Monitoring System (SLMS) is also installed to monitor stator cooling water chemistry and hydrogen leakage into the cooling water.
+Summary of Major Generator Modifications and Design Changes
+No major changes were reported.
+Summary of Major Generator Maintenance
+No data available due to loss of access to NRG databases.
+AEGIS Insurance Services, Inc. 26Stonepeak Kestrel Holdings LLC
+Machinery Underwriting Survey Canal Generating Station
+Transformers
+Unit Yea r Manufacture r Ø Coolin g Method MV A Voltage (kV)
+@@@ &gt; Unit
+1 GSU
+$$$
+
+@@@ &gt; Yea r
+2013
+$$$
+
+@@@ &gt; Manufacture r
+HICO
+$$$
+
+@@@ &gt; Ø
+3
+$$$
+
+@@@ &gt; Coolin g Method
+N/A
+$$$
+
+@@@ &gt; MV A
+576
+$$$
+
+@@@ &gt; Voltage (kV)
+18/345
+$$$
+
+@@@ &gt; Unit
+2 GSU A
+$$$
+
+@@@ &gt; Yea r
+2014
+$$$
+
+@@@ &gt; Manufacture r
+HICO
+$$$
+
+@@@ &gt; Ø
+3
+$$$
+
+@@@ &gt; Coolin g Method
+N/A
+$$$
+
+@@@ &gt; MV A
+300
+$$$
+
+@@@ &gt; Voltage (kV)
+18/345
+$$$
+
+@@@ &gt; Unit
+2 GSU B
+$$$
+
+@@@ &gt; Yea r
+1994
+$$$
+
+@@@ &gt; Manufacture r
+GE
+$$$
+
+@@@ &gt; Ø
+3
+$$$
+
+@@@ &gt; Coolin g Method
+N/A
+$$$
+
+@@@ &gt; MV A
+300
+$$$
+
+@@@ &gt; Voltage (kV)
+18/345
+$$$
+
+@@@ &gt; Unit
+3 GSU
+$$$
+
+@@@ &gt; Yea r
+201
+$$$
+
+@@@ &gt; Manufacture r
+?
+$$$
+
+@@@ &gt; Ø
+3
+$$$
+
+@@@ &gt; Coolin g Method
+N/A
+$$$
+
+@@@ &gt; MV A
+?
+$$$
+
+@@@ &gt; Voltage (kV)
+?
+$$$
+
+@@@ &gt; Unit
+1 Station Service
+$$$
+
+@@@ &gt; Yea r
+1999
+$$$
+
+@@@ &gt; Manufacture r
+Pennsylvania
+$$$
+
+@@@ &gt; Ø
+3
+$$$
+
+@@@ &gt; Coolin g Method
+N/A
+$$$
+
+@@@ &gt; MV A
+45
+$$$
+
+@@@ &gt; Voltage (kV)
+17.1/4.1 6
+$$$
+
+Additional Nameplate Information
+Unit 1 has a single GSU; Unit 2 has 2 GSUs in parallel.
+Canal 1 Main GSU failed in October 2012
+· Original installed transformer - failed without warning
+· All Oil Sampling results didn’t indicate any performance related issues
+· Unit entered into a Forced Outage during this time
+· New transformer was procured and unit was returned to service in October 2013
+Canal 2 Main 2A GSU failed in July 2013
+· Original installed transformer - failed due to a bushing failure (water related)
+· Unit entered into a Forced Derate (300 MW) during this time
+· New transformer was procured and unit was returned to full load in May 2014
+Unit 3 GSU could not be accessed to verify nameplate data.
+Transformer Protection
+Transformer protection includes but is not limited to:
+· Sudden Pressure Relay (63)
+· Buchholz Relay (33)
+· Pressure Relief Device
+· High and Low Oil Level Alarm
+· Winding Temperature Alarm and Trip (49W)
+AEGIS Insurance Services, Inc. 27Stonepeak Kestrel Holdings LLC
+Machinery Underwriting Survey Canal Generating Station
+· Oil Temperature Alarm and Trip (26Q)
+· Ground Detection
+· Lightning Arrestors
+· Strike Counter
+· Differential Relays (87)
+· Overcurrent Relays (50/51)
+· Continuous Gas Monitoring
+Transformer Oil Analysis
+DGA testing is performed semi-annually. No results were made available.
+Summary of Transformer Maintenance
+Electrical testing is performed on a five yearly cycle. No results were available.
+AEGIS Insurance Services, Inc. 28Stonepeak Kestrel Holdings LLC
+Machinery Underwriting Survey Canal Generating Station
+Major Systems
+High Energy Piping
+Canal Generating Station does have a scheduled HEP inspection program. The program was developed by Thielsch Engineering.
+The program encompasses main and reheat piping (hot and cold) as well as pipe hangers and FAC issues.
+Historic reports were not available due to issues related to transition from the old plant owners NRG.
+The next HEP inspection is scheduled for November of 2019.
+Feedwater and Condensate
+Deaerator/Feedwater Heater NDE Examination - The deaerators are constructed according to
+ASME code from SA517 material. They are inspected visually every year and using wet fluorescent magnetic particle testing every 2 years. In 2014 minor crack indications were removed by grinding.
+Boiler Feed Pumps - Unit 1 has a shaft driven boiler feed pump, which is coupled to the outboard end of the VHP/HP rotor that can supply 50% of the boiler demand. The remaining 50% is provided by an electric feed pump.
+Unit 2 has a turbine boiler feed pump that can supply 50% of the boiler demand. The remaining 50% is provided by an electric feed pump.
+Water Treatment
+Since the 2015 saltwater incursion incident, the plant water treatment equipment and procedures have been overhauled. The plant now uses Anodamine for corrosion protection.
+AEGIS Insurance Services, Inc. 29Stonepeak Kestrel Holdings LLC
+Machinery Underwriting Survey Canal Generating Station
+Operations
+Control Room Review
+The control room is located in between Units 1 and 2 attended 24 hours a day, 7 days a week.
+Unit 1 controls are Bailey Infi90 for the boiler and Bailey ESTI.
+Unit 2 controls are Bailey Infi90 for both boiler and steam turbine.
+The newly installed Unit 3 will be operated from the existing control room using GE MkVI control system.
+Operating Procedures
+The plant recently changed hands (was previously NRG) procedures are under review by the new owners and may be subject to changes/updates.
+Operator Training
+The plant operators have to be certified by the state of Massachusetts. Canal has a good training program which includes mandatory simulator training requiring regular updates.
+Operating staff received six weeks of training from GE as part of the installation of Unit 3.
+Operational Testing
+Overspeed Trip Testing
+Overspeeds are scheduled to be performed annually; however, the reduced running time makes this difficult in practice.
+Main Turbines – Unit 1 has both mechanical and electronic overspeed protection. The last mechanical test was performed in January 2018. The last electronic overspeed was conducted in
+May 2017.
+Unit 2 has both mechanical and electronic overspeed protection. The last mechanical test was
+AEGIS Insurance Services, Inc. 30Stonepeak Kestrel Holdings LLC
+Machinery Underwriting Survey Canal Generating Station performed in July 2016. The last electronic overspeed was conducted in August 2017. The OEM,
+Siemens has recommended to postpone any further overspeeds until the LP rotors have been replaced.
+Boiler Feed Pump Turbines – Unit 2A boiler feed pump turbine was last trip tested in October
+2017.
+Turbine Valve Testing
+Valve testing is performed during the rare start-ups of Units 1 and 2.
+Generator Liquid Level Detector Testing
+This is performed daily during operation.
+Turbine Water Induction Protection Systems (TWIPS)
+This was not discussed during visit.
+Emergency Lube and Seal Oil Pump Testing
+The emergency lube and seal was tested during operation.
+AEGIS Insurance Services, Inc. 31Stonepeak Kestrel Holdings LLC
+Machinery Underwriting Survey Canal Generating Station
+Maintenance
+Maintenance Management
+The plant appears to be adequately staffed for maintenance activities. NAES have upgraded to MAXIMO for maintenance planning. Work orders are produced automatically based on running hours of the equipment.
+Maintenance Training
+Most of the plant maintenance personnel have been at the facility for more than 10 years. Through in- house training supplemented by OEM programs, they have achieved a good level of competency.
+Predictive Maintenance (PdM)
+Thermographic Inspection
+The plant has a thermographic historically used for surveys of electrical equipment. Since NAES have taken over the O&amp;M contract, they have been using a contractor for this work.
+Vibration Monitoring and Analysis
+This was not discussed during visit.
+Lube Oil Analysis
+Analysis of lubricating oil and control fluids is performed on a quarterly basis. No reports were available for review during the visit.
+Pressure Vessels
+Not discussed during visit
+Auxiliary Safety Valve Maintenance
+This was not discussed during visit.
+AEGIS Insurance Services, Inc. 32Stonepeak Kestrel Holdings LLC
+Machinery Underwriting Survey Canal Generating Station
+Electrical Maintenance
+Protective Relays and Circuit Breakers
+The plant tests all protective relays and breakers in accordance with NERC regulations. The most recent tests were performed in November 2018. Results were not made available during the visit.
+Emergency Battery
+Battery maintenance is performed in accordance with IEEE 450-2010 and NERC guidelines. Test results were not made available for review during the visit.
+AEGIS Insurance Services, Inc. 33Stonepeak Kestrel Holdings LLC
+Machinery Underwriting Survey Canal Generating Station
+Loss History
+In the last five years or so there have been a number of losses at the Canal Generating Station:
+Unit 1 Saltwater Incursion Outage 2015
+Due to a condenser leak the turbine and boiler were shut down for inspection and cleaning. The cause of the saltwater incursion was determined to be previously plugged tubes where the plugs failed due to freezing of water inside the tubes. The entire turbine was dismantled after the incident. Cleaning and inspections were conducted.
+The LP turbine rotors were determined to be at risk due to SCC following the inspection. Two used rotors were purchased and will be installed in 2019.
+A comprehensive root cause analysis was performed. Based on the results of this process a number of shortcomings related to instrumentation and human elements were identified. An action plan was developed and instigated.
+Unit2 Main 2A GSU failed in July 2013
+· Original installed transformer - failed due to a bushing failure (water related)
+· Unit entered into a Forced Derate (300 Mw) during this time
+· New transformer was procured and unit was returned to full load in May 2014
+· Unit 2B GSU is planned to be refurbished in November 2019
+Unit 1 Main GSU failed in October 2012
+· Original installed transformer - failed without warning
+· All Oil Sampling results didn’t indicate any performance related issues
+· Unit entered into a Forced Outage during this time
+· New transformer was procured and unit was returned to service in October 2013
+AEGIS Insurance Services, Inc. 34Stonepeak Kestrel Holdings LLC
+Machinery Underwriting Survey Canal Generating Station
+Loss Estimates
+Probable Maximum Loss (PML)
+PD PML Calculation
+The PML scenario is a last stage blade loss from a steam turbine resulting in damage to the turbine and hydrogen cooled generator.
+PML Machinery Damage Estimate $35,000,000
+The PML is defined as the physical damage and time loss expected to occur assuming the failure of a primary operating control and the failure of at least one safety or protective device. In addition, the affected equipment experiences a delayed shutdown or isolation. The PML is calculated using a percentage of the equipment value and is expressed as a specific total dollar amount. The figures do not take into consideration deductibles or sublimits.
+BI PML Calculation
+Based on an blade failure it is estimated that the unit would be unavailable for 6 months
+PML Business Interruption Estimate 560 MW x 24 hours per day x 180 days =
+(Does not take into account the capacity factor) 2,419,200 MWh
+Maximum Foreseeable Loss (MFL)
+PD MFL Calculation
+The MFL scenario is an explosion of the Unit 1 supercritical boiler resulting in significant boiler damage and resulting damage to adjacent plant.
+MFL Machinery Damage Estimate $180,000,000
+The MFL is defined as the maximum amount of physical damage and time loss expected to occur under the worst possible conditions. This is based on the failure of operating controls and safety or protective devices with no shutdown or isolation of affected equipment. The MFL assumes this equipment operates to destruction. The MFL is calculated using a percentage of the equipment value and is expressed as a specific total dollar amount. The figures do not take into consideration deductibles or sublimits.
+BI MFL Calculation
+AEGIS Insurance Services, Inc. 35Stonepeak Kestrel Holdings LLC
+Machinery Underwriting Survey Canal Generating Station
+Based on a complete loss of the supercritical boiler it is expected Unit 1 would be unavailable for a year.
+MFL Business Interruption Estimate 560 MW x 24 hours per day x 365 days =
+(Does not take into account the capacity factor) 4,905,600 MWh
+AEGIS Insurance Services, Inc. 36Stonepeak Kestrel Holdings LLC
+Machinery Underwriting Survey Canal Generating Station</text><riskFactors><entry><key>RF001</key><value name="RF001" value="E"><sentences><s riskFactorValue="E" begin="24293" end="24332"><text>DGA testing is performed semi-annually.</text><operands><op begin="24293" end="24296"><text>DGA</text></op><op begin="24297" end="24304"><text>testing</text></op><op begin="24308" end="24317"><text>performed</text></op><op begin="24323" end="24331"><text>annually</text></op></operands></s><s riskFactorValue="E" begin="24400" end="24455"><text>Electrical testing is performed on a five yearly cycle.</text><operands><op begin="24400" end="24410"><text>Electrical</text></op><op begin="24411" end="24418"><text>testing</text></op><op begin="24442" end="24448"><text>yearly</text></op></operands></s><s riskFactorValue="G" begin="27565" end="27657"><text>Boiler Feed Pump Turbines – Unit 2A boiler feed pump turbine was last trip tested in October</text><operands><op begin="27626" end="27629"><text>was</text></op><op begin="27635" end="27639"><text>trip</text></op><op begin="27640" end="27646"><text>tested</text></op></operands></s><s riskFactorValue="G" begin="28654" end="28738"><text>The plant has a thermographic historically used for surveys of electrical equipment.</text><operands><op begin="28664" end="28667"><text>has</text></op><op begin="28670" end="28683"><text>thermographic</text></op><op begin="28706" end="28713"><text>surveys</text></op></operands></s></sentences></value></entry><entry><key>RF002</key><value name="RF002" value="U"><sentences/></value></entry><entry><key>RF003</key><value name="RF003" value="F"><sentences><s riskFactorValue="X" begin="27927" end="27967"><text>Emergency Lube and Seal Oil Pump Testing</text><operands><op begin="27937" end="27941"><text>Lube</text></op><op begin="27946" end="27950"><text>Seal</text></op><op begin="27951" end="27954"><text>Oil</text></op></operands></s></sentences></value></entry><entry><key>RF004</key><value name="RF004" value="E"><sentences><s riskFactorValue="U" begin="12570" end="12624"><text>Unable to verify type of indication during this visit.</text><operands><op begin="12570" end="12576"><text>Unable</text></op><op begin="12580" end="12586"><text>verify</text></op><op begin="12580" end="12586"><text>verify</text></op></operands></s><s riskFactorValue="E" begin="27686" end="27756"><text>Valve testing is performed during the rare start-ups of Units 1 and 2.</text><operands><op begin="27686" end="27691"><text>Valve</text></op><op begin="27692" end="27699"><text>testing</text></op><op begin="27724" end="27728"><text>rare</text></op></operands></s></sentences></value></entry><entry><key>RF005</key><value name="RF005" value="E"><sentences><s riskFactorValue="E" begin="1306" end="1337"><text>Predictive Maintenance (PdM) 23</text><operands><op begin="1306" end="1328"><text>Predictive Maintenance</text></op><op begin="1330" end="1333"><text>PdM</text></op></operands></s><s riskFactorValue="E" begin="10750" end="10780"><text>Predictive Maintenance (PdM) G</text><operands><op begin="10750" end="10772"><text>Predictive Maintenance</text></op><op begin="10774" end="10777"><text>PdM</text></op></operands></s><s riskFactorValue="G" begin="19351" end="19526"><text>· GE takes on cost risk of scheduled maintenance events that occur with greater than expected frequencies (i.e. Canal 3 pays for only 1 HGP and MI per 1,800 FFS or 50,000 FFH)</text><operands><op begin="19378" end="19399"><text>scheduled maintenance</text></op></operands></s><s riskFactorValue="E" begin="28406" end="28495"><text>Most of the plant maintenance personnel have been at the facility for more than 10 years.</text><operands><op begin="28424" end="28435"><text>maintenance</text></op><op begin="28436" end="28445"><text>personnel</text></op></operands></s><s riskFactorValue="E" begin="28600" end="28628"><text>Predictive Maintenance (PdM)</text><operands><op begin="28600" end="28622"><text>Predictive Maintenance</text></op><op begin="28624" end="28627"><text>PdM</text></op></operands></s></sentences></value></entry><entry><key>RF006</key><value name="RF006" value="U"><sentences/></value></entry><entry><key>RF007</key><value name="RF007" value="F"><sentences><s riskFactorValue="X" begin="27927" end="27967"><text>Emergency Lube and Seal Oil Pump Testing</text><operands><op begin="27927" end="27936"><text>Emergency</text></op><op begin="27946" end="27950"><text>Seal</text></op></operands></s></sentences></value></entry><entry><key>RF008</key><value name="RF008" value="U"><sentences/></value></entry><entry><key>RF009</key><value name="RF009" value="U"><sentences/></value></entry><entry><key>RF010</key><value name="RF010" value="U"><sentences/></value></entry><entry><key>RF011</key><value name="RF011" value="U"><sentences/></value></entry><entry><key>RF012</key><value name="RF012" value="U"><sentences/></value></entry></riskFactors><parameters/><attributes><a name="CITY" begin="142" end="154"><text>Sandwich</text></a><a name="ZIP_CODE" begin="155" end="160"><text>02563</text></a><a name="LOCATION_NAME" begin="97" end="126"><text>Canal Generating Plant Unit 3</text></a><a name="INSURED_NAME" begin="70" end="96"><text>Stonepeak Kestrel Holdings</text></a><a name="INSURED_NAME" begin="0" end="8"><text>Rev. 1.0</text></a><a name="INSURED_NAME" begin="26" end="55"><text>Machinery Underwriting Survey</text></a><a name="STREET" begin="127" end="141"><text>9 Freezer Road</text></a><a name="SURVEY_DATE_WEAK" begin="161" end="175"><text>20190425</text></a><a name="AS_Presence" begin="0" end="1"><text>No</text></a></attributes></riskFactorAnalysis>

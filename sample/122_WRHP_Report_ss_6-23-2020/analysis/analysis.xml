@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><riskFactorAnalysis><text>Loss Prevention Report
+Boiler &amp; Machinery and Fire/Property
+Prepared for:
+Wabash Valley Power Association
+Wabash River Highland Plant
+445 Bolton Road
+West Terre Haute, IN 47885
+TUV SUD GRC File No. 1225.0003
+Date Assessment Performed: April 29, 2020
+Prepared By: Bryce Hart
+Clark, NJ Office
+610-223-3560
+Bryce.hart@tuvsud.com
+Plant Manager: Kris Renfro, Plant Mgr., NAES Corporation k_renfro@wvpa.com
+Conferred With: k_lammrish@wvpa.com
+Kurt Lammrish, Sr Ops Eng WVPA a_taylor@wvpa.com
+Albert Taylor Jr., Mgr, Gen. Ops. WVPA, s_sosbe@wvpa.com
+WVPA Susan Sosbe, Compliance Mgr m_wildman@wvpa.com WVPA Mike Wildman, Safety Coordinator,
+Hector Raymond, VP Risk Eng Mgr, Munich Re HRaymond@munichreamerica.com
+Greg Geraghty, Risk Engineer, Zurich NA greg.geraghty@zurichna.com
+Global Risk Consultants Corp. Phone: (732) 827-4400
+100 Walnut Ave., Suite 501 Fax: (732) 827-4490
+Clark, New Jersey 07066 www.tuvsud.com/grc
+United States
+Global Risk Consultants Corp.
+#1225.0003
+Wabash Valley Power Association 04/20 West Terre Haute, Indiana, USA
+Contents
+1. Scope .......................................................................................................................................................................................... 3
+2. General ....................................................................................................................................................................................... 3
+3. Executive Summary .................................................................................................................................................................... 3
+4. Critical Equipment and Exposures .............................................................................................................................................. 5
+5. Recommendations ...................................................................................................................................................................... 6
+6. Loss History ................................................................................................................................................................................ 7
+7. Underwriting Summary ............................................................................................................................................................... 7
+8. Prime Movers .............................................................................................................................................................................. 7
+9. Generators ................................................................................................................................................................................ 10
+10. Transformers ............................................................................................................................................................................. 12
+11. Balance of Plant ........................................................................................................................................................................ 14
+12. Operations and Maintenance Programs ................................................................................................................................... 14
+13. Fire Protection Features ........................................................................................................................................................... 16
+14. Management Programs ............................................................................................................................................................ 18
+15. Public Protection ....................................................................................................................................................................... 18
+16. Natural Hazard and Other Exposures/Perils ............................................................................................................................. 19
+17. Contingency Programs and Critical Spares .............................................................................................................................. 24
+18. Loss Estimates Report .............................................................................................................................................................. 25
+19. Appendix - WVPA Substation Transformers ............................................................................................................................. 28
+DISCLAIMER
+This report does not purport to set forth all hazards nor to indicate that other hazards do not exist. However, we urge that recommendations presented, if any, be given serious consideration. We would be pleased to discuss alternative solutions.
+2018 © Global Risk Consultants Corp. Page 2
+#1225.0003
+Wabash Valley Power Association 04/20 West Terre Haute, Indiana, USA
+1. Scope
+The purpose of this combined boiler machinery and property/fire loss control assessment was to conduct a boiler and machinery review of the operations, maintenance practices and procedures, as well as to evaluate the overall risks and potential exposures at this plant. As the facility was in a “Lockdown” mode of operation due to the COVID-19 pandemic, this assessment was performed through the conduct of numerous conference calls and email messages. The primary focus of this assessment centered on critical and auxiliary equipment for the generating unit and utility services for the plant. In addition, the Appendix section provides an overview for the identification of the larger value and older substation assets. These units are either wholly or jointly owned by WVPA. Elements of the predictive and preventive maintenance programs associated with the substation transformers are briefly outlined.
+2. General
+The Wabash River Highland Plant (WRHP) is located along the west bank of the Wabash River, 4.5-miles north of Terre Haute, Indiana.
+The plant is located on approximately 9 acres of land at the site of the former Duke Energy Wabash River coal fired generating station.
+The GPS coordinates are 39 31 51 N; 87 25 35 W.
+The facility is owned 100% by Wabash Valley Power Association and operated by North American Energy Services (NAES). This facility has a 192-MW gas-fired GE 7FA gas turbine. The plant is dispatched in peaking operation by MISO, which is the Balancing Authority.
+The WRHP CT was originally installed in 1994 and went into commercial operation in October,1995 as a combined cycle plant that burned syngas supplied from sgSolutions. The CCPP operations were retired in June 2016 and the WRHP CT was converted to simple cycle burning natural gas. The HRSG and steam turbine have been removed. The adjacent sgSolutions syngas facility has since been shut down. The Duke Energy substation is being maintained in operation and supports the Wabash River Highland Plant with the connection to the grid, as well as the source of emergency power. The Wabash River Highland Plant minimum load is 90 to105 MW, with a maximum load in the 145-192 MW range depending on the weather. The WRHP CT does not have automatic generation control (AGC).
+The plant does not have ‘Black Start’ capability. The plant is normally given a 4 hour start notice when cold and a 1 hour notice when hot/warm followed by a 1 hour start window under both conditions.
+There are approximately 5 employees on-site. The site is normally staffed from 07:00 to 15:00 Monday through Friday. There are two
+Operators onsite while the plant is operating. The plant does not have remote start capability.
+3. Executive Summary
+This combined boiler machinery and property/fire loss control assessment by Global Risk Consultants of this facility consisted of document review and several phone interviews with power plant personnel
+The last plant maintenance outage was in the Fall of 2019. Some of the highlights of the outage included:
+• Annual CT borescope inspection was performed
+• Bus Duct cleaning
+• No. 2 Compressor bleed valve repair
+• Modifications were made to the natural gas heater vent lines
+• #1 Turbine bearing was replaced
+• #2 liner cap was replaced. This had the liberated effusion plate found during the borescope inspection.
+2018 © Global Risk Consultants Corp. Page 3
+#1225.0003
+Wabash Valley Power Association 04/20 West Terre Haute, Indiana, USA
+Record and Document Review: The following documentation and records were reviewed and/or discussed during this assessment:
+Weekly Fire Pump Test report from April 21, 2020 o The Operations log sheet dated March 8, 2020 was reviewed. The operating parameters of the assets are within o normal ranges. The log sheet is very detailed. The logs are neat and legible.
+The On-Line Checklist sheet dated March 10, 2020 was reviewed. The operating parameters of the assets are within o normal ranges. The log sheet is very detailed. The logs are neat and legible.
+Standard PRC-005-6 for Protection Systems was reviewed and found to be satisfactory.
+o The PRC-005-6 Equipment Testing Database was reviewed and is up to date.
+o The plant provided a list of PM tasks. The list appears to adequately cover all critical assets.
+o Batteries PEECC-1 and Battery Control Room Quarterly Maintenance Report o
+The reports from the November 2019 Borescope Inspection and Visible Dye Penetrant Inspection per TIL 1509-R3 performed by ATS on the WRHP CT combustion turbine were reviewed. The unit had 100,696.8 hours and 1,478 fired starts at this time. The highlights from the reports include:
+1. There is evidence of VIGV bushing migration near the 6 o’clock position. ATS recommends restaking the migrated IGV bushings at the next available opportunity.
+2. There is evidence of impact damage to the leading edge of VIGV number 51, to the leading edge of three (3) stage R-0 rotor blades and to the leading edge of one (1) stage R-1 rotor blade. ATS recommends performing in-situ blends to the identified impact damage. Same as the October 2018 borescope report. Damage appears unchanged.
+3. There is evidence of rub marks on the case near 10 to 12 o’clock at stage R-0 and R-1. The rub marks were previously identified and appear unchanged. ATS recommends performing TIL 1509-R3 inspections on an annual basis. These same rubs have been identified through numerous prior borescopes. Same as the October 2018 borescope report. Leading edge impact damage appears unchanged.
+4. ATS recommends performing ultrasonic inspections of the R-0 and R-1 rotor blade platform areas before and after each peak operational season and not exceeding a six month interval per TIL 1638.
+5. ATS recommends performing eddy current inspections on the stage S-0 and S-1 stator vanes to identify cracking that has led to major compressor damage. Same as the October 2018 borescope report.
+6. There is evidence of rocking at the platforms of the stage S-8 stator vanes. ATS recommends monitoring this rocking during subsequent inspections.
+7. There is evidence of twisting at the platforms of the stage S-14 through S-16 stator vanes. ATS recommends monitoring this twisting during subsequent inspections. Same as October 2018 borescope report.
+8. There are cracks visible in multiple effusion plates and there is material loss from the effusion plate in can 2. We recommend having engineering disposition these effusion plates and material loss.
+9. ATS recommends having an engineering review the inspection findings.
+10. ATS recommends continuing to inspect the unit on a regular basis to monitor its condition.
+After a thorough review of the ATS findings and recommendations, and the TIL requirements per the OEM, we conclude the following:
+Item number 4 above recommends an interval of no more than 6 months for the ultrasonic inspections of the R-0 and R-1 rotor blade platform areas. Considering the low number of hours, starts and the current operating profile of the CT as a peaking unit, the CT does not meet the TIL guidelines for increased inspection frequency. However, if the unit operations cause the hours and/or starts to exceed the
+TIL guidelines, or the conditions assessed by TIL 1638 change, the inspection frequencies should be reassessed.
+The remaining ATS recommendations above are supported based on their fleet experience.
+The following items were brought to the attention of Plant Management during the walk down performed during the 2019 visit. The status of these items is updated as shown:
+• Contact the diesel fire pump service vendor to schedule the annual maintenance inspections. This inspection was performed on
+June 25, 2019 with satisfactory results. The servicing company did comment that the batteries will require replacement during the next annual outage.
+• The Hydrogen skid ground cable connection was frayed. The ground cable connection was repaired and verified through photographs.
+2018 © Global Risk Consultants Corp. Page 4
+#1225.0003
+Wabash Valley Power Association 04/20 West Terre Haute, Indiana, USA
+• The Cardox tank safety valves are corroded and past due for replacement, which is recommended to be performed every 5 years.
+The valves are onsite and are scheduled to be replaced no later than the end of May 2020.
+Special Hazards: No known PCB contaminated equipment or asbestos present.
+New/Ongoing Projects: The Unit U-1 compressor discharge casing has developed creep. General Electric measured the compressor discharge casing in 2017. Prior to changing to peaking operation, the plan was to re-evaluate the compressor discharge casing at the next major. However, since going to peaking operation the next major could be extended to 2030. The next HGPI is forecast for 2025.
+There are several upgrades and expenditures planned for 2020. These include:
+• CEMS Upgrade
+• CT Spares: IGV Actuator, Nozzles, Main Power Transformer Bushings
+The net capacity factor (NCF) is the ratio of actual net generator to the normal claimed operating hours per year. The equivalent availability factor (EAF) is an indication of the ability of a unit to generate electricity regardless of whether it is dispatched. The equivalent forced outage factor (EFOR) is an indication of the degree to which the unit was limited during operation by forced outages and de-ratings. The scheduled outage factor (SOF) is the ratio of scheduled outages. The unit had the following ratings in 2019.
+Unit Hours on line Starts NCF EAF EFOR SOF
+U-1 580.82 96/93 4.86 71.85 5.01 9.64
+Overall Risk Engineering Opinion of Inherent Risk: This is a 1994 gas turbine unit with a 1999 compressor rotor. The unit appears to have a reliable operating history. The controls, protection and instrumented monitoring have been upgraded to the General Electric Mark
+VIe system. The current and future major preventive, predictive or major maintenance appears to be adequate. The loss prevention practices use industry recognized standards or those of the original equipment manufacturers (OEMs). The facility management displays a very positive approach to address any comments, suggestion or recommendations. Based on the industry benchmarks and current operating status, this facility is considered to be overall “above average”.
+4. Critical Equipment and Exposures
+The risks associated with this natural gas-fired power plant are typical for this type of occupancy. This facility has one combustion turbine generating unit that is connected to one GSU transformer. A failure involving a major component such as the turbine, generator, or GSU transformer could result in significant loss of power generation capability. The risk is more significant since these components have long lead time and spares are not maintained.
+The primary risk for this type of occupancy is focused around mechanical and electrical equipment and the associated systems. Statistical data shows that a relatively small number of factors drive most losses experienced at this type of facility. Mechanically, the turbines are susceptible to occurrences such as loss of lube oil or an overspeed incident. To support reliable turbine operation, this facility appears to have an effective infrastructure in place to monitor the operating conditions and health of the machine, documented operating and maintenance procedures, ongoing personnel training, as well as a maintenance management system to schedule and track maintenance tasks. Electrically, the generator and associated transformers are at significant risk from internal winding faults or failure of cooling systems.
+The programs to monitor equipment conditions appear to be adequate for controlling these hazards.
+2018 © Global Risk Consultants Corp. Page 5
+#1225.0003
+Wabash Valley Power Association 04/20 West Terre Haute, Indiana, USA
+5. Recommendations
+FIRE/PERILS RECOMMENDATIONS:
+No recommendations being offered at this time.
+BOILER MACHINERY RECOMMENDATIONS
+BM19-01 Electrical Prev./Pred. Maintenance
+Expand the scope for testing the GSU and Auxiliary transformers insulating fluids.
+Comments: A review of the transformer insulating fluid test reports indicate the insulating fluids of the GSU and Auxiliary transformers do not include Furanic analysis. In addition, there is no information to indicate that the GSU and Auxiliary transformer insulating fluids were tested for corrosive sulfur. Include Furanic analysis and a Corrosive Sulfur test on the next transformer insulting fluid testing scope.
+A significant factor in a transformer's life expectancy is the condition of its paper insulation. Over time, the paper deteriorates due to the action of heat, water, and oxygen. Transformer materials most subject to aging are the insulators, which are primarily mineral oil and cellulose (in the form of Kraft paper and pressboard). Furanic compounds are produced and analysis of these compounds can provide useful information about cellulose decomposition. Overheating of cellulosic insulation (e.g., paper) results in the production of CO and CO . 2
+Over the past several years there have been a number of failures of power transformers associated with the presence of corrosive sulfur in the transformer insulating oil. Although transformer insulating oils pass standard specification test criteria for corrosive sulfur, such as ASTM D 1275; failures occur because corrosive sulfur in the oil reacts with copper to form copper sulfide, a conductive compound. The copper sulfide can form as a deposit on the conductor surface or as copper ions in the oil and paper. Copper sulfide from conductor surface can also migrate into the paper insulation.
+The conductive copper sulfide causes a reduction in dielectric strength of the paper insulation. Failures result when the dielectric strength of the conductor insulation is exceeded by the voltage stress which can be influenced by transient voltages. The result is arcing between two or more winding turns. A major concern is the population of transformers in service with oils that have excessive corrosive sulfur or a propensity for copper sulfide to form. Therefore, test the transformer insulting oil to determine if corrosive sulfur compounds are present in the insulating fluid.
+Analyze the GSU and Auxiliary transformers for the presence of corrosive sulfur. The following three tests are used to determine the presence and levels of corrosive sulfur for transformer insulting fluids.
+• ASTM 1275 B Corrosive Sulfur in Oil
+• Covered Conductor Deposition (CCD) test
+• Presence of Dibenzyl Disulfide (DBDS)
+The conductive copper sulfide reduces the dielectric breakdown voltage of the solid insulation and can result in a dielectric puncture through the paper insulation thus resulting in failure of the transformer.
+2020 Update: The transformer insulating fluid testing program has been expanded to include the Auxiliary transformers.
+Furanic testing was performed for these transformers. However, the transformers have not been sampled for corrosive sulfur. The corrosive sulfur test will be scheduled to be completed with the next set of fluid testing. The status of this recommendation will be changed to in progress.
+2018 © Global Risk Consultants Corp. Page 6
+#1225.0003
+Wabash Valley Power Association 04/20 West Terre Haute, Indiana, USA
+6. Loss History
+1999, the GE 7FA gas turbine compressor failed, and the rotor was replaced.
+• A 9th stage compressor blade liberated resulting in major downstream damage.
+• The root cause of the blade failure was not determined.
+• The RCA showed compressor rubs on lower casing from stages 3 – 17.
+2006, during a major gas turbine generator inspection, 14 damaged generator stator laminations were deeply cut by embedded radial lead pieces. A potential generator failure was identified.
+• Repairs consisted of deburring the damaged stator laminations.
+• GE recommended restacking the generator. The GE report indicated the repair would most likely not last.
+• The repaired core passed loop testing.
+• The core clamping system has been reinforced with belly bands, common for 7FA generators.
+• RTDs indicated one slot with elevated temperatures 80°F hotter than other slots. Initially after the repair, the slot in question was much hotter.
+October 2010 during a planned outage,
+• the generator stator was partially restacked, approximately 30%
+• the rotor was rewound.
+• the turbine rotor was pulled and was replaced with a refurbished GE Generation 4 rotor and new turbine buckets.
+• All applicable Technical Information Letters (TIL’s) current at that time were addressed.
+7. Underwriting Summary Construction
+The Office/Control building is a one story, light noncombustible metal on metal. The 8,800 sq. ft. building is equipped with smoke detectors and approximately 5,000 of 8,800 sq. ft. has sprinkler protection. The WRHP CT is controlled from the main control room.
+The Maintenance Building is located in the southwest corner of the site. Construction is light noncombustible, metal on metal. The 9,450 sq. ft. building is equipped with sprinklers and smoke detectors.
+8. Prime Movers Gas Turbine WRHP CT
+Manufacturer General Electric
+Model MS7001FA
+Serial Number 296281
+Year Built 1994
+Rotor COD 1999
+ISO Rating (kW) 192,000
+Fuel Natural Gas
+Compressor Stages 18
+Combustor Type Annular cans
+Turbine Stages 3
+Exhaust Temperature 1100°F
+RPM 3600
+Combustion Dynamic Monitoring GE GEN4 CDMS Probes
+Inlet Cooling None
+NOx Control 2.6+ DLNOx
+Power Augmentation (PAG) None
+2018 © Global Risk Consultants Corp. Page 7
+#1225.0003
+Wabash Valley Power Association 04/20 West Terre Haute, Indiana, USA
+The combustion gas turbine has an unflared compressor with standard R-0 blades (non P cut). Stress relieved turbine disks or wheels with cooling slots. The unit does not have an enhancement package. The unit is not monitored by the General Electric Center in Atlanta. The unit is equipped with General Electric Mark VIe controls.
+The WRHP CT combustion turbine began commercial operation in October 1995. As stated previously in the Loss History Section, the combustion turbine rotor was replaced in 1999. The gas turbine operated as part of a base loaded combined cycle unit up until 2016, when the site changed to a simple cycle operation as a peaking unit. The dry low NOx combustion system was installed in 2017. The gas turbine was previously fired on syngas produced in the pet-coke gasification plant adjacent to the power plant property. The gas turbine was typically fired on natural gas only during start-up. All fuel oil has been removed.
+The air inlet to the gas turbine compressor is equipped with bird screens. The air inlet filter house is inspected during scheduled outages.
+The combustion turbine is water washed off-line prior to the borescope inspections. The unit is washed with Zock-27.
+The combustion turbine has the total following hours and total starts count. The hours are accumulative and based on fast load starts, fired starts and emergency trips. The trips are accumulative.
+Unit Total Fired Hours Total Units Starts Factored Starts
+U-1 100,807.52 1,503 (est) NAV
+Turbine Protection: Combustion turbine protection includes, but is not limited to, the following:
+• Siesmic Vibration Probes: Alarm at 0.5 mils &amp; trip at 1.0 mils
+• Overspeed Trip Protection: Electronic
+• Low Lube Oil Pressure Alarm &amp; Trip
+• Low Lube Oil Temperature Alarm
+• High Lube Oil Temperature Alarm
+• Hot Gas Temp High Alarm
+• High Exhaust Gas Temp Trip, Mark VIe controls have more instrumentation
+• Loss of Flame Trip
+• Axial Rotor Position Alarm &amp; Trip
+• Filter House differential pressure Alarm &amp; Trip
+• Emergency Oil Pump
+Thermal Overloads to Alarm Only o Multiple Pressure Switches o Normally Energized Starting Circuit o
+Overspeed Protection: The combustion turbines are provided with dual (P-Cor and Mark VIe) electronic overspeed protection systems utilizing 2 of 3 voting logic. Simulated overspeed trip testing is performed annually with the unit -off-line. A signal generator is connected to the combustion turbine to verify the fuel solenoids close. The overspeed trip was tested on September 13, 2019 with satisfactory results.
+Vibration Monitoring: Diagnostic vibration monitoring is conducted using the installed Bentley Nevada 3500 system.
+Lubrication System: The combustion turbine has two AC motor driven lube oil pumps and an emergency DC lube oil pump. Circuit protection for the DC emergency lube oil pump is a magnetic breaker. The combustion turbine DC lube oil pump motor controllers have the thermal overload protection as only alarm. The DC lube oil and seal oil pumps are tested as part of routine startup checks utilizing a cascade test to verify the auto-start features function properly including a motor start test. The DC lube oil pump is operated for 30-60 seconds. The turbine roll down to turning gear is approximately 45 minutes.
+2018 © Global Risk Consultants Corp. Page 8
+#1225.0003
+Wabash Valley Power Association 04/20 West Terre Haute, Indiana, USA
+Technical Advisories: The technical advisories are received from the OEM and posted to a spreadsheet. The Management reports that
+NAES is currently managing the advisories with spreadsheets.
+TIL Description Disposition Date
+1214 Turbine bucket lockwire redesign and inspection Planned Next HGPI
+1469 DC Emergency Pump Recommendations Planned Fall 2017
+1532 Creep of Carbon Steel Fabricated CDC Planned 2024-2026
+1858, 1859 or 1863 Stage 2 Bucket Insp. Recs Planned Next HGPI
+1907 Rotor Forward Shaft Dovetail Crack Planned Borescopes
+1971 or 1972 CW12-17 dovetail slot inspection Planned Next HGPI
+2049 Turbine Wheel Insp and Maint Recs Planned Borescopes &amp; Next MI
+2064 86G Lockout Trip Input Sensitivity To EFT Noise Planned Monitoring for trips from this card
+2069 CW12-17 dovetail slot inspection Planned Next HGPI
+2080 7 7F Inspection for Potential Manifold Weldolet Cracks Planned Fall Outages – None Found
+Turbine Maintenance: In the past when the unit was at base load, the inspection schedule was based on operating hours. However, since the unit has been converted to a peaking mode of operation the maintenance schedule is based on starts. The reoccurring Technical
+Advisories are included in the work scopes for the Borescope and HGPI inspections.
+The inspection outages going forward will be scheduled for the Fall outages, with the following criteria being used as the benchmarks:
+- Borescope inspection – Annually
+- Combustion inspection – 450 starts
+- Hot Gas Path Inspection approximately 900 fired factored starts.
+- Major inspection approximately 2,400 factored starts.
+The tentative inspection schedule for the combustion turbine is:
+Borescope CI HGPI Major
+Unit Last Next Last Next Last Next Last Next
+U-1 2019 2020 2017 2021 2015 2025 2010 2030
+October 2018 Borescope Inspection - Completed by ATS. This report was reviewed during the 2019 onsite visit. The highlights from the report include:
+1. There is evidence of impact damage to the leading edge of three stage R-0 rotor blades and one stage R-1 rotor blade. This damage appears unchanged since the last inspection. ATS recommends performing in-situ blends to the impact damage.
+2. There is evidence of rub marks on the case near 12 and 10 o’clock at stage R-0 and R-1. ATS recommends continued dye penetrant (PT) examinations on the blade tips to determine if radial cracks have initiated due to the case rubs. The PT inspection should be repeated on a not to exceed 25-start interval. This interval has been proven to be most likely to identify cracks in the blades prior to the liberation of the blade tips which have rubbed against the compressor case. These same rubs have been identified through numerous prior borescopes
+3. ATS recommends performing ultrasonic inspections of the R-0 and R-1 rotor blade platform areas before and after each peak operational season and not exceeding a six month interval per TIL 1638.
+4. ATS recommends performing eddy current inspections on the stage S-0 and S-1 stator vanes to identify cracking that has led to major compressor damage.
+5. There is evidence of rocking at the platforms of the stage S-8 stator vanes. ATS recommends monitoring this rocking during subsequent inspections.
+6. There is evidence of twisting at the platforms of the stage S-14 through S-16 stator vanes. ATS recommends monitoring this twisting during subsequent inspections.
+7. ATS recommends having an engineering review the inspection findings.
+8. ATS recommends continuing to inspect the unit on a regular basis to monitor its condition.
+2018 © Global Risk Consultants Corp. Page 9
+#1225.0003
+Wabash Valley Power Association 04/20 West Terre Haute, Indiana, USA
+November 2017 Borescope Inspection - Completed by ATS. The report documented known evidence of impact damage to the leading edge of three stage R-0 rotor blades and one stage R-1 rotor blade. As well as rub marks on the compressor case near the 12 o’clock position at stage R-0 and R-1. The report also documents evidence of rub marks on the compressor case near the 3 and 9 o’clock position at stage R-14 rotor blades and twisting at the platform of the stage S-15 through S-16 stator vanes.
+March 2017 Borescope Inspection - completed by GE. This was at 99,069 fired hours, 1224 fired starts and completed as part of the DLN conversion work. The inspection was a visual only inspection and indicated that no specific TIL inspections were completed. The report indicated some abnormal findings but it did not give a resolution or conclusion summary for the findings.
+October 2016 Borescope Inspection - completed by Advanced Turbine Support (ATS). This was at 99,061 fired hours, 1797 manual starts,
+1220 fired starts, 401 unit trips. There were no urgent findings in this report.
+The applicable TILs included in this inspection were:
+• TIL 1870-R2 R-0 Migration – limited inspection
+• TIL 1562 – S-0 through S-4 Stator Shim Migration – full inspections
+September 2016 Borescope Inspection - completed by Advanced Turbine Support (ATS). This was at 98,994 fired hours, 1787 manual starts, 1210 fired starts, 401 unit trips. There were no urgent findings in this report but some significant findings. The applicable TILs were not listed in this report. One of the significant findings was evidence of S-14 through S-16 stator vane twisting.
+HGPI March 2015 - A Hot Gas Path Inspection (HGPI) was completed in March 2015. The reports indicated a fired time of 92,402 hours.
+This is split between syngas firing at 80,049 hours, natural gas firing at 8,280 hours and liquid firing at 4100 hours. There was no generator electrical testing completed at the HGPI. The CDC was inspected for creep and results included below. This is in accordance with TIL
+1532. Reports from GE and from Ethos Energy were provided. NDE was performed by ATS during this HGPI.
+The Ethos report included:
+• Purge air end cover purge diffusion pipe weld
+• False start drains dye pen false start drain pipe welds
+• Bucket shrouds fluorescent penetrant inspection of the stage 2 and 3 turbine bucket z-lock shrouds
+• Extraction flange visible red dye penetrant inspection of turbine extraction flange
+• Balance weight grooves eddy current inspection of all turbine wheel balance weight grooves
+• IGV’s eddy current inspection of inner and outer radii of IGV’s
+• Turbine wheel ECI Eddy current inspection of turbine discs 1 and 2 including locking tabs and fir trees
+• CDC case dye penetrant inspect inside and outside of casing for cracks including horizontal joints (TIL 1532) • IGV’s were inspected and TIL 1132 R1 completed on a previous outage
+Flammable/Combustible Liquids: None
+9. Generators Generator WRHP CT
+Manufacturer General Electric
+Model 7FH2
+Serial # 337X010
+Year Built 1994
+Rating (kW) 195,280
+Rating (MVA) 229,741
+Cooling Hydrogen
+H2 Pressure 45
+Power Factor 0.85
+Stator Volts 18,000
+Stator Amps 7,369
+2018 © Global Risk Consultants Corp. Page 10
+Wabash Valley Power Association 04/20 West Terre Haute, Indiana, USA #1225.0003
+Hertz 60
+RPM 3600
+Field Amps 1,869
+Field Volts 375
+Retaining Rings 18Mn-18Cr
+Global VPI No
+Salient Pole Rotor No
+# of Poles 2
+Generators: The generator is connected to the generator step-up (GSU) transformer through iso-phase bus ducts. The unit has an air switch and metering located in the plant sub yard. The WRHP CT is connected to the adjacent Duke Energy switch yard through overhead lines with static protection. The generator temperatures are monitored with thermocouples.
+Generator Breaker: The 27.5-kV SF generator breaker is located in the iso-phase bus located between the generator and the GSU. The 6 breaker was inspected and serviced in the Fall 2018, with a new ram being installed. There have been no reported issues with this breaker since the servicing.
+Generator Protection: Generator is protected using a dual Multifunction Generator Protection System (MGPS) using:
+• Schweitzer SEL-300G microprocessor-based generator protective relay system
+• Beckwith M-3425A generator protective relay system
+The Beckwith MGPS is a back-up and provides protection for the LCI during start-up. Both MGPS relays are connected to common PTs/
+CTs. If either MGPS fails, the generator will not be taken off-line. The MGPS was last tested in September 2018.
+This MGPS is equipped with the following relays: • • Split Phase Differential (50DT)
+• Phase Overcurrent (51V) Phase Distance (21) •
+• Field Ground Brush Lift (64F/B) Over Excitation Volt/Hertz Relay (24G) •
+• Frequency (81/81R/81A) Under/Over Voltage Relay (27/59G) •
+• Ground Differential/ Directional Overcurrent (87GD/67N) Stator ground (27TN/59D/64S) •
+• Instantaneous Overcurrent (50) Reverse/Directional Power Protection Relay (32) •
+• Generator Neutral, Ground Over-voltage (59N/59X) Current Negative Sequence Relay (46) •
+• VT Fuse Loss (60FL) AC Time Overcurrent Relay (51) •
+• Out-of-Step Protection (78G) Loss of Excitation/Field Relay (40) •
+• Stator Winding Temperature Alarm Stator Overload - thermal (49) •
+• Trip Circuit Monitor TC Breaker failure (50BF) • Inadvertent Energizing (50/27)
+• Neutral O/C (50N/51N)
+Sequential trip logic is through the General Mark VIe control system.
+Maintenance: The major rotor-out inspection for the generator was October 2010. The generator rotor was pulled during the plant outage to facilitate the partial restack of the stator and the complete rotor rewind. When the unit was operating as a base load, WVPA conducted in-situ electrical generator physical inspections on a 6-year frequency. Since the unit has been converted to simple cycle, the major inspections will coincide with the engine major outage in 2030.
+The generator was electrically tested in 2017. The testing included insulation resistance and polarization index of both the rotor and stator windings. The phase connections were also inspected.
+2018 © Global Risk Consultants Corp. Page 11
+#1225.0003
+Wabash Valley Power Association 04/20 West Terre Haute, Indiana, USA
+The WRHP CT Generator history includes:
+• 2010 during the CT Major outage:
+Core partial restack, stator rewind, tighten belly bands, new flux probe, retied circuit rings and field rewind o Re-stacked one-third of the stator laminations because of the noted 2006 generator hot spot.
+o Installed thermocouples at the hot spot. No increase in temperatures was ever noted. o
+• 2006 Inspected core iron, high El-CID reading found broken insulation, heavy oil, greasing and possible end winding vibration.
+Fourteen damaged generator stator laminations were cut deeply by embedded radial lead pieces.
+• 1999 installed belly bands and repaired greasing ties
+• October 1995 – COD
+Hydrogen: Hydrogen to the generator is supplied through an underground line from the hydrogen skid area. The hydrogen skid area has hydrogen storage bottle packs. The 12-packs contain DOT bottles manifolded together. The plant has 3-4 bottle packs in reserve. There is enough hydrogen and CO on site for at least one purge and refill. Hydrogen is added manually to sweeten the generator. The plant 2 changes the bottle pack weekly. The underground hydrogen piping is equipped with cathodic protection. There is not an excess flow valve on the system because the main valve at the hydrogen skid in normally closed.
+The plant has a written generator purge procedure. The purge normally takes 8-hours and is conducted with two Operators. The unit is not equipped with an emergency purge system. The hydrogen transmitters and instrumentation are calibrated annually. The unit is equipped with an E/One hydrogen gas dryer. Operators check the dryer panel which gives indication of the dew point, every shift.
+Rotor Bore Inspections: The generator rotor is a solid shaft.
+10. Transformers GSU TransformerWRHP CT GSU
+Manufacturer Cooper
+Serial # C0735651
+Year Built 1994
+Rating (kVA) 200,000
+Cooling FOA
+Temperature Rise (°C) 65
+Low Voltage 18,000
+High Voltage 230,000
+Phase 3
+Windings 2
+Hertz 60
+BIL (kV) 825
+Impedance (%) 10.1 @ 200,000 kVA
+Preservation Conservator
+Oil Quantity (gallons) 18,360
+Form Core
+Tap Changer DETC
+2018 © Global Risk Consultants Corp. Page 12
+Wabash Valley Power Association 04/20 #1225.0003
+West Terre Haute, Indiana, USA Unit Auxiliary Transformers
+WRHP CT Aux U1A PSI Unit Aux U1B
+Manufacturer North American Cooper
+Serial #
+Year Built 1994 1994
+Rating (kVA) 45,000 20,000
+Cooling OAFA OAFA
+Temperature Rise (°C) 65 65
+Low Voltage 18,000/14,000V 18,000/4200V
+High Voltage
+Phase 3 3
+Windings 2 2
+Hertz 60 60
+BIL (kV)
+Impedance (%)
+Preservation N2 Blanket N2 Blanket
+Altitude
+Oil Quantity (gallons) 4,140 1,988
+Form Core Core
+Tap Changer DETC DETC
+Transformers: There are three liquid transformers on-site:
+• 200,000-kVA GSU transformer
+• 45,000-kVA plant auxiliary transformer
+• 20,000-kVA transformer that supplied power to the adjacent sgSolutions syngas facility. The transformer is energized, but the transformer could be removed pending the future of the syngas facility.
+Transformers are located in fenced areas. The transformers have deluge systems and blast walls between the auxiliary transformers. The transformers have gravel drainage and are installed in separate containments.
+Transformer Protection: Transformer protection includes, but is not limited to, the following:
+• Sudden Pressure Relay, Trip
+• Pressure Relief Device, Alarm and Trip
+• High and Low Oil Level, Alarm
+• Winding Temperature, Alarm and Trip
+• Oil Temperature Alarm and Trip
+• Loss Control Voltage Cooling System Auxiliaries
+• Ground Detection, on relay
+• Surge Arrestors
+• Strike Counter
+• Differential Relays (87), Alarm and Trip
+• Overcurrent Relays (50/51), Alarm and Trip
+Maintenance: Transformer oil samples are pulled annually. The oil tests include gas analysis, fluid quality, moisture analysis, PCB analysis. The test results are available on-site. The test reports do not indicate that the insulating fluids are tested for corrosive sulfur.
+The transformers are equipped with Hydran fluid monitors, however the Hydrans are out of service. There are no plans to repair or replace the Hydrans at this time. The transformer oil is tested for Power factor, insulation resistance and turn-to-turn ratio testing every 3 years.
+The last reported test of the GSU transformers was August of 2019.
+2018 © Global Risk Consultants Corp. Page 13
+#1225.0003
+Wabash Valley Power Association 04/20 West Terre Haute, Indiana, USA
+11. Balance of Plant
+Fuel Handling/Storage Information: Natural gas is supplied by a 20 inch 900 psi pipeline lateral from Midwestern Gas Transmission.
+The underground lateral is 9 miles from the main transmission line. The lateral terminates in the on-site Midwestern Gas Transmission gas yard. From the Midwestern Gas Transmission gas yard Wabash Valley takes ownership of the gas line. The Wabash Valley equipment includes a regulator, isolation valves, including a remote-controlled main shut-off valve, pre-heater, and separator filter. The natural gas supply to the site has been reliable.
+In 2017, a hazardous gas detection system was installed in the CT engine compartment and the interconnect compartment to detect natural gas leaks in the enclosures. A safety shut off valve and a vent to atmosphere was installed on the natural gas line immediately prior to where it enters the interconnect compartment. If a high level of natural gas is detected, the safety shut off closes and vents natural gas outside.
+There is one 100-gallon diesel fuel oil storage tank on site. There were two fuel oil storage tanks located in the northwest corner of the site, which have since been removed.
+Pressure Vessel Inspection: Unfired pressure vessels are inspected by Hartford Steam Boiler for the jurisdictional requirements. The inspections are current through September 25, 2022.
+Relays: Generator and transformer relay protection devices are calibrated every 6 years in accordance with NERC Reliability Std PRC-
+005-6. Most relay testing was completed in September 2018.
+Station Batteries: The station batteries banks are Enersys Data Safe D flooded lead acid batteries. The battery charger is alarmed to the control room. Battery testing &amp; maintenance is being performed per IEEE Std-450 and NERC Reliability Standard PRC-005-6 with quarterly and annual maintenance schedules. Battery load testing is performed every 5 to 6 years. The battery rooms are air conditioned and well maintained during the 2019 site visit.
+The WRHP CT battery banks were replaced in 2005 and load tested in 2015. The next scheduled load test of the battery banks is scheduled for 2020.
+Water Systems: Domestic water is provided from American Water Company. Cooling for machinery is provided by a closed loop 50/50 glycol system using a tube and fin heat exchanger.
+Compressed Air Systems: Compressed air is supplied by two oil-free rotary screw compressors. One compressor is normally in operation, one is a back-up. The compressed air system has desiccant type air dryers. There are several receivers throughout the plant.
+There are small miscellaneous compressors located throughout the station in areas that require higher pressure for specific purposes.
+Emergency Power: Emergency power to the station is supplied by a 10 kV underground feed from the Duke Energy substation. This line feeds one transformer that supplies 4,160 V to the site.
+12. Operations and Maintenance Programs
+Operating Procedures: NAES has standard operating &amp; maintenance procedures for the plant. The NAES operation procedures include:
+General Power Plant Precautions Compressed Air System
+Operations Manual Users Guide Distributed Control System User Guide
+Logs and Records Electrical Distribution System
+Plant Manager’s Standing Orders Combustion Turbine Generator Trip
+Incident Reporting Lubricating Oil Failure
+Integrated Plant Start-up Pneumatic Failure
+Integrated Plant Shutdown Auxiliary AC Power Failure
+Combustion Turbine Generator Operations Fire Protection System
+CT Water Wash System Major Plant Fire
+Switching Procedure Major Fuel Gas Leak
+2018 © Global Risk Consultants Corp. Page 14
+#1225.0003
+Wabash Valley Power Association 04/20 West Terre Haute, Indiana, USA
+Fuel Gas System Operations Potable Water Systems Operations
+Continuous Emission Monitoring System Sanitary Sewer System
+There is one NAES plant manager on site and two NAES plant operators.
+• One of these operators has more than five years of previous experience at this plant.
+• The second operator has three years of experience at the site.
+• The third operator is on site to assist the newer operators. The third operator is a retired former plant operator with 20+ years of experience at the site.
+Two operators are typically on site in two 8-hour shifts. The other operators are on-call when not at the site. Operators are required to be within a one hour response time to the site if on-call. The CT has to be started by an operator on site as it does not have remote starting capabilities. If the unit is called on to run, an operator must respond to start the unit and stay on site while the unit is running.
+Operator Training: The training program includes OJT with an experienced Operator. The plant has a documented task list where the training demonstrates their knowledge and ability to adequately operate plant systems. Wabash Valley Power conforms to the NERC required training and means to document the training.
+Management of Change: The site has a generic Management of Change (MoC) procedure that is being revised to be site specific.
+Control Systems: WRHP CT has a Mark VIe control system. The Mark VIe controls were installed as part of the CT conversion to a simple cycle peaking operation in 2017. All General Electric updates have been successfully applied.
+Jumper Log: The plant has formal procedures to document any by-pass of set points. Operators on each shift sign-off at shift relief communicating to the shift relief the status of any ‘by-pass’. The ‘by-passes’ are logged in a logbook and displayed on the Control Room white board.
+Maintenance: The site uses MAXIMO for the CMMS. All PM procedures for all assets have been completed and entered into the system.
+The plant has a “preventive/predictive” maintenance philosophy where asset maintenance is based on time or operating hours. The plant conducts an annual scheduled outages every Fall. The majority of routine preventive maintenance is performed by the Operators.
+Maintenance evolutions are also supported by contractors as needed. Operators audit the services provided by contractors, when contractors are on site.
+Freeze Protection: Provide a brief overview of the freeze protections systems and what measures the plant has to minimize freeze losses.
+Predictive Maintenance Technologies: The application of some ‘predictive’ maintenance technologies can be problematic since the unit operates periodically.
+• Vibration monitoring (for diagnostic purposes), the plant is in the process of developing a relationship with a local contractor that can respond on short notice to be on site when the plant is operating.
+• Lubricating oil &amp; Hydraulic fluids are sampled annually. Samples are drawn by plant Operators and forwarded to the testing lab.
+• Infrared thermography: The plant is in the process of developing a relationship with a local contractor that can respond on short notice to be on site when the plant is operating. Air-borne ultrasound (acoustic emissions) has not been included in the past, however the benefits of this technology were previously discussed with plant Management. Air-borne ultrasound will be further explored with the infrared vendors.
+• Laser Alignment and Balancing are normally contracted to a vendor.
+2018 © Global Risk Consultants Corp. Page 15
+#1225.0003
+Wabash Valley Power Association 04/20 West Terre Haute, Indiana, USA
+13. Fire Protection Features
+The diesel driven fire pump was installed in 2017. The pump is an FM “Approved”/UL “Listed Peerless Centrifugal fire pump (Model
+8AEF170; SN 9827-127888-10-A that is rated for 2,500-gpmat 144-psi. The fire pump is driven by a 6-cylinder, 208 HP Clarke (Cummins) diesel engine (Model 6BTA5.9F1). The fire pump driver has a 460 gallon day tank for No.2 diesel fuel. A 5-HP electric jockey pump is also installed.
+Two fire water tanks are located east of the Control Room Building. One of the tanks holds 500,000 gallons and the other tank holds
+250,000 gallons. These tanks were re-purposed to hold fire water as a source for the diesel fire pump. A 10-inch, 150-feet underground suction line is installed from the two fire water tanks to the fire pump house.
+The diesel fire pump is operated weekly with engine data recorded after a minimum 10-minute run. Battery specific gravity is checked monthly.
+The following inspections and tests were performed on the fire protection system, and the test results reviewed:
+• Sprinkler Deluge System Full Flow trip – November 7, 2019
+• Fire Pump Testing – November 7, 2019
+• Fire Alarm and Emergency Communication System – September 6, 2019
+• Water Based Fire Protection Systems – March 12, 2020
+CO System - The CO suppression system supplies the combustion turbine bearings which are located within the enclosure. 2 2
+Automatic Sprinklers: The deluge water spray systems for the transformers are automatic systems, and also have manual pull stations for the activation of each deluge water spray system are located at the transformer area. The inspection and testing of the sprinkler system was performed on March 12, 2020 with satisfactory results.
+Transformer Detection Suppression Fire Barriers or Separation Containment/Drainage
+Unit U-1 GSU Heat Water Spray 60 ft/100 ft to buildings/no fire Gravel filled dike around the base of the unit capacity 20,435 gal; drains to plant oil water
+Detectors barriers separator and wastewater pond
+Unit Auxiliary Heat Water Spray Concrete to exposing unit; Gravel filled dike around the base of the unit
+U1A capacity 6351 gal; drains to plant oil water
+Detectors Separation (buildings) 30 ft, separator and wastewater pond
+Water Spray Concrete to exposing unit; adjoining WRHP CT ft Gravel filled dike around the base of the unit
+Unit Auxiliary Heat capacity 5625 gal; drains to plant oil water Separation (buildings) 30 ft,
+U1B Detectors separator and wastewater pond adjoining WRHP CT ft
+(PSI) Fire Sprinkler Systems Data Base of Riser Demand Sprinkler Designed/Existing Required Designed/Existing Required
+Syst. Area Protected Density/Area Density/Area Temp. Rating Syst. Flow Pressure
+No. (gpm/sq. ft.) (gpm/sq. ft.) (NA) (NA) (NA)
+IFP05 Control Building 0.25 gpm / 2,000 0.25 gpm / 2,000 791.52 144.53 NA
+IFP04 Isolation Transformer 0.25 gpm / area 0.25 gpm / area 132.65 51.62 Deluge
+IFP03 0.25 gpm / area 0.25 gpm / area 237.45 86.07 Deluge Aux Transformer South (WRHP CT)
+IFP02 0.25 gpm / area 0.25 gpm / area 237.45 82.14 Deluge Aux Transformer North (PSI)
+IFP01 0.25 gpm / area 0.25 gpm / area 495.70 126.54 Deluge Main Power Transformer (GSU)
+2018 © Global Risk Consultants Corp. Page 16
+#1225.0003
+Wabash Valley Power Association 04/20 West Terre Haute, Indiana, USA
+Water Supply, Water Mains, and Fire Hydrants: There are two fire water storage tanks. One tank holds an estimated 500,000-gallons and the other tank holds an estimated 250,000-gallons. The suction line to the diesel fire pump is 10-inches and runs underground for approximately 150-feet to the pump house. The fire main was previously a loop. The system was changed to a single line fire main with the new sections being HDPE with thrust blocks installed at ends and ‘T’s. The system has 6 inch and 8-inch lateral connections to feed yard hydrants and sprinkler systems. The previously existing sprinkler systems and most of the yard hydrants were retained when the system was changed. The hydrants removed were in the vicinity of the removed HRSG and steam turbine. The system has been separated from the former sgSolution facility.
+Alarm Systems: The plant call out system has critical alarms that are sent to the operators by text and e-mail. The critical alarms include:
+• Temporary Diesel Fire Pump Running
+• Lube Oil Reservoir Level Low
+• Lube Oil Lag Pump Running
+• Bearing Lift Oil Lag Pump Running
+• Lube Oil Pressure Low
+• Bearing Lift Oil Pressure Low
+• Generator Liquid Level High
+• Seal Oil Drain Liquid Level High
+• Cooling Water Level Low
+• Unit Not On Turning Gear
+• Generator Circuit Breaker Status
+• Cardox Fire Protection Alarm
+• BAC (LCI) Fire Protection Alarm
+• PEEC Fire Protection Alarm
+• Fire Protection Panel Trouble Alarm
+• Fire System Ring Header Pressure Low
+A hazardous gas detection system is installed in the engine compartment and the interconnect compartment. A safety shut off valve and a vent to atmosphere is installed on the natural gas line right before it enters the interconnect compartment. In the event a high level of natural gas is detected, the safety shut off closes and vents natural gas outside. The generator compartment is equipped with hydrogen gas detectors.
+Smoke detectors are installed in the:
+• control room building electrical rooms,
+• battery room,
+• UPS room,
+• control room,
+• the control cabinet room adjacent to the control room
+• lunchroom,
+Detection is not provided underneath any raised floor areas in the control room building. Additional detection exists in the water sampling lab and control room in the water treatment building. The fire alarms are monitored in the control room with a main alarm panel. The panel indicates activation of smoke detection and manual pull stations in the building
+Security Measures: The entire Wabash Valley Power Association site is enclosed with cyclone fencing. Access to the site is a manned guard house that is shared with the Duke Energy site. The Duke Energy site currently has the old power station being demolished. The guard station will be manned until the end of June 2019. After June 2019 Access to the site is via a remote-controlled gate.
+The WRHP CT has perimeter security rounds and eleven cameras. The cameras display in the control room and remotely to Wabash
+Corporate in Indianapolis, IN.
+2018 © Global Risk Consultants Corp. Page 17
+#1225.0003
+Wabash Valley Power Association 04/20 West Terre Haute, Indiana, USA
+Manual Protection: Numerous portable fire extinguishers of appropriate types are strategically positioned throughout the facility. The fire extinguishers are subject to internal checks by the operations personnel, and to annual maintenance and filling by an external contractor.
+14. Management Programs
+Plant Emergency Organization: The site safety procedures are based on NAES safety manual guidelines. The safety manual includes the standard safety procedures typical to the industry.
+Emergency response Lockout tag out procedures Fire prevention plan
+Safety inspections and assessments Confined space Welding and cutting
+Hot work Accident and injury reporting Safe work permits
+Cranes and rigging Contractor safety
+Fire Protection Self-Inspections: Round sheets are used to record valve position and system pressure. Record of functional testing is available on site for the fire systems.
+Impairment Handling: Sprinkler system impairments are tracked through documentation filled out by the Wabash Valley Power
+Association Compliance Department. Munich Re is notified by the Compliance Department.
+Ignition Source Control: A documented hot work permit system is in place and was reviewed during this survey. The document appears to be adequate for this facility. The hot work program includes specific statements on the permit to clear the area of all combustibles within a 35 ft. radius and include a 30-minute post fire watch. Smoking is prohibited inside buildings. Smoking is allowed outside in designated areas.
+Housekeeping: Housekeeping throughout the site appeared to be very good. Warehouse and storage areas appeared very organized and well kept.
+15. Public Protection
+The plant is in the New Goshen fire protection district, which provides the primary response to the site. This is a 22 member volunteer department with one station. The fire station is located at 9113 US Highway 150 W. The fire department visits the plant annually.
+The Sugar Creek fire department has 46 members and has a mutual aid agreement with the New Goshen fire protection district. The fire department has two stations. The primary station is 4.7 miles away. The station is manned 101 out of 168 hours per week. The Sugar
+Creek fire department has an automatic mutual aid agreement with the New Goshen fire department.
+In addition, the Shepardsville, Sandford and Clinton volunteer fire departments are also on automatic response for the Wabash Valley
+Power Association facility. These stations are within a range of 5-7 miles away.
+2018 © Global Risk Consultants Corp. Page 18
+#1225.0003
+Wabash Valley Power Association 04/20 West Terre Haute, Indiana, USA
+16. Natural Hazard and Other Exposures/Perils
+Natural Hazards: Natural hazards information for this facility from the Munich Re Nathan Single Risk Assessment Report for the facility that was generated on April 25, 2019.
+2018 © Global Risk Consultants Corp. Page 19
+#1225.0003
+Wabash Valley Power Association 04/20 West Terre Haute, Indiana, USA
+2018 © Global Risk Consultants Corp. Page 20
+#1225.0003
+Wabash Valley Power Association 04/20 West Terre Haute, Indiana, USA
+2018 © Global Risk Consultants Corp. Page 21
+#1225.0003
+Wabash Valley Power Association 04/20 West Terre Haute, Indiana, USA
+Flood: This facility is located in Zone X per FEMA Map 18167 C 0043, dated 02/18/2011. Areas in Zone X have a 2% annual chance of flooding; areas of 1% annual chance of flood with average depths of less than 1 foot or with drainage areas less than 1 square mile; and areas protected by levees from 1% annual chance of flood. It is noted that a flood zone AE associated with the Wabash River comes very near the southeast corner of the installed combustion turbine. As the rest of the CT is not affected, it is assumed the foundation of the CT was raised above the 100-year flood elevation of 520 feet (MSL) at this location along the Wabash River; however the installed grade elevation at the CT could not be determined during the survey.
+Based on the Nathan data, river flooding is not a hazard for the location, but there is a moderate hazard for flash flooding.
+2018 © Global Risk Consultants Corp. Page 22
+#1225.0003
+Wabash Valley Power Association 04/20 West Terre Haute, Indiana, USA
+Windstorm: According to FM DS 1-28 the maximum anticipated 3 second wind speed is for exposure Category C is 90 mph (40.2 /sec).
+Based on the Nathan data, the wind hazard is low to moderate, except for the tornado hazard which is considered high.
+Earthquake: This plant is located in Zone &gt;500 where moderate shaking is not expected to recur within 150 years and an average frequency of 400-years for moderate to severe shaking.
+Based on the Nathan data, the earthquake hazard is low.
+Mud Slides: No exposure.
+Tsunami: No exposure.
+Volcano: No exposure.
+2018 © Global Risk Consultants Corp. Page 23
+#1225.0003
+Wabash Valley Power Association 04/20 West Terre Haute, Indiana, USA
+Other Exposures: There are no major exposures to the plant.
+Latitude/Longitude: 39.5336 / -87.4258
+17. Contingency Programs and Critical Spares
+The spare parts program is primarily based on OEM recommended spare parts lists and maintains gas turbine fuel nozzles, combustor liners, first &amp; second stage nozzles, third stage buckets, second stage buckets and third stage buckets. The spares program considers part cost, lead time and criticality.
+Critical spare parts currently on-site include:
+• 6 Hydraulic system for the SF generator breaker
+• Combustion turbine compressor and turbine blades and nozzles. Some need to be refurbished, while other have already been.
+• Mark 6e DCS, LS2100e LCI static start, and the ES2100e Exciter
+2018 © Global Risk Consultants Corp. Page 24
+#1225.0003
+Wabash Valley Power Association 04/20 West Terre Haute, Indiana, USA
+18. Loss Estimates Report Values (In USD)
+PROPERTY DAMAGE: (100%) $262,673,000
+Buildings Included
+Machinery &amp; Equipment Included
+Stock Included
+BUSINESS INTERRUPTION: (12 MONTHS) Not Reported
+TOTAL P.D. &amp; B.I.: $262,673,000
+FIRE LOSS ESTIMATES
+ANTICIPATED PROBABLE LOSS:
+P.D. $4,250,000 B.I. 18% Total $4,283,000
+The Anticipated Probable Loss estimate assumes all fire protection systems work as designed and emergency response personnel (both site PEO and public agencies) act in accordance with existing plans. Under these circumstances, the worst-case loss would involve a bearing fire on the 192-MW WRHP CT combustion turbine. The CO system would be expected to control 2 the bearing fire with a controlled spin down of the unit.
+P.D. damages are estimated at $4,250,000.
+The WRHP CT represents 100% of plant production that would be out of service for two months.
+PROBABLE MAXIMUM LOSS:
+P.D. $21,500,000 B.I. 50% Total $21,500,000
+The Probable Maximum Loss estimate assumes a single fire protection system is out of service at the time of the incident and emergency response personnel (both site PEO and public agencies) act in accordance with existing plans, given potentially delayed notification due to the failure of the fire protection system would involve a bearing fire on the 192-MW WRHP CT combustion turbine. The CO system would not be expected to operate (impaired) and control the fire with a control spin down 2 of the unit. The unit would sustain major damage to the turbine enclosure and rotor.
+P.D. damages are estimated at $21,500,000.
+The WRHP CT represents 100% of plant production that would be out of service for six months.
+MAXIMUM FORESEEABLE LOSS:
+P.D. $49,500,000 B.I. 100% Total $49,500,000
+The Maximum Foreseeable Loss estimate assumes complete failure of all active fire suppression systems and ineffective response from the site PEO and public agencies. The event scenario could include a lube oil fire at the turbine. All fire protection systems are impaired. The 192-MW WRHP CT turbine, enclosure and peripheral equipment would sustain major temperature distortion and damage to the bearings. Repairs would include the complete replacement of the turbine and peripheral equipment,
+2018 © Global Risk Consultants Corp. Page 25
+#1225.0003
+Wabash Valley Power Association 04/20 West Terre Haute, Indiana, USA foundation repairs, repair replacement of auxiliaries, repair of enclosure damage. Project management and other allowances for construction costs have been included.
+P.D. damage estimate to replace the combustion turbine and repair related damage to auxiliary equipment and structures is
+$49,500,000.
+The WRHP CT represents 100% of plant production that would be out of service for over one year.
+MAXIMUM FORESEEABLE LOSS – 100 YEAR FLOOD / EARTHQUAKE EXPOSURE:
+Flood Estimate: $0 Earthquake Estimate: $0
+Flood: No flood exposure.
+Earthquake: No earthquake exposure.
+BOILER MACHINERY LOSS ESTIMATES
+Probable Maximum Loss
+P. D. - $28,000,000 B. I. - None Total - $28,000,000
+The Probable Maximum Loss (PML) represents the maximum amount of sudden or accidental loss to an object that is likely to occur.
+The event chosen is a compressor blade liberation failure of the 192-MW WRHP CT combustion turbine where the unit sustains foreign object damage (FOD) of the downstream compressor stages, as well as, bearing damage. The compressor rotor blades and vanes require replacement and bearing replacement. No damage is expected to the generator. Total property damage (PD), includes rigging, opening, repairing/replacing, damaged parts, oil flush realignment and balancing. This is estimated at $28,000,000.
+The estimated time for the combustion turbine repairs is 6 months. The loss of a single combustion turbine would result in a 100% reduction in plant generating capacity.
+The total PML estimate is $28,000,000.
+Maximum Foreseeable Loss
+P. D. - $49,780,000 B. I. - None Total - $49,780,000
+The Maximum Foreseeable Loss (MFL) is based on the maximum amount of sudden or accidental loss that can occur to an object without any credit to spare equipment or any expediting efforts which might reduce the loss.
+The event chosen is a catastrophic overspeed of the 192-MW WRHP CT, combustion turbine. The turbine and generator would be destroyed, and collateral damage can be expected to the lube oil skids, controls and switchgear caused by debris. Due to the distance, no damage is expected to the GSU or auxiliary transformers. Total PD estimate is $49,780,000.
+Replacement of Combustion Turbine Generator = $44,665,000
+Damage to adjacent equipment = $ 4,100,000
+Damage to supports-building = $ 1,015,000
+Total P.D. estimate = $49,780,000
+2018 © Global Risk Consultants Corp. Page 26
+#1225.0003
+Wabash Valley Power Association 04/20 West Terre Haute, Indiana, USA
+The estimated replacement time for the combustion turbine and generator unit is 12 months. The loss of a single combustion turbine would result in a 100% reduction in plant generating capacity.
+The total PML estimate is $49,780,000.
+Comments: Other loss scenarios that could result in extensive losses include failures to the generator, or transformer. PML and MFL loss estimates were considered for these objects but did not exceed the above figures.
+2018 © Global Risk Consultants Corp. Page 27
+#1225.0003
+Wabash Valley Power Association 04/20 West Terre Haute, Indiana, USA
+19. Appendix - WVPA Substation Transformers
+Substation Transformer Asset Management Program
+The larger transformers assets are owned by the Joint Transmission System (JTS). The JTS ownership includes Wabash Valley Power and other regional utilities such as the Indiana Municipal Power Agency (IMPA), and Duke. Ultimately, Duke Energy has O&amp;M responsibility for these assets under a service agreement with IMPA and WVPA. Current replacement values are identified below:
+The assets below are owned solely by WVPA and are representative of their ten largest and oldest units in operation including spares.
+Predictive and preventive technology programs for substation transformers include:
+Annual substation transformer testing includes:
+• Annual Dissolved Gas Analysis (DGA) of oil samples taken from transformers &amp; voltage regulators.
+o Annual Infra-red scans on energized equipment.
+o Routine Inspection for SF6 Gas, Transformer Nitrogen Gas, and transformer oil levels. Unit levels are maintained in o accordance with manufacturer specifications.
+o Perform ultrasonic scans to listen for signs of corona or arcing.
+2018 © Global Risk Consultants Corp. Page 28
+#1225.0003
+Wabash Valley Power Association 04/20 West Terre Haute, Indiana, USA
+List of alerts or abnormal tests are trended closely with engineering disposition towards safest disposition. Critical spares are
+• maintained to support engineering disposition results for replacement.
+• Life cycle planning includes risk-based decisions that may lead to a new replacement.
+In addition, WVPA currently is developing their Substation Asset Testing Program to include electrical insulation tests on a cyclical basis
+(transformers, regulators, bushings, etc.). This Program will include:
+– Insulation resistance (megger) – short to ground
+– Power factor (doble) – condition of insulation system
+– Transformer turns ratio – short between windings or turns
+– Open circuit impedance – short circuits, problem with core
+– Sweep frequency response analysis (SFRA) – changes in impedance indicating core or winding movement
+– Dielectric proof (hi pot) – test insulation for service acceptability
+2018 © Global Risk Consultants Corp. Page 29
+Partner with us today www.tuvsud.com/grc contact-grc@tuvsud.com
+TÜV SÜD AG Global Risk Consultants Corp.
+100 Walnut Ave., Suite 501
+Westendstr. 199 Clark, New Jersey 07066
+80686 Munich +1 732 827 4400 Germany
+Tel: +49 89 5791-0
+Email: info@tuev-sued.de www.tuv-sud.com</text><riskFactors><entry><key>RF001</key><value name="RF001" value="G"><sentences><s riskFactorValue="E" begin="13897" end="14011"><text>The net capacity factor (NCF) is the ratio of actual net generator to the normal claimed operating hours per year.</text><operands><op begin="13954" end="13963"><text>generator</text></op><op begin="13978" end="13985"><text>claimed</text></op><op begin="14006" end="14010"><text>year</text></op></operands></s><s riskFactorValue="X" begin="16955" end="17037"><text>Expand the scope for testing the GSU and Auxiliary transformers insulating fluids.</text><operands><op begin="16955" end="16961"><text>Expand</text></op><op begin="16976" end="16983"><text>testing</text></op><op begin="17006" end="17018"><text>transformers</text></op></operands></s><s riskFactorValue="U" begin="17208" end="17347"><text>In addition, there is no information to indicate that the GSU and Auxiliary transformer insulating fluids were tested for corrosive sulfur.</text><operands><op begin="17230" end="17244"><text>no information</text></op><op begin="17284" end="17295"><text>transformer</text></op><op begin="17319" end="17325"><text>tested</text></op></operands></s><s riskFactorValue="X" begin="17348" end="17455"><text>Include Furanic analysis and a Corrosive Sulfur test on the next transformer insulting fluid testing scope.</text><operands><op begin="17348" end="17355"><text>Include</text></op><op begin="17396" end="17400"><text>test</text></op><op begin="17413" end="17424"><text>transformer</text></op><op begin="17441" end="17448"><text>testing</text></op></operands></s><s riskFactorValue="X" begin="19191" end="19271"><text>Analyze the GSU and Auxiliary transformers for the presence of corrosive sulfur.</text><operands><op begin="19191" end="19198"><text>Analyze</text></op><op begin="19191" end="19198"><text>Analyze</text></op><op begin="19221" end="19233"><text>transformers</text></op></operands></s><s riskFactorValue="X" begin="19728" end="19846"><text>2020 Update: The transformer insulating fluid testing program has been expanded to include the Auxiliary transformers.</text><operands><op begin="19733" end="19739"><text>Update</text></op><op begin="19745" end="19756"><text>transformer</text></op><op begin="19774" end="19781"><text>testing</text></op><op begin="19833" end="19845"><text>transformers</text></op></operands></s><s riskFactorValue="G" begin="20555" end="20697"><text>2006, during a major gas turbine generator inspection, 14 damaged generator stator laminations were deeply cut by embedded radial lead pieces.</text><operands><op begin="20588" end="20597"><text>generator</text></op><op begin="20598" end="20608"><text>inspection</text></op><op begin="20662" end="20665"><text>cut</text></op></operands></s><s riskFactorValue="E" begin="24847" end="24926"><text>Simulated overspeed trip testing is performed annually with the unit -off-line.</text><operands><op begin="24867" end="24871"><text>trip</text></op><op begin="24872" end="24879"><text>testing</text></op><op begin="24883" end="24892"><text>performed</text></op><op begin="24893" end="24901"><text>annually</text></op></operands></s><s riskFactorValue="G" begin="25021" end="25099"><text>The overspeed trip was tested on September 13, 2019 with satisfactory results.</text><operands><op begin="25035" end="25039"><text>trip</text></op><op begin="25040" end="25043"><text>was</text></op><op begin="25044" end="25050"><text>tested</text></op></operands></s><s riskFactorValue="F" begin="31505" end="31569"><text>There was no generator electrical testing completed at the HGPI.</text><operands><op begin="31515" end="31517"><text>no</text></op><op begin="31518" end="31527"><text>generator</text></op><op begin="31539" end="31546"><text>testing</text></op></operands></s><s riskFactorValue="E" begin="35299" end="35430"><text>When the unit was operating as a base load, WVPA conducted in-situ electrical generator physical inspections on a 6-year frequency.</text><operands><op begin="35366" end="35376"><text>electrical</text></op><op begin="35377" end="35386"><text>generator</text></op><op begin="35396" end="35407"><text>inspections</text></op><op begin="35396" end="35407"><text>inspections</text></op><op begin="35415" end="35419"><text>year</text></op><op begin="35415" end="35419"><text>year</text></op></operands></s><s riskFactorValue="G" begin="35556" end="35602"><text>The generator was electrically tested in 2017.</text><operands><op begin="35560" end="35569"><text>generator</text></op><op begin="35570" end="35573"><text>was</text></op><op begin="35587" end="35593"><text>tested</text></op></operands></s><s riskFactorValue="G" begin="37551" end="37612"><text>Rotor Bore Inspections: The generator rotor is a solid shaft.</text><operands><op begin="37562" end="37573"><text>Inspections</text></op><op begin="37579" end="37588"><text>generator</text></op><op begin="37600" end="37605"><text>solid</text></op></operands></s><s riskFactorValue="E" begin="41655" end="41787"><text>Relays: Generator and transformer relay protection devices are calibrated every 6 years in accordance with NERC Reliability Std PRC-</text><operands><op begin="41677" end="41688"><text>transformer</text></op><op begin="41689" end="41694"><text>relay</text></op><op begin="41718" end="41728"><text>calibrated</text></op><op begin="41737" end="41742"><text>years</text></op></operands></s><s riskFactorValue="G" begin="41788" end="41846"><text>005-6. Most relay testing was completed in September 2018.</text><operands><op begin="41800" end="41805"><text>relay</text></op><op begin="41806" end="41813"><text>testing</text></op><op begin="41818" end="41827"><text>completed</text></op></operands></s><s riskFactorValue="E" begin="65924" end="65971"><text>Annual substation transformer testing includes:</text><operands><op begin="65924" end="65930"><text>Annual</text></op><op begin="65942" end="65953"><text>transformer</text></op><op begin="65954" end="65961"><text>testing</text></op></operands></s><s riskFactorValue="E" begin="65972" end="66070"><text>• Annual Dissolved Gas Analysis (DGA) of oil samples taken from transformers &amp; voltage regulators.</text><operands><op begin="65974" end="65980"><text>Annual</text></op><op begin="65981" end="65994"><text>Dissolved Gas</text></op><op begin="65995" end="66003"><text>Analysis</text></op></operands></s><s riskFactorValue="E" begin="66071" end="66119"><text>o Annual Infra-red scans on energized equipment.</text><operands><op begin="66073" end="66079"><text>Annual</text></op><op begin="66080" end="66089"><text>Infra-red</text></op><op begin="66090" end="66095"><text>scans</text></op></operands></s></sentences></value></entry><entry><key>RF002</key><value name="RF002" value="E"><sentences><s riskFactorValue="E" begin="55189" end="55298"><text>Ignition Source Control: A documented hot work permit system is in place and was reviewed during this survey.</text><operands><op begin="55216" end="55226"><text>documented</text></op><op begin="55227" end="55235"><text>hot work</text></op><op begin="55236" end="55242"><text>permit</text></op><op begin="55236" end="55249"><text>permit system</text></op></operands></s><s riskFactorValue="G" begin="55189" end="55298"><text>Ignition Source Control: A documented hot work permit system is in place and was reviewed during this survey.</text><operands><op begin="55227" end="55235"><text>hot work</text></op><op begin="55236" end="55242"><text>permit</text></op><op begin="55253" end="55261"><text>in place</text></op></operands></s><s riskFactorValue="E" begin="55520" end="55559"><text>Smoking is prohibited inside buildings.</text><operands><op begin="55520" end="55527"><text>Smoking</text></op><op begin="55531" end="55541"><text>prohibited</text></op></operands></s><s riskFactorValue="G" begin="55560" end="55607"><text>Smoking is allowed outside in designated areas.</text><operands><op begin="55560" end="55567"><text>Smoking</text></op><op begin="55590" end="55600"><text>designated</text></op><op begin="55601" end="55606"><text>areas</text></op></operands></s></sentences></value></entry><entry><key>RF003</key><value name="RF003" value="F"><sentences><s riskFactorValue="X" begin="13056" end="13182"><text>• The Cardox tank safety valves are corroded and past due for replacement, which is recommended to be performed every 5 years.</text><operands><op begin="13069" end="13073"><text>tank</text></op><op begin="13137" end="13151"><text>is recommended</text></op></operands></s><s riskFactorValue="F" begin="15983" end="16091"><text>Mechanically, the turbines are susceptible to occurrences such as loss of lube oil or an overspeed incident.</text><operands><op begin="16049" end="16053"><text>loss</text></op><op begin="16057" end="16061"><text>lube</text></op></operands></s><s riskFactorValue="X" begin="16955" end="17037"><text>Expand the scope for testing the GSU and Auxiliary transformers insulating fluids.</text><operands><op begin="16955" end="16961"><text>Expand</text></op><op begin="17030" end="17036"><text>fluids</text></op></operands></s><s riskFactorValue="U" begin="17208" end="17347"><text>In addition, there is no information to indicate that the GSU and Auxiliary transformer insulating fluids were tested for corrosive sulfur.</text><operands><op begin="17230" end="17244"><text>no information</text></op><op begin="17307" end="17313"><text>fluids</text></op></operands></s><s riskFactorValue="X" begin="17348" end="17455"><text>Include Furanic analysis and a Corrosive Sulfur test on the next transformer insulting fluid testing scope.</text><operands><op begin="17348" end="17355"><text>Include</text></op><op begin="17435" end="17440"><text>fluid</text></op></operands></s><s riskFactorValue="X" begin="19728" end="19846"><text>2020 Update: The transformer insulating fluid testing program has been expanded to include the Auxiliary transformers.</text><operands><op begin="19733" end="19739"><text>Update</text></op><op begin="19768" end="19773"><text>fluid</text></op></operands></s><s riskFactorValue="G" begin="31838" end="31895"><text>• False start drains dye pen false start drain pipe welds</text><operands><op begin="31852" end="31858"><text>drains</text></op><op begin="31879" end="31884"><text>drain</text></op></operands></s><s riskFactorValue="G" begin="38977" end="39058"><text>The transformers have gravel drainage and are installed in separate containments.</text><operands><op begin="39006" end="39014"><text>drainage</text></op></operands></s><s riskFactorValue="F" begin="41294" end="41355"><text>There is one 100-gallon diesel fuel oil storage tank on site.</text><operands><op begin="41311" end="41317"><text>gallon</text></op><op begin="41318" end="41329"><text>diesel fuel</text></op><op begin="41330" end="41333"><text>oil</text></op></operands></s><s riskFactorValue="F" begin="43846" end="43885"><text>Switching Procedure Major Fuel Gas Leak</text><operands><op begin="43877" end="43880"><text>Gas</text></op><op begin="43881" end="43885"><text>Leak</text></op></operands></s><s riskFactorValue="G" begin="49382" end="49464"><text>Transformer Detection Suppression Fire Barriers or Separation Containment/Drainage</text><operands><op begin="49456" end="49464"><text>Drainage</text></op></operands></s><s riskFactorValue="G" begin="49465" end="49622"><text>Unit U-1 GSU Heat Water Spray 60 ft/100 ft to buildings/no fire Gravel filled dike around the base of the unit capacity 20,435 gal; drains to plant oil water</text><operands><op begin="49597" end="49603"><text>drains</text></op></operands></s><s riskFactorValue="F" begin="49465" end="49622"><text>Unit U-1 GSU Heat Water Spray 60 ft/100 ft to buildings/no fire Gravel filled dike around the base of the unit capacity 20,435 gal; drains to plant oil water</text><operands><op begin="49592" end="49595"><text>gal</text></op><op begin="49613" end="49616"><text>oil</text></op></operands></s><s riskFactorValue="G" begin="49778" end="49826"><text>U1A capacity 6351 gal; drains to plant oil water</text><operands><op begin="49801" end="49807"><text>drains</text></op></operands></s><s riskFactorValue="F" begin="49778" end="49826"><text>U1A capacity 6351 gal; drains to plant oil water</text><operands><op begin="49796" end="49799"><text>gal</text></op><op begin="49817" end="49820"><text>oil</text></op></operands></s><s riskFactorValue="G" begin="50004" end="50098"><text>Unit Auxiliary Heat capacity 5625 gal; drains to plant oil water Separation (buildings) 30 ft,</text><operands><op begin="50043" end="50049"><text>drains</text></op></operands></s><s riskFactorValue="F" begin="50004" end="50098"><text>Unit Auxiliary Heat capacity 5625 gal; drains to plant oil water Separation (buildings) 30 ft,</text><operands><op begin="50038" end="50041"><text>gal</text></op><op begin="50059" end="50062"><text>oil</text></op></operands></s><s riskFactorValue="G" begin="51965" end="51995"><text>• Lube Oil Reservoir Level Low</text><operands><op begin="51967" end="51975"><text>Lube Oil</text></op><op begin="51992" end="51995"><text>Low</text></op></operands></s><s riskFactorValue="X" begin="52146" end="52180"><text>• Seal Oil Drain Liquid Level High</text><operands><op begin="52148" end="52152"><text>Seal</text></op><op begin="52153" end="52156"><text>Oil</text></op><op begin="52157" end="52162"><text>Drain</text></op><op begin="52163" end="52169"><text>Liquid</text></op></operands></s><s riskFactorValue="E" begin="55608" end="55680"><text>Housekeeping: Housekeeping throughout the site appeared to be very good.</text><operands><op begin="55622" end="55634"><text>Housekeeping</text></op><op begin="55670" end="55674"><text>very</text></op><op begin="55675" end="55679"><text>good</text></op></operands></s></sentences></value></entry><entry><key>RF004</key><value name="RF004" value="G"><sentences><s riskFactorValue="G" begin="8016" end="8062"><text>• Annual CT borescope inspection was performed</text><operands><op begin="8018" end="8024"><text>Annual</text></op><op begin="8038" end="8048"><text>inspection</text></op></operands></s><s riskFactorValue="G" begin="8571" end="8680"><text>Weekly Fire Pump Test report from April 21, 2020 o The Operations log sheet dated March 8, 2020 was reviewed.</text><operands><op begin="8571" end="8577"><text>Weekly</text></op><op begin="8578" end="8587"><text>Fire Pump</text></op><op begin="8588" end="8592"><text>Test</text></op></operands></s><s riskFactorValue="G" begin="10270" end="10339"><text>ATS recommends performing TIL 1509-R3 inspections on an annual basis.</text><operands><op begin="10308" end="10319"><text>inspections</text></op><op begin="10326" end="10332"><text>annual</text></op></operands></s><s riskFactorValue="G" begin="12524" end="12617"><text>• Contact the diesel fire pump service vendor to schedule the annual maintenance inspections.</text><operands><op begin="12545" end="12554"><text>fire pump</text></op><op begin="12555" end="12562"><text>service</text></op><op begin="12586" end="12592"><text>annual</text></op><op begin="12605" end="12616"><text>inspections</text></op></operands></s><s riskFactorValue="U" begin="17208" end="17347"><text>In addition, there is no information to indicate that the GSU and Auxiliary transformer insulating fluids were tested for corrosive sulfur.</text><operands><op begin="17230" end="17244"><text>no information</text></op><op begin="17319" end="17325"><text>tested</text></op></operands></s><s riskFactorValue="G" begin="27344" end="27377"><text>- Borescope inspection – Annually</text><operands><op begin="27356" end="27366"><text>inspection</text></op><op begin="27369" end="27377"><text>Annually</text></op></operands></s><s riskFactorValue="G" begin="49272" end="49381"><text>The inspection and testing of the sprinkler system was performed on March 12, 2020 with satisfactory results.</text><operands><op begin="49276" end="49286"><text>inspection</text></op><op begin="49291" end="49298"><text>testing</text></op><op begin="49306" end="49315"><text>sprinkler</text></op><op begin="49360" end="49372"><text>satisfactory</text></op></operands></s><s riskFactorValue="G" begin="66120" end="66207"><text>o Routine Inspection for SF6 Gas, Transformer Nitrogen Gas, and transformer oil levels.</text><operands><op begin="66122" end="66129"><text>Routine</text></op><op begin="66130" end="66140"><text>Inspection</text></op></operands></s></sentences></value></entry><entry><key>RF005</key><value name="RF005" value="G"><sentences><s riskFactorValue="G" begin="9164" end="9204"><text>o The plant provided a list of PM tasks.</text><operands><op begin="9195" end="9197"><text>PM</text></op></operands></s><s riskFactorValue="E" begin="14789" end="14885"><text>The current and future major preventive, predictive or major maintenance appears to be adequate.</text><operands><op begin="14830" end="14840"><text>predictive</text></op><op begin="14850" end="14861"><text>maintenance</text></op></operands></s><s riskFactorValue="G" begin="14789" end="14885"><text>The current and future major preventive, predictive or major maintenance appears to be adequate.</text><operands><op begin="14818" end="14828"><text>preventive</text></op><op begin="14850" end="14861"><text>maintenance</text></op></operands></s><s riskFactorValue="G" begin="16092" end="16421"><text>To support reliable turbine operation, this facility appears to have an effective infrastructure in place to monitor the operating conditions and health of the machine, documented operating and maintenance procedures, ongoing personnel training, as well as a maintenance management system to schedule and track maintenance tasks.</text><operands><op begin="16261" end="16271"><text>documented</text></op><op begin="16286" end="16297"><text>maintenance</text></op><op begin="16351" end="16362"><text>maintenance</text></op><op begin="16384" end="16392"><text>schedule</text></op><op begin="16397" end="16402"><text>track</text></op><op begin="16403" end="16414"><text>maintenance</text></op></operands></s><s riskFactorValue="G" begin="26862" end="26980"><text>Turbine Maintenance: In the past when the unit was at base load, the inspection schedule was based on operating hours.</text><operands><op begin="26931" end="26941"><text>inspection</text></op><op begin="26942" end="26950"><text>schedule</text></op></operands></s><s riskFactorValue="G" begin="26981" end="27099"><text>However, since the unit has been converted to a peaking mode of operation the maintenance schedule is based on starts.</text><operands><op begin="27059" end="27070"><text>maintenance</text></op><op begin="27071" end="27079"><text>schedule</text></op></operands></s><s riskFactorValue="G" begin="27209" end="27343"><text>The inspection outages going forward will be scheduled for the Fall outages, with the following criteria being used as the benchmarks:</text><operands><op begin="27213" end="27223"><text>inspection</text></op><op begin="27254" end="27263"><text>scheduled</text></op></operands></s><s riskFactorValue="P" begin="39903" end="39968"><text>There are no plans to repair or replace the Hydrans at this time.</text><operands><op begin="39913" end="39915"><text>no</text></op><op begin="39925" end="39931"><text>repair</text></op></operands></s><s riskFactorValue="G" begin="41999" end="42153"><text>Battery testing &amp; maintenance is being performed per IEEE Std-450 and NERC Reliability Standard PRC-005-6 with quarterly and annual maintenance schedules.</text><operands><op begin="42131" end="42142"><text>maintenance</text></op><op begin="42143" end="42152"><text>schedules</text></op></operands></s><s riskFactorValue="E" begin="45875" end="45922"><text>Maintenance: The site uses MAXIMO for the CMMS.</text><operands><op begin="45917" end="45921"><text>CMMS</text></op></operands></s><s riskFactorValue="G" begin="45923" end="46004"><text>All PM procedures for all assets have been completed and entered into the system.</text><operands><op begin="45927" end="45929"><text>PM</text></op></operands></s><s riskFactorValue="E" begin="46005" end="46128"><text>The plant has a “preventive/predictive” maintenance philosophy where asset maintenance is based on time or operating hours.</text><operands><op begin="46033" end="46043"><text>predictive</text></op><op begin="46045" end="46056"><text>maintenance</text></op><op begin="46080" end="46091"><text>maintenance</text></op></operands></s><s riskFactorValue="G" begin="46005" end="46128"><text>The plant has a “preventive/predictive” maintenance philosophy where asset maintenance is based on time or operating hours.</text><operands><op begin="46022" end="46032"><text>preventive</text></op><op begin="46045" end="46056"><text>maintenance</text></op><op begin="46080" end="46091"><text>maintenance</text></op></operands></s><s riskFactorValue="G" begin="46188" end="46265"><text>The majority of routine preventive maintenance is performed by the Operators.</text><operands><op begin="46212" end="46234"><text>preventive maintenance</text></op></operands></s><s riskFactorValue="E" begin="46555" end="46710"><text>Predictive Maintenance Technologies: The application of some ‘predictive’ maintenance technologies can be problematic since the unit operates periodically.</text><operands><op begin="46555" end="46577"><text>Predictive Maintenance</text></op><op begin="46617" end="46627"><text>predictive</text></op><op begin="46629" end="46640"><text>maintenance</text></op></operands></s></sentences></value></entry><entry><key>RF006</key><value name="RF006" value="G"><sentences><s riskFactorValue="G" begin="21904" end="22033"><text>Construction is light noncombustible, metal on metal. The 9,450 sq. ft. building is equipped with sprinklers and smoke detectors.</text><operands><op begin="21917" end="21919"><text>is</text></op><op begin="21988" end="21996"><text>equipped</text></op><op begin="22002" end="22012"><text>sprinklers</text></op></operands></s><s riskFactorValue="G" begin="38888" end="38976"><text>The transformers have deluge systems and blast walls between the auxiliary transformers.</text><operands><op begin="38905" end="38909"><text>have</text></op><op begin="38910" end="38924"><text>deluge systems</text></op></operands></s><s riskFactorValue="G" begin="49050" end="49271"><text>Automatic Sprinklers: The deluge water spray systems for the transformers are automatic systems, and also have manual pull stations for the activation of each deluge water spray system are located at the transformer area.</text><operands><op begin="49060" end="49070"><text>Sprinklers</text></op><op begin="49124" end="49127"><text>are</text></op><op begin="49156" end="49160"><text>have</text></op></operands></s><s riskFactorValue="G" begin="49272" end="49381"><text>The inspection and testing of the sprinkler system was performed on March 12, 2020 with satisfactory results.</text><operands><op begin="49306" end="49315"><text>sprinkler</text></op><op begin="49360" end="49372"><text>satisfactory</text></op></operands></s><s riskFactorValue="G" begin="51426" end="51523"><text>The system has 6 inch and 8-inch lateral connections to feed yard hydrants and sprinkler systems.</text><operands><op begin="51437" end="51440"><text>has</text></op><op begin="51505" end="51514"><text>sprinkler</text></op></operands></s><s riskFactorValue="G" begin="51524" end="51638"><text>The previously existing sprinkler systems and most of the yard hydrants were retained when the system was changed.</text><operands><op begin="51548" end="51557"><text>sprinkler</text></op><op begin="51601" end="51609"><text>retained</text></op></operands></s></sentences></value></entry><entry><key>RF007</key><value name="RF007" value="G"><sentences><s riskFactorValue="X" begin="19728" end="19846"><text>2020 Update: The transformer insulating fluid testing program has been expanded to include the Auxiliary transformers.</text><operands><op begin="19733" end="19739"><text>Update</text></op><op begin="19782" end="19789"><text>program</text></op></operands></s><s riskFactorValue="X" begin="26244" end="26300"><text>1469 DC Emergency Pump Recommendations Planned Fall 2017</text><operands><op begin="26252" end="26261"><text>Emergency</text></op><op begin="26252" end="26261"><text>Emergency</text></op><op begin="26267" end="26282"><text>Recommendations</text></op><op begin="26267" end="26282"><text>Recommendations</text></op><op begin="26283" end="26290"><text>Planned</text></op></operands></s><s riskFactorValue="X" begin="46418" end="46554"><text>Freeze Protection: Provide a brief overview of the freeze protections systems and what measures the plant has to minimize freeze losses.</text><operands><op begin="46425" end="46435"><text>Protection</text></op><op begin="46437" end="46444"><text>Provide</text></op><op begin="46476" end="46487"><text>protections</text></op></operands></s><s riskFactorValue="G" begin="56036" end="56236"><text>The Sugar Creek fire department has 46 members and has a mutual aid agreement with the New Goshen fire protection district. The fire department has two stations. The primary station is 4.7 miles away.</text><operands><op begin="56052" end="56067"><text>fire department</text></op><op begin="56221" end="56224"><text>4.7</text></op><op begin="56225" end="56230"><text>miles</text></op><op begin="56231" end="56235"><text>away</text></op></operands></s><s riskFactorValue="G" begin="56160" end="56289"><text>The fire department has two stations. The primary station is 4.7 miles away. The station is manned 101 out of 168 hours per week.</text><operands><op begin="56164" end="56179"><text>fire department</text></op><op begin="56221" end="56224"><text>4.7</text></op><op begin="56225" end="56230"><text>miles</text></op><op begin="56231" end="56235"><text>away</text></op></operands></s><s riskFactorValue="E" begin="56300" end="56396"><text>Creek fire department has an automatic mutual aid agreement with the New Goshen fire department.</text><operands><op begin="56322" end="56325"><text>has</text></op><op begin="56380" end="56395"><text>fire department</text></op></operands></s><s riskFactorValue="X" begin="56397" end="56610"><text>In addition, the Shepardsville, Sandford and Clinton volunteer fire departments are also on automatic response for the Wabash Valley
+Power Association facility. These stations are within a range of 5-7 miles away.</text><operands><op begin="56450" end="56459"><text>volunteer</text></op><op begin="56460" end="56476"><text>fire departments</text></op><op begin="56564" end="56572"><text>stations</text></op><op begin="56597" end="56598"><text>7</text></op><op begin="56599" end="56604"><text>miles</text></op><op begin="56605" end="56609"><text>away</text></op></operands></s></sentences></value></entry><entry><key>RF008</key><value name="RF008" value="F"><sentences><s riskFactorValue="F" begin="36247" end="36375"><text>• 2006 Inspected core iron, high El-CID reading found broken insulation, heavy oil, greasing and possible end winding vibration.</text><operands><op begin="36344" end="36352"><text>possible</text></op><op begin="36357" end="36364"><text>winding</text></op></operands></s><s riskFactorValue="F" begin="57418" end="57655"><text>Areas in Zone X have a 2% annual chance of flooding; areas of 1% annual chance of flood with average depths of less than 1 foot or with drainage areas less than 1 square mile; and areas protected by levees from 1% annual chance of flood.</text><operands><op begin="57451" end="57457"><text>chance</text></op><op begin="57461" end="57469"><text>flooding</text></op><op begin="57490" end="57496"><text>chance</text></op><op begin="57500" end="57505"><text>flood</text></op><op begin="57639" end="57645"><text>chance</text></op><op begin="57649" end="57654"><text>flood</text></op></operands></s><s riskFactorValue="U" begin="57796" end="58069"><text>As the rest of the CT is not affected, it is assumed the foundation of the CT was raised above the 100-year flood elevation of 520 feet (MSL) at this location along the Wabash River; however the installed grade elevation at the CT could not be determined during the survey.</text><operands><op begin="57904" end="57909"><text>flood</text></op><op begin="58027" end="58036"><text>could not</text></op><op begin="58040" end="58050"><text>determined</text></op></operands></s><s riskFactorValue="F" begin="58070" end="58195"><text>Based on the Nathan data, river flooding is not a hazard for the location, but there is a moderate hazard for flash flooding.</text><operands><op begin="58160" end="58168"><text>moderate</text></op><op begin="58169" end="58175"><text>hazard</text></op><op begin="58186" end="58194"><text>flooding</text></op></operands></s><s riskFactorValue="G" begin="58450" end="58567"><text>Based on the Nathan data, the wind hazard is low to moderate, except for the tornado hazard which is considered high.</text><operands><op begin="58480" end="58484"><text>wind</text></op><op begin="58485" end="58491"><text>hazard</text></op><op begin="58495" end="58498"><text>low</text></op></operands></s><s riskFactorValue="F" begin="58450" end="58567"><text>Based on the Nathan data, the wind hazard is low to moderate, except for the tornado hazard which is considered high.</text><operands><op begin="58480" end="58484"><text>wind</text></op><op begin="58485" end="58491"><text>hazard</text></op><op begin="58502" end="58510"><text>moderate</text></op></operands></s><s riskFactorValue="P" begin="58450" end="58567"><text>Based on the Nathan data, the wind hazard is low to moderate, except for the tornado hazard which is considered high.</text><operands><op begin="58527" end="58534"><text>tornado</text></op><op begin="58535" end="58541"><text>hazard</text></op><op begin="58562" end="58566"><text>high</text></op></operands></s><s riskFactorValue="G" begin="58750" end="58805"><text>Based on the Nathan data, the earthquake hazard is low.</text><operands><op begin="58780" end="58790"><text>earthquake</text></op><op begin="58791" end="58797"><text>hazard</text></op><op begin="58801" end="58804"><text>low</text></op></operands></s></sentences></value></entry><entry><key>RF009</key><value name="RF009" value="G"><sentences><s riskFactorValue="F" begin="21569" end="21776"><text>The Office/Control building is a one story, light noncombustible metal on metal. The 8,800 sq. ft. building is equipped with smoke detectors and approximately 5,000 of 8,800 sq. ft. has sprinkler protection.</text><operands><op begin="21602" end="21605"><text>one</text></op><op begin="21694" end="21709"><text>smoke detectors</text></op></operands></s><s riskFactorValue="G" begin="21904" end="22033"><text>Construction is light noncombustible, metal on metal. The 9,450 sq. ft. building is equipped with sprinklers and smoke detectors.</text><operands><op begin="21917" end="21919"><text>is</text></op><op begin="21988" end="21996"><text>equipped</text></op><op begin="22017" end="22032"><text>smoke detectors</text></op></operands></s><s riskFactorValue="G" begin="52864" end="52901"><text>Smoke detectors are installed in the:</text><operands><op begin="52864" end="52879"><text>Smoke detectors</text></op><op begin="52884" end="52893"><text>installed</text></op></operands></s><s riskFactorValue="G" begin="53251" end="53325"><text>The fire alarms are monitored in the control room with a main alarm panel.</text><operands><op begin="53255" end="53266"><text>fire alarms</text></op><op begin="53271" end="53280"><text>monitored</text></op></operands></s></sentences></value></entry><entry><key>RF010</key><value name="RF010" value="E"><sentences><s riskFactorValue="G" begin="38846" end="38887"><text>Transformers are located in fenced areas.</text><operands><op begin="38859" end="38862"><text>are</text></op><op begin="38874" end="38880"><text>fenced</text></op></operands></s><s riskFactorValue="G" begin="53417" end="53517"><text>Security Measures: The entire Wabash Valley Power Association site is enclosed with cyclone fencing.</text><operands><op begin="53479" end="53483"><text>site</text></op><op begin="53484" end="53486"><text>is</text></op><op begin="53509" end="53516"><text>fencing</text></op></operands></s><s riskFactorValue="E" begin="53739" end="53806"><text>After June 2019 Access to the site is via a remote-controlled gate.</text><operands><op begin="53774" end="53776"><text>is</text></op><op begin="53801" end="53805"><text>gate</text></op></operands></s><s riskFactorValue="G" begin="53739" end="53806"><text>After June 2019 Access to the site is via a remote-controlled gate.</text><operands><op begin="53769" end="53773"><text>site</text></op><op begin="53801" end="53805"><text>gate</text></op></operands></s></sentences></value></entry><entry><key>RF011</key><value name="RF011" value="U"><sentences/></value></entry><entry><key>RF012</key><value name="RF012" value="G"><sentences><s riskFactorValue="G" begin="49827" end="49896"><text>Detectors Separation (buildings) 30 ft, separator and wastewater pond</text><operands><op begin="49837" end="49847"><text>Separation</text></op><op begin="49860" end="49862"><text>30</text></op><op begin="49863" end="49865"><text>ft</text></op><op begin="49867" end="49876"><text>separator</text></op></operands></s></sentences></value></entry></riskFactors><parameters/><attributes><a name="INSURED_NAME" begin="23" end="59"><text>Boiler &amp; Machinery And Fire/Property</text></a><a name="INSURED_NAME" begin="74" end="105"><text>Wabash Valley Power Association</text></a><a name="LATITUDE" begin="59080" end="59087"><text>39.5336</text></a><a name="LONGITUDE" begin="59090" end="59098"><text>-87.4258</text></a><a name="STREET" begin="134" end="149"><text>445 Bolton Road</text></a><a name="SURVEY_DATE_WEAK" begin="235" end="249"><text>20200429</text></a><a name="SURVEY_DATE" begin="235" end="249"><text>20200429</text></a><a name="AS_Presence" begin="0" end="1"><text>No</text></a></attributes></riskFactorAnalysis>

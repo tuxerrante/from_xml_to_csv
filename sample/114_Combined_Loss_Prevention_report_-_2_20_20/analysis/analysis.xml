@@ -1,0 +1,1451 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><riskFactorAnalysis><text>Combined Loss Prevention Report
+Boiler and Machinery/ Fire and Associated Perils
+Prepared for:
+Harbert Management Corporation
+Gulf Pacific Power, LLC/Georgia Gulf Generating
+Washington County Power
+1177 County Line Road
+Sandersville, Georgia, USA
+File Number: 1725.0005
+Date Visited: February 20, 2020
+Prepared By: Rick Durham rick.durham@tuvsud.com
+865-399-2130
+Conferred With: Mike Spranger; General Manager mikespranger@cogentrix.com
+Derek Boatright; Operations and Maintenance Manager derekboatright@cogentrix.com
+Forest Cook; Engineering Manager forestcook@cogentrix.com
+Global Risk Consultants Corp. Phone: +1 732 827 4400
+100 Walnut Ave., Suite 501 www.tuvsud.com/grc
+Clark, New Jersey 07066 United States Baseline Template – Feb 20
+Global Risk Consultants Corp.
+Harbert Management Corp. – Washington County Power #1725.0005
+Sandersville/Georgia/USA 0220
+Contents
+1. Summary .............................................................................................................................................. 3
+2. General ................................................................................................................................................. 4
+3. Recommendations ............................................................................................................................... 4
+4. Changes and Comments ..................................................................................................................... 4
+COMPLETED/REMOVED RECOMMENDATIONS ................................................................................................................. 4
+MAJOR CHANGES ................................................................................................................................................................. 4
+OTHER COMMENTS AND PROJECTS ................................................................................................................................. 4
+5. Loss History ......................................................................................................................................... 5
+6. Underwriting Summary ....................................................................................................................... 5
+CONSTRUCTION .................................................................................................................................................................... 5
+7. Prime Movers ....................................................................................................................................... 5
+8. Generators ............................................................................................................................................ 7
+9. Transformers ........................................................................................................................................ 8
+10. Balance of Plant ................................................................................................................................... 9
+11. Operations and Maintenance Programs .......................................................................................... 10
+12. Fire Protection Features .................................................................................................................... 11
+13. Management Programs ..................................................................................................................... 11
+14. Public Protection ............................................................................................................................... 12
+15. Natural Hazard and Other Exposures/Perils .................................................................................... 12
+16. Contingency Programs and Critical Spares .................................................................................... 14
+17. Loss Estimates................................................................................................................................... 15
+PROBABLE MAXIMUM LOSS .............................................................................................................................................. 16
+MAXIMUM FORESEEABLE LOSS ....................................................................................................................................... 16
+DISCLAIMER
+This report reflects only information provided to GRC and observations of existing conditions made by GRC at the time of the site visit. This report does not purport to set forth all hazards nor to indicate that other hazards do not exist. We urge that recommendations presented, if any, be given serious consideration and we would be pleased to discuss alternative solutions. GRC assumes no responsibility for the control or correction of conditions or the practices existing at the reviewed premises.
+2020 © Global Risk Consultants Corp. Page 2
+Harbert Management Corp. – Washington County Power #1725.0005
+Sandersville/Georgia/USA 02/20
+1. Summary
+The purpose of this visit was to conduct a boiler and machinery review of the generation operations, maintenance practices and procedures, and to evaluate the overall potential exposures at this plant. The primary focus of this visit centered on critical and auxiliary equipment for the generating units and utility services and preventive/predictive maintenance programs. The visit included a site tour of the combustion turbine-generators, transformers and key fire protection systems.
+2020 © Global Risk Consultants Corp. Page 3
+Harbert Management Corp. – Washington County Power #1725.0005
+Sandersville/Georgia/USA 02/20
+2. General
+Washington County Station is a 688-MW four-unit peaking station consisting of four GE 7FA simple cycle peaking station. Units
+1 and 4 are dispatched by Energy Consulting Group (ECG) and Units 2 and 3 are dispatched by Georgia Power. All starting and shutdown functions are performed by operations personnel on-site. A two-hour minimum run time is in place for the units when called.
+The station began commercial operations in June of 2003. The units are rated at 172 MW each and are fired on natural gas only.
+No major changes have taken place since construction.
+The station is located on 403 acres near Sandersville, Georgia with good accessibility by road. No black starting capability.
+Cogentrix oversees the operations and maintenance of the station for Harbert Management Corporation. There are seven employees and three shared employees. The station is staffed 7am to 3pm Monday thru Friday. The units are started locally when called upon by dispatch. Operators are on site anytime a unit is in service. A two-hour minimum run is required when dispatched.
+Latitude 33.0913 Longitude -82.9806 Elevation 330’
+3. Recommendations
+No formal recommendations were made as a result of this assessment.
+4. Changes and Comments
+COMPLETED/REMOVED RECOMMENDATIONS
+This was the first visit by Global Risk Consultants.
+MAJOR CHANGES
+The combustion turbines are maintained based on factored starts as recommended by the OEM. Units 2 and 3 underwent combustion inspections in 2016, Units 1 and 4 are two to three years away from their first combustion inspections.
+In 2016 Units 2 and 3 received modified Package 2 compressor upgrades (new R0 and S0-S4).
+This site visit included a tour of the facility, the housekeeping and visual appearance of the station was excellent.
+The GADS data was not available.
+Overall Risk Engineering Opinion of Inherent Risk: The operations and maintenance of this facility is in line with comparable sites and industry best practices.
+OTHER COMMENTS AND PROJECTS
+New/Ongoing Projects: A project is in place to install flange guards on lubricating oil lines in 2020.
+2020 © Global Risk Consultants Corp. Page 4
+Harbert Management Corp. – Washington County Power #1725.0005
+Sandersville/Georgia/USA 02/20
+5. Loss History
+No losses were reported within the last five years.
+6. Underwriting Summary
+CONSTRUCTION
+All equipment (combustion turbines, transformers, LCI’s, PECC’s, etc.) are of standard construction. The main building is a single- story Butler type (metal) structure and includes offices, shop, control room and a storage area.
+7. Prime Movers
+Gas Turbines
+Manufacturer Unit 1 GE Unit 2 GE Unit 3 GE Unit 4 GE
+@@@ &gt; Manufacturer
+Model
+$$$
+
+@@@ &gt; Unit 1 GE
+7241FA+e
+$$$
+
+@@@ &gt; Unit 2 GE
+7241FA+e
+$$$
+
+@@@ &gt; Unit 3 GE
+7241FA+e
+$$$
+
+@@@ &gt; Unit 4 GE
+7241FA+e
+$$$
+
+@@@ &gt; Manufacturer
+Serial Number
+$$$
+
+@@@ &gt; Unit 1 GE
+298132
+$$$
+
+@@@ &gt; Unit 2 GE
+298133
+$$$
+
+@@@ &gt; Unit 3 GE
+298134
+$$$
+
+@@@ &gt; Unit 4 GE
+298135
+$$$
+
+@@@ &gt; Manufacturer
+Year Built
+$$$
+
+@@@ &gt; Unit 1 GE
+2002
+$$$
+
+@@@ &gt; Unit 2 GE
+2002
+$$$
+
+@@@ &gt; Unit 3 GE
+2002
+$$$
+
+@@@ &gt; Unit 4 GE
+2002
+$$$
+
+@@@ &gt; Manufacturer
+ISO Rating (kW)
+$$$
+
+@@@ &gt; Unit 1 GE
+172
+$$$
+
+@@@ &gt; Unit 2 GE
+172
+$$$
+
+@@@ &gt; Unit 3 GE
+172
+$$$
+
+@@@ &gt; Unit 4 GE
+172
+$$$
+
+@@@ &gt; Manufacturer
+Fuel
+$$$
+
+@@@ &gt; Unit 1 GE
+Gas
+$$$
+
+@@@ &gt; Unit 2 GE
+Gas
+$$$
+
+@@@ &gt; Unit 3 GE
+Gas
+$$$
+
+@@@ &gt; Unit 4 GE
+Gas
+$$$
+
+@@@ &gt; Manufacturer
+Compressor Stages
+$$$
+
+@@@ &gt; Unit 1 GE
+18
+$$$
+
+@@@ &gt; Unit 2 GE
+18
+$$$
+
+@@@ &gt; Unit 3 GE
+18
+$$$
+
+@@@ &gt; Unit 4 GE
+18
+$$$
+
+@@@ &gt; Manufacturer
+Combustor Type
+$$$
+
+@@@ &gt; Unit 1 GE
+Can/Annular
+$$$
+
+@@@ &gt; Unit 2 GE
+Can/Annular
+$$$
+
+@@@ &gt; Unit 3 GE
+Can/Annular
+$$$
+
+@@@ &gt; Unit 4 GE
+Can/Annular
+$$$
+
+@@@ &gt; Manufacturer
+Turbine Stages
+$$$
+
+@@@ &gt; Unit 1 GE
+3
+$$$
+
+@@@ &gt; Unit 2 GE
+3
+$$$
+
+@@@ &gt; Unit 3 GE
+3
+$$$
+
+@@@ &gt; Unit 4 GE
+3
+$$$
+
+@@@ &gt; Manufacturer
+Exhaust Temperature
+$$$
+
+@@@ &gt; Manufacturer
+Drive End
+$$$
+
+@@@ &gt; Unit 1 GE
+Front
+$$$
+
+@@@ &gt; Unit 2 GE
+Front
+$$$
+
+@@@ &gt; Unit 3 GE
+Front
+$$$
+
+@@@ &gt; Unit 4 GE
+Front
+$$$
+
+@@@ &gt; Manufacturer
+RPM
+$$$
+
+@@@ &gt; Unit 1 GE
+3600
+$$$
+
+@@@ &gt; Unit 2 GE
+3600
+$$$
+
+@@@ &gt; Unit 3 GE
+3600
+$$$
+
+@@@ &gt; Unit 4 GE
+3600
+$$$
+
+@@@ &gt; Manufacturer
+Combustion Dynamic
+$$$
+
+@@@ &gt; Manufacturer
+Monitoring Inlet Cooling
+$$$
+
+@@@ &gt; Unit 1 GE
+No Evap. Coolers*
+$$$
+
+@@@ &gt; Unit 2 GE
+No Evap. Coolers*
+$$$
+
+@@@ &gt; Unit 3 GE
+No Evap. Coolers*
+$$$
+
+@@@ &gt; Unit 4 GE
+No Evap. Coolers*
+$$$
+
+@@@ &gt; Manufacturer
+NOx Control
+$$$
+
+@@@ &gt; Unit 1 GE
+DKN
+$$$
+
+@@@ &gt; Unit 2 GE
+DKN
+$$$
+
+@@@ &gt; Unit 3 GE
+DKN
+$$$
+
+@@@ &gt; Unit 4 GE
+DKN
+$$$
+
+@@@ &gt; Manufacturer
+Power Augmentation (PAG)
+$$$
+
+@@@ &gt; Unit 1 GE
+No
+$$$
+
+@@@ &gt; Unit 2 GE
+No
+$$$
+
+@@@ &gt; Unit 3 GE
+No
+$$$
+
+@@@ &gt; Unit 4 GE
+No
+$$$
+
+@@@ &gt; Manufacturer
+*The evaporative coolers have not been in service for years.
+$$$
+
+The Combustion Turbines have the total following fired accumulative hours and total starts count. The hours are accumulative and based on fast load starts, fired starts and emergency trips. The trips are accumulative.
+@@@ &gt; Manufacturer
+Unit 1
+$$$
+
+@@@ &gt; Unit 1 GE
+Total Fired Hours 3034
+$$$
+
+@@@ &gt; Unit 3 GE
+Total Starts Count 330
+$$$
+
+@@@ &gt; Manufacturer
+2
+$$$
+
+@@@ &gt; Unit 1 GE
+4023
+$$$
+
+@@@ &gt; Unit 3 GE
+591
+$$$
+
+@@@ &gt; Manufacturer
+3
+$$$
+
+@@@ &gt; Unit 1 GE
+4099
+$$$
+
+@@@ &gt; Unit 3 GE
+562
+$$$
+
+@@@ &gt; Manufacturer
+4
+$$$
+
+@@@ &gt; Unit 1 GE
+2760
+$$$
+
+@@@ &gt; Unit 3 GE
+314
+$$$
+
+The units have 12KEL combustion hardware. Each gas turbine is provided with all required accessories and auxiliaries. Each unit has a packaged electrical and electronic control compartment (PEECC), GE Mark V control system hardware and software,
+@@@ &gt; Unit 2 GE
+2020 © Global Risk Consultants Corp. Page 5
+$$$
+
+Harbert Management Corp. – Washington County Power #1725.0005
+Sandersville/Georgia/USA 02/20 gas fuel compartment, lubricating oil compartment, and combustion compartment. NOX emissions when firing natural gas are controlled by dry low NOX combustors. The units are not under a LTSA.
+Turbine Protection: Gas turbine protection includes, but is not limited to, the following:
+? Vibration Monitoring: Alarm &amp; Trip
+? Overspeed Trip Protection: Electronic
+? Low Lube Oil Pressure: Trip
+? Loss of Flame: Trip
+? High Lube Oil Temperature: Alarm &amp; Trip
+? High Exhaust Temperature Spread: Trip
+? Axial Rotor Position: Trip
+? Exhaust Over Temperature: Trip
+Overspeed Protection: Overspeed protection is a triple redundant electronic system provided by the OEM. Overspeed protection is tested annually by simulating with a frequency generator.
+Lubrication System: The emergency lube oil pump is a permissive to start. The emergency lube oil pumps and emergency seal oil pumps and their pressure switches are tested annually.
+The DC lube oil pump functional timing test per TIL 1468-2 is performed annually.
+Technical Advisories: Received by the plant through the GE portal. A matrix for TIL disposition and tracking is in place. Most open TIL’s will be addressed at the next available inspection.
+Turbine Maintenance: The maintenance schedule is as dictated by the OEM. Combustion Inspections are scheduled at 450
+Factored Starts, Hot Gas Path Inspections at 900 Factored Starts, and Major Inspections at 1800 Factored Starts.
+In 2016 Units 2 and 3 received modified Package 2 compressor upgrades (new R0 and S0-S4) during the combustion inspection outages. Units 1 and 2 are to undergo the same outage scope in two to three years.
+The inspections for the combustion turbines:
+Unit 1 Borescope Last Next 3/2019 Spring 2020 CI Last Next HGP Last Next
+@@@ &gt; Unit 1
+2
+$$$
+
+@@@ &gt; Borescope Last Next 3/2019 Spring 2020
+3/2019 Spring 2020
+$$$
+
+@@@ &gt; CI Last Next
+Spring 2016
+$$$
+
+@@@ &gt; Unit 1
+3
+$$$
+
+@@@ &gt; Borescope Last Next 3/2019 Spring 2020
+3/2019 Spring 2020
+$$$
+
+@@@ &gt; CI Last Next
+Fall 2016
+$$$
+
+@@@ &gt; Unit 1
+4
+$$$
+
+@@@ &gt; Borescope Last Next 3/2019 Spring 2020
+3/2019 Spring 2020
+$$$
+
+The modified Package 2 improvements were completed by GE on Units 2 and 3 in 2016. The outage scope included; control system software modification to reduce IGV startup angle to 24 degrees, new R0 blades, replaced S0 – S4 stator vanes, performed a combustion inspection, borescope inspection and NDE as needed. The following TIL’s were addressed:
+1769 F Class Stator Rocking
+1858 Stage 2 Bucket Inspection
+1397-1R1 Combustion Forward Casing Inspection
+1502-2R2 Aft End Compressor Rubs
+1509-R3 S0 and R1 Inspection
+1638-R2 R0 and R1 Platform Inspection
+@@@ &gt; CI Last Next
+2020 © Global Risk Consultants Corp. Page 6
+$$$
+
+Harbert Management Corp. – Washington County Power #1725.0005
+Sandersville/Georgia/USA 02/20
+Borescope inspections are performed annually by Veracity. The inspections include the following OEM TIL’s;
+1907 Rotor Forward Shaft UT Inspection
+1796 R0 Axial Staking
+1562 S-0 through S-4 Stator Shim Migration
+1502-2 Aft Compressor Rubs
+1108-R1 1st Stage Nozzle Cracking
+1858/59 2nd Stage Bucket Tip Shroud Crack
+1582 Bearing Lift Oil Lines
+The most recent Veracity inspections are as follow;
+Unit 1 Spring 2019 2678 Total Hours 321 Total Starts No Urgent findings reported
+Unit 2 Spring 2019 3638 Total Hours 591 Total Starts No Urgent findings reported
+Unit 3 Spring 2019 3729 Total Hours 550 Total Starts No Urgent findings reported
+Unit 4 Spring 2019 2378 Total Hours 305 Total Starts No Urgent findings reported
+Flammable/Combustible Liquids: Flange guards are provided.
+Flue Gas Systems: Natural Gas
+NOX Control Systems: DLN
+8. Generators
+Generators
+Manufacturer Unit 1 GE Unit 2 GE Unit 3 GE Unit 4 GE
+@@@ &gt; Manufacturer
+Model
+$$$
+
+@@@ &gt; Unit 1 GE
+7FH2
+$$$
+
+@@@ &gt; Unit 2 GE
+7FH2
+$$$
+
+@@@ &gt; Unit 3 GE
+7FH2
+$$$
+
+@@@ &gt; Unit 4 GE
+7FH2
+$$$
+
+@@@ &gt; Manufacturer
+Serial #
+$$$
+
+@@@ &gt; Unit 1 GE
+--
+$$$
+
+@@@ &gt; Unit 2 GE
+337X282
+$$$
+
+@@@ &gt; Unit 3 GE
+--
+$$$
+
+@@@ &gt; Unit 4 GE
+--
+$$$
+
+@@@ &gt; Manufacturer
+Year Built
+$$$
+
+@@@ &gt; Unit 1 GE
+2002
+$$$
+
+@@@ &gt; Unit 2 GE
+2002
+$$$
+
+@@@ &gt; Unit 3 GE
+2002
+$$$
+
+@@@ &gt; Unit 4 GE
+2002
+$$$
+
+@@@ &gt; Manufacturer
+Rating (kW)
+$$$
+
+@@@ &gt; Unit 1 GE
+199,000
+$$$
+
+@@@ &gt; Unit 2 GE
+199,000
+$$$
+
+@@@ &gt; Unit 3 GE
+199,000
+$$$
+
+@@@ &gt; Unit 4 GE
+199,000
+$$$
+
+@@@ &gt; Manufacturer
+Rating (kVA)
+$$$
+
+@@@ &gt; Unit 1 GE
+234,600
+$$$
+
+@@@ &gt; Unit 2 GE
+234,600
+$$$
+
+@@@ &gt; Unit 3 GE
+234,600
+$$$
+
+@@@ &gt; Unit 4 GE
+234,600
+$$$
+
+@@@ &gt; Manufacturer
+Cooling
+$$$
+
+@@@ &gt; Unit 1 GE
+Hydrogen
+$$$
+
+@@@ &gt; Unit 2 GE
+Hydrogen
+$$$
+
+@@@ &gt; Unit 3 GE
+Hydrogen
+$$$
+
+@@@ &gt; Unit 4 GE
+Hydrogen
+$$$
+
+@@@ &gt; Manufacturer
+H2 Pressure
+$$$
+
+@@@ &gt; Unit 1 GE
+30
+$$$
+
+@@@ &gt; Unit 2 GE
+30
+$$$
+
+@@@ &gt; Unit 3 GE
+30
+$$$
+
+@@@ &gt; Unit 4 GE
+30
+$$$
+
+@@@ &gt; Manufacturer
+Power Factor
+$$$
+
+@@@ &gt; Unit 1 GE
+0.85
+$$$
+
+@@@ &gt; Unit 2 GE
+0.85
+$$$
+
+@@@ &gt; Unit 3 GE
+0.85
+$$$
+
+@@@ &gt; Unit 4 GE
+0.85
+$$$
+
+@@@ &gt; Manufacturer
+Stator Volts Stator Amps
+$$$
+
+@@@ &gt; Unit 1 GE
+18,000 7506
+$$$
+
+@@@ &gt; Unit 2 GE
+18,000 7506
+$$$
+
+@@@ &gt; Unit 3 GE
+18,000 7506
+$$$
+
+@@@ &gt; Unit 4 GE
+18,000 7506
+$$$
+
+@@@ &gt; Manufacturer
+Hertz
+$$$
+
+@@@ &gt; Unit 1 GE
+60
+$$$
+
+@@@ &gt; Unit 2 GE
+60
+$$$
+
+@@@ &gt; Unit 3 GE
+60
+$$$
+
+@@@ &gt; Unit 4 GE
+60
+$$$
+
+@@@ &gt; Manufacturer
+RPM
+$$$
+
+@@@ &gt; Unit 1 GE
+3600
+$$$
+
+@@@ &gt; Unit 2 GE
+3600
+$$$
+
+@@@ &gt; Unit 3 GE
+3600
+$$$
+
+@@@ &gt; Unit 4 GE
+3600
+$$$
+
+@@@ &gt; Manufacturer
+Field Amps
+$$$
+
+@@@ &gt; Unit 1 GE
+1668
+$$$
+
+@@@ &gt; Unit 2 GE
+1668
+$$$
+
+@@@ &gt; Unit 3 GE
+1668
+$$$
+
+@@@ &gt; Unit 4 GE
+1668
+$$$
+
+@@@ &gt; Manufacturer
+Field Volts
+$$$
+
+@@@ &gt; Unit 1 GE
+350
+$$$
+
+@@@ &gt; Unit 2 GE
+350
+$$$
+
+@@@ &gt; Unit 3 GE
+350
+$$$
+
+@@@ &gt; Unit 4 GE
+350
+$$$
+
+@@@ &gt; Manufacturer
+Retaining Rings
+$$$
+
+@@@ &gt; Unit 1 GE
+18Mn/18Cr
+$$$
+
+@@@ &gt; Unit 2 GE
+18Mn/18Cr
+$$$
+
+@@@ &gt; Unit 3 GE
+18Mn/18Cr
+$$$
+
+@@@ &gt; Unit 4 GE
+18Mn/18Cr
+$$$
+
+@@@ &gt; Manufacturer
+Global VPI
+$$$
+
+@@@ &gt; Unit 1 GE
+NA
+$$$
+
+@@@ &gt; Unit 2 GE
+NA
+$$$
+
+@@@ &gt; Unit 3 GE
+NA
+$$$
+
+@@@ &gt; Unit 4 GE
+NA
+$$$
+
+@@@ &gt; Manufacturer
+# of Poles
+$$$
+
+@@@ &gt; Unit 1 GE
+2
+$$$
+
+@@@ &gt; Unit 2 GE
+2
+$$$
+
+@@@ &gt; Unit 3 GE
+2
+$$$
+
+@@@ &gt; Unit 4 GE
+2
+$$$
+
+Load Commutator Invertors (LCI) are utilized for starting the combustion turbines. There is an LCI for Units 1&amp;2 and another for
+Units 3&amp;4. The LCI’s can be cross connected.
+@@@ &gt; Unit 2 GE
+2020 © Global Risk Consultants Corp. Page 7
+$$$
+
+Harbert Management Corp. – Washington County Power #1725.0005
+Sandersville/Georgia/USA 02/20
+Generator Protection: General Electric supplied the generator relay protection package; a SEL protection package is provided for backup.
+Maintenance: Generator maintenance has been limited. In 2016 the epoxy modification was completed on Units 2 and 3. In
+October 2017 Cogentrix performed electrical testing on all four units (stator – Megger, PI, Power Factor and winding Resistance,
+Field – Megger, PI, Impedance) and the RTD’s were tested. All test reports were satisfactory.
+Hydrogen: Hydrogen purity is maintained by bleed and replenish. The generators have hydrogen dryers, but they are not in service.
+Generator liquid detectors are functionally tested on six-month intervals.
+9. Transformers
+GSU Transformers
+Unit 1 Unit 2 Unit 3 Unit 4
+@@@ &gt; Manufacturer Serial #
+Manufacturer Serial #
+$$$
+
+@@@ &gt; GE Prolec G972-01
+GE Prolec G972-01
+$$$
+
+@@@ &gt; GE Prolec G972-02
+GE Prolec G972-02
+$$$
+
+@@@ &gt; GE Prolec G972-03
+GE Prolec G972-03
+$$$
+
+@@@ &gt; GE Prolec G972-04
+GE Prolec G972-04
+$$$
+
+@@@ &gt; Manufacturer Serial #
+Year Built
+$$$
+
+@@@ &gt; GE Prolec G972-01
+2002
+$$$
+
+@@@ &gt; GE Prolec G972-02
+2002
+$$$
+
+@@@ &gt; GE Prolec G972-03
+2002
+$$$
+
+@@@ &gt; GE Prolec G972-04
+2002
+$$$
+
+@@@ &gt; Manufacturer Serial #
+Rating (KVA)
+$$$
+
+@@@ &gt; GE Prolec G972-01
+234,000
+$$$
+
+@@@ &gt; GE Prolec G972-02
+234,000
+$$$
+
+@@@ &gt; GE Prolec G972-03
+234,000
+$$$
+
+@@@ &gt; GE Prolec G972-04
+234,000
+$$$
+
+@@@ &gt; Manufacturer Serial #
+Cooling
+$$$
+
+@@@ &gt; GE Prolec G972-01
+ONAN/ONAF/ONAF
+$$$
+
+@@@ &gt; GE Prolec G972-02
+ONAN/ONAF/ONAF
+$$$
+
+@@@ &gt; GE Prolec G972-03
+ONAN/ONAF/ONAF
+$$$
+
+@@@ &gt; GE Prolec G972-04
+ONAN/ONAF/ONAF
+$$$
+
+@@@ &gt; Manufacturer Serial #
+Temperature Rise (°C)
+$$$
+
+@@@ &gt; GE Prolec G972-01
+65
+$$$
+
+@@@ &gt; GE Prolec G972-02
+65
+$$$
+
+@@@ &gt; GE Prolec G972-03
+65
+$$$
+
+@@@ &gt; GE Prolec G972-04
+65
+$$$
+
+@@@ &gt; Manufacturer Serial #
+Low Voltage
+$$$
+
+@@@ &gt; GE Prolec G972-01
+18
+$$$
+
+@@@ &gt; GE Prolec G972-02
+18
+$$$
+
+@@@ &gt; GE Prolec G972-03
+18
+$$$
+
+@@@ &gt; GE Prolec G972-04
+18
+$$$
+
+@@@ &gt; Manufacturer Serial #
+High Voltage
+$$$
+
+@@@ &gt; GE Prolec G972-01
+230
+$$$
+
+@@@ &gt; GE Prolec G972-02
+230
+$$$
+
+@@@ &gt; GE Prolec G972-03
+230
+$$$
+
+@@@ &gt; GE Prolec G972-04
+230
+$$$
+
+@@@ &gt; Manufacturer Serial #
+Phase
+$$$
+
+@@@ &gt; GE Prolec G972-01
+3
+$$$
+
+@@@ &gt; GE Prolec G972-02
+3
+$$$
+
+@@@ &gt; GE Prolec G972-03
+3
+$$$
+
+@@@ &gt; GE Prolec G972-04
+3
+$$$
+
+@@@ &gt; Manufacturer Serial #
+Windings
+$$$
+
+@@@ &gt; GE Prolec G972-01
+Copper
+$$$
+
+@@@ &gt; GE Prolec G972-02
+Copper
+$$$
+
+@@@ &gt; GE Prolec G972-03
+Copper
+$$$
+
+@@@ &gt; GE Prolec G972-04
+Copper
+$$$
+
+@@@ &gt; Manufacturer Serial #
+Hertz
+$$$
+
+@@@ &gt; GE Prolec G972-01
+60
+$$$
+
+@@@ &gt; GE Prolec G972-02
+60
+$$$
+
+@@@ &gt; GE Prolec G972-03
+60
+$$$
+
+@@@ &gt; GE Prolec G972-04
+60
+$$$
+
+@@@ &gt; Manufacturer Serial #
+BIL (kV)
+$$$
+
+@@@ &gt; GE Prolec G972-01
+750
+$$$
+
+@@@ &gt; GE Prolec G972-02
+750
+$$$
+
+@@@ &gt; GE Prolec G972-03
+750
+$$$
+
+@@@ &gt; GE Prolec G972-04
+750
+$$$
+
+@@@ &gt; Manufacturer Serial #
+Impedance (%)
+$$$
+
+@@@ &gt; GE Prolec G972-01
+14.757
+$$$
+
+@@@ &gt; GE Prolec G972-02
+14.757
+$$$
+
+@@@ &gt; GE Prolec G972-03
+14.757
+$$$
+
+@@@ &gt; GE Prolec G972-04
+14.757
+$$$
+
+@@@ &gt; Manufacturer Serial #
+Preservation
+$$$
+
+@@@ &gt; GE Prolec G972-01
+Conservator
+$$$
+
+@@@ &gt; GE Prolec G972-02
+Conservator
+$$$
+
+@@@ &gt; GE Prolec G972-03
+Conservator
+$$$
+
+@@@ &gt; GE Prolec G972-04
+Conservator
+$$$
+
+@@@ &gt; Manufacturer Serial #
+Oil Quantity (gallons)
+$$$
+
+@@@ &gt; GE Prolec G972-01
+13,550
+$$$
+
+@@@ &gt; GE Prolec G972-02
+13,550
+$$$
+
+@@@ &gt; GE Prolec G972-03
+13,550
+$$$
+
+@@@ &gt; GE Prolec G972-04
+13,550
+$$$
+
+@@@ &gt; Manufacturer Serial #
+Form
+$$$
+
+@@@ &gt; GE Prolec G972-01
+Core
+$$$
+
+@@@ &gt; GE Prolec G972-02
+Core
+$$$
+
+@@@ &gt; GE Prolec G972-03
+Core
+$$$
+
+@@@ &gt; GE Prolec G972-04
+Core
+$$$
+
+@@@ &gt; Manufacturer Serial #
+Tap Changer
+$$$
+
+@@@ &gt; GE Prolec G972-01
+NLTC
+$$$
+
+@@@ &gt; GE Prolec G972-02
+NLTC
+$$$
+
+@@@ &gt; GE Prolec G972-03
+NLTC
+$$$
+
+@@@ &gt; GE Prolec G972-04
+NLTC
+$$$
+
+Unit Auxiliary / Starting / Standby Transformers
+@@@ &gt; GE Prolec G972-01
+Manufacturer
+$$$
+
+@@@ &gt; GE Prolec G972-02
+Unit 1-2 ABB
+$$$
+
+@@@ &gt; GE Prolec G972-03
+Unit 3-4 ABB
+$$$
+
+@@@ &gt; GE Prolec G972-01
+Serial #
+$$$
+
+@@@ &gt; GE Prolec G972-02
+11333227
+$$$
+
+@@@ &gt; GE Prolec G972-03
+11333226
+$$$
+
+@@@ &gt; GE Prolec G972-01
+Year Built
+$$$
+
+@@@ &gt; GE Prolec G972-02
+2002
+$$$
+
+@@@ &gt; GE Prolec G972-03
+2002
+$$$
+
+@@@ &gt; GE Prolec G972-01
+Rating (KVA)
+$$$
+
+@@@ &gt; GE Prolec G972-02
+25,000
+$$$
+
+@@@ &gt; GE Prolec G972-03
+25,000
+$$$
+
+@@@ &gt; GE Prolec G972-01
+Cooling
+$$$
+
+@@@ &gt; GE Prolec G972-02
+ONAN/ONAF/ONAF
+$$$
+
+@@@ &gt; GE Prolec G972-03
+ONAN/ONAF/ONAF
+$$$
+
+@@@ &gt; GE Prolec G972-01
+Temperature Rise (°C)
+$$$
+
+@@@ &gt; GE Prolec G972-02
+65
+$$$
+
+@@@ &gt; GE Prolec G972-03
+65
+$$$
+
+@@@ &gt; GE Prolec G972-01
+Low Voltage
+$$$
+
+@@@ &gt; GE Prolec G972-02
+4.160
+$$$
+
+@@@ &gt; GE Prolec G972-03
+4.160
+$$$
+
+@@@ &gt; GE Prolec G972-01
+High Voltage
+$$$
+
+@@@ &gt; GE Prolec G972-02
+230,000
+$$$
+
+@@@ &gt; GE Prolec G972-03
+230,000
+$$$
+
+@@@ &gt; GE Prolec G972-01
+Phase
+$$$
+
+@@@ &gt; GE Prolec G972-02
+3
+$$$
+
+@@@ &gt; GE Prolec G972-03
+3
+$$$
+
+@@@ &gt; GE Prolec G972-01
+Windings
+$$$
+
+@@@ &gt; GE Prolec G972-02
+Copper
+$$$
+
+@@@ &gt; GE Prolec G972-03
+Copper
+$$$
+
+@@@ &gt; GE Prolec G972-02
+2020 © Global Risk Consultants Corp. Page 8
+$$$
+
+Harbert Management Corp. – Washington County Power #1725.0005
+Sandersville/Georgia/USA 02/20
+Hertz BIL (kV) 60 900 60 900
+Impedance (%) 7.6 7.6
+Preservation Conservator Conservator
+Altitude
+Oil Quantity (gallons) Form 5,100 Core 5,100 Core
+Tap Changer NLTC NLTC
+Barrier walls are provided between adjacent transformers.
+Transformer Protection: Transformer protection includes, but is not limited to, the following:
+? Buchholz Relay
+? Sudden Pressure Relay
+? Pressure Relief Device
+? Protective Relaying
+Maintenance: Transformer oil testing is performed on six-month intervals. SD Myers performs the following tests; Liquid Screen,
+Inhibitor Content, Liquid Power Factor, Karl Fisher, Furan Analysis and DGA. The most recent test results were dated August
+2019. All of the GSU’s and Station Service transformers have elevated Carbon Monoxide:
+GSU 1 – Acceptable results, Total Combustible Gas was 1121ppm (of that 1098ppm was Carbon Monoxide, consistent trend)
+GSU 2 – Acceptable results, Total Combustible Gas was 845ppm (of that 819ppm was Carbon Monoxide, consistent trend)
+GSU 3 -- Acceptable results, Total Combustible Gas was 1452ppm (of that 1090ppm was Carbon Monoxide, consistent trend),
+Methane is elevated 311ppm, consistent trend.
+GSU 4 – Acceptable results, Total Combustible Gas was 1484ppm (of that 1454ppm was Carbon Monoxide, slowly increasing trend)
+Station Service 1-2 – Acceptable results, Total Combustible Gas was 1059ppm (of that 1053ppm was Carbon Monoxide, consistent trend)
+Station Service 3-4 - Acceptable results, Total Combustible Gas was 745ppm (of that 739ppm was Carbon Monoxide, consistent trend)
+Testing for corrosive sulfur was performed in 2017, all were classified as non-corrosive.
+Transformer electrical testing is performed by Phoenix Engineering on five-year intervals. The most recent testing was performed in March 2018. Testing includes; Power Factor, Bushing Test (C1, C2, Hot Collar), Insulation Resistance, Excitation Current Test,
+TTR, and Winding Resistance. A visual inspection, controls testing and functional testing of the Buchholz Relay is also performed.
+Test reports were provided, all units were found acceptable for continued service.
+10. Balance of Plant
+Fuel Handling/Storage Information: Natural gas is the only fuel used; gas is received from a 16”/18” Southern Natural Gas
+Transmission pipeline. Pressure is reduced from 1200psig to 400psig. A manual shutoff is provided on the plant side. The gas supplier has a remote operated isolation valve on their side.
+2020 © Global Risk Consultants Corp. Page 9
+Harbert Management Corp. – Washington County Power #1725.0005
+Sandersville/Georgia/USA 02/20
+Pressure Vessel Inspection: Pressure relief valves on the natural gas system are tested on three-year intervals.
+Electrical Distribution System: The 4160 gear and the vacuum breakers are inspected annually; testing is on three to five year intervals.
+Relays: Transformer and generator protective relays are microprocessor type; the last inspection and testing was performed by
+Phoenix Engineering in the fall of 2016. Test interval is five years.
+Station Batteries: The CT and relay house batteries are flooded lead acid batteries. The electrical building batteries are VRLA.
+Capacity testing was last performed in March 2019 with the following results; CT1 – 106.4%, CT2 – 107.1%, CT3 – 106.6%, CT4
+– 105.9% and relay house – 105.9%. VRLA capacity test results, Electrical Building 0001 – 109.9%, Electrical Building 0002 –
+112.5% (several VRLA cell failed and are being replaced). Capacity testing is performed on five-year intervals for the flooded lead acid batteries and every two years on the VRLA batteries. Monthly and quarterly inspection and testing is performed by plant personnel, annual inspection and testing (6/2019) is performed by a contractor (annual testing includes cell voltage, internal resistance, intercell connection resistance, and specific gravity on the flooded batteries)
+Water Systems: Two wells provide water to the 530,000 gallon above ground storage tank (175,000 gallons is reserved for fire protection). The water tank was internally and externally inspected in 2011 (a robotic inspection is planned in 2020).
+Compressed Air Systems: There are two Atlas Copco screw type compressors, either will provide 100% of the plants compressed air needs. Each unit also has a dryer provided.
+Emergency Power: A 350Kw diesel generator is installed and is capable of supplying lighting and the battery chargers in the event of a loss of station service.
+11. Operations and Maintenance Programs
+Operating Procedures: Operating procedures (checklist type) are utilized for critical functions including startup and shutdown.
+The procedures are required use. The procedures are reviewed periodically. Operators have the authority to trip.
+Operator Training: Cogentrix has a training matrix for operations and maintenance. Both utilize GPI Learn from General Physics.
+Additional training has been provided for control systems (Mark V and Allen Bradley) as well as major systems (GE training).
+Monthly and quarterly operation training is provided, and monthly operations meetings are conducted.
+Management of Change: A plant design change procedure is in place.
+Control Systems: Controls are Mark V, Simplicity and a Allen Bradley PLC system. The servers were upgraded to Windows 10 in 2019.
+Maintenance: There are five Operation/Maintenance Technicians, a compliance specialist, O&amp;M Manager for Washington. The
+General Manager, Engineer and Purchasing positions are shared with other sites.
+Cogentrix has corporate resources for combustion turbines, generators, transformers etc.
+The station currently utilizes PeopleSoft CMMS, they are planning to transition to Maximo in 2020.
+Freeze Protection: Heat tracing is in place for freeze protection.
+Predictive Maintenance Technologies:
+? Vibration monitoring (for diagnostic purposes) – contracted service performed on six-month intervals
+? Lubricating oil &amp; Hydraulic fluid – performed quarterly
+2020 © Global Risk Consultants Corp. Page 10
+Harbert Management Corp. – Washington County Power #1725.0005
+Sandersville/Georgia/USA 02/20
+? Infrared thermography – performed annually
+? Laser Alignment - contracted
+? Balancing – generally contracted for major systems
+? Motor Testing – as needed
+Unmanned Aviation Systems and Unmanned Submersibles: Not utilized.
+Industrial IT Systems: Cyber security measures are in place with fire walls and an air gap to the control systems.
+12. Fire Protection Features
+Automatic Sprinklers:
+The following table provides information on the sprinkler systems installed at this facility.
+Fire Sprinkler Systems Data
+Syst. Designed/Existing Required Base of Riser Demand Sprinkler No. Area Protected Density/Area Density/Area Flow Pressure Temp. Rating (gpm/ft2) (gpm/ft2) (gpm) (psi) (°F)
+Administration Building 1 (control room &amp; warehouse)
+2 Service Building
+3 Fire pump room
+Special Extinguishing Systems: The combustion turbines and their accessory compartments are protected with low pressure
+CO2 fire suppression systems. Inspections are performed weekly and monthly. The heat detectors are tested annually, and a puff test is performed annually. A concentration test is not performed.
+The combustion turbine PEECC’s have FM200 fire suppression systems.
+Water Supply, Water Mains, and Fire Hydrants: A private fire protection water supply is provided. Water for fire protection is from the 530,000-gallon service water tank, with 175,000 gallons reserved for fire protection use. There are two fire pumps that take suction from the service water tank. Each pump is rated for 1,000 gpm. One pump is electric motor driven and the other is diesel engine driven.
+Alarm Systems: Inspected during rounds by operators. Checked annually by a contractor.
+Security Measures: Site is fenced, cameras installed, and the buildings are alarmed.
+Manual Protection: Fire extinguishers are provided for the site.
+13. Management Programs
+Plant Emergency Organization: Incipient only.
+Fire Protection Self-Inspections: Monthly inspection program consisting of visual inspections of PIV’s, extinguishers, alarm panel, CO2 systems and FM 200 systems. Contractor performs annual inspection.
+Fire pumps are operated weekly and capacity tested annually.
+2020 © Global Risk Consultants Corp. Page 11
+Harbert Management Corp. – Washington County Power #1725.0005
+Sandersville/Georgia/USA 02/20
+Impairment Handling: Impairments are recorded and reported to Factory Mutual.
+Ignition Source Control: Flammable liquids are controlled. Visual inspections are performed daily for any oil leaks. A hot work permit system is in place.
+Housekeeping: Housekeeping is excellent.
+Contractor Management: Orientation upon contractor arrival.
+14. Public Protection
+Public protection is by VFD (closest) and Sandersville Fire Department (paid department approximately 19 miles from plant).
+15. Natural Hazard and Other Exposures/Perils
+Flood: The facility is located in Flood Zone X according to FIRM No. 13303 C 0125C, dated July 22, 2010. A Zone X is defined as an “area of minimal flood hazard”.
+A Flood Zone A is located southwest of the site and not expected to impact operations.
+2020 © Global Risk Consultants Corp. Page 12
+Harbert Management Corp. – Washington County Power #1725.0005
+Sandersville/Georgia/USA 02/20
+Windstorm: Per FM Global Data Sheet 1-28, this region is subject to 90 mph wind speeds at 33 feet above the ground.
+Swiss Re CatNet® indicates a maximum 50-year peak gust speed up to 30 m/s.
+2020 © Global Risk Consultants Corp. Page 13
+Harbert Management Corp. – Washington County Power #1725.0005
+Sandersville/Georgia/USA 02/20
+Earthquake: Per FM Global Data Sheet 1-2, this region is located in EQ Zone &gt;500. A potentially damaging earthquake can be expected on a greater than 500 year return interval.
+Swiss Re CatNet® indicates the site is located in an area with a very low seismic risk.
+Mud Slides: No exposure.
+Tsunami: No exposure.
+Volcano: No exposure.
+Wild Fire: Swiss Re CatNet® indicates the site is located in an area with a very low wild fire risk.
+Other Exposures: None noted.
+16. Contingency Programs and Critical Spares
+Routine maintenance spares are generally kept on site. No major spares reported. No contingency plan reported for GSU transformers.
+2020 © Global Risk Consultants Corp. Page 14
+Harbert Management Corp. – Washington County Power #1725.0005
+Sandersville/Georgia/USA 02/20
+17. Loss Estimates
+(All Values in US Currency)
+PROPERTY DAMAGE: $278,554,442
+BUSINESS INTERRUPTION: (12 MONTHS) $38,400,000
+TOTAL P.D. &amp; B.I.: $316,954,412
+FIRE LOSS ESTIMATES
+ANTICIPATED PROBABLE LOSS:
+P.D. $4,400,000 B.I. $1,600,000 Total $6,000,200
+The Anticipated Probable Loss estimate assumes all fire protection systems work as designed and emergency response personnel (both site PEO and public agencies) act in accordance with existing plans. Under these circumstances, the worst-case loss would involve a fire inside one of the combustion turbine enclosures fed by a leak in the lubricating oil supply piping or natural gas. The fire would be controlled and limited by the CO2 system. Fire damaged parts would need to be replaced, and the combustion turbine generator would need to be pulled apart so the rotor could be examined for possible loss of strength and material embrittlement. P.D. is estimated at 10% of the estimated $43,600,000 replacement cost of approximately $4,400,000.
+BI would be estimated as 60 days until repairs and inspections could be performed. The facility would remain in operation with the remaining three units.
+BI is calculated as:
+$38,400,000 /12 months/4units = $800,000 per month (rounded)
+1 unit x 2 months = $1,600,000
+PROBABLE MAXIMUM LOSS:
+P.D. $46,600,000 B.I. $9,600,000 Total $56,200,000
+The Probable Maximum Loss estimate assumes a single fire protection system is out of service at the time of the incident and emergency response personnel (both site PEO and public agencies) act in accordance with existing plans, given potentially delayed notification due to the failure of the fire protection system. Under these circumstances, the worst case loss would involve a major fire in a combustion turbine generator which would most likely be a lubricating oil supply fire. Therefore, the fire would get out of control resulting in destruction of the combustion turbine with some periphery damage to surrounding equipment.
+Separation distance is adequate to prevent the fire spread to any other units. Fire department response is not considered except for exposure protection due to the potential for an explosion in the combustion turbine.
+The PD loss is estimated at $ 43,600,000 for rebuild of one combustion turbine and another $3,000,000 for periphery damage to surrounding equipment for a total PD estimate of $46,600,000.
+It is estimated to take 12 months to replace the combustion turbine generator, as extended repairs would be required as the above scenario would also take out the mechanical package of the combustion turbine. During the 12 months, 25% of production would be lost, resulting in an estimated BI loss of $9,600,000.
+2020 © Global Risk Consultants Corp. Page 15
+Harbert Management Corp. – Washington County Power #1725.0005
+Sandersville/Georgia/USA 02/20
+MAXIMUM FORESEEABLE LOSS:
+P.D. $46,600,000 B.I. $9,600,000 Total $56,200,000
+The Maximum Foreseeable Loss estimate assumes complete failure of all active fire suppression systems and ineffective response from the site PEO and public agencies. Under these circumstances, the worst-case loss would involve the same scenario as the PML due to good spatial separation.
+MAXIMUM FORESEEABLE LOSS – 100 YEAR FLOOD / EARTHQUAKE EXPOSURE:
+Flood Estimate: $0 Earthquake Estimate: $0
+Flood: The site is in an area of minimal flood exposure and no flood loss would be expected.
+Earthquake: The site is in an area of low seismic risk and no earthquake loss would be expected.
+BOILER MACHINERY LOSS ESTIMATES
+PROBABLE MAXIMUM LOSS
+P.D. $15,000,000 B.I. $4,800,000 Total 19,800,000
+The Probable Maximum Loss (PML) represents the maximum amount of sudden or accidental loss to an object that is likely to occur.
+The event chosen would be the failure of an R-0 compressor blade resulting in significant damage to the compressor stationary and rotating blades.
+The Business Interruption value would be (0.50 year) ($38,400,000) (25%) or approximately $4,800,000.
+MAXIMUM FORESEEABLE LOSS
+P.D. $43,602,000 B.I. $9,600,000 Total $53,202,000
+The Maximum Foreseeable Loss (MFL) is based on the maximum amount of sudden or accidental loss that can occur to an object without any credit to spare equipment or any expediting efforts which might reduce the loss.
+The event chosen would be an overspeed event of the turbine resulting in the destruction of the turbine and generator. The damage would require the unit to be replaced.
+The Business Interruption value would be (12/12) ($38,400,000) (25%) or approximately $9,600,000.
+2020 © Global Risk Consultants Corp. Page 16
+Partner with us today www.tuvsud.com/grc contact-grc@tuvsud.com
+TÜV SÜD AG Global Risk Consultants Corp.
+Westendstr. 199 100 Walnut Ave., Suite 501
+80686 Munich Clark, New Jersey 07066
+Germany United States
+Tel: +49 89 5791-0 Tel: +1 732 827 4400
+Email: info@tuev-sued.de www.tuv-sud.com
+2020 © Global Risk Consultants Corp. Page 17</text><riskFactors><entry><key>RF001</key><value name="RF001" value="E"><sentences><s riskFactorValue="G" begin="23227" end="23300"><text>Maintenance: Transformer oil testing is performed on six-month intervals.</text><operands><op begin="23240" end="23251"><text>Transformer</text></op><op begin="23256" end="23263"><text>testing</text></op><op begin="23267" end="23276"><text>performed</text></op></operands></s><s riskFactorValue="E" begin="24443" end="24533"><text>Transformer electrical testing is performed by Phoenix Engineering on five-year intervals.</text><operands><op begin="24443" end="24454"><text>Transformer</text></op><op begin="24455" end="24465"><text>electrical</text></op><op begin="24466" end="24473"><text>testing</text></op><op begin="24466" end="24473"><text>testing</text></op><op begin="24518" end="24522"><text>year</text></op><op begin="24518" end="24522"><text>year</text></op></operands></s><s riskFactorValue="E" begin="25496" end="25633"><text>Electrical Distribution System: The 4160 gear and the vacuum breakers are inspected annually; testing is on three to five year intervals.</text><operands><op begin="25496" end="25506"><text>Electrical</text></op><op begin="25570" end="25579"><text>inspected</text></op><op begin="25580" end="25588"><text>annually</text></op><op begin="25590" end="25597"><text>testing</text></op><op begin="25618" end="25622"><text>year</text></op></operands></s><s riskFactorValue="E" begin="28883" end="28927"><text>? Infrared thermography – performed annually</text><operands><op begin="28885" end="28893"><text>Infrared</text></op><op begin="28894" end="28906"><text>thermography</text></op><op begin="28909" end="28918"><text>performed</text></op><op begin="28919" end="28927"><text>annually</text></op></operands></s></sentences></value></entry><entry><key>RF002</key><value name="RF002" value="G"><sentences><s riskFactorValue="G" begin="31348" end="31385"><text>A hot work permit system is in place.</text><operands><op begin="31350" end="31358"><text>hot work</text></op><op begin="31359" end="31365"><text>permit</text></op><op begin="31376" end="31384"><text>in place</text></op></operands></s></sentences></value></entry><entry><key>RF003</key><value name="RF003" value="G"><sentences><s riskFactorValue="X" begin="7687" end="7789"><text>New/Ongoing Projects: A project is in place to install flange guards on lubricating oil lines in 2020.</text><operands><op begin="7687" end="7707"><text>New/Ongoing Projects</text></op><op begin="7771" end="7774"><text>oil</text></op></operands></s><s riskFactorValue="G" begin="11474" end="11553"><text>NOX emissions when firing natural gas are controlled by dry low NOX combustors.</text><operands><op begin="11500" end="11511"><text>natural gas</text></op><op begin="11512" end="11515"><text>are</text></op><op begin="11516" end="11526"><text>controlled</text></op></operands></s><s riskFactorValue="G" begin="31231" end="31289"><text>Ignition Source Control: Flammable liquids are controlled.</text><operands><op begin="31256" end="31273"><text>Flammable liquids</text></op><op begin="31256" end="31273"><text>Flammable liquids</text></op><op begin="31274" end="31277"><text>are</text></op><op begin="31278" end="31288"><text>controlled</text></op></operands></s><s riskFactorValue="E" begin="31290" end="31347"><text>Visual inspections are performed daily for any oil leaks.</text><operands><op begin="31333" end="31336"><text>any</text></op><op begin="31337" end="31340"><text>oil</text></op><op begin="31341" end="31346"><text>leaks</text></op></operands></s><s riskFactorValue="E" begin="31386" end="31426"><text>Housekeeping: Housekeeping is excellent.</text><operands><op begin="31386" end="31398"><text>Housekeeping</text></op><op begin="31400" end="31412"><text>Housekeeping</text></op><op begin="31416" end="31425"><text>excellent</text></op></operands></s></sentences></value></entry><entry><key>RF004</key><value name="RF004" value="E"><sentences><s riskFactorValue="G" begin="14192" end="14249"><text>Borescope inspections are performed annually by Veracity.</text><operands><op begin="14202" end="14213"><text>inspections</text></op><op begin="14228" end="14236"><text>annually</text></op></operands></s><s riskFactorValue="G" begin="26398" end="26683"><text>Monthly and quarterly inspection and testing is performed by plant personnel, annual inspection and testing (6/2019) is performed by a contractor (annual testing includes cell voltage, internal resistance, intercell connection resistance, and specific gravity on the flooded batteries)</text><operands><op begin="26398" end="26405"><text>Monthly</text></op><op begin="26410" end="26419"><text>quarterly</text></op><op begin="26420" end="26430"><text>inspection</text></op><op begin="26476" end="26482"><text>annual</text></op><op begin="26483" end="26493"><text>inspection</text></op></operands></s><s riskFactorValue="E" begin="30751" end="30914"><text>Fire Protection Self-Inspections: Monthly inspection program consisting of visual inspections of PIV’s, extinguishers, alarm panel, CO2 systems and FM 200 systems.</text><operands><op begin="30785" end="30792"><text>Monthly</text></op><op begin="30826" end="30844"><text>visual inspections</text></op><op begin="30855" end="30868"><text>extinguishers</text></op></operands></s><s riskFactorValue="G" begin="30751" end="30914"><text>Fire Protection Self-Inspections: Monthly inspection program consisting of visual inspections of PIV’s, extinguishers, alarm panel, CO2 systems and FM 200 systems.</text><operands><op begin="30751" end="30766"><text>Fire Protection</text></op><op begin="30772" end="30783"><text>Inspections</text></op><op begin="30785" end="30792"><text>Monthly</text></op><op begin="30793" end="30803"><text>inspection</text></op><op begin="30804" end="30811"><text>program</text></op><op begin="30833" end="30844"><text>inspections</text></op><op begin="30855" end="30868"><text>extinguishers</text></op></operands></s><s riskFactorValue="G" begin="30915" end="30953"><text>Contractor performs annual inspection.</text><operands><op begin="30935" end="30941"><text>annual</text></op><op begin="30942" end="30952"><text>inspection</text></op></operands></s><s riskFactorValue="G" begin="30954" end="31014"><text>Fire pumps are operated weekly and capacity tested annually.</text><operands><op begin="30954" end="30964"><text>Fire pumps</text></op><op begin="30998" end="31004"><text>tested</text></op><op begin="31005" end="31013"><text>annually</text></op></operands></s></sentences></value></entry><entry><key>RF005</key><value name="RF005" value="E"><sentences><s riskFactorValue="E" begin="5267" end="5437"><text>The primary focus of this visit centered on critical and auxiliary equipment for the generating units and utility services and preventive/predictive maintenance programs.</text><operands><op begin="5405" end="5427"><text>predictive maintenance</text></op></operands></s><s riskFactorValue="G" begin="5267" end="5437"><text>The primary focus of this visit centered on critical and auxiliary equipment for the generating units and utility services and preventive/predictive maintenance programs.</text><operands><op begin="5381" end="5389"><text>services</text></op><op begin="5394" end="5404"><text>preventive</text></op></operands></s><s riskFactorValue="G" begin="12589" end="12661"><text>Turbine Maintenance: The maintenance schedule is as dictated by the OEM.</text><operands><op begin="12597" end="12608"><text>Maintenance</text></op><op begin="12614" end="12625"><text>maintenance</text></op><op begin="12626" end="12634"><text>schedule</text></op></operands></s><s riskFactorValue="G" begin="12662" end="12705"><text>Combustion Inspections are scheduled at 450</text><operands><op begin="12673" end="12684"><text>Inspections</text></op><op begin="12689" end="12698"><text>scheduled</text></op></operands></s><s riskFactorValue="G" begin="12706" end="12818"><text>Factored Starts, Hot Gas Path Inspections at 900 Factored Starts, and Major Inspections at 1800 Factored Starts.</text><operands><op begin="12723" end="12726"><text>Hot</text></op><op begin="12736" end="12747"><text>Inspections</text></op></operands></s><s riskFactorValue="E" begin="28381" end="28479"><text>The station currently utilizes PeopleSoft CMMS, they are planning to transition to Maximo in 2020.</text><operands><op begin="28423" end="28427"><text>CMMS</text></op></operands></s><s riskFactorValue="E" begin="28547" end="28583"><text>Predictive Maintenance Technologies:</text><operands><op begin="28547" end="28569"><text>Predictive Maintenance</text></op></operands></s><s riskFactorValue="G" begin="28584" end="28686"><text>? Vibration monitoring (for diagnostic purposes) – contracted service performed on six-month intervals</text><operands><op begin="28646" end="28653"><text>service</text></op><op begin="28671" end="28676"><text>month</text></op><op begin="28677" end="28686"><text>intervals</text></op></operands></s></sentences></value></entry><entry><key>RF006</key><value name="RF006" value="G"><sentences><s riskFactorValue="G" begin="29273" end="29366"><text>The following table provides information on the sprinkler systems installed at this facility.</text><operands><op begin="29293" end="29301"><text>provides</text></op><op begin="29321" end="29330"><text>sprinkler</text></op></operands></s></sentences></value></entry><entry><key>RF007</key><value name="RF007" value="G"><sentences><s riskFactorValue="G" begin="30705" end="30750"><text>Plant Emergency Organization: Incipient only.</text><operands><op begin="30711" end="30720"><text>Emergency</text></op><op begin="30721" end="30733"><text>Organization</text></op><op begin="30745" end="30749"><text>only</text></op></operands></s><s riskFactorValue="G" begin="31427" end="31632"><text>Contractor Management: Orientation upon contractor arrival.
+14. Public Protection
+Public protection is by VFD (closest) and Sandersville Fire Department (paid department approximately 19 miles from plant).</text><operands><op begin="31564" end="31579"><text>Fire Department</text></op><op begin="31611" end="31613"><text>19</text></op><op begin="31614" end="31619"><text>miles</text></op><op begin="31620" end="31624"><text>from</text></op></operands></s></sentences></value></entry><entry><key>RF008</key><value name="RF008" value="F"><sentences><s riskFactorValue="G" begin="31679" end="31783"><text>Flood: The facility is located in Flood Zone X according to FIRM No. 13303 C 0125C, dated July 22, 2010.</text><operands><op begin="31713" end="31723"><text>Flood Zone</text></op><op begin="31724" end="31725"><text>X</text></op></operands></s><s riskFactorValue="F" begin="32067" end="32182"><text>Windstorm: Per FM Global Data Sheet 1-28, this region is subject to 90 mph wind speeds at 33 feet above the ground.</text><operands><op begin="32124" end="32134"><text>subject to</text></op><op begin="32142" end="32146"><text>wind</text></op></operands></s><s riskFactorValue="F" begin="32478" end="32571"><text>A potentially damaging earthquake can be expected on a greater than 500 year return interval.</text><operands><op begin="32501" end="32511"><text>earthquake</text></op><op begin="32519" end="32527"><text>expected</text></op></operands></s></sentences></value></entry><entry><key>RF009</key><value name="RF009" value="U"><sentences/></value></entry><entry><key>RF010</key><value name="RF010" value="E"><sentences><s riskFactorValue="E" begin="30531" end="30615"><text>Security Measures: Site is fenced, cameras installed, and the buildings are alarmed.</text><operands><op begin="30555" end="30557"><text>is</text></op><op begin="30558" end="30564"><text>fenced</text></op></operands></s><s riskFactorValue="G" begin="30531" end="30615"><text>Security Measures: Site is fenced, cameras installed, and the buildings are alarmed.</text><operands><op begin="30550" end="30554"><text>Site</text></op><op begin="30555" end="30557"><text>is</text></op><op begin="30558" end="30564"><text>fenced</text></op><op begin="30574" end="30583"><text>installed</text></op></operands></s></sentences></value></entry><entry><key>RF011</key><value name="RF011" value="U"><sentences/></value></entry><entry><key>RF012</key><value name="RF012" value="U"><sentences/></value></entry></riskFactors><parameters/><attributes><a name="PROVINCE" begin="150" end="157"><text>Georgia</text></a><a name="INSURED_NAME" begin="95" end="125"><text>Harbert Management Corporation</text></a><a name="COUNTRY" begin="243" end="246"><text>United States of America</text></a><a name="LATITUDE" begin="6773" end="6780"><text>33.0913</text></a><a name="LONGITUDE" begin="6791" end="6799"><text>-82.9806</text></a><a name="CITY" begin="220" end="241"><text>Sandersville</text></a><a name="STREET" begin="198" end="219"><text>1177 County Line Road</text></a><a name="SURVEY_DATE_WEAK" begin="284" end="301"><text>20200220</text></a><a name="SURVEY_DATE" begin="284" end="301"><text>20200220</text></a><a name="AS_Presence" begin="0" end="1"><text>No</text></a></attributes></riskFactorAnalysis>

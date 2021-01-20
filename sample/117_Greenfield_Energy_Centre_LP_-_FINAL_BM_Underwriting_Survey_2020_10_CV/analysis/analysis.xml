@@ -1,0 +1,1247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><riskFactorAnalysis><text>POWER GENERATION
+MACHINERY UNDERWRITING
+SURVEY
+Prepared for:
+Greenfield Energy Centre, LP
+Greenfield Energy Centre
+140 Bickford Line
+Courtright, Ontario Canada NON 1 HO
+October 7, 2020
+Attention:
+Sheldon McCaman
+Underwriting Officer
+Julian Zizak
+Senior Account Engineer
+Prepared by:
+Ian Cowen
+Senior Machinery Engineer
+Loss Control Property Operations
+1 Meadowlands Plaza
+East Rutherford, New Jersey 07073
+Email: iancowen@aegislimited.com
+A-10092
+?
+AEGIS and the AEGIS logo are registered trademarks of Associated Electric &amp; Gas Insurance Services Limited Solutions for Success
+Table of Contents
+Scope ...................................................................................................................................................... 1
+Executive Summary ............................................................................................................................... 2
+Risk Reduction Suggestions ................................................................................................................. 4
+General Plant Information ..................................................................................................................... 6
+Risk Characteristics Ratings ................................................................................................................. 8
+Major Equipment .................................................................................................................................... 9
+Boilers/HRSGs ............................................................................................................................. 9
+Steam Turbines .......................................................................................................................... 11
+Combustion Turbines ................................................................................................................. 16
+Generators ................................................................................................................................. 24
+Transformers .............................................................................................................................. 30
+Major Systems ..................................................................................................................................... 33
+High Energy Piping ..................................................................................................................... 33
+Feedwater and Condensate ....................................................................................................... 33
+Water Treatment ........................................................................................................................ 33
+Operations ............................................................................................................................................ 34
+Control Room Review................................................................................................................. 34
+Operating Procedures ................................................................................................................ 34
+Operator Training ....................................................................................................................... 34
+Operational Testing .................................................................................................................... 34
+Maintenance ......................................................................................................................................... 35
+Maintenance Management ......................................................................................................... 35
+Maintenance Training ................................................................................................................. 35
+Predictive Maintenance (PdM) .................................................................................................... 35
+Pressure Vessels ....................................................................................................................... 36
+Auxiliary Safety Valve Maintenance ............................................................................................ 36
+Electrical Maintenance ............................................................................................................... 36
+Emergency Battery ..................................................................................................................... 36
+Loss History ......................................................................................................................................... 37
+Loss Estimates .................................................................................................................................... 38
+Probable Maximum Loss (PML) ................................................................................................. 38
+Maximum Foreseeable Loss (MFL) ............................................................................................ 38
+AEGIS Insurance Services, Inc. i Greenfield Energy Centre LP
+Machinery Underwriting Survey Greenfield Energy Centre
+Scope
+The intent of this Machinery Underwriting Survey is to evaluate the critical plant equipment located at this facility with regard to operations and maintenance. Evaluations are risk-based with emphasis on the human element aspects of the loss control programs.
+It is understood that each facility has its own specific conditions that characterize its design and operating procedures. Generally, national and industry recognized standards are the basis for the evaluation and suggestions. This is not to preclude a professional’s qualified judgment when evaluating the adequacy of existing programs.
+Conferred With
+Mr. Lorne Reddy Plant Manager, Ethos
+Mr. Chris Cioni Loss Control Manager, Calpine
+Mr. Brad Diebert Vice President, Aon Risk Solutions
+Mr. Allan Loechert Senior Vice President, Aon Risk Solutions
+THE PURPOSE OF THIS ASSESSMENT IS TO EVALUATE AND DOCUMENT THE CURRENT
+PROPERTY LOSS CONTROL PROGRAM, IDENTIFY RISKS AND SIGNIFICANT EXPOSURES
+AND OFFER SUGGESTIONS ON POTENTIAL RISK REDUCTIONS. ANY OTHER USE OF THIS
+ASSESSMENT, INCLUDING ANY ORAL OR WRITTEN DISCUSSION OR EXPLANATION OF
+SAME, SHALL SIGNIFY THE USER’S ACKNOWLEDGEMENT AND AGREEMENT THAT
+NEITHER ASSOCIATED ELECTRIC &amp; GAS INSURANCE SERVICES LIMITED NOR AEGIS
+INSURANCE SERVICES, INC. HAS MADE ANY REPRESENTATION OR WARRANTY WITH
+RESPECT TO THIS REPORT AND THAT THE USER WAIVES ANY CLAIMS AGAINST AEGIS
+AND/OR AEGIS SERVICES ARISING IN ANY WAY FROM THE USER’S USE OF THE REPORT.
+AEGIS Insurance Services, Inc. 1 Greenfield Energy Centre LP
+Machinery Underwriting Survey Greenfield Energy Centre
+Executive Summary
+A Machinery Underwriting Survey was performed for the Greenfield Energy Centre, LP; Greenfield
+Energy Centre, located at 140 Bickford Line, Courtright, Ontario, Canada on October 7, 2020.
+The Greenfield Energy Centre (GEC) is a nominal net 1005 MW combined-cycle power plant in Cortright near Sarnia, Ontario, Canada. GEC is located in an industrial area with good access via paved roads.
+GEC consists of three Siemens Westinghouse gas turbine generators, a single 517 MW Toshiba steam turbine generator, and three Deltak heat recovery steam generators.
+This is a resurvey completed for this location by AEGIS Insurance Services, Inc.
+Significant Changes
+All three Combustion turbines have undergone Hot Gas Path Inspections (HGPIs) since the last AEGIS visit.
+Major Equipment – Overall rated Fair. The air-cooled generators, driven by the combustion turbines, are subject to spark erosion, which has led to the premature rewind of two of the three generators. All four generator step-up (GSU) transformers demonstrate signs of overheating with elevated levels of
+Carbon Monoxide (CO) and Carbon Dioxide (CO2). The original No.3 GSU failed in 2018 due to an internal fault. Cycling the plant more than 200 times per year is very stressful on the HRSGs and steam turbine in particular.
+Major Systems – Overall rated Good. All major systems are receiving regular inspections and maintenance keeping them in good working order.
+Operations – Overall rated Good. There is a good operator-training program in place and good operational testing is taking place.
+Maintenance – Overall rated Good. There is a good CMMS system in place. This plant is cycled daily.
+Going forward, the equipment at this location is going to require more maintenance.
+Risk Reduction Suggestions
+No new risk reduction suggestions were made as a result of this risk assessment.
+The following risk reduction suggestions were resolved:
+GEC-B2018-01 Perform Power Factor (PF) testing of transformer bushings.
+GEC-B2018-02 Revise the drum level-tripping scheme for the HRSGs.
+AEGIS Insurance Services, Inc. 2 Greenfield Energy Centre LP
+Machinery Underwriting Survey Greenfield Energy Centre
+Observations for Further Review
+? Test all transformers for corrosive sulfur (ASTM D-1275 B) at least once. (Refer to Transformer
+Oil Analysis.)
+? Consider the use of an external oil-conditioning skid to mitigate the varnish issues in the CT lubricating oil systems.
+Assessment Summary
+With all areas combined, equipment conditions were found to be Good for machinery insurance purposes. Please refer to the Risk Characteristics Ratings section of this report for details.
+A final conference was conducted with Mr. Lorne Reddy, Facility Manager, where this report and any
+Risk Reduction Suggestions were reviewed.
+AEGIS Insurance Services, Inc. 3 Greenfield Energy Centre LP
+Machinery Underwriting Survey Greenfield Energy Centre
+Risk Reduction Suggestions
+Risk Reduction Suggestions represent opportunities for continued improvement. The suggestions are risk-based and customized to this facility. The suggestions are made using national and industry recognized standards and recommended practices.
+Probability Based on historic information provided by recognized industry organizations and AEGIS loss experience
+High (H) The probability of a loss is greater than average
+Medium (M) The probability of a loss is average
+Low (L) The probability of a loss is less than average
+Severity Based on insurable values, deductibles and AEGIS loss experience
+Severe (S) The incident may result in significant financial impact to the facility
+Moderate (M) The incident may result in moderate financial impact to the facility
+Low (L) The incident may result in low financial impact to the facility
+Priority Matrix
+H P3 P2 P1 y t i l i b a b M P4 P3 P2 o r
+P
+L P5 P4 P3
+L M S
+Severity
+P1 – CRITICAL P2 – HIGH P3 – MODERATE P4 ? LOW P5 – SUPPLEMENTAL
+No new risk reduction suggestions were made as a result of this risk assessment.
+AEGIS Insurance Services, Inc. 4 Greenfield Energy Centre LP
+Machinery Underwriting Survey Greenfield Energy Centre
+Closed Risk Reduction Suggestions
+GEC-B2018-01 Transformer Electrical Testing O&amp;M Expenditure
+Priority 2 Electric Testing – Perform Power Factor (PF) testing on the High and Low (HV and
+LV) bushings on the Generator Step-Up and auxiliary transformers.
+Status: Closed AEGIS/Member Comments: The referenced electrical tests were performed on the 4 GSU and 2 SS transformers between 2016 and 2019 with satisfactory/pass results.?
+GEC-B2018-02 Boiler Level Trip O&amp;M Expenditure
+Priority 2 HRSG – Re-configure the HRSG drum level tripping scheme to protect the steam turbine from a water induction event.
+Status: Closed AEGIS/Member Comments: GEC confirms that the control logic will initiate a steam turbine trip when any of the 3 HRSGs registers one of the following conditions:
+? HP drum high high-high level - 30 sec time delay
+? IP drum high-high level - 90 sec time delay
+? LP Drum high-high level – 30 sec time delay
+GEC confirms that the control logic will initiate a combustion turbine trip when it’s corresponding HRSG registers one of the following conditions:
+? HP drum lo low-low level - 60 sec time delay
+AEGIS Insurance Services, Inc. 5 Greenfield Energy Centre LP
+Machinery Underwriting Survey Greenfield Energy Centre
+General Plant Information
+Plant Description
+The Greenfield Energy Centre (GEC) is a nominal net 1005 MW combined-cycle power plant in
+Cortright near Sarnia, Ontario, Canada. GEC is located in an industrial area with good access via paved roads. GEC consists of four generating units. Three units are 187 MW Siemens Westinghouse
+501FD2 combustion turbines. Each combustion turbine exhausts into its own Deltak Heat Recovery
+Steam Generator (HSRG). Steam from the HRSGs is utilized for the 502 MW Toshiba steam turbine.
+GEC began commercial operation in 2008. GEC is jointly owned by Calpine and MIT Power Canada
+Investment, Inc. (a subsidiary of Mitsui &amp; Co., Ltd). The operations and maintenance activities of the facility are contracted out to EthosEnergy). The electricity generated by the facility is delivered into the Ontario Wholesale Power Market.
+The facility does have a Long-Term Service Agreement (LTSA) with Siemens for inspections and maintenance of the combustion turbines.
+Natural gas is the only fuel used at the facility and is delivered through a 2 km natural gas pipeline northeast of the plant. Gas can be isolated to the facility from the control room via a remotely operated isolation valve. There are no gas compressors onsite.
+The facility does not have black start capabilities.
+Freeze protection is by electric heat tracing.
+AEGIS Insurance Services, Inc. 6 Greenfield Energy Centre LP
+Machinery Underwriting Survey Greenfield Energy Centre
+Unit Boiler Manufacturer Turbine Manufacturer Generator Manufacturer MW Service
+@@@ &gt; Unit
+CT1
+$$$
+
+@@@ &gt; Boiler Manufacturer
+Deltak
+$$$
+
+@@@ &gt; Turbine Manufacturer
+Siemens Westinghouse Siemens Westinghouse 187 Peaking
+$$$
+
+@@@ &gt; Unit
+CT2
+$$$
+
+@@@ &gt; Boiler Manufacturer
+Deltak
+$$$
+
+@@@ &gt; Turbine Manufacturer
+Siemens Westinghouse Siemens Westinghouse 187 Peaking
+$$$
+
+@@@ &gt; Unit
+CT3
+$$$
+
+@@@ &gt; Boiler Manufacturer
+Deltak
+$$$
+
+@@@ &gt; Turbine Manufacturer
+Siemens Westinghouse Siemens Westinghouse 187 Peaking
+$$$
+
+@@@ &gt; Unit
+ST
+$$$
+
+@@@ &gt; Boiler Manufacturer
+N/A
+$$$
+
+@@@ &gt; Turbine Manufacturer
+Toshiba
+$$$
+
+@@@ &gt; Generator Manufacturer
+Toshiba
+$$$
+
+@@@ &gt; MW Service
+517 Peaking
+$$$
+
+Operating Status
+The table below gives the operating data for the last 12 months, as of August 31, 2020.
+@@@ &gt; 
+Unit
+$$$
+
+@@@ &gt; Boiler Manufacturer
+Gross Operating Generation Hours MWh
+$$$
+
+@@@ &gt; Turbine Manufacturer
+Equivalent Starts
+$$$
+
+@@@ &gt; Generator Manufacturer
+Actual Unit Starts Availability
+$$$
+
+@@@ &gt; MW Service
+Forced Outage Factor
+$$$
+
+@@@ &gt; 
+Equivalent Starts Since First Fire
+$$$
+
+@@@ &gt; 
+CT1
+$$$
+
+@@@ &gt; Boiler Manufacturer
+53,716 3,912.7
+$$$
+
+@@@ &gt; Turbine Manufacturer
+228
+$$$
+
+@@@ &gt; Generator Manufacturer
+222 99.7%
+$$$
+
+@@@ &gt; MW Service
+0%
+$$$
+
+@@@ &gt; 
+2,790
+$$$
+
+@@@ &gt; 
+CT2
+$$$
+
+@@@ &gt; Boiler Manufacturer
+47,929 3,298.8
+$$$
+
+@@@ &gt; Turbine Manufacturer
+211
+$$$
+
+@@@ &gt; Generator Manufacturer
+204 91.9%
+$$$
+
+@@@ &gt; MW Service
+0.23%
+$$$
+
+@@@ &gt; 
+2,652
+$$$
+
+@@@ &gt; 
+CT3
+$$$
+
+@@@ &gt; Boiler Manufacturer
+62,044 3,822
+$$$
+
+@@@ &gt; Turbine Manufacturer
+219
+$$$
+
+@@@ &gt; Generator Manufacturer
+218 95.2%
+$$$
+
+@@@ &gt; MW Service
+0%
+$$$
+
+@@@ &gt; 
+2,662
+$$$
+
+All three combustion turbines and the steam turbine are operated in peaking service. The units are prepared for startup in the early morning, and, as load increases, each unit is placed into service until all three combustion turbines and steam turbine are generating. At about 2300 in the evening, the units are all shut down. Maintenance is scheduled on equivalent starts.
+The unit parameters are reported to be continuously monitored by Siemens PDC.
+AEGIS Insurance Services, Inc. 7 Greenfield Energy Centre LP
+Machinery Underwriting Survey Greenfield Energy Centre
+Risk Characteristics Ratings
+Area Rated Rating Risk Reduction Suggestions/Comments
+Major Equipment
+Boilers/HRSGs G
+Steam Turbines F Steam turbine is cycled &gt; 200 times per year.
+Generators G
+Transformers G
+Major Systems
+High Energy Piping G
+Feedwater and Condensate G
+Water Treatment G
+Operations
+Control Room Review G
+Operating Procedures and Training G
+Operational Testing G
+Maintenance
+Maintenance Management and Training G
+Predictive Maintenance (PdM) G
+Pressure Vessels G
+Auxiliary Safety Valve Maintenance G
+Electrical Maintenance G
+Emergency Battery G
+Excellent The facility has taken measures that exceed industry standards and best practices. Loss potential is considered significantly reduced.
+Good The facility has taken measures that are consistent with industry standards and best practices. Loss potential is considered to be average.
+Fair The facility has taken some measures that approach industry standards and best practices; however, deficiencies exist. Loss potential is considered somewhat increased.
+Poor The facility has major deficiencies and does not approach industry standards and best practices. Loss potential is considered to be significantly increased.
+AEGIS Insurance Services, Inc. 8 Greenfield Energy Centre LP
+Machinery Underwriting Survey Greenfield Energy Centre
+Major Equipment
+Boilers/HRSGs
+The HRSGs were manufactured by Deltak and are of the three pressure top supported, natural circulation design with all welded pressure part construction and a cold external TEG pressure casing. There are HP,
+IP, and LP sections delivering steam to the steam turbine.
+The pressure boundaries are protected from damage due to overpressure by ASME approved, National
+Board (NB) stamped safety valves. These are shop assembled horizontal steam generators.
+Unit Year Manufacturer LB/H MAWP
+@@@ &gt; Unit Year Manufacturer LB/H MAWP
+HRSG1 2002
+$$$
+
+@@@ &gt; 
+Deltak
+$$$
+
+@@@ &gt; 
+847,000
+$$$
+
+@@@ &gt; 
+2700
+$$$
+
+@@@ &gt; Unit Year Manufacturer LB/H MAWP
+HRSG2 2002
+$$$
+
+@@@ &gt; 
+Deltak
+$$$
+
+@@@ &gt; 
+847,000
+$$$
+
+@@@ &gt; 
+2700
+$$$
+
+@@@ &gt; Unit Year Manufacturer LB/H MAWP
+HRSG3 2002
+$$$
+
+@@@ &gt; 
+Deltak
+$$$
+
+@@@ &gt; 
+847,000
+$$$
+
+@@@ &gt; 
+2700
+$$$
+
+Additional nameplate information includes:
+Deltak, Minneapolis, MN, Three pressure drums – High, Intermediate, and Low
+Superheat – MAWP 2700 psig, 847,000 lb/h, 312,038 HS, 2002 (Drum Stamping)
+Reheat – MAWP 680 psig, 916,000 lb/h, 79,926HS
+HRSG Draft
+Duct Burners installed. DeJong-Coen BV Duct Burners, 608/60.8 Btu/h, Natural Gas, 30/24 psig.
+No HRSG gas turbine exhaust bypass and no steam bypass to the condenser. Any steam generated not used in the steam turbine is discharged to the atmosphere.
+Boiler/HRSG Protection
+Boiler protection includes but is not limited to:
+? High/High Water Level Trips Steam Turbine
+? HP/IP/LP Water Level Alarms
+? HP Low/Low Water Level Trip ST, GT, Duct Burners
+? Duct burner trip Trips Steam Turbine
+Drum Level Indication
+The HRSGs have both high and low level alarms and trips on all three drums. Two drum level indicators are provided on each of the three drums and provided to the operator in the Control Room.
+AEGIS Insurance Services, Inc. 9 Greenfield Energy Centre LP
+Machinery Underwriting Survey Greenfield Energy Centre
+Boiler Safety Valves
+All boiler safety valves are EVT tested annually. All boiler safety valves are overhauled every three years.
+Summary of Major Boiler Modifications and Design Changes
+There have been no major HRSG modifications or design changes.
+Summary of Major Boiler Maintenance
+The Heat Recovery Steam Generators have internal inspections on a two-year basis. The steam drums have internal inspections on an annual basis.
+The management of the facility is very proactive with HRSG testing and has been conducting various non-destructive testing on the HRSG tubes and steam drums. Primarily due to the cycling operation, tube leaks have been an issue at the tube header. In 2013, Unit 2 had a tube leak in a superheater tube that caused a forced outage. In 2012, Units 1 and 3 each had a tube leak that caused forced outages.
+These outages usually range from three to five days in length. The facility does keep tube material on site to reduce the length of these outages.
+The bottom two rows of duct burners have been replaced.
+AEGIS Insurance Services, Inc. 10 Greenfield Energy Centre LP
+Machinery Underwriting Survey Greenfield Energy Centre
+Steam Turbines
+Unit Year Manufacturer MW RPM Pressure
+ST 2004 Toshiba 502.5 3600 2264
+The steam turbine is a Toshiba tandem compound, four-cylinder, four-flow exhaust, reheat, condensing unit; rated output is 502.5MW. It has a 12-stage high-pressure (HP) turbine, 7-stage Intermediate
+Pressure (IP) turbine and a 6-stage Low Pressure (LP) turbine.
+AEGIS Insurance Services, Inc. 11 Greenfield Energy Centre LP
+Machinery Underwriting Survey Greenfield Energy Centre
+Additional Nameplate Information
+Steam Turbine Protection
+Steam turbine protection includes, but is not limited to:
+? Lube oil pressure low – trip
+? Overspeed – trip
+? EHC failure – trip
+? LP turbine temperature high – trip
+? High bearing vibration – trip
+? High bearing metal temperature – trip
+? High bearing oil temperature – trip
+? Duct Burner trip will trip steam turbine.
+Shaft Grounding Device
+Shaft grounding is accomplished with copper braids with spring assist connected to the grounding grid.
+During the 2019 generator outage, the grounding straps were found to be very oily/dirty. Two factors were discovered and assumed to contribute to this condition. First, the “D” coupling GE oil deflector had worn teeth, which was allowing some external oil misting to occur. Second, the straps were not being cleaned on a frequent-enough basis. The worn grounding straps were replaced, and the oil deflector was re-toothed.
+AEGIS Insurance Services, Inc. 12 Greenfield Energy Centre LP
+Machinery Underwriting Survey Greenfield Energy Centre
+Turbine Water Induction Protection Systems (TWIPS)
+Water induction protection is accomplished with the following:
+? HP/IP and LP carry over alarm
+? High steam drum level trips
+? Automatic steam turbine drains
+? Automatic steam header drains
+? Indications of spray flow and block/spray valve positions on the control room DCS
+Summary of Major Turbine Modifications and Design Changes
+There have been no major turbine modifications or design changes.
+Summary of Major Steam Turbine Maintenance
+Steam turbine inspections/overhauls are conducted on the following schedule:
+? LP turbine visual inspection every two years.
+? Turbine valves every four years
+? LP turbine overhaul every eight years
+? HP/IP turbine overhaul every ten years
+The last LP turbine visual inspection was conducted in May 2020. The findings are listed below:
+The LPA and LPB turbines were visually inspected in the assembled condition as accessible.
+AEGIS Insurance Services, Inc. 13 Greenfield Energy Centre LP
+Machinery Underwriting Survey Greenfield Energy Centre
+? The portions of both turbines, which could be viewed during this inspection, did not show signs of distress that would require immediate repair.
+? A number of L-0 fixation pins were observed to have migrated axially by up to 0.125” The migrating pins were left as is. It is recommended that the pins be UT inspected at next outage.
+If no indications are found the pins should be pushed back to design position and staked in place.
+? Most of the L-0 blades showed typical erosion patterns to the leading/trailing edge of the foil.
+The TE of both LP rotors showed heavier erosion, several blades on the LPB TE had flaking, leading to large craters on the trailing edge. Given the craters that are developing in the trailing edges, the plant should be prepared to recondition the trailing edges of all L-0 blades at the next outage.
+? Exhaust side tenon erosion has seen substantial growth from last inspection, but currently appears to be under two-thirds of tenon length and is acceptable. It is expected that erosion will exceed acceptance criteria prior to completion of another major outage cycle. Given the amount of erosion to the exhaust side tenons, the plant should be prepared to replace all the
+L-0 covers at the next outage.
+The following photos are indicative of the condition the L-0 blades, as inspected in May, 2020.
+Typical Exhaust Side Tenon Erosion. LPB TE Trailing Edge Flaking
+Measurement of Largest Pin Migration (A total of 43 pins were found to have migrated).
+AEGIS Insurance Services, Inc. 14 Greenfield Energy Centre LP
+Machinery Underwriting Survey Greenfield Energy Centre
+In May 2018, the Main Stop/Control valve and the Combined Reheat valve were overhauled.
+A valve outage was conducted in 2016: The Rexroth actuators were refurbished. One spring pack was replaced.
+The steam-turbine-generator was due to have its first lifted cover inspection in 2020; however, due to the COVID-19 pandemic, this has been postponed until 2021.
+During the major overhaul, it is planned to replace L-0 blades in all four flows of the LP turbine.
+Regular inspection of the airfoils has revealed erosion, which is exacerbated by the low load operation and cycling carried out at Greenfield Energy Centre.
+The date of the overhaul will be determined by the availability of the L-0 blades.
+AEGIS Insurance Services, Inc. 15 Greenfield Energy Centre LP
+Machinery Underwriting Survey Greenfield Energy Centre
+Combustion Turbines
+Unit Year Manufacturer MW Model Serial No.
+1 2008 Siemens Westinghouse 187 501FD2 37A8189-1
+2 2008 Siemens Westinghouse 187 501FD2 37A8198-1
+3 2008 Siemens Westinghouse 187 501FD2 37A8199-1
+Additional Nameplate Information
+Siemens-Westinghouse 501FD2 combustion turbines have a 16-stage compressor, 16 combustion burners, and a 4-stage turbine.
+Combustion Turbine Protection
+Combustion turbine protection is as provided by the OEM. Protection includes but is not limited to:
+? High Vibration Trip
+? Electronic Overspeed System
+? High Bearing Temperature
+? Low Lube Oil Pressure
+? High Exhaust Pressure
+? Operator Trip
+Summary of Major Combustion Turbine Modifications and Design Changes
+No major upgrades have been carried out.
+AEGIS Insurance Services, Inc. 16 Greenfield Energy Centre LP
+Machinery Underwriting Survey Greenfield Energy Centre
+Summary of OEM Bulletin Compliance
+Service bulletin compliance is monitored by the OEM, Siemens as part of the long-term maintenance agreement. Siemens and GEC utilize the Siemens Total Maintenance Service (TMS) tool for planning and execution of outages to ensure that the latest applicable service bulletins are incorporated into the maintenance schedule.
+Summary of Major Combustion Turbine Maintenance
+The combustion turbine outages are scheduled using a “starts based” philosophy. Inspection/overhaul intervals are: combustion inspection at 450 starts; hot gas path inspection at 900 starts; combustion inspection at 1350 starts, and major overhaul at 1800 starts.
+All three combustion turbines have had HGP inspections/overhauls within the last two years. Unit 1 occurred in April, 2019. Units 2 and 3 occurred in spring 2020.
+Unit 1
+Siemens Canada Limited (SCL) performed a Hot Gas Path Inspection (HGPI) on a maintenance contract basis, from April 8 to May 3, 2019.
+The original work scope was to be completed by Siemens and included:
+1. HGPI and component replacement as specified by the Long Term Program (LTP) contract and
+Total Maintenance Service (TMS) plan
+2. LTP risk mitigation Non Destructive Examination (NDE)
+3. Rotor and Casing Inspection and Evaluation (RCIE)
+4. Rotor air separator and Torque Tube Seal Housing (TTSH)
+5. Row 4 turbine blade seal pin modification as described in Siemens Product Bulletin (PB)
+3-13-0060-GT-EN-01
+6. Row 2, 3, and 4 Interstage Seal (ISS) segment replacement for bellyband borescope access as
+7. approved by Extra Work Authorization (EWA)
+8. Trunnion maintenance and inspections as approved by EWA
+As the job progressed, the scope was expanded to include:
+1. Row 1 turbine blade replacement
+2. Row 2 and 3 ISS brush seal replacement
+3. In June 2013, Unit 2 had exhaust diffuser strut shield cracks that allowed the shield to move and come into contact with a thermocouple. A maintenance outage was taken to repair and weld the shield.
+The following is a summary of the work performed by the Siemens HGPI crew during this outage and the parts inspected:
+Inlet Section o Inlet Cylinder Inner and Outer Scroll - Visually inspected.
+o IGV - Visually inspected, measured the tangency angles, and recorded hub to tip clearances.
+AEGIS Insurance Services, Inc. 17 Greenfield Energy Centre LP
+Machinery Underwriting Survey Greenfield Energy Centre o IGVs, Bellmouth, and Inlet Struts - Inlet scroll cleaned.
+o Rotor Running Position and Thrust Bearing Axial Clearance – Recorded.
+o Rotor Coupling and Coupling Guard - Visually inspected.
+o Oil Accumulation around the CT Coupling Area – Addressed.
+Compressor Section o Row 1 Compressor Blades - Cleaned and recorded blade tip clearance.
+o Compressor Cylinder - Visually inspected at the Row 1 and Outlet Guide Vane (OGV).
+o Compressor - NDE borescope 6 inspected.
+Combustion System o Combustor Cylinder - Visually inspected inside, cleaned threads.
+o Fuel Hoses and Piping - Removed, cleaned, visually inspected, and reinstalled.
+o DLN Support Housing/Pilots - Removed, inspected, and replaced.
+o DLN Baskets - Removed, inspected, and replaced.
+o Crossflame Tube and Marman Coupling - Removed, inspected, and replaced.
+o Transitions - Removed, inspected, and replaced.
+o Transitions Seals - Removed, inspected, and replaced.
+o Rotor Cooling Air (RCA) Piping - Visually inspected in place.
+o Row 1 Static Seal Honeycomb Segments - Visually inspected in place.
+Turbine Section o Turbine Cylinder Cover - Removed, inspected, cleaned, and reinstalled.
+o Turbine Blades Row 1 - Removed, inspected, and replaced.
+o Turbine Blades Row 2 – Replaced.
+o Turbine Blades Row 3 – Replaced.
+o Turbine Blades Row 4 - Removed, inspected, machined enlarged seal pin groove, reinstalled.
+o Blade Ring Row 1 - Removed, inspected (visually, NDE, dimensionally), reinstalled, aligned.
+o Blade Ring Row 2 - Removed, inspected (visually, NDE, dimensionally), reinstalled, aligned.
+o Blade Ring Row 3 - Removed, inspected (visually, NDE, dimensionally), reinstalled, aligned.
+o Blade Ring Row 4 - Removed, inspected (visually, NDE, dimensionally), reinstalled, aligned.
+o ISSH Row 2 - Reused the housing and lone seal; replaced the seal segments and brush seal.
+o ISSH Row 3 - Reused the housing and lone seal; replaced the seal segments and brush seal.
+o ISSH Row 4 - Reused the housing and lone seal; replaced the seal segments.
+o Row 2, 3, and 4 ISS - Bore checked and aligned.
+o Ring Segments Row 1 - Removed, inspected, and replaced.
+o Ring Segments Row 2 - Removed, inspected, and replaced.
+o Ring Segments Row 3 - Removed, inspected, and replaced.
+o Ring Segments Row 4 - Visually inspected in place.
+o Vane Segments Row 1 - Removed, inspected, and replaced.
+o Vane Segments Row 2 - Removed, inspected, and replaced.
+o Vane Segments Row 3 - inspected in place.
+AEGIS Insurance Services, Inc. 18 Greenfield Energy Centre LP
+Machinery Underwriting Survey Greenfield Energy Centre o Vane Segments Row 4 - inspected in place.
+o Turbine Disc Cavity (DC) Thermocouples (TC) - Removed and inspected.
+o Turbine Section - Cleaned rotor for MPI and light scanned disc root serrations.
+o Bellybands - Visually inspected in place.
+Exhaust Section o Exhaust Cylinder - Visually inspected interior flow surface (strut shields, pantlegs, surfaces).
+o Exhaust Manifold - Visually inspected interior flow surface.
+o Exhaust Baffle Plates - Visually inspected in place.
+o Exhaust Bearing Housing - Visually inspected.
+o Exhaust Static Seal - Visually inspected in place.
+In July 2013, Unit 1 had No. 1, No. 15, and No. 16 transition pieces replaced due to cracking. This is believed to be occurring due to the cycling nature of the combustion turbines.
+Prior compressor work:
+RCCR was completed on CT1 at the May 2010 HGP. This included a replacement cylinder and CBR
+No. 1 with the latest design borescope and balance access ports.
+o Partial (compressor only) Thermal Performance Upgrade completed on CT1.
+o R2, R10, R11, R12, and R16 Diaphragms were replaced during October 2013 MI.
+o All R7 blades were replaced with FOD tolerant design.
+o Performed hook fit inspection during October 2013 MI &amp; April 2019 HGP.
+Unit 2
+Siemens Canada Limited (SCL) performed a Hot Gas Path Inspection (HGPI) on a maintenance contract basis, from April 16 to May 12, 2020.
+The original work scope included the following and was to be completed by SCL
+1. CT HGPI per LTP maintenance contract
+2. Pre-RCIE unit inspection, per Siemens Service Bulletin (SB) 4-13-0057-GT-EN-01
+3. Turbine VGP Row 1 blade installation – service length – per Siemens Specific Solution (SSol)
+3-15-008797-01-311 and LTP maintenance contract
+4. W510F rotor air separator inspections, per Siemens SB 3-15-0046-GT-EN-01
+5. Trunnion maintenance, per Extra Work Authorization (EWA) 02
+The following work scopes were added as the outage progress and completed by SCL:
+1. Belly band replacement repairs on TD1-TD2 (Row 2) and TD2-TD3 (Row 3), per Siemens
+PCM 3-20-005158 and EWA 03; the belly bands were replaced with Hast-X U-clip style belly bands per Siemens SSols 3-14-012320-01-194 and 3-14-012321-01-195
+2. Lone seal replacement on the Row 3 Interstage Seal Housing (ISSH), per Siemens 3-20-
+005198 and EWA 04
+3. Thrust bearing inactive liner replacement to the restore thrust bearing clearance, per Siemens
+PCM 3-20-004867 and EWA 08
+AEGIS Insurance Services, Inc. 19 Greenfield Energy Centre LP
+Machinery Underwriting Survey Greenfield Energy Centre
+4. Row 1 compressor blade blending due to blade impact indications, per Siemens PCM
+3-20-004879 and EWA 09
+5. Torque Tube Seal Housing (TTSH) removal and dimensional inspections due to as found condition, per Siemens PCM 3-20-005294 and EWA 10
+6. Rotor Air Separator (RAS) hardness testing and Non Destructive Examination (NDE) inspections, per Siemens PCM 3-20-005461 and EWA 10
+7. Inlet heating isolation valve seal disc set screw peening, per EWA 11
+8. Turbine rotor disc scallop blending and NDE inspection due to as found indications, per
+Siemens PCM 3-20-004879 and EWA 12
+9. Startup vibration monitoring and balance support, per EWA 07
+10. Balance weight installation and vibration monitoring recheck support, per EWA 13
+The following work scopes were completed by Greenfield Energy Center and their contractors:
+1. Exhaust manifold crack repairs
+2. U-tube seal oil drain modification per Siemens Product Bulletins (PBs) 3-14-0005-GT-EN-02 and 3-PM-040063-01-155
+The following is a summary of all parts and assemblies that were inspected and returned to service, replaced with spares or repaired during this outage:
+Inlet Section
+? Inlet Expansion Joint: The inlet expansion joint was visually inspected in situ.
+? Inlet Manifold: The inlet manifold flow path surfaces were visually inspected and cleaned.
+? Inlet Cylinder: The inlet cylinder flow path surfaces were visually inspected and cleaned.
+? Inlet Guide Vane (IGV) Assembly: The IGV assembly components were visually inspected, and the "as found" IGV tangency angles in both opened, and closed position, and hub-to-tip clearances were measured. All IGV airfoils were cleaned and returned to service. The IGV spring pins were inspected per Siemens Engineering Request (ER) 3-16-012205-ER-188, tie- wire mitigation installation was performed, and the components were returned to service.
+? Thrust Bearing: The "as found" thrust bearing axial clearance was measured. A new inactive thrust liner was machined and installed to restore the thrust bearing clearance to Siemens specification, as recommended, per Siemens PCM 3-20-004867 and EWA 08.
+Compressor Section
+? Compressor Rigid Support: The compressor foundation and rigid support were visually inspected in-situ. Compressor Blades:
+? Row 1 Compressor Blades: The Row 1 compressor blades were visually inspected in-situ, and the "as found" radial blade tip clearances were recorded. Four Row 1 compressor blades were blended in situ as recommended per Siemens PCM 3-20-004879 and EWA 09, and the components were returned to service.
+? Row 2 - 16 Compressor Blades: The Row 2 - 16 compressor blades were visually inspected via borescope inspection, the conditions were evaluated under Siemens PCM 3-20-005318, and the components were returned to service.
+AEGIS Insurance Services, Inc. 20 Greenfield Energy Centre LP
+Machinery Underwriting Survey Greenfield Energy Centre
+Combustion System
+? Combustor Cylinder - Visually inspected inside, cleaned threads.
+? Fuel Hoses and Piping - Removed, cleaned, visually inspected, and reinstalled.
+? DLN Support Housing/Pilots - Removed, inspected, and replaced.
+? DLN Baskets - Removed, inspected, and replaced.
+? Crossflame Tube and Marman Coupling - Removed, inspected, and replaced.
+? Transitions - Removed, inspected, and replaced.
+? Transitions Seals - Removed, inspected, and replaced.
+? Rotor Cooling Air (RCA) Piping - Removed, cleaned, visually inspected, and reinstalled.
+? Row 1 Static Seal Honeycomb Segments - Visually inspected: Six replaced due to honeycomb erosion.
+Turbine Section
+? Turbine Cylinder Cover - Removed, inspected, cleaned, and reinstalled.
+? Turbine Blades Row 1 - Removed, inspected, and replaced.
+? Turbine Blades Row 2 – Replaced.
+? Turbine Blades Row 3 – Replaced.
+? Turbine Blades Row 4 – Inspected in situ.
+? Blade Ring Row 1 - Removed, inspected (visually, NDE, dimensionally), reinstalled, aligned.
+? Blade Ring Row 2 - Removed, inspected (visually, NDE, dimensionally), reinstalled, aligned.
+? Blade Ring Row 3 - Removed, inspected (visually, NDE, dimensionally), reinstalled, aligned.
+? Blade Ring Row 4 - Removed, inspected (visually, NDE, dimensionally), reinstalled, aligned.
+? ISSH Row 2 - Reused the housing and lone seal; replaced the seal segments and brush seal.
+? ISSH Row 3 - Reused the housing and lone seal; replaced the seal segments and brush seal.
+? ISSH Row 4 - Reused the housing and lone seal; replaced the seal segments.
+? Row 2, 3, and 4 ISS - Bore checked and aligned.
+? Ring Segments Row 1 - Removed, inspected, and replaced.
+? Ring Segments Row 2 - Removed, inspected, and replaced.
+? Ring Segments Row 3 - Removed, inspected, and replaced.
+? Ring Segments Row 4 - Visually inspected in place.
+? Vane Segments Row 1 - Removed, inspected, and replaced.
+? Vane Segments Row 2 - Removed, inspected, and replaced.
+? Vane Segments Row 3 - inspected in place.
+? Vane Segments Row 4 - inspected in place.
+? Turbine Disc Cavity (DC) Thermocouples (TC) – Replaced by GEC personnel.
+? Turbine Section - Cleaned rotor for MPI and light scanned disc root serrations.
+? Bellybands - Visually inspected in place. Replaced TD1 – TD2 and TD2 – TD3 due to wear.
+New bands were of improved Hastelloy X material with U clips.
+AEGIS Insurance Services, Inc. 21 Greenfield Energy Centre LP
+Machinery Underwriting Survey Greenfield Energy Centre
+TD1 – TD2 Bellyband joint as found. Bellyband joint as left.
+Exhaust Section
+? Exhaust Cylinder - Visually inspected interior flow surface (strut shields, pantlegs, surfaces).
+? Exhaust Manifold - Visually inspected interior flow surface.
+? Exhaust Baffle Plates - Visually inspected in place.
+? Exhaust Bearing Housing - Visually inspected.
+? Exhaust Static Seal - Visually inspected in place.
+Site Balancing
+On return to service, it was found necessary to balance the CT rotor. A total of 11 oz was added to the exhaust. End balance planes in holes 7 and 8. Prior compressor work:
+? R1 &amp; R2 Diaphragms were replaced during May 2014 MI
+? All R7 blades were replaced with FOD tolerant design during May 2014 MI
+? Six R1 blades were replaced due to FOD damage during May 2014 MI
+? Performed hook fit restoration on Rows 4 and 5 during May 2014 MI
+? Thermal Performance Upgrade completed on CT2 (R16 blades and R7-15 Seal Holders)
+Unit 3
+A HGPI was conducted on Unit 3 in spring 2020. The scope was similar to that performed on Unit 2.
+No outage report was made available for unit 3.However the following components were replaced:
+? R1 &amp; R2 Vanes
+? R1, R2 &amp; R3 Ring Segments
+? R1, R2 &amp; R3 Blades
+? Combustor Baskets
+? Pilot Nozzles
+? Support Housings
+? Transitions
+AEGIS Insurance Services, Inc. 22 Greenfield Energy Centre LP
+Machinery Underwriting Survey Greenfield Energy Centre
+? Transition Seals
+? Belly Bands TD1-TD2, TD2-TD3 and TD3-TD4
+? Interstage Seals
+? R3 Lone Seal
+? R1 Static Seal
+?
+Prior compressor work:
+? Performed hook fit inspection during October 2014 MI
+? Thermal Performance Upgrade completed on CT3 (R16 blades and R7-15 Seal Holders)
+? All R7 blades were replaced with FOD tolerant design during October 2014 MI
+? Replace three compressor blades, one each in Rows 3, 4, and 14 due to impact indications
+? Thermal Performance Upgrade completed on CT3 (R16 blades and R7-15 Seal Holders)
+All three units will have extended interval hardware installed during their respective major outages.
+All three units’ starting motors will also be overhauled during the major outages.
+Unit Total Fired Hours Total Starts Equivalent Starts Equivalent Base Hours
+1 42,234 2,320 2,790 42,234
+2 41,209 2,281 2,652 41,209
+3 39,399 2,239 2,662 39.399
+Inspection Intervals (Starts)
+Unit Type
+Combustion Inspection Hot Gas Path Inspection Major Inspection
+501FD2 450/1350 900 1,800
+Most Recent Inspections
+Unit Combustion Hot Gas Path Major Generator Inspection Inspection Inspection Inspection
+1 Spring 2019 Fall 2013
+2 Spring 2020 Spring 2014
+3 Spring 2020 Spring 2014
+AEGIS Insurance Services, Inc. 23 Greenfield Energy Centre LP
+Machinery Underwriting Survey Greenfield Energy Centre
+Generators
+Steam Turbine Generator
+Voltage Unit Year Manufacturer MVA Cooling (kV)
+1 2008 Siemens Westinghouse 249 Air 18.0
+2 2008 Siemens Westinghouse 249 Air 18.0
+3 2008 Siemens Westinghouse 249 Air 18.0
+ST 2004 Toshiba 574 Hydrogen / Water 18.0
+Additional Nameplate Information
+Generator Serial Nos:
+? CTG1 10293
+? CTG2 10306
+? CTG3 10316
+? STG 0115005
+AEGIS Insurance Services, Inc. 24 Greenfield Energy Centre LP
+Machinery Underwriting Survey Greenfield Energy Centre
+Generator Protection
+Standard generator protection relay systems as specified by the OEMs are used at Greenfield Energy
+Centre.
+Retaining Rings
+The retaining rings are 18Mn-18Cr material.
+According to Siemens guidelines, “The inspection should be performed when the generator has been in service for 10-12 years and then every 10-12 years thereafter. The inspection should be performed at the next outage in which the generator will be shutdown, cooled down, off turning gear, and locked out and tagged out with sufficient access to the retaining ring. While the probability of findings on generators less than 10-12 years old is low, the likelihood of stress cracking increases with age even for units not exposed to exceptional conditions. The severity of consequences; however, can be very high.”
+Hydrogen Conditioning
+Hydrogen is used for cooling in the steam turbine generator. Hydrogen is supplied from a bottle station located outside of the main steam turbine building. There is a hydrogen conditioning room located in the building where hydrogen dew point and purity are monitored and readings are sent to the control room. There is also a desiccant dryer located in this room.
+Summary of Major Generator Modifications and Design Changes
+During the 2020 overhaul, the following upgrades were made to the ST generator:
+? Rotor pole to Pole connectors replaced
+? Flux Probe installed
+? New H2 seal design installed- four sections per seal instead of two halves.
+The plant is investigating upgrades for the STG hydrogen system/
+Summary of Major Generator Maintenance
+CT 1 Generator
+During the spring 2019 CT outage a generator minor inspection was conducted. The following tests were performed by Electek Power Services:
+? Stator dc Winding Resistance
+? Stator Winding PF &amp; CAP (60 Hz)
+? Stator Winding PF &amp; CAP (40 Hz)
+? Stator Insulation Resistance
+? Rotor Insulation Resistance
+? Rotor dc Winding Resistance
+? Rotor Pole Impedance
+? Rotor Repetitive Surge Oscillography (RSO)
+AEGIS Insurance Services, Inc. 25 Greenfield Energy Centre LP
+Machinery Underwriting Survey Greenfield Energy Centre
+All tests were completed successfully.
+? A rewind of CT1 was completed during the CT1 Major Inspection outage (Nov 2013).
+? Medium Inspection (FAST Gen) is recommended during the next generator outage.
+CT 2 Generator
+During the spring 2020 CT outage a generator minor inspection was conducted. The following tests were performed by Electek Power Services:
+? Stator dc Winding Resistance
+? Stator Winding PF &amp; CAP (60 Hz)
+? Stator Winding PF &amp; CAP (40 Hz)
+? Stator Insulation Resistance
+? Rotor Insulation Resistance
+? Rotor dc Winding Resistance
+? Rotor Pole Impedance
+? Rotor Repetitive Surge Oscillography (RSO)
+All tests were completed successfully.
+? Upon start-up, the CT2 Generator experienced a ground fault, forcing and immediate stator rewind. Rewind was completed July 2014.
+? Medium Inspection (FAST Gen) recommended during the next generator outage.
+CT 3 Generator
+During the spring 2020 CT outage, a generator minor inspection was conducted. The following tests were performed by Electek Power Services:
+? Stator dc Winding Resistance
+? Stator Winding PF &amp; CAP (60 Hz)
+? Stator Winding PF &amp; CAP (40 Hz)
+? Stator Insulation Resistance
+? Rotor Insulation Resistance
+? Rotor dc Winding Resistance
+? Rotor Pole Impedance
+? Rotor Repetitive Surge Oscillography (RSO)
+All tests were completed successfully.
+? A spark erosion inspection was performed on CT3 October 2014, and no evidence of spark erosion was found.
+? A Hi-Pot was performed on CT3 October 2014 and passed.
+? A generator crawl thru inspection was performed and mini-cone/support brace dusting, tape separation and parallel ring dusting was found and repaired on a best effort basis.
+? Medium Inspection (FAST Gen) recommended during the next generator outage.
+AEGIS Insurance Services, Inc. 26 Greenfield Energy Centre LP
+Machinery Underwriting Survey Greenfield Energy Centre
+ST Generator
+During spring 2019, a generator major outage at was conducted by Toshiba at Greenfield Energy
+Centre. During this outage, the generator of unit OEM055 (generator serial No. 0115005), as well as its exciter brush rigging and coolers were disassembled, inspected, and reassembled.
+The generator field (rotor) was removed and sent to the TAES Milwaukee Service Center (MSC).
+During the inspection the generator rotor, both H2 seals, two H2 cooling fan blades, the generator end
+(GE) “D” coupling oil deflector, and the turning gear were sent out for disassembly, inspection, and repair. The No. 9 and No. 10 bearings were sent out for refurbishment.
+The generator field was shipped to the MSC for inspection and repair. The repair work scope was:
+? Generator field runouts
+? Generator field rings off inspection and electrical testing
+? NDE testing of removed components
+? Generator field hydrogen seal pressure test
+? Pole to pole connector replacement per ECS-TIC-GEU-XXX-0001
+? Blocking replacement per ECS-TAES-K2015E0423
+? Generator field high speed balance
+? Packaging field for return to site
+Due to issues at the MSC balance unit, the Greenfield field was high-speed balanced at St. Louis
+(MD &amp; A) and then returned to the Greenfield site for installation. No “onsite” work was done to the field.
+AEGIS Insurance Services, Inc. 27 Greenfield Energy Centre LP
+Machinery Underwriting Survey Greenfield Energy Centre
+During the outage the following extra work authorizations (EWAs) were generated:
+1. EWA 1: Flux probe installation
+2. EWA 3: Offsite bearing repairs
+3. EWA 4: H2 Seals, Oil deflector, and H2 cooling blade repair
+4. EWA 5: Generator bump test and Thick Thin Epoxy
+5. EWA 6: Lift stator, clean, inventory shims, and consolidate
+6. EWA 7: Drill pumping ports into end shield
+7. EWA 9: Repair High Voltage Bushing (HVB) Insulation on T6 Bushing
+A flux probe was installed during the 2019 outage.
+An epoxy treatment was applied to the end windings that consisted of a 2-stage application.
+? The first application was a weeping epoxy that was sprayed onto the end windings to fill any small cracks around the ties, blocking, and mating surfaces.
+? The second application was a medium viscosity epoxy that was applied by brush to cover any cracks and further consolidate the winding.
+? A generator stator end-winding resonance testing (aka: Bump Test) was performed after the epoxy treatment was performed. All results were acceptable.
+AEGIS Insurance Services, Inc. 28 Greenfield Energy Centre LP
+Machinery Underwriting Survey Greenfield Energy Centre
+Stator End-Winding After Epoxy Application. After Final Painting.
+AEGIS Insurance Services, Inc. 29 Greenfield Energy Centre LP
+Machinery Underwriting Survey Greenfield Energy Centre
+Transformers
+Unit Year Manufacturer Ø Cooling Method MVA °C Rise Voltage (kV)
+@@@ &gt; Unit
+CT1-GSU 2007
+$$$
+
+@@@ &gt; 
+Pauwels
+$$$
+
+@@@ &gt; 
+3 ODAF1/ODAF2
+$$$
+
+@@@ &gt; MVA
+250
+$$$
+
+@@@ &gt; Voltage (kV)
+18/242
+$$$
+
+@@@ &gt; Unit
+CT2-GSU 2007
+$$$
+
+@@@ &gt; 
+Pauwels
+$$$
+
+@@@ &gt; 
+3 ODAF1/ODAF2
+$$$
+
+@@@ &gt; MVA
+250
+$$$
+
+@@@ &gt; Voltage (kV)
+18/242
+$$$
+
+@@@ &gt; Unit
+CT3-GSU 2018
+$$$
+
+@@@ &gt; 
+GE Prolec
+$$$
+
+@@@ &gt; 
+3
+$$$
+
+@@@ &gt; Cooling Method
+ONAF
+$$$
+
+@@@ &gt; MVA
+230
+$$$
+
+@@@ &gt; Voltage (kV)
+18/242
+$$$
+
+@@@ &gt; Unit
+ST-GSU
+$$$
+
+@@@ &gt; Year Manufacturer Ø
+2006
+$$$
+
+@@@ &gt; 
+Pauwels
+$$$
+
+@@@ &gt; 
+3 ODAF1/ODAF2
+$$$
+
+@@@ &gt; MVA
+600
+$$$
+
+@@@ &gt; °C Rise
+65
+$$$
+
+@@@ &gt; Voltage (kV)
+18/242
+$$$
+
+AEGIS Insurance Services, Inc. 30 Greenfield Energy Centre LP
+Machinery Underwriting Survey Greenfield Energy Centre
+Additional Nameplate Information
+Transformer Protection
+The transformers are protected with sudden pressure relays, lightning protection, and digital microprocessor protective relay systems. The transformers are equipped with Calisto™ continuous gas monitors.
+Transformer Oil Analysis
+Transformer DGA oil analysis is conducted on a six-month basis. The latest reports (summer 2019) were reviewed and based upon the levels of Carbon Monoxide (CO) and Carbon Dioxide (CO2), the
+Nos. 1, 2 and ST GSUs are considered to be IEEE Condition 1 transformers with Total Dissolved
+Combustible Gases (TDCG) in the range of 721-1929 ppm. While the levels of CO and CO2 would suggest overheating of the cellulose insulation, the levels of Furans, particularly 2-furaldehyde
+(2FAL), do not support this. Units 1 and 2 GSUs show levels of acetylene (C2H2 in the range of
+2-6 ppm, which is also an indication of arcing.
+The test reports from Morgan Schaffer do not include testing for the presence of corrosive sulfur
+(ASTM D-1275 B). It is suggested that this test should be included in the next test program.
+AEGIS Insurance Services, Inc. 31 Greenfield Energy Centre LP
+Machinery Underwriting Survey Greenfield Energy Centre
+Summary of Transformer Maintenance
+Results of electrical tests and inspections conducted on the Unit 1, 3 and ST GSUs in 2019, as well as for Unit 2 GSU in 2020 were made available for review. No negative findings were apparent. All identified bushings were manufactured by PCore.
+Major transformer maintenance is performed on a five-year frequency.
+While Greenfield Energy Centre does not have a spare GSU onsite, it does have access to the extensive Calpine network were the need for a spare to arise.
+The Unit 3 GSU was replaced due to a failure of the tap changer in 2018.
+AEGIS Insurance Services, Inc. 32 Greenfield Energy Centre LP
+Machinery Underwriting Survey Greenfield Energy Centre
+Major Systems
+High Energy Piping
+Main Steam – Seamless P91 material
+Hot and Cold Reheat - Seamless P91 material
+Piping Hanger Program - A formal piping hanger program is in place with checks in hot and cold positions.
+High Energy Piping Weld Inspections - There is a formal high energy piping weld inspection program in place that was commenced in 2010. The next HEP inspection is scheduled for the
+4th quarter of 2020. In 2019, phased array testing was conducted.
+The P91 valves at the discharge from the HRSGs have been replaced with cartridge type valves.
+Feedwater and Condensate
+There is a formal FAC inspection program. This inspection was last completed in 2010 with no major discrepancies noted.
+Deaerator/Feedwater Heater
+The HRSGs do not have conventional deaerators.
+Boiler Feed Pumps
+Each unit has one 100%, motor driven boiler feed pump. The facility does have one spare boiler feed pump barrel and two spare motors onsite.
+Water Treatment
+The facility uses a coordinated phosphate water treatment program for chemistry control. SteamAid
+(amine) and Control (O2 scavenger) are also added.
+SUEZ Water Technologies is used as the outside chemical vendor. A representative visits the facility on a weekly basis to monitor chemical inventories and aid in monitoring water treatment processes.
+CF Industries owns the River Water Pumphouse and holds the permit to take water (PTTW) from the
+Ministry of Environment and Climate Change (MOECC). It is understood that Greenfield Energy Centre has commercial take over rights of both the CF Industries River Water Pumphouse and the MOECC
+PTTW if CF Industries were to choose to leave the site.
+AEGIS Insurance Services, Inc. 33 Greenfield Energy Centre LP
+Machinery Underwriting Survey Greenfield Energy Centre
+Operations
+Control Room Review
+The control room is manned 24/7. There are numerous control stations that can be used to monitor all plant processes. The facility uses Siemens TXP distributed control system, and has been performing upgrades to the Siemens T-3000 during the major outages. Plant DCS was upgraded to an Emerson
+Ovation system in 2019.
+The Toshiba steam turbine controls are scheduled to be upgraded from TOSMAP to Emerson in 2021.
+Operating Procedures
+The facility has very thorough operating procedures that operators use for all plant evolutions. The procedures are kept on the facilities computer system, and hard copies are kept in the control room.
+Operating procedures are updated every one to three years. Emergency procedures are maintained in the control room.
+Operator Training
+Greenfield Energy Centre hires only experienced personnel with power plant or similar backgrounds. The facility has a good computer-based operator-training program. The program consists of training lessons for both the outside operators and control room operators. There are qualification tests and interviews that need to be passed in order to be qualified as an outside operator and control room operator.
+Operational Testing
+Overspeed Trip Testing
+The turbines have electronic overspeed trip systems. These systems are tested on an 18-month basis prior to outages.
+Turbine Valve Testing
+The steam turbine steam stop and control valves are tested daily during start-up and shutdown evolutions.
+Generator Liquid Level Detector Testing
+The steam turbine generator liquid level detector is tested on an 18-month basis prior to scheduled outages.
+Emergency Lube and Seal Oil Pump Testing
+The emergency lube and seal oil pumps are tested on a monthly basis using the pressure drop method.
+AEGIS Insurance Services, Inc. 34 Greenfield Energy Centre LP
+Machinery Underwriting Survey Greenfield Energy Centre
+Maintenance
+Maintenance Management
+The primary tool used to manage the plant maintenance and inspections schedule is the CMMS system.
+The facility uses GPMate for this purpose. This system is used to automate the generation of work orders, schedule preventive maintenance, track assets, and control inventory. Reports generated from this system are used to track maintenance costs, labor, materials, and the overall effectiveness of maintenance efforts at GEC.
+Maintenance Training
+There is a good maintenance-training program established at GEC. There are lesson plans, and OJT is used to further the training of all on the maintenance staff.
+Predictive Maintenance (PdM)
+Thermographic Inspection
+The facility owns its own thermal imaging camera and thermographic inspections of electrical switchgear are conducted on a yearly basis as well as prior to scheduled outages. IR windows were installed in the 4,160 V switchgear in 2010 allowing for ease of these inspections.
+Vibration Monitoring and Analysis
+The main turbines and generators have permanently installed vibration-monitoring systems. The balance of plant rotating equipment is monitored on a monthly basis by an outside contractor.
+Detailed reports with trends and recommendations, covering the past four years, were made available for review. Recently a new contractor has been performing this work in conjunction with maintaining the lubrication schedule for the BOP rotating equipment.
+Lube Oil Analysis
+The most recent test results made available were from 2018. These test reports indicated a history of varnish in the CT lubricating oil systems. It may be worthwhile using an external filtration unit during the next shutdown to mitigate the varnish issues.
+There is an issue with the Total Acid Number (TAN) for the steam turbine generator. Total Acid
+Number (TAN) is an indicator of oil serviceability. It is useful in monitoring acid buildup in oils due to depletion of antioxidants. A significant increase in the acid number could be indicative of rising carboxylic acids associated with an oxidation condition. Monitoring the acid number alerts you to an increasing risk of oxidation. A rapidly rising acid number indicates antioxidant depletion. It was noted that hydraulic fluid is also monitored for varnish potential, with no issues. The low lube oil temperature alarm is set at 75°F (19°C).
+AEGIS Insurance Services, Inc. 35 Greenfield Energy Centre LP
+Machinery Underwriting Survey Greenfield Energy Centre
+Pressure Vessels
+Pressure vessel repairs are contracted out to welders holding the appropriate “R” stamp.
+Auxiliary Safety Valve Maintenance
+All auxiliary safety valves are tested/calibrated/overhauled on a yearly basis.
+Electrical Maintenance
+Protective Relays and Circuit Breakers
+Protective relays and major circuit breakers are cleaned, tested, and calibrated on a two, six, and twelve-year frequency, which meets NERC standards.
+Emergency Battery
+Greenfield Energy Centre has a total of eight emergency batteries as listed in the table below.
+The batteries receive a monthly PM check, where a visual inspection and a voltage check of each cell is conducted. The batteries are tested annually for internal resistance. Additionally the batteries are load tested every five years. The last load test was conducted in 2017.
+Battery Location Manufacturer/ Type No. of Cells Install Date Load Test Results Date
+@@@ &gt; Battery
+BA-001 Bank A
+$$$
+
+@@@ &gt; Location
+BOP/STG A
+$$$
+
+@@@ &gt; Manufacturer/ Type
+Enersys GU29
+$$$
+
+@@@ &gt; No. of Cells
+60
+$$$
+
+@@@ &gt; Install Date
+Mar-07
+$$$
+
+@@@ &gt; Load Test Results Date
+&gt;100% 2017
+$$$
+
+@@@ &gt; Battery
+BA-001 Bank B
+$$$
+
+@@@ &gt; Location
+BOP/STG B
+$$$
+
+@@@ &gt; Manufacturer/ Type
+Enersys GU29
+$$$
+
+@@@ &gt; No. of Cells
+60
+$$$
+
+@@@ &gt; Install Date
+Mar-07
+$$$
+
+@@@ &gt; Load Test Results Date
+&gt;100% 2017
+$$$
+
+@@@ &gt; Battery
+BA-002
+$$$
+
+@@@ &gt; Location
+Switchgear
+$$$
+
+@@@ &gt; Manufacturer/ Type
+Enersys EC-13
+$$$
+
+@@@ &gt; No. of Cells
+60
+$$$
+
+@@@ &gt; Install Date
+Mar-07
+$$$
+
+@@@ &gt; Load Test Results Date
+&gt;100% 2017
+$$$
+
+@@@ &gt; Battery
+BA-003
+$$$
+
+@@@ &gt; Location
+CTG 1
+$$$
+
+@@@ &gt; Manufacturer/ Type
+Enersys EC-17
+$$$
+
+@@@ &gt; No. of Cells
+60
+$$$
+
+@@@ &gt; Install Date
+Nov-06
+$$$
+
+@@@ &gt; Load Test Results Date
+&gt;100% 2017
+$$$
+
+@@@ &gt; Battery
+BA-004
+$$$
+
+@@@ &gt; Location
+CTG 2
+$$$
+
+@@@ &gt; Manufacturer/ Type
+Enersys EC-17
+$$$
+
+@@@ &gt; No. of Cells
+60
+$$$
+
+@@@ &gt; Install Date
+Mar-08
+$$$
+
+@@@ &gt; Load Test Results Date
+&gt;100% 2017
+$$$
+
+@@@ &gt; Battery
+BA-005
+$$$
+
+@@@ &gt; Location
+CTG 3
+$$$
+
+@@@ &gt; Manufacturer/ Type
+Enersys EC-17
+$$$
+
+@@@ &gt; No. of Cells
+60
+$$$
+
+@@@ &gt; Install Date
+Mar-08
+$$$
+
+@@@ &gt; Load Test Results Date
+&gt;100% 2017
+$$$
+
+@@@ &gt; Battery
+BA-080
+$$$
+
+@@@ &gt; Location
+1-00-EDC-BA- 080
+$$$
+
+@@@ &gt; Manufacturer/ Type
+MTI 5 OPzS 350
+$$$
+
+@@@ &gt; No. of Cells
+60
+$$$
+
+@@@ &gt; Install Date
+Nov-06
+$$$
+
+@@@ &gt; Load Test Results Date
+&gt;100% 2017
+$$$
+
+@@@ &gt; Battery
+BA-090
+$$$
+
+@@@ &gt; Location
+1-00-EDC-BA- 090
+$$$
+
+@@@ &gt; Manufacturer/ Type
+MTI 5 OPzS 350
+$$$
+
+@@@ &gt; No. of Cells
+60
+$$$
+
+@@@ &gt; Install Date
+Nov-06
+$$$
+
+@@@ &gt; Load Test Results Date
+&gt;100% 2017
+$$$
+
+AEGIS Insurance Services, Inc. 36 Greenfield Energy Centre LP
+Machinery Underwriting Survey Greenfield Energy Centre
+Loss History
+Date Description
+Aug 2010 HRSG 2 High Pressure Drum Vortex Breaker Failure
+Mar 2011 CT3 Generator Phase to Phase fault
+Mar 2011 CT1 Static Seal liberation
+2018 CTG3 GSU Failure
+AEGIS Insurance Services, Inc. 37 Greenfield Energy Centre LP
+Machinery Underwriting Survey Greenfield Energy Centre
+Loss Estimates
+Probable Maximum Loss (PML)
+PD PML Calculation
+The PML scenario is high cycle fatigue failure of the first stage turbine rotating or stationary components of a combustion turbine, resulting in significant damage to the hot gas path or ingestion of foreign object into compressor.
+PML Machinery Damage Estimate $15,975,000
+The PML is defined as the physical damage and time loss expected to occur assuming the failure of a primary operating control and the failure of at least one safety or protective device. In addition, the affected equipment experiences a delayed shutdown or isolation. The PML is calculated using a percentage of the equipment value and is expressed as a specific total dollar amount. The figures do not take into consideration deductibles or sublimits.
+BI PML Calculation
+Based on a W501FD2 failure of the compressor R-0 blades or stationary vanes for any stage from S-2 through S-5 to the 187 MW gas turbine/generator, we would expect a total loss for approximately 60 days for the affected unit with impact on steam turbine generation.
+PML Business Interruption Estimate (187 + 180) MW x 24 hours per day x 60 days = (does not take into account the capacity factor) 528,480 MWh
+Maximum Foreseeable Loss (MFL)
+PD MFL Calculation
+The MFL scenario is a water induction event requiring either extensive repairs or replacement of the turbine steam path.
+MFL Machinery Damage Estimate $69,500,000
+The MFL is defined as the maximum amount of physical damage and time loss expected to occur under the worst possible conditions. This is based on the failure of operating controls and safety or protective devices with no shutdown or isolation of affected equipment. The MFL assumes this equipment operates to destruction. The MFL is calculated using a percentage of the equipment value and is expressed as a specific total dollar amount. The figures do not take into consideration deductibles or sublimits.
+BI MFL Calculation
+Since the plant cannot operate in the simple-cycle mode, the loss of either the steam turbine, the steam turbine generator or the No.4 GSU will result in a 100% Business Interruption event for at least one year.
+MFL Business Interruption Estimate 1005 MW x 24 hours per day x 455 days = (does not take into account the capacity factor) 10,974,600 MWh
+AEGIS Insurance Services, Inc. 38 Greenfield Energy Centre LP
+Machinery Underwriting Survey Greenfield Energy Centre</text><riskFactors><entry><key>RF001</key><value name="RF001" value="G"><sentences><s riskFactorValue="X" begin="8745" end="8816"><text>GEC-B2018-01 Perform Power Factor (PF) testing of transformer bushings.</text><operands><op begin="8758" end="8765"><text>Perform</text></op><op begin="8766" end="8771"><text>Power</text></op><op begin="8766" end="8778"><text>Power Factor</text></op><op begin="8784" end="8791"><text>testing</text></op><op begin="8795" end="8806"><text>transformer</text></op></operands></s><s riskFactorValue="X" begin="11028" end="11119"><text>Priority 2 Electric Testing – Perform Power Factor (PF) testing on the High and Low (HV and</text><operands><op begin="11039" end="11047"><text>Electric</text></op><op begin="11048" end="11055"><text>Testing</text></op><op begin="11058" end="11065"><text>Perform</text></op><op begin="11066" end="11071"><text>Power</text></op><op begin="11066" end="11078"><text>Power Factor</text></op><op begin="11084" end="11091"><text>testing</text></op></operands></s><s riskFactorValue="G" begin="43595" end="43671"><text>During the spring 2019 CT outage a generator minor inspection was conducted.</text><operands><op begin="43630" end="43639"><text>generator</text></op><op begin="43646" end="43656"><text>inspection</text></op><op begin="43661" end="43670"><text>conducted</text></op></operands></s><s riskFactorValue="G" begin="44326" end="44402"><text>During the spring 2020 CT outage a generator minor inspection was conducted.</text><operands><op begin="44361" end="44370"><text>generator</text></op><op begin="44377" end="44387"><text>inspection</text></op><op begin="44392" end="44401"><text>conducted</text></op></operands></s><s riskFactorValue="G" begin="44986" end="45063"><text>During the spring 2020 CT outage, a generator minor inspection was conducted.</text><operands><op begin="45022" end="45031"><text>generator</text></op><op begin="45038" end="45048"><text>inspection</text></op><op begin="45053" end="45062"><text>conducted</text></op></operands></s><s riskFactorValue="G" begin="45588" end="45763"><text>? A generator crawl thru inspection was performed and mini-cone/support brace dusting, tape separation and parallel ring dusting was found and repaired on a best effort basis.</text><operands><op begin="45592" end="45601"><text>generator</text></op><op begin="45613" end="45623"><text>inspection</text></op><op begin="45628" end="45637"><text>performed</text></op></operands></s><s riskFactorValue="E" begin="50979" end="51047"><text>Major transformer maintenance is performed on a five-year frequency.</text><operands><op begin="50985" end="50996"><text>transformer</text></op><op begin="51012" end="51021"><text>performed</text></op><op begin="51032" end="51036"><text>year</text></op></operands></s><s riskFactorValue="E" begin="55759" end="55933"><text>The facility owns its own thermal imaging camera and thermographic inspections of electrical switchgear are conducted on a yearly basis as well as prior to scheduled outages.</text><operands><op begin="55785" end="55792"><text>thermal</text></op><op begin="55793" end="55800"><text>imaging</text></op><op begin="55812" end="55825"><text>thermographic</text></op><op begin="55826" end="55837"><text>inspections</text></op><op begin="55841" end="55851"><text>electrical</text></op><op begin="55867" end="55876"><text>conducted</text></op><op begin="55882" end="55888"><text>yearly</text></op><op begin="55882" end="55888"><text>yearly</text></op></operands></s></sentences></value></entry><entry><key>RF002</key><value name="RF002" value="U"><sentences/></value></entry><entry><key>RF003</key><value name="RF003" value="G"><sentences><s riskFactorValue="E" begin="13378" end="13414"><text>There are no gas compressors onsite.</text><operands><op begin="13388" end="13390"><text>no</text></op><op begin="13391" end="13394"><text>gas</text></op></operands></s><s riskFactorValue="G" begin="21889" end="21921"><text>? Automatic steam turbine drains</text><operands><op begin="21915" end="21921"><text>drains</text></op></operands></s><s riskFactorValue="G" begin="21922" end="21953"><text>? Automatic steam header drains</text><operands><op begin="21947" end="21953"><text>drains</text></op></operands></s><s riskFactorValue="G" begin="34355" end="34470"><text>2. U-tube seal oil drain modification per Siemens Product Bulletins (PBs) 3-14-0005-GT-EN-02 and 3-PM-040063-01-155</text><operands><op begin="34374" end="34379"><text>drain</text></op></operands></s><s riskFactorValue="X" begin="39188" end="39240"><text>? Exhaust Static Seal - Visually inspected in place.</text><operands><op begin="39190" end="39197"><text>Exhaust</text></op><op begin="39205" end="39209"><text>Seal</text></op></operands></s><s riskFactorValue="X" begin="54803" end="54843"><text>Emergency Lube and Seal Oil Pump Testing</text><operands><op begin="54813" end="54817"><text>Lube</text></op><op begin="54822" end="54826"><text>Seal</text></op><op begin="54827" end="54830"><text>Oil</text></op></operands></s></sentences></value></entry><entry><key>RF004</key><value name="RF004" value="G"><sentences><s riskFactorValue="G" begin="8163" end="8266"><text>All major systems are receiving regular inspections and maintenance keeping them in good working order.</text><operands><op begin="8195" end="8202"><text>regular</text></op><op begin="8203" end="8214"><text>inspections</text></op></operands></s><s riskFactorValue="G" begin="19072" end="19121"><text>All boiler safety valves are EVT tested annually.</text><operands><op begin="19090" end="19096"><text>valves</text></op><op begin="19105" end="19111"><text>tested</text></op><op begin="19112" end="19120"><text>annually</text></op></operands></s><s riskFactorValue="G" begin="19419" end="19480"><text>The steam drums have internal inspections on an annual basis.</text><operands><op begin="19449" end="19460"><text>inspections</text></op><op begin="19467" end="19473"><text>annual</text></op></operands></s><s riskFactorValue="G" begin="24809" end="24965"><text>Regular inspection of the airfoils has revealed erosion, which is exacerbated by the low load operation and cycling carried out at Greenfield Energy Centre.</text><operands><op begin="24809" end="24816"><text>Regular</text></op><op begin="24817" end="24827"><text>inspection</text></op></operands></s><s riskFactorValue="G" begin="54548" end="54653"><text>The steam turbine steam stop and control valves are tested daily during start-up and shutdown evolutions.</text><operands><op begin="54581" end="54595"><text>control valves</text></op><op begin="54600" end="54606"><text>tested</text></op><op begin="54607" end="54612"><text>daily</text></op></operands></s><s riskFactorValue="G" begin="57689" end="57768"><text>All auxiliary safety valves are tested/calibrated/overhauled on a yearly basis.</text><operands><op begin="57710" end="57716"><text>valves</text></op><op begin="57721" end="57727"><text>tested</text></op><op begin="57755" end="57761"><text>yearly</text></op></operands></s></sentences></value></entry><entry><key>RF005</key><value name="RF005" value="E"><sentences><s riskFactorValue="E" begin="3890" end="4019"><text>Predictive Maintenance (PdM) ....................................................................................................</text><operands><op begin="3890" end="3912"><text>Predictive Maintenance</text></op><op begin="3914" end="3917"><text>PdM</text></op></operands></s><s riskFactorValue="G" begin="8163" end="8266"><text>All major systems are receiving regular inspections and maintenance keeping them in good working order.</text><operands><op begin="8195" end="8202"><text>regular</text></op><op begin="8203" end="8214"><text>inspections</text></op><op begin="8219" end="8230"><text>maintenance</text></op></operands></s><s riskFactorValue="G" begin="8300" end="8396"><text>There is a good operator-training program in place and good operational testing is taking place.</text><operands><op begin="8355" end="8359"><text>good</text></op><op begin="8372" end="8379"><text>testing</text></op></operands></s><s riskFactorValue="E" begin="8431" end="8468"><text>There is a good CMMS system in place.</text><operands><op begin="8447" end="8451"><text>CMMS</text></op></operands></s><s riskFactorValue="G" begin="15593" end="15639"><text>Maintenance is scheduled on equivalent starts.</text><operands><op begin="15593" end="15604"><text>Maintenance</text></op><op begin="15608" end="15617"><text>scheduled</text></op></operands></s><s riskFactorValue="E" begin="16261" end="16291"><text>Predictive Maintenance (PdM) G</text><operands><op begin="16261" end="16283"><text>Predictive Maintenance</text></op><op begin="16285" end="16288"><text>PdM</text></op></operands></s><s riskFactorValue="P" begin="19639" end="19728"><text>Primarily due to the cycling operation, tube leaks have been an issue at the tube header.</text><operands><op begin="19684" end="19689"><text>leaks</text></op><op begin="19721" end="19727"><text>header</text></op></operands></s><s riskFactorValue="G" begin="26066" end="26174"><text>Service bulletin compliance is monitored by the OEM, Siemens as part of the long-term maintenance agreement.</text><operands><op begin="26097" end="26106"><text>monitored</text></op><op begin="26114" end="26117"><text>OEM</text></op></operands></s><s riskFactorValue="G" begin="26175" end="26388"><text>Siemens and GEC utilize the Siemens Total Maintenance Service (TMS) tool for planning and execution of outages to ensure that the latest applicable service bulletins are incorporated into the maintenance schedule.</text><operands><op begin="26367" end="26378"><text>maintenance</text></op><op begin="26379" end="26387"><text>schedule</text></op></operands></s><s riskFactorValue="G" begin="26517" end="26700"><text>Inspection/overhaul intervals are: combustion inspection at 450 starts; hot gas path inspection at 900 starts; combustion inspection at 1350 starts, and major overhaul at 1800 starts.</text><operands><op begin="26517" end="26527"><text>Inspection</text></op><op begin="26537" end="26546"><text>intervals</text></op><op begin="26589" end="26592"><text>hot</text></op><op begin="26602" end="26612"><text>inspection</text></op></operands></s><s riskFactorValue="E" begin="34321" end="34354"><text>1. Exhaust manifold crack repairs</text><operands><op begin="34341" end="34346"><text>crack</text></op><op begin="34347" end="34354"><text>repairs</text></op></operands></s><s riskFactorValue="G" begin="34321" end="34354"><text>1. Exhaust manifold crack repairs</text><operands><op begin="34341" end="34346"><text>crack</text></op><op begin="34347" end="34354"><text>repairs</text></op></operands></s><s riskFactorValue="E" begin="55096" end="55194"><text>The primary tool used to manage the plant maintenance and inspections schedule is the CMMS system.</text><operands><op begin="55182" end="55186"><text>CMMS</text></op></operands></s><s riskFactorValue="G" begin="55096" end="55194"><text>The primary tool used to manage the plant maintenance and inspections schedule is the CMMS system.</text><operands><op begin="55138" end="55149"><text>maintenance</text></op><op begin="55154" end="55165"><text>inspections</text></op><op begin="55166" end="55174"><text>schedule</text></op></operands></s><s riskFactorValue="G" begin="55238" end="55370"><text>This system is used to automate the generation of work orders, schedule preventive maintenance, track assets, and control inventory.</text><operands><op begin="55301" end="55309"><text>schedule</text></op><op begin="55310" end="55332"><text>preventive maintenance</text></op><op begin="55334" end="55339"><text>track</text></op></operands></s><s riskFactorValue="G" begin="55543" end="55607"><text>There is a good maintenance-training program established at GEC.</text><operands><op begin="55554" end="55558"><text>good</text></op><op begin="55559" end="55570"><text>maintenance</text></op></operands></s><s riskFactorValue="E" begin="55608" end="55704"><text>There are lesson plans, and OJT is used to further the training of all on the maintenance staff.</text><operands><op begin="55686" end="55697"><text>maintenance</text></op><op begin="55698" end="55703"><text>staff</text></op></operands></s><s riskFactorValue="E" begin="55705" end="55733"><text>Predictive Maintenance (PdM)</text><operands><op begin="55705" end="55727"><text>Predictive Maintenance</text></op><op begin="55729" end="55732"><text>PdM</text></op></operands></s></sentences></value></entry><entry><key>RF006</key><value name="RF006" value="U"><sentences/></value></entry><entry><key>RF007</key><value name="RF007" value="F"><sentences><s riskFactorValue="X" begin="50505" end="50580"><text>It is suggested that this test should be included in the next test program.</text><operands><op begin="50505" end="50510"><text>It is</text></op><op begin="50511" end="50520"><text>suggested</text></op><op begin="50511" end="50520"><text>suggested</text></op><op begin="50536" end="50545"><text>should be</text></op><op begin="50572" end="50579"><text>program</text></op></operands></s><s riskFactorValue="X" begin="54803" end="54843"><text>Emergency Lube and Seal Oil Pump Testing</text><operands><op begin="54803" end="54812"><text>Emergency</text></op><op begin="54822" end="54826"><text>Seal</text></op></operands></s></sentences></value></entry><entry><key>RF008</key><value name="RF008" value="G"><sentences><s riskFactorValue="G" begin="49543" end="49677"><text>The transformers are protected with sudden pressure relays, lightning protection, and digital microprocessor protective relay systems.</text><operands><op begin="49603" end="49612"><text>lightning</text></op><op begin="49613" end="49623"><text>protection</text></op></operands></s></sentences></value></entry><entry><key>RF009</key><value name="RF009" value="U"><sentences/></value></entry><entry><key>RF010</key><value name="RF010" value="E"><sentences><s riskFactorValue="E" begin="53187" end="53219"><text>The control room is manned 24/7.</text><operands><op begin="53204" end="53206"><text>is</text></op><op begin="53214" end="53218"><text>24/7</text></op></operands></s></sentences></value></entry><entry><key>RF011</key><value name="RF011" value="U"><sentences/></value></entry><entry><key>RF012</key><value name="RF012" value="U"><sentences/></value></entry></riskFactors><parameters/><attributes><a name="INSURED_NAME" begin="61" end="89"><text>Greenfield Energy Centre, Lp</text></a><a name="INSURED_NAME" begin="0" end="16"><text>Power Generation</text></a><a name="INSURED_NAME" begin="40" end="46"><text>Survey</text></a><a name="COUNTRY" begin="153" end="159"><text>Canada</text></a><a name="PROVINCE" begin="145" end="152"><text>Ontario</text></a><a name="SURVEY_DATE_WEAK" begin="169" end="184"><text>20201007</text></a><a name="AS_Presence" begin="0" end="1"><text>No</text></a></attributes></riskFactorAnalysis>

@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><riskFactorAnalysis><text>Combined Loss Prevention Report
+Boiler and Machinery/ Fire and Associated Perils
+Prepared for:
+Harbert Management Corporation
+Redwood Facility Live Oak
+7001 Granite Road
+Bakersfield, CA, 93313 USA
+File Number: 1752.0012
+Date Visited: March 05, 2020
+Prepared By: Deborah Adams Deborah.Adams@tuvsud.com
+760.220.7162
+Conferred With: Carlos Sanchez; Asset Manager/Manager of Engineering csanchez@casmsops.com
+Kent Porterfield; O&amp;M Supervisor, Live Oak cporterfield@camsops.com
+Global Risk Consultants Corp. Phone: +1 732 827 4400
+100 Walnut Ave., Suite 501 www.tuvsud.com/grc
+Clark, New Jersey 07066 United States Baseline Template – Feb 20
+Global Risk Consultants Corp.
+Harbert Management Corp. – Redwood Facility Live Oak #1752.0012
+Bakersfield /CA/USA 03/20
+Contents
+1. Summary .............................................................................................................................................. 3
+2. General ................................................................................................................................................. 3
+3. Recommendations ............................................................................................................................... 4
+4. Changes and Comments ..................................................................................................................... 5
+COMPLETED/REMOVED RECOMMENDATIONS ................................................................................................................. 5
+MAJOR CHANGES ................................................................................................................................................................. 5
+OTHER COMMENTS AND PROJECTS ................................................................................................................................. 5
+5. Loss History ......................................................................................................................................... 6
+6. Underwriting Summary ....................................................................................................................... 6
+CONSTRUCTION .................................................................................................................................................................... 6
+7. Steam Generation ................................................................................................................................ 7
+8. Prime Movers ....................................................................................................................................... 9
+9. Generators .......................................................................................................................................... 11
+10. Transformers ...................................................................................................................................... 12
+11. Balance of Plant ................................................................................................................................. 13
+12. Operations and Maintenance Programs .......................................................................................... 14
+13. Fire Protection Features .................................................................................................................... 15
+14. Management Programs ..................................................................................................................... 15
+15. Public Protection ............................................................................................................................... 16
+16. Natural Hazard and Other Exposures/Perils .................................................................................... 16
+17. Contingency Programs and Critical Spares .................................................................................... 19
+18. Loss Estimates................................................................................................................................... 20
+PROBABLE MAXIMUM LOSS .............................................................................................................................................. 21
+MAXIMUM FORESEEABLE LOSS ....................................................................................................................................... 21
+DISCLAIMER
+This report reflects only information provided to GRC and observations of existing conditions made by GRC at the time of the site visit. This report does not purport to set forth all hazards nor to indicate that other hazards do not exist. We urge that recommendations presented, if any, be given serious consideration and we would be pleased to discuss alternative solutions. GRC assumes no responsibility for the control or correction of conditions or the practices existing at the reviewed premises.
+2020 © Global Risk Consultants Corp. Page 2
+Harbert Management Corp. – Redwood Facility Live Oak #1752.0012
+Bakersfield/CA/USA 03/20
+1. Summary
+The purpose of this visit was to conduct a fire/boiler and machinery review of the generation operations, maintenance practices and procedures, and to evaluate the overall potential exposures at this plant. The primary focus of this visit centered on critical and auxiliary equipment for the generating units and utility services and preventative/predictive maintenance programs. The visit included a site tour of key areas. The plant staff provided excellent cooperation during this loss prevention inspection. Their assistance was greatly appreciated.
+2. General
+Live Oak is owned by Western Generation Partners (WGP) and operated by Consolidated Asset Management Services (CAMS).
+The plant is located approximately 10 miles north of Bakersfield, CA.
+Live Oak is a simple cycle power plant which consists of a 50 MW General Electric LM5000 aero-derivative gas turbine driving a
+Brush generator, exhausting to a Deltak heat recovery steam generator which provides injection steam for NOx control and power augmentation. The Unit generates 13.8 kV which is stepped up to 115 kV for transmission. Commercial date 1991.
+The plant is operated peaking in service under a tolling agreement with a 1 hour start to 48 MW for availability, expiring 4/1/2022.
+The plant is dispatched by CAISO (California Independent System Operator) and operator approximately 300-400 hours per year.
+Minimum load is 32MW and maximum load is 48MW, minimum run 4 hours. The plant does not have black start capability.
+The gas turbine is fired on natural gas, supplied by Mojave/Kern Pipeline at approximately 700 psig. There is a gas compressor skid with 3 X 50% gas compressors, which is no longer used. Supply pressure is sufficient to fire the gas turbine.
+The plant is manned 24/7 with 6 assigned positions and 2 shared. Manning is considered adequate for this type of operation.
+2020 © Global Risk Consultants Corp. Page 3
+Harbert Management Corp. – Redwood Facility Live Oak #1752.0012
+Bakersfield/CA/USA 03/20
+3. Recommendations
+BM-20-01 Mechanical Systems
+Reconfigure the generator DC lube oil pump motor overload trips for alarm function only
+Comments: It appears that the generator emergency (DC) lube oil pump motor is protected by thermal overload devices. These devices should be reconfigured to alarm only. This will ensure an adequate supply of lube oil is delivered to the generator when unit power is lost and the unit is rolling down.
+The loss of this oil supply will allow the generator shaft to contact bearing metal, resulting in costly damage to shaft journals and bearings. Furthermore, often times this will cause severe damage to generator rotating components when contacting stationary components, as bearings are wiped.
+References: Industry Best Practice; OEM guidelines
+BM-20-02 Electrical Prevent/Predict Maint.
+Resume annual thermography of transformers, circuit breakers, switchgear, and electrical systems
+Comments: Previously annual IR thermographic inspections were conducted at the facility. The plant has now gone to 2-3 intervals on thermographic inspections.
+Thermographic Surveys are a vital part of condition based maintenance and will act to detect anomalies prior to equipment failure.
+2020 © Global Risk Consultants Corp. Page 4
+Harbert Management Corp. – Redwood Facility Live Oak #1752.0012
+Bakersfield/CA/USA 03/20
+4. Changes and Comments
+COMPLETED/REMOVED RECOMMENDATIONS
+This was the first TÜV SÜD Global Risk Consultants visit to the facility.
+MAJOR CHANGES
+This was the first TÜV SÜD GRC visit to the facility. Plant personnel are to be commended on their preparation for the site visit.
+Recent maintenance and outages includes the following:
+2019
+? GT borescope inspection by ANZ 02/2019
+? GT External component inspection conducted by ANZ 03/2019
+Comments:
+The site should determine that tightness of the combustion turbine gas train valves is part of the start permissive prior to a gas turbine start.
+A walkdown of the facility was conducted in selected areas during the visit. The unit was offline. Overall equipment appeared to be in satisfactory condition and sell maintained. Any items noted during the walkdown were discussed with plant personnel at the time of inspection, with satisfactory results.
+Housekeeping was very good for this type of facility.
+The plant operated 354 hours with 61 fired starts in 2019
+Overall Risk Engineering Opinion of Inherent Risk: The risks associated with this combustion turbine simple cycle plant were observed to be typical for this type of occupancy. This facility has one aero-derivative combustion turbine generating unit with steam injection provided by one HRSG; a failure involving a major component such as the HRSG, turbine, generator, or GSU transformer would result in a 100% loss of the power generation capability. The risk is mitigated by the spares staged at the
+Lencioni office/warehouse in Bakersfield, CA.
+To support reliable plant operation, this facility appears to have an effective infrastructure in place for monitoring and maintaining plant equipment and systems. A computerized maintenance management system is in place for tracking cycles of maintenance and overall maintenance practices are conservative. Overall, this facility is considered to be an average to above average risk.
+OTHER COMMENTS AND PROJECTS
+Special Hazards:
+? Anhydrous Ammonia 1700gals. Boiler (HRSG) Center of plant
+? Hydrochloric Acid 7950 gals. Demin Train
+? Sodium Hydroxide 7950 gals. Demin Train
+? Turbine Lube Oil 220 gals. Gas Turbine South end of Gas Turbine
+? Diesel 55 gals. In Plant Oil Storage Shed
+Completed Projects: None
+New/Ongoing Projects: None
+2020 © Global Risk Consultants Corp. Page 5
+Harbert Management Corp. – Redwood Facility Live Oak #1752.0012
+Bakersfield/CA/USA 03/20
+5. Loss History
+No loss history exists for this location.
+6. Underwriting Summary
+CONSTRUCTION
+The Control Building is a 2400 ft2, all metal construction structure with a slab floor. The control room/offices and MCC are separated by a fire wall/fire door. Both spaces are protected by a Halon gas system.
+The Admin/Shop Building is a 1200 ft2, all metal construction structure with a slab floor. Local smoke detection is installed.
+There is a small metal exterior 630 ft2 High Voltage Switchgear Building which is protected by smoke detection.
+There are other miscellaneous small buildings/sheds onsite.
+2020 © Global Risk Consultants Corp. Page 6
+Harbert Management Corp. – Redwood Facility Live Oak #1752.0012
+Bakersfield/CA/USA 03/20
+7. Steam Generation
+HRSG’s
+Unit 1
+Manufacturer Deltak
+Year Built Serial No. 1990-1991 --
+Nat’l Bd# 663, 664, 668
+HP 790
+MAWP (psig) HP IP LP HP 330 150 108,900
+Capacity (lbs/hr) IP LP HP 17,450 24,600 128,330
+Heating Surface (ft2) IP LP Reheat 65,920 70,800 No
+Temperature SH (°F) 915
+Duct Firing No
+Flue Gas Flow Horizontal
+The HRSG is of natural-circulation design and generates steam at three pressure levels: superheated high pressure (HP), intermediate pressure (IP), and low pressure (LP). The HRSG is not equipped with supplemental duct burners. There is no
+HRSG by-pass damper: steam is utilized for power augmentation, NOx control, the chiller, DA tank, and air preheat, or vented.
+The HRSG is laid up hot and slug fed chemicals for PH and oxygen scavenging; the unit is maintained full of water and sealed for hour ahead dispatch.
+The boiler and pressure vessels are registered with the State of California and inspections are conducted annually for boilers and every five years for air receivers. The statutory inspections are current for the boiler and pressure vessels. Repair work is performed by an ASME “R” stamp holder.
+The HRSG is controlled through and Ovation DCS in the control room. Water level indication is within the DCS with 3 separate taps per drum. There is a separate direct remote level indication located outside the control room at the lower level. All critical instrumentation is calibrated on an annual basis.
+Boiler protection includes, but is not limited to, the following:
+? Low Water Level Alarm
+? Low/Low Water Level Trip – MFT
+? High Water Level Alarm/Trip
+? SH Temp High/Low Alarm
+? Boiler Feed Water Pressure Low Alarm
+The HRSG is designed for current operation. There have been no major modifications to the HRSG since start-up.
+Boiler water treatment is a coordinated phosphate system. Grab samples are taken when the unit is in service. Boiler chemistry is monitored offline and maintained with a neutralizing amine and O2 scavenger. Pretreatment is with mixed bed demin trains.
+There are two 250,000 gallon demin storage tanks with a fire water connection on each tank. In addition, there is a 250,000 gallon raw water tank.
+2020 © Global Risk Consultants Corp. Page 7
+Harbert Management Corp. – Redwood Facility Live Oak #1752.0012
+Bakersfield/CA/USA 03/20
+Safety Valves: Safety valves are tested annually and overhauled every 5 years. There is a full set of spare safety valves available.
+Boiler Feed Water Pumps: There are 2 X 100% 480V motor driven boiler feed pumps with dual pressure for the HP and IP drums. The feed pumps are located on a single bus.
+Deaerator Tanks: There is a single stand-alone DA tank. WFMT inspection in conducted every 5 years.
+Flow Assisted Corrosion: There is a formal program in place for FAC inspections. Frequency is 5 years.
+High Energy Piping: There is a formal program in place for HEP inspections. Frequency is 5 years.
+Hanger Inspections: There is an informal inspection program in place for hanger inspections.
+FGD/SCR Emissions Treatment System: A CO catalyst and SCR system with Anhydrous ammonia injection is utilized for emissions control. There is a 12,000-gallon ammonia tank maintained at 1700 gallons or 8755 pounds of anhydrous ammonia which is below the 10,000-pound threshold requiring PSM.
+Liquid Fuel Storage: None
+Gas Fuel: Natural gas supplied by Mojave/Kern pipeline.
+Control &amp; Support Rooms: The plant is operated from a single centralized control room. The 480V switchgear is located adjacent to the control room in the same building. Protection includes a Halon system, and smoke detection. The Halon system includes 2 800lb bottles for the switchgear room and 2 267lb bottles for the control room, activated as primary and secondary release. Testing/inspection is conducted semi-annually.
+2020 © Global Risk Consultants Corp. Page 8
+Harbert Management Corp. – Redwood Facility Live Oak #1752.0012
+Bakersfield/CA/USA 03/20
+8. Prime Movers
+Gas Turbines
+Manufacturer Unit 1 General Electric
+Type Aero-derivative
+Model LM5000
+Serial # 474-114
+Year Built 1991 (package installed)
+ISO Rating (kW) 48 MW
+Fuel Natural Gas
+Compressor LPC – 5, HPC - 14
+Combustor SAC 30 Nozzles
+Turbine HPT – 2, LPT – 1, PT - 3
+Drive End Hot
+Starting Hydraulic Starter
+RPM HP – 10,300, LP – 3850, PT - 3600
+Dynamic Monitoring No
+Inlet Cooling Lithium Bromide Chiller
+NOx Control Steam Injection
+Power Augmentation (PAG) Steam Injection (STIG)
+The following engine run hours as of 1/31/2019 are as follows:
+Unit 474-179 Since last rebuild Fired Hours Fired Starts 4,198
+Since new (package) 177,364
+Total Fired Starts 268
+Fired Starts since last major --
+Since last TMF 8,380
+Since last Hot Section 12,198
+Since last PT Overhaul 44,339
+The aero-derivative gas turbine is operated in peaking service, simple cycle with an HRSG for steam injection (STIG). The steam injection is provided for NOx control and power augmentation. An 850-ton Trane lithium bromide chiller provides inlet cooling.
+Eddy current testing is conducted on the chiller every 5 years.
+The unit is equipped with a hydraulic starting system with a 40-gallon reservoir, located in a separate package. The starter system is sprinklered. Testing is conducted annually.
+A Wood Group Micronet system is installed for turbine controls.
+Turbine Protection: Gas turbine protection includes, but is not limited to, the following:
+? Vibration Monitoring: BN3500 Alarm &amp; Trip
+? Overspeed Trip Protection: Electronic
+? Low Lube Oil Pressure Trip
+? Low Lube Oil Temperature Alarm
+2020 © Global Risk Consultants Corp. Page 9
+Harbert Management Corp. – Redwood Facility Live Oak #1752.0012
+Bakersfield/CA/USA 03/20
+? High Lube Oil Temperature Alarm/Trip
+? Hot Gas Temp High Trip
+? High Exhaust Gas Temp Trip
+? Loss of Flame Trip
+? Axial Rotor Position Alarm
+? Anti-icing Logic
+? Filter House differential pressure
+? Emergency Oil Pump - Generator o Thermal Overloads to Alarm Only - Verify o Multiple Pressure Switches o Normally Energized Starting Circuit
+Overspeed Protection: The combustion turbine is equipped with an electronic overspeed trip system that consists of 2 of 3 voting logic with redundant power supplies. There are three trip systems – N2 (LPC), N25 (HPC) and NPT. These are each tested annually with the set point lowered. This was last conducted: N2 LPC / N25 HPC / NPT all 3/27/2019.
+Lubrication System: The combustion turbine is equipped with auxiliary gear driven lube oil pumps with accessory gearbox. The generator has a shaft driven lube oil pump, an AC lube oil pump, and a DC (emergency) lube oil pump. The DC lube oil pump is tested quarterly using a pressure drop method. It is not known if the DC lube oil pump is equipped with DC motor overload trips; a recommendation is offered. Operator intervention is required to secure the DC lube oil pump. There is a voltage alarm to the
+DCS.
+Technical Advisories: Technical bulletins are tracked by CAMS engineering and on site and via ANZ during maintenance. They were stated as current.
+Turbine Maintenance: There is an Air New Zealand (ANZ) tech rep situated locally for maintenance and technical support, as well as CAMS engineering. Borescope inspections are conducted annually by ANZ in the low pressure compressor, front frame, high pressure compressor, variable vane stator section, combustor, high pressure turbine rotor and stage 1 and 2 nozzle assembly, high pressure turbine rotor and stage 1 and 2 nozzle, turbine mid frame, and LPT blades and NGVs. This was last conducted 02/2019, overall components were serviceable and released for continued service. In addition, external component inspections (with limited borescope component inspection) are conducted at least annually.
+Component overhauls are conducted in accordance with OEM and CAMS guidelines. Hot section inspection is conducted at
+25,000 hours and major overhaul at 50,000 hours. The last zero-hour engine overhaul was conducted in 2014.
+Flammable/Combustible Liquids: Turbine and generator lube oil, hydraulic starter. Generator external lube heat exchanger skid and hydraulic skid are sprinklered, tested annually.
+NOX Control Systems: steam injection at the compressor discharge, combustor, and LP turbine.
+2020 © Global Risk Consultants Corp. Page 10
+Harbert Management Corp. – Redwood Facility Live Oak #1752.0012
+Bakersfield/CA/USA 03/20
+9. Generators
+Generators
+Manufacturer Unit 1 Brush
+Frame BDAX-7-290ER
+Machine # 61338A-5G
+Year Built 1990
+Rating (kW) 54,497
+Rating (MVA) 68,820
+Cooling Air
+H2 Pressure N/A
+Power Factor 0.85
+Stator Volts 13,800
+Stator Amps 2,879
+Excitation Brushless
+Hertz 60
+RPM 3600
+Field Amps 930
+Field Volts 185
+Retaining Rings 18Mn/18Cr
+# of Poles 2
+The generator is an air-cooled machine. The generator is connected to the GSU transformer through a non-segregated bus via a 52G vacuum circuit breaker. Bus and breaker maintenance and testing is conducted on a 4 year basis. Demarcation to the utility is the 2st disconnect oh the high side of the 115kV SF6 breaker to PG&amp;E.
+Generator Protection: Generator protection includes, but is not limited to, the following:
+? Reverse/Directional Power Protection Relay (32)
+? Over Excitation Volt/Hertz Relay (24G)
+? Under/Over Voltage Relay (27/59G)
+? Lockout Relay (86)
+? Current Negative Sequence Relay (46)
+? Ground Differential Relay (87)
+? Under/Over Frequency Relays (81)
+? Voltage Transformer Signal Loss (60)
+? AC Time Overcurrent Relay (51)
+? Generator Field Ground Relay (64)
+? Neutral Ground Over-Voltage (64G)
+? Loss of Excitation/Field Relay (40)
+? Generator Neutral, Ground Over-voltage (59N1/59N3).
+? Synch Check Relay (25)
+? Instantaneous Overcurrent (50)
+? Back-Up Distance (21G)
+? Out-of-Step Protection (78G)
+? Generator Inadvertent energization
+? Stator Winding Temperature Alarm
+2020 © Global Risk Consultants Corp. Page 11
+Harbert Management Corp. – Redwood Facility Live Oak #1752.0012
+Bakersfield/CA/USA 03/20
+The unit is not equipped with 100% winding ground-fault protection. It is equipped with a conventional electromechanical relay which provides 90% to 95% protection for the stator. The generator protective relays are electromechanical type. The site is investigating budgeting to install microprocessor relay protection which would provide 100% winding ground fault protection.
+Relay calibration is conducted on a 5-year cycle, last conducted 02/2019 with satisfactory results.
+Maintenance: Generator maintenance is conducted in accordance with OEM and CAMS guidelines. Generally at 25,000 (Minor) and 50,000 (Major) intervals. Minor inspections are conducted with end bells removed for inspection and testing. Exciter inspections are conducted and electrical testing including insulation resistance and megger testing is completed. Major overhauls are conducted with the rotor removed and more extensive inspection and electrical conducted.
+The last major overhaul was conducted in 20015. Rotor was removed. Visual inspections, mechanical inspections, and electrical testing was conducted on all rotating and stationary components. A minor inspection was conducted in 2013 with the endbells removed. Visual inspections were conducted, bearing inspections were conducted, and limited electrical testing was conducted.
+10. Transformers
+GSU Transformers
+Manufacturer GSU Transformer ABB Auxiliary Transformer Westinghouse
+Serial # MNL 5655.03 PAL3801-0401
+Year Built 1991 1991
+Rating (kVA) 54,000/60,480 2500/2800/3125/3500
+Cooling OA OA/FA
+Temperature Rise (°C) 55/65 55/65
+Low Voltage 13,800 480
+High Voltage 115,000 13,800
+Phase 3 3
+Windings Hertz 2 60 2 60
+BIL (kV) 450/110/110 110/30
+Impedance (%) 7.30 5.60
+Preservation Gas Blanketed Sealed
+Altitude -- --
+Oil Quantity (gallons) 5,937 418
+Form Core Core
+Tap Changer DETC DETC
+There is a single GSU transformer supplied by the generators through a 13.8kV non segregated bus. There is also a single oil filled 3500kVA oil filled auxiliary transformer that steps 13,800V down to 480Y/277V for distribution throughout the plant.
+Power is supplied offline by back feed through the GSU tor the auxiliary transformer. The main and auxiliary transformers have containment and blast walls.
+2020 © Global Risk Consultants Corp. Page 12
+Harbert Management Corp. – Redwood Facility Live Oak #1752.0012
+Bakersfield/CA/USA 03/20
+Transformer Protection: Transformer protection includes, but is not limited to, the following:
+? Sudden Pressure Relay
+? Pressure Relief Device
+? High and Low Oil Level Alarm
+? Winding Temperature Alarm and Trip
+? Oil Temperature Alarm and Trip
+? Loss Control Voltage Cooling System Auxiliaries
+? Ground Detection
+? Surge Arrestors
+? Differential Relays (87)
+? Overcurrent Relays (50/51)
+Protective relays are electromechanical type and are tested/calibrated every 5 years, last done 2016
+Maintenance: Transformer oil samples are taken annually on the GSU Unit Auxiliary transformer. Conditions were found to be satisfactory. The transformer oil analysis results for February 2020 were reviewed. Overall conditions were satisfactory. No PCBs are located on site.
+Electrical testing is performed on the GSU transformer and auxiliary transformer every three years and includes Doble power factor testing of the windings and bushings, insulation resistance, polarization index, excitation test, and turns ratio.
+11. Balance of Plant
+Fuel Handling/Storage Information: Natural gas is supplied by Mojave/Kern Pipeline at approximately 700 psig. There is a gas compressor skid with 3 X 50% gas compressors, which is no longer used. Supply pressure is sufficient to fire the gas turbine.
+There is abandoned PG&amp;E supply pipeline which capped and disconnected.
+Pressure Vessel Inspection: There is a formal mechanical integrity inspection program for pressure vessels. Inspections were last conducted in 2016. Air tanks are maintained in accordance with jurisdictional requirements. There is also a formal program in pace for maintaining pressure vessel relief valves, frequency depends on system.
+Electrical Distribution System: An interruption at 115kV transmission with create a black plant condition.
+All plant loads are 480 Volt are supplied through a single 2500 kVA 13.8 kV/ 480Y/277V transformer.
+HV, MV, and LV Switchgear are reconditioned every 5 years. This includes the yard 115 kV SF6 circuit breaker, generator 52G breaker, cleaning, exercising, insulation resistance testing and current injection when appropriate of MV and LV circuit breakers.
+Last conducted 2016.
+Relays: Relay protection is primarily electromechanical; testing is conducted on a 5-year frequency. Last testing was conducted
+2016, overall conditions were satisfactory.
+Station Batteries: Control system, UPS batteries and station service batteries are all VRLA. PMs are conducted quarterly and annually by contract. Operators perform daily checks on the batteries and chargers. Full load capacity discharge testing is not conducted, policy is to replace all batteries every 5 years.
+The 24V turbine control batteries were replaced in 2017. The fire and gas control battery bank, the 125V UPS battery bank and the 125V station service battery bank were all replaced in 2018.
+2020 © Global Risk Consultants Corp. Page 13
+Harbert Management Corp. – Redwood Facility Live Oak #1752.0012
+Bakersfield/CA/USA 03/20
+Water Systems: City water is supplied by the West Kern Water District of Taft, CA. Water is used for boilers, fire protection and the chilled water/cooling water circulation system. There is one 250,000-gallon raw water tank. Treated water from the raw water tank is stored in the plant’s two 250,000-gallon demin water storage tanks. These tanks are kept 80% full. Water supply is very reliable and adequate with no past history of any prolonged water supply outages. All storage tanks have a fire water connection.
+The is an injection well on site for wastewater.
+There is a small BAC 2 cell cooling tower for auxiliary cooling. There is a 850-ton Trane lithium bromide chiller installed for combusting turbine inlet cooling.
+Compressed Air Systems: The compressed air system includes a 50HP/480V Sullivan rotary screw air compressor with associated air tank and dryers. When the plant is operating plant and instrument air is supplied by gas turbine through the 8th stage bleed. Rental compressors are readily available.
+Emergency Power: A rental generator is used for plant needs during a black plant situation. There is a provision for the 480volts electrical outlet connection with portable power cable for hook up for the rental electrical generator unit for plant emergency lighting load. Rental generators are readily available.
+12. Operations and Maintenance Programs
+Operating Procedures: Operating procedures are maintained in hard copy and electronic format with the electronic being controlled copies. Periodic review is conducted. Procedures include start-up and shutdown checklists, and operating procedures for equipment and plant systems.
+Operator Training: Operator training includes OJT, P&amp;IDs, procedure review, oral exams, and computer-based training.
+Management of Change: There is a formal management of change program in place.
+Control Systems: The plant is operated from a single centralized control room. Monitoring and control of the HRSG and BOP equipment is accomplished with an Ovation DCS. A Wood Group Micronet control system is used for the gas turbine generator.
+Manning is considered adequate for this type of operation. A jumper log is maintained.
+Maintenance: An AVANTIS computerized maintenance management system is utilized for managing asset maintenance, work orders, and preventive maintenance. Engineering is supported by on site staff, CAMS engineering, ANZ technical support for combustion turbine (local tech), and OEMs. The program is primarily preventative/ predictive in nature.
+Most major maintenance is conducted by contractors. Maintenance evolutions appear to be adequate for properly maintaining installed equipment.
+Freeze Protection: There is a program for freeze protection in place.
+Predictive Maintenance Technologies:
+? Vibration monitoring is continuous on the gas turbine generator, analysis is conducted as needed. A BN ADRE system is installed.
+? Lubricating oil &amp; Hydraulic fluid testing is conducted every two months and includes particle count, physical tests, contaminants, metals, and additives.
+? Infrared thermography is conducted every 2-3 years. It used to be annually; a recommendation is offered to resume annual thermography inspections.
+? Motor Testing is conducted as needed.
+Unmanned Aviation Systems and Unmanned Submersibles: The plant does not use drones at this time.
+2020 © Global Risk Consultants Corp. Page 14
+Harbert Management Corp. – Redwood Facility Live Oak #1752.0012
+Bakersfield/CA/USA 03/20
+Industrial IT Systems: The plant ICS includes island operation or air gap protocols. The servers are located at the Lencioni Ave.
+CAMS office.
+13. Fire Protection Features
+Automatic Sprinklers:
+Fire Sprinkler Systems Data
+Designed/Existing Required Base of Riser Demand Sprinkler Syst. No. Area Protected Density/Area Density/Area Flow Pressure Temp. Rating (gpm/ft2/ft2) (gpm/ft2/ft2) (gpm) (ft2) (°F)
+Wet Hydraulic starter package --- --- --- --- ---
+Wet Generator LO Heat Exchanger skid --- --- --- --- ---
+Water Supply, Water Mains, and Fire Hydrants: Water supply is from the West Kern Water District via a gravity tank offsite.
+There are two fire monitors located on site. There is also a separate fire water connection directly from the WKWD supply to the plant.
+Special Extinguishing Systems: A high pressure CO2 system protects the combustion turbine and generator. The system is actuated by either a heat detector in the CT or by an external pull station. The system has an initial and an extended discharge.
+The control room and the MCC room in the Control Building are each protected by a Halon system. The Halon system includes two 800lb. bottles for the MCC room and two 267lb. bottles for the control room. Each system is activated by a primary and secondary release. Room integrity (door fan) tests were performed for each room (annual test).
+CO2 and Halon system inspection and testing is conducted semi-annually by Jorgenson.
+Alarm Systems: A main fire alarm panel is located in the control room. All fire alarms are transmitted to this panel.
+Security Measures: Site is fenced, and access is controlled from the control room. Cameras are located in strategic locations.
+Regular operator rounds are performed.
+Manual Protection: An adequate complement of portable fire extinguishers is provided.
+14. Management Programs
+Plant Emergency Organization: There is an emergency plan in place addressing fires that provides for notification of the local fire department, coordination with the fire department upon arrival, and accounting for site personnel. There are also emergency procedures addressing other issues, such as earthquakes, medical response, etc.
+Fire Protection Self-Inspections: Jorgenson conducts quarterly, semi-annual, and annual inspection/testing of the fire protection systems as required.
+? The CO2 fire protection system is activated either by 2 optical (only 1 in the generator), 1 thermal or a manual pull station.
+? A Halon extinguishing agent is used in the Control Room and MCC Room. Semi-annual testing of the Halon suppression system is conducted.
+? Annual testing of the fire alarm system including smoke detectors, manual pull stations, fire alarm panels and batteries.
+2020 © Global Risk Consultants Corp. Page 15
+Harbert Management Corp. – Redwood Facility Live Oak #1752.0012
+Bakersfield/CA/USA 03/20
+? Fire extinguisher inspections are conducted monthly in house.
+Impairment Handling: Impairments are recorded and reported to Factory Mutual.
+Ignition Source Control: A Fire Prevention Plan is in place. Flammable liquids are controlled. Visual inspections are performed daily for any oil leaks.
+A hot work permit system is in place.
+Smoking is permitted only in designated areas.
+Housekeeping: Housekeeping was noted as good. There are site and corporate procedures that address housekeeping standards for the site.
+Management of Change: There is a formal management of change program in place.
+Contractor Management: Contractors are given orientation upon arrival.
+15. Public Protection
+Fire department response is from the Kern River Department located approximately 4 miles from of the facility.
+16. Natural Hazard and Other Exposures/Perils
+Flood: The facility is located in Flood Zone X according to FIRM No. 06029 C 1825E, dated September 26, 2008. A Zone X is defined as an “area of minimal flood hazard”.
+2020 © Global Risk Consultants Corp. Page 16
+Harbert Management Corp. – Redwood Facility Live Oak #1752.0012
+Bakersfield/CA/USA 03/20
+Windstorm: Per FM Global Data Sheet 1-28, this region is subject to 85 mph wind speeds at 33 feet above the ground.
+Swiss Re CatNet® indicates a maximum 50-year peak gust speed of less than 20 m/s.
+2020 © Global Risk Consultants Corp. Page 17
+Harbert Management Corp. – Redwood Facility Live Oak #1752.0012
+Bakersfield/CA/USA 03/20
+Earthquake: Per FM Global Data Sheet 1-2, this region is located in EQ Zone 100. A potentially damaging earthquake can be expected on a greater than 100 year return interval.
+Swiss Re CatNet® indicates the site is located in an area with a high seismic risk.
+Mud Slides: No exposure
+Tsunami: No exposure
+Volcano: No exposure
+Wild Fire: Swiss Re CatNet® indicates the site is located in an area with a low wild fire risk.
+2020 © Global Risk Consultants Corp. Page 18
+Harbert Management Corp. – Redwood Facility Live Oak #1752.0012
+Bakersfield/CA/USA 03/20
+Other Exposures: None
+Latitude/Longitude: 35.4961 / -119.0091
+17. Contingency Programs and Critical Spares
+There is a formal transformer contingency program in place. With the shutdown of a similar plant, CAMS purchased major equipment to maintain as spares shared between the 4 local LM5000 sites, which include a spare GSU transformer, 2 spare gas turbines, 2 spare power turbines, a spare generator, spare auxiliary transformer, and other equipment, shared between the 4
+LM5000 Bakersfield area sites. The spares are maintained at the Lencioni Ave main offices/warehouse in Bakersfield.
+There is installed redundancy for BOP equipment. Rental equipment is readily available as needed.
+2020 © Global Risk Consultants Corp. Page 19
+Harbert Management Corp. – Redwood Facility Live Oak #1752.0012
+Bakersfield/CA/USA 03/20
+18. Loss Estimates
+(All Values in US Dollars)
+PROPERTY DAMAGE: (100%) $49,850,000
+Buildings Included
+Machinery &amp; Equipment Included
+Stock Included
+BUSINESS INTERRUPTION: (12 MONTHS) $3,974,000
+TOTAL P.D. &amp; B.I.: $53,824,000
+FIRE LOSS ESTIMATES
+ANTICIPATED PROBABLE LOSS:
+P.D. $2,000,000 B.I. $675,000 Total $2,675,000
+The Anticipated Probable Loss estimate assumes all fire protection systems work as designed and emergency response personnel (both site PEO and public agencies) act in accordance with existing plans. Under these circumstances, the worst-case loss would involve a fire inside one of the combustion turbine enclosures fed by a leak in the lubricating oil supply piping or natural gas. The fire would be controlled and limited by the CO2 system. Fire damaged parts would need to be replaced, and the combustion turbine generator would need to be pulled apart so the rotor could be examined for possible loss of strength and material embrittlement. P.D. is estimated at 10% of the estimated $20,000,000 replacement cost of approximately $2,000,000.
+BI would be estimated as 2 months until repairs and inspections could be performed. BI is calculated as:
+$3,974,000 X 2/12 months ? $675,000
+PROBABLE MAXIMUM LOSS:
+P.D. $22,000,000 B.I. $3,974,000 Total $25,974,000
+The Probable Maximum Loss estimate assumes a single fire protection system is out of service at the time of the incident and emergency response personnel (both site PEO and public agencies) act in accordance with existing plans, given potentially delayed notification due to the failure of the fire protection system. Under these circumstances, the worst case loss would involve a major fire in a combustion turbine generator which would most likely be a lubricating oil supply fire. Therefore, the fire would get out of control resulting in destruction of the combustion turbine with some periphery damage to surrounding equipment.
+Separation distance is adequate to prevent the fire spread to any other units. Fire department response is not considered except for exposure protection due to the potential for an explosion in the combustion turbine.
+The PD loss is estimated at $20,000,000 for rebuild of the combustion turbine and another $2,000,000 for periphery damage to surrounding equipment for a total PD estimate of $22,000,000.
+It is estimated to take 12 months to replace the combustion turbine generator. The BI would be the reported BI value of
+$3,974,000.
+2020 © Global Risk Consultants Corp. Page 20
+Harbert Management Corp. – Redwood Facility Live Oak #1752.0012
+Bakersfield/CA/USA 03/20
+MAXIMUM FORESEEABLE LOSS:
+P.D. $22,000,000 B.I. $3,974,000 Total $25,974,000
+The Maximum Foreseeable Loss estimate assumes complete failure of all active fire suppression systems and ineffective response from the site PEO and public agencies. Under these circumstances, the worst-case loss would involve the same scenario as the PML.
+MAXIMUM FORESEEABLE LOSS – 100 YEAR FLOOD / EARTHQUAKE EXPOSURE:
+Flood Estimate: $0 Earthquake Estimate: $10,675,000
+Flood: The site is in an area of minimal flood exposure and no flood loss would be expected.
+Earthquake: The site is in an area of high seismic risk. The PD loss would be expected to be slight damage to the combustion turbine and moderate to heavy damage to support structures and equipment. The PD is estimated to be 20% of the reported site value of 20% X $49,850,000 ? $10,000,000.
+BI would be estimated as 2 months until repairs and inspections could be performed. BI is calculated as:
+$3,974,000 X 2/12 months ? $675,000.
+BOILER MACHINERY LOSS ESTIMATES
+PROBABLE MAXIMUM LOSS
+P.D. $5,720,000 B.I. $663,260 Total $6,373,260
+The Probable Maximum Loss (PML) represents the maximum amount of sudden or accidental loss to an object that is likely to occur. The event chosen is a compressor blade failure on the GE LM5000 combustion turbine which causes extensive downstream damage to the compressor, combustor and turbine sections, including power turbine. This occurrence would result in a major rebuild of the engine. Total property damage, which includes removal of the engine and transporting to a Depot for a complete rebuild is estimated to be $5,720,000.
+The business interruption estimate (60/365) x (100%) x ($3,974,000) = $663,260.
+The total PML estimate is $6,373,260.
+MAXIMUM FORESEEABLE LOSS
+P.D. $21,000,000 B.I. $2,649,000 Total $23,649,000
+The Maximum Foreseeable Loss (MFL) is based on the maximum amount of sudden or accidental loss that can occur to an object without any credit to spare equipment or any expediting efforts which might reduce the loss. A catastrophic over speed of the
+LM5000 combustion turbine is expected to be the B&amp;M MFL Event. Such an occurrence would be expected to completely destroy the combustion turbine and attached generator. Flying debris is expected to extensively damage additional equipment within 30 ft. of the unit. It is estimated it will require 8 months to accomplish demolition and replacement.
+Replacement cost of the combustion turbine generator package is estimated to be $21,000,000.
+The business interruption estimate is (8/12) x (100%) x $3,974,000 = $2,649,000.
+The total PML estimate is $23,649,000.
+2020 © Global Risk Consultants Corp. Page 21
+Harbert Management Corp. – Redwood Facility Live Oak #1752.0012
+Bakersfield/CA/USA 03/20
+Partner with us today www.tuvsud.com/grc contact-grc@tuvsud.com
+2020 © Global Risk Consultants Corp. Page 22</text><riskFactors><entry><key>RF001</key><value name="RF001" value="E"><sentences><s riskFactorValue="E" begin="7920" end="8016"><text>Resume annual thermography of transformers, circuit breakers, switchgear, and electrical systems</text><operands><op begin="7920" end="7926"><text>Resume</text></op><op begin="7927" end="7933"><text>annual</text></op><op begin="7927" end="7933"><text>annual</text></op><op begin="7934" end="7946"><text>thermography</text></op><op begin="7950" end="7962"><text>transformers</text></op><op begin="7964" end="7971"><text>circuit</text></op><op begin="7964" end="7980"><text>circuit breakers</text></op></operands></s><s riskFactorValue="E" begin="8017" end="8105"><text>Comments: Previously annual IR thermographic inspections were conducted at the facility.</text><operands><op begin="8038" end="8044"><text>annual</text></op><op begin="8045" end="8047"><text>IR</text></op><op begin="8062" end="8073"><text>inspections</text></op></operands></s><s riskFactorValue="G" begin="8176" end="8306"><text>Thermographic Surveys are a vital part of condition based maintenance and will act to detect anomalies prior to equipment failure.</text><operands><op begin="8176" end="8189"><text>Thermographic</text></op><op begin="8190" end="8197"><text>Surveys</text></op><op begin="8198" end="8201"><text>are</text></op></operands></s><s riskFactorValue="E" begin="21874" end="21973"><text>Relay calibration is conducted on a 5-year cycle, last conducted 02/2019 with satisfactory results.</text><operands><op begin="21874" end="21879"><text>Relay</text></op><op begin="21880" end="21891"><text>calibration</text></op><op begin="21912" end="21916"><text>year</text></op></operands></s><s riskFactorValue="G" begin="22207" end="22328"><text>Exciter inspections are conducted and electrical testing including insulation resistance and megger testing is completed.</text><operands><op begin="22300" end="22306"><text>megger</text></op><op begin="22307" end="22314"><text>testing</text></op><op begin="22318" end="22327"><text>completed</text></op></operands></s><s riskFactorValue="G" begin="22697" end="22813"><text>Visual inspections were conducted, bearing inspections were conducted, and limited electrical testing was conducted.</text><operands><op begin="22697" end="22703"><text>Visual</text></op><op begin="22704" end="22715"><text>inspections</text></op><op begin="22721" end="22730"><text>conducted</text></op><op begin="22732" end="22739"><text>bearing</text></op><op begin="22780" end="22790"><text>electrical</text></op></operands></s><s riskFactorValue="E" begin="24354" end="24448"><text>Maintenance: Transformer oil samples are taken annually on the GSU Unit Auxiliary transformer.</text><operands><op begin="24367" end="24378"><text>Transformer</text></op><op begin="24395" end="24400"><text>taken</text></op><op begin="24401" end="24409"><text>annually</text></op><op begin="24436" end="24447"><text>transformer</text></op></operands></s><s riskFactorValue="E" begin="24628" end="24873"><text>Electrical testing is performed on the GSU transformer and auxiliary transformer every three years and includes Doble power factor testing of the windings and bushings, insulation resistance, polarization index, excitation test, and turns ratio.</text><operands><op begin="24628" end="24638"><text>Electrical</text></op><op begin="24639" end="24646"><text>testing</text></op><op begin="24721" end="24726"><text>years</text></op></operands></s><s riskFactorValue="E" begin="25761" end="25819"><text>HV, MV, and LV Switchgear are reconditioned every 5 years.</text><operands><op begin="25761" end="25763"><text>HV</text></op><op begin="25791" end="25804"><text>reconditioned</text></op><op begin="25813" end="25818"><text>years</text></op></operands></s><s riskFactorValue="F" begin="26418" end="26522"><text>Full load capacity discharge testing is not conducted, policy is to replace all batteries every 5 years.</text><operands><op begin="26418" end="26427"><text>Full load</text></op><op begin="26423" end="26436"><text>load capacity</text></op><op begin="26447" end="26454"><text>testing</text></op><op begin="26458" end="26461"><text>not</text></op><op begin="26462" end="26471"><text>conducted</text></op></operands></s><s riskFactorValue="E" begin="29913" end="29966"><text>? Infrared thermography is conducted every 2-3 years.</text><operands><op begin="29915" end="29923"><text>Infrared</text></op><op begin="29924" end="29936"><text>thermography</text></op><op begin="29940" end="29949"><text>conducted</text></op><op begin="29960" end="29965"><text>years</text></op></operands></s><s riskFactorValue="E" begin="29967" end="30061"><text>It used to be annually; a recommendation is offered to resume annual thermography inspections.</text><operands><op begin="30029" end="30035"><text>annual</text></op><op begin="30036" end="30048"><text>thermography</text></op><op begin="30049" end="30060"><text>inspections</text></op></operands></s></sentences></value></entry><entry><key>RF002</key><value name="RF002" value="G"><sentences><s riskFactorValue="G" begin="33478" end="33515"><text>A hot work permit system is in place.</text><operands><op begin="33480" end="33488"><text>hot work</text></op><op begin="33489" end="33495"><text>permit</text></op><op begin="33506" end="33514"><text>in place</text></op></operands></s><s riskFactorValue="G" begin="33516" end="33562"><text>Smoking is permitted only in designated areas.</text><operands><op begin="33516" end="33523"><text>Smoking</text></op><op begin="33527" end="33536"><text>permitted</text></op><op begin="33537" end="33541"><text>only</text></op><op begin="33545" end="33555"><text>designated</text></op><op begin="33556" end="33561"><text>areas</text></op></operands></s></sentences></value></entry><entry><key>RF003</key><value name="RF003" value="F"><sentences><s riskFactorValue="F" begin="7532" end="7675"><text>The loss of this oil supply will allow the generator shaft to contact bearing metal, resulting in costly damage to shaft journals and bearings.</text><operands><op begin="7536" end="7540"><text>loss</text></op><op begin="7549" end="7552"><text>oil</text></op></operands></s><s riskFactorValue="E" begin="9339" end="9392"><text>Housekeeping was very good for this type of facility.</text><operands><op begin="9339" end="9351"><text>Housekeeping</text></op><op begin="9356" end="9360"><text>very</text></op><op begin="9361" end="9365"><text>good</text></op></operands></s><s riskFactorValue="X" begin="17451" end="17593"><text>? Emergency Oil Pump - Generator o Thermal Overloads to Alarm Only - Verify o Multiple Pressure Switches o Normally Energized Starting Circuit</text><operands><op begin="17463" end="17466"><text>Oil</text></op><op begin="17520" end="17526"><text>Verify</text></op></operands></s><s riskFactorValue="G" begin="23661" end="23730"><text>The main and auxiliary transformers have containment and blast walls.</text><operands><op begin="23697" end="23701"><text>have</text></op><op begin="23702" end="23713"><text>containment</text></op></operands></s><s riskFactorValue="G" begin="33386" end="33419"><text>Flammable liquids are controlled.</text><operands><op begin="33386" end="33403"><text>Flammable liquids</text></op><op begin="33386" end="33403"><text>Flammable liquids</text></op><op begin="33404" end="33407"><text>are</text></op><op begin="33408" end="33418"><text>controlled</text></op></operands></s><s riskFactorValue="E" begin="33420" end="33477"><text>Visual inspections are performed daily for any oil leaks.</text><operands><op begin="33463" end="33466"><text>any</text></op><op begin="33467" end="33470"><text>oil</text></op><op begin="33471" end="33476"><text>leaks</text></op></operands></s><s riskFactorValue="G" begin="33563" end="33608"><text>Housekeeping: Housekeeping was noted as good.</text><operands><op begin="33563" end="33575"><text>Housekeeping</text></op><op begin="33577" end="33589"><text>Housekeeping</text></op><op begin="33603" end="33607"><text>good</text></op></operands></s></sentences></value></entry><entry><key>RF004</key><value name="RF004" value="G"><sentences><s riskFactorValue="G" begin="8017" end="8105"><text>Comments: Previously annual IR thermographic inspections were conducted at the facility.</text><operands><op begin="8038" end="8044"><text>annual</text></op><op begin="8062" end="8073"><text>inspections</text></op></operands></s><s riskFactorValue="G" begin="12446" end="12612"><text>The boiler and pressure vessels are registered with the State of California and inspections are conducted annually for boilers and every five years for air receivers.</text><operands><op begin="12526" end="12537"><text>inspections</text></op><op begin="12552" end="12560"><text>annually</text></op></operands></s><s riskFactorValue="G" begin="13909" end="13987"><text>Safety Valves: Safety valves are tested annually and overhauled every 5 years.</text><operands><op begin="13916" end="13922"><text>Valves</text></op><op begin="13942" end="13948"><text>tested</text></op><op begin="13949" end="13957"><text>annually</text></op></operands></s><s riskFactorValue="G" begin="15355" end="15401"><text>Testing/inspection is conducted semi-annually.</text><operands><op begin="15363" end="15373"><text>inspection</text></op><op begin="15392" end="15400"><text>annually</text></op></operands></s><s riskFactorValue="G" begin="18749" end="19073"><text>Borescope inspections are conducted annually by ANZ in the low pressure compressor, front frame, high pressure compressor, variable vane stator section, combustor, high pressure turbine rotor and stage 1 and 2 nozzle assembly, high pressure turbine rotor and stage 1 and 2 nozzle, turbine mid frame, and LPT blades and NGVs.</text><operands><op begin="18759" end="18770"><text>inspections</text></op><op begin="18785" end="18793"><text>annually</text></op></operands></s><s riskFactorValue="G" begin="19179" end="19301"><text>In addition, external component inspections (with limited borescope component inspection) are conducted at least annually.</text><operands><op begin="19257" end="19267"><text>inspection</text></op><op begin="19292" end="19300"><text>annually</text></op></operands></s><s riskFactorValue="G" begin="29967" end="30061"><text>It used to be annually; a recommendation is offered to resume annual thermography inspections.</text><operands><op begin="30029" end="30035"><text>annual</text></op><op begin="30049" end="30060"><text>inspections</text></op></operands></s><s riskFactorValue="G" begin="31692" end="31776"><text>CO2 and Halon system inspection and testing is conducted semi-annually by Jorgenson.</text><operands><op begin="31713" end="31723"><text>inspection</text></op><op begin="31754" end="31762"><text>annually</text></op></operands></s><s riskFactorValue="G" begin="32507" end="32657"><text>Fire Protection Self-Inspections: Jorgenson conducts quarterly, semi-annual, and annual inspection/testing of the fire protection systems as required.</text><operands><op begin="32507" end="32522"><text>Fire Protection</text></op><op begin="32528" end="32539"><text>Inspections</text></op><op begin="32560" end="32569"><text>quarterly</text></op><op begin="32576" end="32582"><text>annual</text></op><op begin="32588" end="32594"><text>annual</text></op><op begin="32595" end="32605"><text>inspection</text></op><op begin="32621" end="32636"><text>fire protection</text></op></operands></s><s riskFactorValue="G" begin="32925" end="33048"><text>? Annual testing of the fire alarm system including smoke detectors, manual pull stations, fire alarm panels and batteries.</text><operands><op begin="32927" end="32933"><text>Annual</text></op><op begin="32934" end="32941"><text>testing</text></op><op begin="32949" end="32959"><text>fire alarm</text></op></operands></s><s riskFactorValue="G" begin="33183" end="33246"><text>? Fire extinguisher inspections are conducted monthly in house.</text><operands><op begin="33190" end="33202"><text>extinguisher</text></op><op begin="33203" end="33214"><text>inspections</text></op><op begin="33229" end="33236"><text>monthly</text></op></operands></s></sentences></value></entry><entry><key>RF005</key><value name="RF005" value="E"><sentences><s riskFactorValue="E" begin="5312" end="5484"><text>The primary focus of this visit centered on critical and auxiliary equipment for the generating units and utility services and preventative/predictive maintenance programs.</text><operands><op begin="5452" end="5474"><text>predictive maintenance</text></op></operands></s><s riskFactorValue="G" begin="5312" end="5484"><text>The primary focus of this visit centered on critical and auxiliary equipment for the generating units and utility services and preventative/predictive maintenance programs.</text><operands><op begin="5426" end="5434"><text>services</text></op><op begin="5439" end="5451"><text>preventative</text></op></operands></s><s riskFactorValue="E" begin="10162" end="10305"><text>A computerized maintenance management system is in place for tracking cycles of maintenance and overall maintenance practices are conservative.</text><operands><op begin="10164" end="10206"><text>computerized maintenance management system</text></op></operands></s><s riskFactorValue="G" begin="10162" end="10305"><text>A computerized maintenance management system is in place for tracking cycles of maintenance and overall maintenance practices are conservative.</text><operands><op begin="10164" end="10176"><text>computerized</text></op><op begin="10177" end="10188"><text>maintenance</text></op></operands></s><s riskFactorValue="G" begin="12446" end="12612"><text>The boiler and pressure vessels are registered with the State of California and inspections are conducted annually for boilers and every five years for air receivers.</text><operands><op begin="12526" end="12537"><text>inspections</text></op><op begin="12552" end="12560"><text>annually</text></op></operands></s><s riskFactorValue="E" begin="18453" end="18570"><text>Technical Advisories: Technical bulletins are tracked by CAMS engineering and on site and via ANZ during maintenance.</text><operands><op begin="18531" end="18538"><text>on site</text></op><op begin="18558" end="18569"><text>maintenance</text></op></operands></s><s riskFactorValue="G" begin="18453" end="18570"><text>Technical Advisories: Technical bulletins are tracked by CAMS engineering and on site and via ANZ during maintenance.</text><operands><op begin="18499" end="18506"><text>tracked</text></op><op begin="18531" end="18538"><text>on site</text></op></operands></s><s riskFactorValue="G" begin="18749" end="19073"><text>Borescope inspections are conducted annually by ANZ in the low pressure compressor, front frame, high pressure compressor, variable vane stator section, combustor, high pressure turbine rotor and stage 1 and 2 nozzle assembly, high pressure turbine rotor and stage 1 and 2 nozzle, turbine mid frame, and LPT blades and NGVs.</text><operands><op begin="18759" end="18770"><text>inspections</text></op><op begin="18785" end="18793"><text>annually</text></op></operands></s><s riskFactorValue="G" begin="19179" end="19301"><text>In addition, external component inspections (with limited borescope component inspection) are conducted at least annually.</text><operands><op begin="19257" end="19267"><text>inspection</text></op><op begin="19292" end="19300"><text>annually</text></op></operands></s><s riskFactorValue="F" begin="19179" end="19301"><text>In addition, external component inspections (with limited borescope component inspection) are conducted at least annually.</text><operands><op begin="19229" end="19236"><text>limited</text></op><op begin="19257" end="19267"><text>inspection</text></op></operands></s><s riskFactorValue="E" begin="29033" end="29184"><text>Maintenance: An AVANTIS computerized maintenance management system is utilized for managing asset maintenance, work orders, and preventive maintenance.</text><operands><op begin="29057" end="29099"><text>computerized maintenance management system</text></op></operands></s><s riskFactorValue="G" begin="29033" end="29184"><text>Maintenance: An AVANTIS computerized maintenance management system is utilized for managing asset maintenance, work orders, and preventive maintenance.</text><operands><op begin="29057" end="29069"><text>computerized</text></op><op begin="29070" end="29081"><text>maintenance</text></op><op begin="29161" end="29183"><text>preventive maintenance</text></op></operands></s><s riskFactorValue="F" begin="29376" end="29427"><text>Most major maintenance is conducted by contractors.</text><operands><op begin="29387" end="29398"><text>maintenance</text></op><op begin="29402" end="29411"><text>conducted</text></op><op begin="29415" end="29426"><text>contractors</text></op></operands></s><s riskFactorValue="G" begin="29428" end="29518"><text>Maintenance evolutions appear to be adequate for properly maintaining installed equipment.</text><operands><op begin="29464" end="29472"><text>adequate</text></op><op begin="29486" end="29497"><text>maintaining</text></op></operands></s><s riskFactorValue="E" begin="29589" end="29625"><text>Predictive Maintenance Technologies:</text><operands><op begin="29589" end="29611"><text>Predictive Maintenance</text></op></operands></s><s riskFactorValue="G" begin="29757" end="29912"><text>? Lubricating oil &amp; Hydraulic fluid testing is conducted every two months and includes particle count, physical tests, contaminants, metals, and additives.</text><operands><op begin="29793" end="29800"><text>testing</text></op><op begin="29824" end="29830"><text>months</text></op></operands></s></sentences></value></entry><entry><key>RF006</key><value name="RF006" value="G"><sentences><s riskFactorValue="G" begin="16752" end="16786"><text>The starter system is sprinklered.</text><operands><op begin="16771" end="16773"><text>is</text></op><op begin="16774" end="16785"><text>sprinklered</text></op></operands></s></sentences></value></entry><entry><key>RF007</key><value name="RF007" value="F"><sentences><s riskFactorValue="G" begin="32171" end="32401"><text>Plant Emergency Organization: There is an emergency plan in place addressing fires that provides for notification of the local fire department, coordination with the fire department upon arrival, and accounting for site personnel.</text><operands><op begin="32207" end="32209"><text>is</text></op><op begin="32213" end="32222"><text>emergency</text></op><op begin="32223" end="32227"><text>plan</text></op><op begin="32228" end="32236"><text>in place</text></op></operands></s><s riskFactorValue="G" begin="32402" end="32506"><text>There are also emergency procedures addressing other issues, such as earthquakes, medical response, etc.</text><operands><op begin="32408" end="32411"><text>are</text></op><op begin="32417" end="32426"><text>emergency</text></op><op begin="32427" end="32437"><text>procedures</text></op></operands></s><s riskFactorValue="G" begin="33778" end="33981"><text>Contractor Management: Contractors are given orientation upon arrival.
+15. Public Protection
+Fire department response is from the Kern River Department located approximately 4 miles from of the facility.</text><operands><op begin="33871" end="33886"><text>Fire department</text></op><op begin="33952" end="33953"><text>4</text></op><op begin="33954" end="33959"><text>miles</text></op><op begin="33960" end="33964"><text>from</text></op></operands></s><s riskFactorValue="G" begin="33871" end="33981"><text>Fire department response is from the Kern River Department located approximately 4 miles from of the facility.</text><operands><op begin="33871" end="33886"><text>Fire department</text></op><op begin="33896" end="33898"><text>is</text></op><op begin="33930" end="33937"><text>located</text></op><op begin="33952" end="33953"><text>4</text></op><op begin="33954" end="33959"><text>miles</text></op></operands></s><s riskFactorValue="F" begin="35384" end="35690"><text>With the shutdown of a similar plant, CAMS purchased major equipment to maintain as spares shared between the 4 local LM5000 sites, which include a spare GSU transformer, 2 spare gas turbines, 2 spare power turbines, a spare generator, spare auxiliary transformer, and other equipment, shared between the 4</text><operands><op begin="35393" end="35401"><text>shutdown</text></op><op begin="35689" end="35690"><text>4</text></op></operands></s><s riskFactorValue="X" begin="35384" end="35690"><text>With the shutdown of a similar plant, CAMS purchased major equipment to maintain as spares shared between the 4 local LM5000 sites, which include a spare GSU transformer, 2 spare gas turbines, 2 spare power turbines, a spare generator, spare auxiliary transformer, and other equipment, shared between the 4</text><operands><op begin="35393" end="35401"><text>shutdown</text></op><op begin="35689" end="35690"><text>4</text></op></operands></s></sentences></value></entry><entry><key>RF008</key><value name="RF008" value="F"><sentences><s riskFactorValue="G" begin="34028" end="34137"><text>Flood: The facility is located in Flood Zone X according to FIRM No. 06029 C 1825E, dated September 26, 2008.</text><operands><op begin="34062" end="34072"><text>Flood Zone</text></op><op begin="34073" end="34074"><text>X</text></op></operands></s><s riskFactorValue="F" begin="34330" end="34445"><text>Windstorm: Per FM Global Data Sheet 1-28, this region is subject to 85 mph wind speeds at 33 feet above the ground.</text><operands><op begin="34387" end="34397"><text>subject to</text></op><op begin="34405" end="34409"><text>wind</text></op></operands></s><s riskFactorValue="F" begin="34743" end="34836"><text>A potentially damaging earthquake can be expected on a greater than 100 year return interval.</text><operands><op begin="34766" end="34776"><text>earthquake</text></op><op begin="34784" end="34792"><text>expected</text></op></operands></s></sentences></value></entry><entry><key>RF009</key><value name="RF009" value="G"><sentences><s riskFactorValue="G" begin="11264" end="11299"><text>Local smoke detection is installed.</text><operands><op begin="11270" end="11285"><text>smoke detection</text></op><op begin="11289" end="11298"><text>installed</text></op></operands></s><s riskFactorValue="G" begin="11300" end="11411"><text>There is a small metal exterior 630 ft2 High Voltage Switchgear Building which is protected by smoke detection.</text><operands><op begin="11306" end="11308"><text>is</text></op><op begin="11382" end="11391"><text>protected</text></op><op begin="11395" end="11410"><text>smoke detection</text></op></operands></s><s riskFactorValue="G" begin="15146" end="15202"><text>Protection includes a Halon system, and smoke detection.</text><operands><op begin="15157" end="15165"><text>includes</text></op><op begin="15186" end="15201"><text>smoke detection</text></op></operands></s><s riskFactorValue="G" begin="31777" end="31847"><text>Alarm Systems: A main fire alarm panel is located in the control room.</text><operands><op begin="31777" end="31791"><text>Alarm Systems:</text></op><op begin="31799" end="31809"><text>fire alarm</text></op><op begin="31819" end="31826"><text>located</text></op></operands></s><s riskFactorValue="G" begin="31848" end="31977"><text>All fire alarms are transmitted to this panel.
+Security Measures: Site is fenced, and access is controlled from the control room.</text><operands><op begin="31852" end="31856"><text>fire</text></op><op begin="31852" end="31863"><text>fire alarms</text></op><op begin="31857" end="31863"><text>alarms</text></op><op begin="31868" end="31879"><text>transmitted</text></op><op begin="31888" end="31893"><text>panel</text></op><op begin="31893" end="31894"><text>.</text></op></operands></s></sentences></value></entry><entry><key>RF010</key><value name="RF010" value="E"><sentences><s riskFactorValue="E" begin="6839" end="6903"><text>The plant is manned 24/7 with 6 assigned positions and 2 shared.</text><operands><op begin="6849" end="6851"><text>is</text></op><op begin="6859" end="6863"><text>24/7</text></op></operands></s><s riskFactorValue="E" begin="31895" end="31977"><text>Security Measures: Site is fenced, and access is controlled from the control room.</text><operands><op begin="31919" end="31921"><text>is</text></op><op begin="31922" end="31928"><text>fenced</text></op></operands></s><s riskFactorValue="G" begin="31895" end="31977"><text>Security Measures: Site is fenced, and access is controlled from the control room.</text><operands><op begin="31914" end="31918"><text>Site</text></op><op begin="31919" end="31921"><text>is</text></op><op begin="31922" end="31928"><text>fenced</text></op><op begin="31934" end="31940"><text>access</text></op><op begin="31944" end="31954"><text>controlled</text></op></operands></s></sentences></value></entry><entry><key>RF011</key><value name="RF011" value="U"><sentences/></value></entry><entry><key>RF012</key><value name="RF012" value="U"><sentences/></value></entry></riskFactors><parameters/><attributes><a name="CITY" begin="170" end="181"><text>Bakersfield</text></a><a name="CITY" begin="143" end="151"><text>Live Oak</text></a><a name="ZIP_CODE" begin="187" end="192"><text>93313</text></a><a name="LONGITUDE" begin="35269" end="35278"><text>-119.0091</text></a><a name="LOCATION_NAME" begin="126" end="151"><text>Redwood Facility Live Oak</text></a><a name="LOCATION_NAME" begin="95" end="125"><text>Harbert Management Corporation</text></a><a name="LATITUDE" begin="35259" end="35266"><text>35.4961</text></a><a name="COUNTRY" begin="193" end="196"><text>United States of America</text></a><a name="INSURED_NAME" begin="95" end="125"><text>Harbert Management Corporation</text></a><a name="STREET" begin="152" end="169"><text>7001 Granite Road</text></a><a name="SURVEY_DATE_WEAK" begin="234" end="248"><text>20200305</text></a><a name="SURVEY_DATE" begin="234" end="248"><text>20200305</text></a><a name="AS_Presence" begin="0" end="1"><text>No</text></a></attributes></riskFactorAnalysis>
