@@ -16,11 +16,10 @@ parsed_args = arg_parser.parse_args(sys.argv[1:])
 if os.path.exists(parsed_args.inputDirectory):
     print("Path exists, starting the parser..")
 
-# xml_file="AEGIS_-_BESS/92_MGN_Financing_Overview__Nov_2020_/analysis/analysis.xml"
 xml_dir = parsed_args.inputDirectory
 
 ### INITIALIZE CSV FILE
-header="NOME FILE,RF,VALUE,COUNT,SENTENCE\n"
+header="NOME FILE,RF,VALUE,COUNT (E-G-F-P-X),SENTENCE\n"
 with open(r"parsed_analysis.csv", 'w') as f:
         f.write( header )
 
@@ -50,6 +49,7 @@ for dirpath, dirnames, filenames in os.walk(xml_dir):
             RF        = entry.getElementsByTagName('value')[0].attributes['name'].value
             VALUE     = entry.getElementsByTagName('value')[0].attributes['value'].value
             SENTENCE  = ""
+            COUNT_TMP = [0, 0, 0, 0, 0]    # E, G, F, P, X
 
             # sentence_list = entry.getElementsByTagName('sentences')[0]
             s = entry.getElementsByTagName('s')
@@ -58,16 +58,33 @@ for dirpath, dirnames, filenames in os.walk(xml_dir):
 
             for s_node in s:
                 if s_node.hasAttribute('riskFactorValue'):
-                    riskFactorValue = s_node.attributes['riskFactorValue'].value
-                    sentence_list += [ riskFactorValue +" - "+ s_node.getElementsByTagName('text')[0].firstChild.nodeValue ]
+                    riskFactorValue     = s_node.attributes['riskFactorValue'].value
+                    sentence_clean_text = s_node.getElementsByTagName('text')[0].firstChild.nodeValue.replace("\n", " ").replace("\"", "'")
+                    sentence_list      += [ riskFactorValue +" - "+ sentence_clean_text ]
+                    
+                    if riskFactorValue == "E":
+                        COUNT_TMP[0] += 1
+                    elif riskFactorValue == "G":
+                        COUNT_TMP[1] += 1
+                    elif riskFactorValue == "F":
+                        COUNT_TMP[2] += 1
+                    elif riskFactorValue == "P":
+                        COUNT_TMP[3] += 1
+                    elif riskFactorValue == "X":
+                        COUNT_TMP[4] += 1
+
                 else:
                     print(" > Entry {} has no sentence".format(RF))
             
             SENTENCE  = "-----".join(map(str, sentence_list ))
             SENTENCE  = "\"" + SENTENCE + "\""
 
-            ### Per ogni sentence/s: numero di E,G,F,P,U
-            COUNT     = 0
+            ### Per ogni sentence/s: numero di E,G,F,P,U            
+            if RF != "U":
+                COUNT = "-".join(map(str, COUNT_TMP))
+            else:
+                COUNT = 0
+
 
             fields    = ','.join(map(str, [FILE_NAME,RF, VALUE, COUNT, SENTENCE]))
 
