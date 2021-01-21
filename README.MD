@@ -10,4 +10,4 @@ Select and aggregate XML tags, from multiple XMLs in a directory tree, to extrac
 - `riskFactorValue` is concatenated for every sentence
   
 
-![execution sample](img/sample_execution.PNG)
+![execution sample](img/sample_execution.png)
